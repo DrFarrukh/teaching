@@ -1,3 +1,18 @@
+---
+marp: true
+theme: default
+paginate: true
+size: 16:9
+style: |
+  section { font-family: Arial, sans-serif; color: #111; }
+  h1 { font-size: 42px; }
+  h2 { font-size: 34px; }
+  p, li { font-size: 25px; }
+  table { font-size: 20px; }
+  small { font-size: 16px; color: #444; }
+  code { font-size: 21px; }
+---
+
 # Data Analysis and Visualization
 
 ## Lecture 1
@@ -198,7 +213,7 @@ For every code block:
 
 # Annual recorded passenger car sales
 
-![bg right:58% contain](public/outputs/annual_total_sales.png)
+![bg right:58% contain](outputs/annual_total_sales.png)
 
 What does the line establish?
 
@@ -208,7 +223,7 @@ What can it not explain?
 
 # Big Three recorded share
 
-![bg right:58% contain](public/outputs/big_three_share.png)
+![bg right:58% contain](outputs/big_three_share.png)
 
 Does the workbook support the claim that the Big Three are losing dominance?
 
@@ -218,7 +233,7 @@ State the denominator in your answer.
 
 # Electric cars in the workbook
 
-![bg right:58% contain](public/outputs/recorded_ev_sales.png)
+![bg right:58% contain](outputs/recorded_ev_sales.png)
 
 The workbook reports 343 Honri-Ve sales in 2025 to 2026.
 

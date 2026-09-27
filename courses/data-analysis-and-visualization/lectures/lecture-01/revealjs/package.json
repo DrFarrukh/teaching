@@ -1,0 +1,12 @@
+{
+  "name": "data-analysis-and-visualization-lecture-01-slides",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-slides.mjs",
+    "dev": "npm run sync && python3 -m http.server 8000 --bind 127.0.0.1",
+    "build": "npm run sync && node scripts/build-static.mjs",
+    "preview": "python3 -m http.server 8001 --bind 127.0.0.1 --directory dist"
+  }
+}

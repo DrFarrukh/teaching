@@ -1,0 +1,36 @@
+# Python and notebook runtime files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local configuration and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Temporary, archived, and generated build content
+tmp/
+temp/
+**/archive*/
+**/dist/
+**/build/
+
+# Instructor-only or assessment-key materials
+**/instructor/**
+**/instructor_*
+**/*answer_key*
+**/*solution*
+**/*solutions*
+**/*_key.*
+
+# Draft slide exports and personal documents
+*.pptx
+*.odp
+*.pdf
+*resume*
+*cv*
