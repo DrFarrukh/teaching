@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Data Analysis and Visualization — Lecture 1: Data and evidence" />
+    <title>Data Analysis and Visualization · Lecture 1</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="vendor/reveal.css" />
+    <link rel="stylesheet" href="vendor/white.css" />
+    <link rel="stylesheet" href="vendor/zenburn.css" />
+    <link rel="stylesheet" href="lecture.css" />
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section
+          data-markdown="public/slides.md"
+          data-separator="^\r?\n---\r?\n$"
+          data-separator-notes="^Notes?:"
+          data-charset="utf-8"
+        ></section>
+      </div>
+    </div>
+    <script src="vendor/reveal.js"></script>
+    <script src="vendor/markdown.js"></script>
+    <script src="vendor/highlight.js"></script>
+    <script src="vendor/notes.js"></script>
+    <script src="vendor/math.js"></script>
+    <script src="vendor/zoom.js"></script>
+    <script>
+      Reveal.initialize({
+        hash: true,
+        history: true,
+        width: 1280,
+        height: 720,
+        margin: 0.035,
+        controlsTutorial: false,
+        progress: true,
+        slideNumber: "c/t",
+        transition: "fade",
+        backgroundTransition: "fade",
+        mathjax3: {
+          mathjax: "vendor/tex-mml-chtml.js",
+          tex: { inlineMath: [["$", "$"], ["\\(", "\\)"]] }
+        },
+        plugins: [
+          RevealMarkdown,
+          RevealHighlight,
+          RevealNotes,
+          RevealZoom,
+          RevealMath.MathJax3
+        ]
+      });
+    </script>
+  </body>
+</html>

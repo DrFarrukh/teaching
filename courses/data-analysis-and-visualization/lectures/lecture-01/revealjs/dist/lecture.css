@@ -1,0 +1,96 @@
+:root {
+  --r-background-color: #ffffff;
+  --r-main-font: Arial, Helvetica, sans-serif;
+  --r-main-font-size: 30px;
+  --r-main-color: #172333;
+  --r-heading-font: Arial, Helvetica, sans-serif;
+  --r-heading-color: #143e59;
+  --r-heading-text-transform: none;
+  --r-heading-font-weight: 700;
+  --r-link-color: #1f6f8b;
+  --r-selection-background-color: #d9edf4;
+}
+
+.reveal .slides section {
+  text-align: left;
+}
+
+.reveal h1 {
+  font-size: 1.55em;
+  margin-bottom: 0.34em;
+}
+
+.reveal h2 {
+  color: #24566f;
+  font-size: 1.2em;
+  margin-bottom: 0.3em;
+}
+
+.reveal p {
+  margin: 0.3em 0;
+}
+
+.reveal ul,
+.reveal ol {
+  display: block;
+  margin: 0.2em 0 0 1.15em;
+}
+
+.reveal li {
+  margin: 0.17em 0;
+}
+
+.reveal table {
+  width: 100%;
+  margin: 0.3em auto;
+  font-size: 0.72em;
+  border-collapse: collapse;
+}
+
+.reveal table th {
+  color: #143e59;
+  background: #e9f0f4;
+  font-weight: 700;
+}
+
+.reveal table th,
+.reveal table td {
+  border: 1px solid #b7c5ce;
+  padding: 0.3em 0.42em;
+}
+
+.reveal img {
+  display: block;
+  max-height: 250px;
+  max-width: 100%;
+  margin: 0.22em auto 0.28em;
+  border: 0;
+  box-shadow: none;
+}
+
+/* Text-only slides can use the available screen more effectively. Keep
+   image and table slides compact because they combine several content types. */
+.reveal .slides section:has(img),
+.reveal .slides section:has(table) {
+  font-size: 23px;
+}
+
+.reveal code {
+  font-size: 0.86em;
+}
+
+.reveal .katex {
+  font-size: 0.96em;
+}
+
+.reveal .slide-number {
+  color: #445b6b;
+  background: transparent;
+  font-size: 15px;
+}
+
+@media print {
+  .reveal img {
+    max-height: 260px;
+  }
+}
