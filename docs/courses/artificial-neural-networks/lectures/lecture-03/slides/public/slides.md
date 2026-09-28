@@ -77,7 +77,7 @@ Training loss and population risk
 • A representative, independent test set estimates risk with uncertainty.
 
 
-![Figure for slide 6](figures/figure-slide-06-01.png)
+![Figure for slide 6](public/figures/figure-slide-06-01.png)
 
 ---
 
@@ -106,7 +106,7 @@ Sensor-calibration data
 18 training · 80 validation · 200 sealed test observations
 
 
-![Figure for slide 8](figures/figure-slide-08-01.png)
+![Figure for slide 8](public/figures/figure-slide-08-01.png)
 
 ---
 
@@ -119,7 +119,7 @@ Polynomial regression
 • Φ: [N,d] w: [d,1] b: [1] predictions: [N,1]
 
 
-![Figure for slide 9](figures/figure-slide-09-01.png)
+![Figure for slide 9](public/figures/figure-slide-09-01.png)
 
 ---
 
@@ -142,7 +142,7 @@ Constructing polynomial features
 Comparing polynomial degrees
 
 
-![Figure for slide 11](figures/figure-slide-11-01.png)
+![Figure for slide 11](public/figures/figure-slide-11-01.png)
 
 ---
 
@@ -185,7 +185,7 @@ Selected degree: 2
 Error versus model degree
 
 
-![Figure for slide 13](figures/figure-slide-13-01.png)
+![Figure for slide 13](public/figures/figure-slide-13-01.png)
 
 ---
 
@@ -260,7 +260,7 @@ Fit preprocessing on training data
 • Equal coefficient penalties depend on feature units.
 
 
-![Figure for slide 16](figures/figure-slide-16-01.png)
+![Figure for slide 16](public/figures/figure-slide-16-01.png)
 
 ---
 
@@ -282,12 +282,12 @@ L2 regularization
 
 Keep the mean squared data loss and leave the intercept unpenalized. For N examples, define
 
-\[J(w,b)=\frac{1}{N}\sum_{i=1}^{N}(z_i^\top w+b-y_i)^2+\frac{\lambda}{2}\lVert w\rVert_2^2.\]
+$$J(w,b)=\frac{1}{N}\sum_{i=1}^{N}(z_i^\top w+b-y_i)^2+\frac{\lambda}{2}\lVert w\rVert_2^2.$$
 
 The penalty discourages large weights while allowing the intercept to represent the target offset.
 
 
-![Figure for slide 18](figures/figure-slide-18-01.png)
+![Figure for slide 18](public/figures/figure-slide-18-01.png)
 
 ---
 
@@ -295,15 +295,15 @@ The penalty discourages large weights while allowing the intercept to represent 
 
 Gradient of the regularized objective
 
-With \(e=Zw+b-y\), differentiating the data term and penalty gives
+With $e=Zw+b-y$, differentiating the data term and penalty gives
 
-\[\nabla_w J=\frac{2}{N}Z^\top e+\lambda w,\qquad
-\frac{\partial J}{\partial b}=\frac{2}{N}\mathbf{1}^\top e.\]
+$$\nabla_w J=\frac{2}{N}Z^\top e+\lambda w,\qquad
+\frac{\partial J}{\partial b}=\frac{2}{N}\mathbf{1}^\top e.$$
 
 The intercept has no penalty term.
 
 
-![Figure for slide 19](figures/figure-slide-19-01.png)
+![Figure for slide 19](public/figures/figure-slide-19-01.png)
 
 ---
 
@@ -311,15 +311,15 @@ The intercept has no penalty term.
 
 The SGD update
 
-For ordinary SGD without momentum, evaluate both gradients at \(w,b\), then update:
+For ordinary SGD without momentum, evaluate both gradients at $w,b$, then update:
 
-\[w^+=w-\eta\left(\frac{2}{N}Z^\top e+\lambda w\right),\qquad
-b^+=b-\eta\frac{2}{N}\mathbf{1}^\top e.\]
+$$w^+=w-\eta\left(\frac{2}{N}Z^\top e+\lambda w\right),\qquad
+b^+=b-\eta\frac{2}{N}\mathbf{1}^\top e.$$
 
-At \(\lambda=0\), this is the linear regression update. Applying both the explicit penalty and optimizer weight decay would count the penalty twice.
+At $\lambda=0$, this is the linear regression update. Applying both the explicit penalty and optimizer weight decay would count the penalty twice.
 
 
-![Figure for slide 20](figures/figure-slide-20-01.png)
+![Figure for slide 20](public/figures/figure-slide-20-01.png)
 
 ---
 
@@ -368,7 +368,7 @@ Implementing the derived update
 Training and validation curves
 
 
-![Figure for slide 25](figures/figure-slide-25-01.png)
+![Figure for slide 25](public/figures/figure-slide-25-01.png)
 
 ---
 
@@ -435,7 +435,7 @@ With matching precision, initialization, loss reduction, and updates, all three 
 Selecting the regularization strength
 
 
-![Figure for slide 29](figures/figure-slide-29-01.png)
+![Figure for slide 29](public/figures/figure-slide-29-01.png)
 
 ---
 
@@ -508,7 +508,7 @@ Respect chronology and prediction horizon
 Random-row and grouped splits
 
 
-![Figure for slide 33](figures/figure-slide-33-01.png)
+![Figure for slide 33](public/figures/figure-slide-33-01.png)
 
 ---
 
@@ -531,7 +531,7 @@ Audit grouped splits
 Overlapping windows
 
 
-![Figure for slide 35](figures/figure-slide-35-01.png)
+![Figure for slide 35](public/figures/figure-slide-35-01.png)
 
 ---
 
@@ -554,7 +554,7 @@ Split before constructing windows
 Variation across repeated datasets
 
 
-![Figure for slide 37](figures/figure-slide-37-01.png)
+![Figure for slide 37](public/figures/figure-slide-37-01.png)
 
 ---
 
@@ -585,7 +585,7 @@ Confidence interval
 Uncertainty across subjects
 
 
-![Figure for slide 39](figures/figure-slide-39-01.png)
+![Figure for slide 39](public/figures/figure-slide-39-01.png)
 
 ---
 
@@ -632,7 +632,7 @@ A small score is meaningful only with its evaluation protocol.
 Beyond the training range
 
 
-![Figure for slide 44](figures/figure-slide-44-01.png)
+![Figure for slide 44](public/figures/figure-slide-44-01.png)
 
 ---
 
@@ -647,4 +647,4 @@ Ridge-regression reference
 • Solve the augmented least-squares problem without an inverse.
 
 
-![Figure for slide 45](figures/figure-slide-45-01.png)
+![Figure for slide 45](public/figures/figure-slide-45-01.png)

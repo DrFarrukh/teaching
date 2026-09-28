@@ -1,0 +1,27 @@
+/* Shared styling for the student-facing ANN slide decks. */
+.reveal { font-size: 24px; }
+.reveal .slides section {
+  box-sizing: border-box;
+  max-height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding: 0.18em 0.35em;
+  text-align: left;
+}
+.reveal h1, .reveal h2, .reveal h3 {
+  text-transform: none;
+  line-height: 1.12;
+  margin: 0 0 0.5em;
+}
+.reveal h1 { font-size: 1.55em; text-align: center; }
+.reveal h2 { font-size: 1.22em; text-align: left; }
+.reveal h3 { font-size: 1.05em; }
+.reveal p, .reveal li { line-height: 1.24; }
+.reveal p { margin: 0.42em 0; }
+.reveal ul, .reveal ol { margin: 0.35em 0 0.5em 1.1em; }
+.reveal li { margin: 0.18em 0; }
+.reveal table { width: 100%; font-size: 0.8em; border-collapse: collapse; }
+.reveal th, .reveal td { padding: 0.22em 0.38em; }
+.reveal pre { font-size: 0.62em; line-height: 1.18; width: 100%; }
+.reveal img { display: block; max-width: 90%; max-height: 42vh; object-fit: contain; margin: 0.35em auto; border: 0; box-shadow: none; }
+.reveal .math { overflow-x: auto; }

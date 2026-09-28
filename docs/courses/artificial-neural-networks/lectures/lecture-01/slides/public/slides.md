@@ -75,9 +75,9 @@ data + model + loss + optimization = learning system
 
 Each input contributes according to its weight; the bias shifts the result.
 
-\[z=\sum_{j=1}^{d}w_jx_j+b,\qquad \hat y=\phi(z).\]
+$$z=\sum_{j=1}^{d}w_jx_j+b,\qquad \hat y=\phi(z).$$
 
-![Artificial neuron with weighted inputs, bias, and output](figures/artificial-neuron.svg)
+![Artificial neuron with weighted inputs, bias, and output](public/figures/artificial-neuron.svg)
 
 A network composes these simple parameterized computations.
 

@@ -26,16 +26,16 @@ After step 1: 𝑤 = 34/15, 𝑏 = 1
 
 
 
-![Figure for slide 3](figures/figure-slide-03-01.png)
+![Figure for slide 3](public/figures/figure-slide-03-01.png)
 
 
-![Figure for slide 3](figures/figure-slide-03-02.png)
+![Figure for slide 3](public/figures/figure-slide-03-02.png)
 
 
-![Figure for slide 3](figures/figure-slide-03-03.png)
+![Figure for slide 3](public/figures/figure-slide-03-03.png)
 
 
-![Figure for slide 3](figures/figure-slide-03-04.png)
+![Figure for slide 3](public/figures/figure-slide-03-04.png)
 
 ---
 
@@ -49,16 +49,16 @@ Prediction: 𝑦=𝑤𝑥+𝑏
 
 
 
-![Figure for slide 4](figures/figure-slide-04-01.png)
+![Figure for slide 4](public/figures/figure-slide-04-01.png)
 
 
-![Figure for slide 4](figures/figure-slide-04-02.png)
+![Figure for slide 4](public/figures/figure-slide-04-02.png)
 
 
-![Figure for slide 4](figures/figure-slide-04-03.png)
+![Figure for slide 4](public/figures/figure-slide-04-03.png)
 
 
-![Figure for slide 4](figures/figure-slide-04-04.png)
+![Figure for slide 4](public/figures/figure-slide-04-04.png)
 
 ---
 
@@ -73,10 +73,10 @@ An identity activation leaves the weighted sum unchanged.
 The bias allows a nonzero prediction at 𝑥 = 0.
 
 
-![Figure for slide 5](figures/figure-slide-05-01.png)
+![Figure for slide 5](public/figures/figure-slide-05-01.png)
 
 
-![Figure for slide 5](figures/figure-slide-05-02.png)
+![Figure for slide 5](public/figures/figure-slide-05-02.png)
 
 ---
 
@@ -90,19 +90,19 @@ Which line has the smaller total squared residual?
 
 ## Squared error and mean squared error
 
-\(e_i = \hat{y}_i-y_i = wx_i+b-y_i\)
+$e_i = \hat{y}_i-y_i = wx_i+b-y_i$
 
-\[L=\frac{1}{N}\sum_{i=1}^{N}e_i^2\]
+$$L=\frac{1}{N}\sum_{i=1}^{N}e_i^2$$
 
 Squaring prevents sign cancellation.
 
 Averaging makes the scale easier to compare across batches.
 
 
-![Figure for slide 7](figures/figure-slide-07-01.png)
+![Figure for slide 7](public/figures/figure-slide-07-01.png)
 
 
-![Figure for slide 7](figures/figure-slide-07-02.png)
+![Figure for slide 7](public/figures/figure-slide-07-02.png)
 
 ---
 
@@ -115,28 +115,28 @@ Negative log-likelihood = 𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡 + Σᵢ 𝑒ᵢ²�
 For fixed σ², minimizing it also minimizes squared error.
 
 
-![Figure for slide 8](figures/figure-slide-08-01.png)
+![Figure for slide 8](public/figures/figure-slide-08-01.png)
 
 
-![Figure for slide 8](figures/figure-slide-08-02.png)
+![Figure for slide 8](public/figures/figure-slide-08-02.png)
 
 ---
 
 ## Derive the gradients
 
-For each observation, let \(\hat y_i=wx_i+b\) and \(e_i=\hat y_i-y_i\). The mean squared error is
+For each observation, let $\hat y_i=wx_i+b$ and $e_i=\hat y_i-y_i$. The mean squared error is
 
-\[L(w,b)=\frac{1}{N}\sum_{i=1}^{N}e_i^2.\]
+$$L(w,b)=\frac{1}{N}\sum_{i=1}^{N}e_i^2.$$
 
-By the chain rule, \(\partial e_i/\partial w=x_i\) and \(\partial e_i/\partial b=1\). Therefore
+By the chain rule, $\partial e_i/\partial w=x_i$ and $\partial e_i/\partial b=1$. Therefore
 
-\[\frac{\partial L}{\partial w}=\frac{2}{N}\sum_{i=1}^{N}e_ix_i,\qquad
-\frac{\partial L}{\partial b}=\frac{2}{N}\sum_{i=1}^{N}e_i.\]
+$$\frac{\partial L}{\partial w}=\frac{2}{N}\sum_{i=1}^{N}e_ix_i,\qquad
+\frac{\partial L}{\partial b}=\frac{2}{N}\sum_{i=1}^{N}e_i.$$
 
 Gradient descent updates both parameters using the same pre-update gradients:
 
-\[w^+=w-\eta\frac{\partial L}{\partial w},\qquad
-b^+=b-\eta\frac{\partial L}{\partial b}.\]
+$$w^+=w-\eta\frac{\partial L}{\partial w},\qquad
+b^+=b-\eta\frac{\partial L}{\partial b}.$$
 
 ---
 

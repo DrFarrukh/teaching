@@ -90,9 +90,9 @@ Which line has the smaller total squared residual?
 
 ## Squared error and mean squared error
 
-\(e_i = \hat{y}_i-y_i = wx_i+b-y_i\)
+$e_i = \hat{y}_i-y_i = wx_i+b-y_i$
 
-\[L=\frac{1}{N}\sum_{i=1}^{N}e_i^2\]
+$$L=\frac{1}{N}\sum_{i=1}^{N}e_i^2$$
 
 Squaring prevents sign cancellation.
 
@@ -124,19 +124,19 @@ For fixed σ², minimizing it also minimizes squared error.
 
 ## Derive the gradients
 
-For each observation, let \(\hat y_i=wx_i+b\) and \(e_i=\hat y_i-y_i\). The mean squared error is
+For each observation, let $\hat y_i=wx_i+b$ and $e_i=\hat y_i-y_i$. The mean squared error is
 
-\[L(w,b)=\frac{1}{N}\sum_{i=1}^{N}e_i^2.\]
+$$L(w,b)=\frac{1}{N}\sum_{i=1}^{N}e_i^2.$$
 
-By the chain rule, \(\partial e_i/\partial w=x_i\) and \(\partial e_i/\partial b=1\). Therefore
+By the chain rule, $\partial e_i/\partial w=x_i$ and $\partial e_i/\partial b=1$. Therefore
 
-\[\frac{\partial L}{\partial w}=\frac{2}{N}\sum_{i=1}^{N}e_ix_i,\qquad
-\frac{\partial L}{\partial b}=\frac{2}{N}\sum_{i=1}^{N}e_i.\]
+$$\frac{\partial L}{\partial w}=\frac{2}{N}\sum_{i=1}^{N}e_ix_i,\qquad
+\frac{\partial L}{\partial b}=\frac{2}{N}\sum_{i=1}^{N}e_i.$$
 
 Gradient descent updates both parameters using the same pre-update gradients:
 
-\[w^+=w-\eta\frac{\partial L}{\partial w},\qquad
-b^+=b-\eta\frac{\partial L}{\partial b}.\]
+$$w^+=w-\eta\frac{\partial L}{\partial w},\qquad
+b^+=b-\eta\frac{\partial L}{\partial b}.$$
 
 ---
 

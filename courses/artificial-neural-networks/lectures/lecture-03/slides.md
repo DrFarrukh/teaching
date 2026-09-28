@@ -282,7 +282,7 @@ L2 regularization
 
 Keep the mean squared data loss and leave the intercept unpenalized. For N examples, define
 
-\[J(w,b)=\frac{1}{N}\sum_{i=1}^{N}(z_i^\top w+b-y_i)^2+\frac{\lambda}{2}\lVert w\rVert_2^2.\]
+$$J(w,b)=\frac{1}{N}\sum_{i=1}^{N}(z_i^\top w+b-y_i)^2+\frac{\lambda}{2}\lVert w\rVert_2^2.$$
 
 The penalty discourages large weights while allowing the intercept to represent the target offset.
 
@@ -295,10 +295,10 @@ The penalty discourages large weights while allowing the intercept to represent 
 
 Gradient of the regularized objective
 
-With \(e=Zw+b-y\), differentiating the data term and penalty gives
+With $e=Zw+b-y$, differentiating the data term and penalty gives
 
-\[\nabla_w J=\frac{2}{N}Z^\top e+\lambda w,\qquad
-\frac{\partial J}{\partial b}=\frac{2}{N}\mathbf{1}^\top e.\]
+$$\nabla_w J=\frac{2}{N}Z^\top e+\lambda w,\qquad
+\frac{\partial J}{\partial b}=\frac{2}{N}\mathbf{1}^\top e.$$
 
 The intercept has no penalty term.
 
@@ -311,12 +311,12 @@ The intercept has no penalty term.
 
 The SGD update
 
-For ordinary SGD without momentum, evaluate both gradients at \(w,b\), then update:
+For ordinary SGD without momentum, evaluate both gradients at $w,b$, then update:
 
-\[w^+=w-\eta\left(\frac{2}{N}Z^\top e+\lambda w\right),\qquad
-b^+=b-\eta\frac{2}{N}\mathbf{1}^\top e.\]
+$$w^+=w-\eta\left(\frac{2}{N}Z^\top e+\lambda w\right),\qquad
+b^+=b-\eta\frac{2}{N}\mathbf{1}^\top e.$$
 
-At \(\lambda=0\), this is the linear regression update. Applying both the explicit penalty and optimizer weight decay would count the penalty twice.
+At $\lambda=0$, this is the linear regression update. Applying both the explicit penalty and optimizer weight decay would count the penalty twice.
 
 
 ![Figure for slide 20](figures/figure-slide-20-01.png)
