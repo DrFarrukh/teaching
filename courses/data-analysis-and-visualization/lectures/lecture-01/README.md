@@ -1,25 +1,13 @@
 # Lecture 1: Data and evidence
 
-**Question:** Can the data show whether Pakistan’s Big Three are losing dominance?
+**Question:** Did Suzuki, Toyota, and Honda lose dominance in the passenger-car sales recorded in the PAMA workbook?
 
-## Materials
+## Student materials
 
-- [Present the Reveal.js slides](revealjs/README.md)
-- [Open the slide source](slides.md)
-- [Open the detailed notebook](lecture_demo_detailed.ipynb)
-- [Open the compact notebook](lecture_demo.ipynb)
-- [View the student evidence pack](student_evidence_pack.html)
-- [View the projected group activity](projected_activity.md)
-- [View the exit ticket](exit_ticket.md)
-- [Read the data dictionary and limitations](data_dictionary.md)
+- [Reveal.js slides](https://drfarrukh.github.io/teaching/courses/data-analysis-and-visualization/lectures/lecture-01/slides/)
+- [Markdown slide source](slides.md)
+- [Jupyter notebook](notebook.ipynb) · [Run in Google Colab](https://colab.research.google.com/github/DrFarrukh/teaching/blob/main/courses/data-analysis-and-visualization/lectures/lecture-01/notebook.ipynb)
+- [Prepared data files](data/)
+- [Data dictionary and scope limitations](data_dictionary.md)
 
-## Run the notebook locally
-
-Use Python 3.10 or newer, install the packages in `requirements.txt`, then open either notebook in Jupyter. The original workbook and prepared CSV files are included in `data/` and `pama_monthly_production_sales.xlsx`. The notebooks read prepared files from `data/`; `prepare_data.py` rebuilds those CSV files from the workbook.
-
-```bash
-python -m pip install -r requirements.txt
-python prepare_data.py
-```
-
-The analysis describes the records represented in the PAMA passenger-car workbook. It should not be interpreted as a census of every vehicle sold in Pakistan. Source and limitations are documented in [data_dictionary.md](data_dictionary.md).
+The analysis describes passenger-car records in the PAMA workbook. It should not be read as a census of every vehicle sold in Pakistan. The notebook loads the prepared CSV files from this folder, including when run from Google Colab. `prepare_data.py` rebuilds those files from the supplied workbook.

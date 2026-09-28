@@ -61,9 +61,9 @@
 
 .reveal img {
   display: block;
-  max-height: 250px;
+  max-height: 500px;
   max-width: 100%;
-  margin: 0.22em auto 0.28em;
+  margin: 0.15em auto 0.2em;
   border: 0;
   box-shadow: none;
 }

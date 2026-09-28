@@ -1,292 +1,218 @@
----
-marp: true
-theme: default
-paginate: true
-size: 16:9
-style: |
-  section { font-family: Arial, sans-serif; color: #111; }
-  h1 { font-size: 42px; }
-  h2 { font-size: 34px; }
-  p, li { font-size: 25px; }
-  table { font-size: 20px; }
-  small { font-size: 16px; color: #444; }
-  code { font-size: 21px; }
----
-
 # Data Analysis and Visualization
 
-## Lecture 1
+## Lecture 1 · Data, evidence, and market-share claims
 
-Can the data show whether Pakistan's Big Three are losing dominance?
+**Question:** Did Suzuki, Toyota, and Honda lose dominance in the passenger-car sales recorded in the PAMA workbook?
 
----
-
-# The opening question
-
-Are Suzuki, Toyota, and Honda losing their dominance in Pakistan?
-
-Choose one answer before seeing the data:
-
-- Yes
-- No
-- Not sure
-
-<!-- Ask for a show of hands. Record the vote on the board. Ask for reasons but do not evaluate them yet. -->
+The answer depends on the population and denominator being measured.
 
 ---
 
-# Reasons are not yet evidence
+# Start with a precise claim
 
-Students may mention:
+“Dominance” is made measurable here as the **combined share of recorded passenger-car sales** for Suzuki, Toyota, and Honda.
 
-- Resale value and reliability
-- Price and financing
-- Features offered by new brands
-- Fuel cost and charging access
-- Personal experience
+A lower combined share over time would support a claim that their position weakened **within these records**.
 
-Which of these can the workbook measure?
+It would not, by itself, explain why the share changed or establish the share of every car sold in Pakistan.
 
 ---
 
-# A claim needs a measurable question
+# The population and the records are different
 
-```text
-Claim
-Question
-Required measurements
-Dataset
-Analysis
-Evidence
-Conclusion and limitation
-```
-
-Where can this chain fail?
-
----
-
-# The population in the claim
-
-The phrase **dominance in Pakistan** could mean:
-
-- All new vehicle sales
-- Passenger car sales
-- Locally assembled passenger cars
-- Sales reported by PAMA members
-- Vehicles registered by government agencies
-
-These populations are different.
-
----
-
-# Unit of observation
-
-Possible observations include:
-
-- One vehicle sale
-- One model in one month
-- One manufacturer in one fiscal year
-- One vehicle category in one month
-
-The unit of observation determines what one row should represent.
-
----
-
-# Variables needed
-
-For a monthly market share analysis:
-
-| Variable | Example |
+| Term | Meaning in this analysis |
 |---|---|
-| Fiscal month | July 2025 |
-| Manufacturer | Toyota |
-| Model group | Corolla, Yaris, Corolla Cross |
-| Measure | Sales |
-| Recorded units | 2,418 |
+| Intended population | All new passenger cars sold in Pakistan |
+| Observed records | Passenger-car production and sales rows found in the PAMA workbook |
+| Denominator used | Total passenger-car sales recorded in the workbook for a fiscal year |
+
+The workbook is a reporting frame. It is not documented here as a complete census of every seller, import, or vehicle registration.
 
 ---
 
-# The source workbook
+# Source and time span
 
-- 19 fiscal year worksheets
-- July 2007 through June 2026
-- Monthly production and sales
-- Separate vehicle sections
-- Changing model labels and column positions
-- Formulas, merged cells, subtotals, and totals
+The source is PAMA’s monthly production and sales workbook, organized into fiscal-year worksheets.
 
-<small>Source: Pakistan Automotive Manufacturers Association, https://pama.org.pk/monthly-production-sales-of-vehicles/</small>
+- 19 fiscal years, from **2007–08 through 2025–26**
+- 12 fiscal months per year, from July through June
+- Separate production and sales measures
+- Passenger-car model rows with labels and layouts that vary over time
 
----
-
-# Raw data and analysis ready data
-
-Raw worksheet:
-
-| Model | Type | July | August | September |
-|---|---|---:|---:|---:|
-| Honda Cars | Production | 1,169 | 968 | 1,939 |
-|  | Sales | 1,143 | 699 | 1,977 |
-
-Analysis ready table:
-
-| Month | Brand | Model group | Measure | Value |
-|---|---|---|---|---:|
-| Jul 2025 | Honda | Civic and City | Sales | 1,143 |
+The prepared data preserves fiscal year, date, manufacturer, model group, measure, units, and source location.
 
 ---
 
-# Recorded market share
+# What one prepared row represents
 
-$$
-\text{Recorded market share}_{i,t}
-=
-\frac{\text{Recorded sales}_{i,t}}
-{\text{Total recorded sales}_{t}}
-$$
+A row in the long-format table represents one recorded value for:
 
-Why does the word **recorded** matter?
+**model group × fiscal month × measure**
 
----
+| fiscal year | date | manufacturer | model group | measure | units |
+|---|---|---|---|---|---:|
+| 2025–26 | 2025-07-01 | Honda | Honda Cars | Sales | 1,143 |
 
-# Big Three concentration
-
-$$
-CR_3
-=
-s_{Suzuki}+s_{Toyota}+s_{Honda}
-$$
-
-CR3 describes concentration among the three named groups.
-
-It does not explain why concentration changed.
+Keeping production and sales in a `measure` column prevents the two quantities from being added together by mistake.
 
 ---
 
-# Four questions before calculation
+# From a worksheet to an analysis table
 
-1. Which vehicle categories belong in the denominator?
-2. Which manufacturers does the source cover?
-3. Are imports and nonmember firms included?
-4. Do model labels mean the same thing each year?
+A source worksheet stores months across columns. The analysis table stores one month per row.
 
-<!-- Pause here. Ask pairs to identify one additional question. -->
+| Source row | July | August | September |
+|---|---:|---:|---:|
+| Honda Cars · Production | 1,169 | 968 | 1,939 |
+| Honda Cars · Sales | 1,143 | 699 | 1,977 |
 
----
-
-# Pair task before the break
-
-Redesign the projected raw extract so that one row represents:
-
-> one model group in one fiscal month
-
-Write the column names first.
-
-Then identify one validation check.
+The prepared rows retain the date, manufacturer, model group, measure, and value for each month. This structure makes filtering and grouping explicit.
 
 ---
 
-<!-- _class: lead -->
+# Check the extraction before interpreting it
 
-# Namaz break
+| Check on prepared records | Result |
+|---|---:|
+| Long-format rows | 4,560 |
+| Missing values | 0 |
+| Duplicate records using the proposed key | 0 |
+| Monthly source-total comparisons | 380 |
+| Comparisons with a nonzero difference | 0 |
 
-After the break: live analysis of the prepared data
-
----
-
-# Live demonstration
-
-We will ask the computer to show:
-
-- What records exist
-- How annual recorded sales changed
-- Whether CR3 declined
-- What the workbook reports for electric cars
-
-For every code block:
-
-1. Predict the output
-2. Run the code
-3. Interpret the result
+These checks support the accuracy of the workbook extraction. They cannot show that the workbook includes every seller in the intended population.
 
 ---
 
-# Annual recorded passenger car sales
+# Aggregate sales before calculating shares
 
-![bg right:58% contain](outputs/annual_total_sales.png)
+For manufacturer $m$ in fiscal year $t$, add its recorded sales rows:
 
-What does the line establish?
+$$S_{m,t}=\sum_{j\in(m,t,\,\mathrm{Sales})} \mathrm{units}_j$$
 
-What can it not explain?
+Then add the recorded manufacturer totals to get the workbook denominator:
 
----
+$$T_t=\sum_m S_{m,t}$$
 
-# Big Three recorded share
-
-![bg right:58% contain](outputs/big_three_share.png)
-
-Does the workbook support the claim that the Big Three are losing dominance?
-
-State the denominator in your answer.
+A manufacturer’s recorded share is $S_{m,t}/T_t$. All manufacturers in a year use the same denominator.
 
 ---
 
-# Electric cars in the workbook
+# Define the Big Three concentration ratio
 
-![bg right:58% contain](outputs/recorded_ev_sales.png)
+The three manufacturers are Suzuki, Toyota, and Honda. Their combined recorded share is the **CR3**:
 
-The workbook reports 343 Honri-Ve sales in 2025 to 2026.
+$$\mathrm{CR3}_t=\frac{S_{\mathrm{Suzuki},t}+S_{\mathrm{Toyota},t}+S_{\mathrm{Honda},t}}{T_t}$$
 
-Can we call this Pakistan's EV market share?
+This is equivalent to adding their individual shares because those shares use the same denominator.
+
+CR3 describes concentration in the recorded passenger-car sales; it does not identify causes or market coverage.
 
 ---
 
-# Evidence workshop
+# Worked calculation · fiscal year 2025–26
 
-Your group must decide whether this statement is supported:
+Recorded sales by the three manufacturers:
 
-> New and electric vehicle brands are breaking the dominance of Pakistan's traditional Big Three.
+$$91{,}634+35{,}831+24{,}416=151{,}881$$
 
-Choose:
+Total recorded passenger-car sales: **155,631**
 
-- Supported
-- Not supported
-- Cannot be answered adequately
+$$\mathrm{CR3}=\frac{151{,}881}{155{,}631}=0.9759\approx97.6\%$$
 
-Give one observation, one limitation, and one additional data source.
+The remaining recorded sales are 3,750, or about 2.4% of this denominator.
+
+---
+
+# The latest recorded manufacturer shares
+
+| Manufacturer or group | 2025–26 recorded sales | Share of 155,631 |
+|---|---:|---:|
+| Suzuki | 91,634 | 58.88% |
+| Toyota | 35,831 | 23.02% |
+| Honda | 24,416 | 15.69% |
+| All other recorded manufacturers | 3,750 | 2.41% |
+
+The three named shares sum to **97.59%**. The values describe records in the workbook, not a verified national-market total.
+
+---
+
+# Recorded passenger-car sales vary sharply by year
+
+![Annual passenger-car sales recorded in the workbook](outputs/annual_total_sales.png)
+
+Recorded sales peak at **234,180 in 2021–22**, fall to **81,579 in 2023–24**, and rise to **155,631 in 2025–26**. The workbook describes the pattern; it does not establish its causes.
+
+---
+
+# How the recorded CR3 changed
+
+![Big Three share of recorded passenger-car sales by fiscal year](outputs/big_three_share.png)
+
+CR3 was **91.2% in 2007–08**, reached **100% in 2017–18**, and was **97.6% in 2025–26**.
+
+The current value is 2.4 percentage points below the recorded peak, but 6.4 points above the first year. It does not show a sustained decline across the full period.
+
+---
+
+# What the trend supports
+
+**Supported by these records:** Suzuki, Toyota, and Honda continue to account for nearly all recorded passenger-car sales; their combined recorded share remains very high.
+
+**Not established by these records alone:** that the Big Three lost dominance in the complete Pakistani market, or why any change occurred.
+
+The difference comes from the reporting frame and denominator, not from the arithmetic of CR3.
+
+---
+
+# A denominator sensitivity example
+
+Hold Big Three recorded sales at 151,881 and hypothetically add sales outside the workbook’s 155,631 total:
+
+| Hypothetical additional sales | Expanded denominator | Recalculated CR3 |
+|---:|---:|---:|
+| 0 | 155,631 | 97.6% |
+| 10,000 | 165,631 | 91.7% |
+| 25,000 | 180,631 | 84.1% |
+| 50,000 | 205,631 | 73.9% |
+
+These are scenarios, **not estimates of missing sales**. They show why a proportion depends on who is included in its denominator.
+
+---
+
+# A recorded electric-car example
+
+![Separately reported Honri-Ve sales in the workbook](outputs/recorded_ev_sales.png)
+
+The workbook contains a separate Honri-Ve sales row for 2024–25 and 2025–26: **186** and **343** units. These are 0.17% and 0.22% of the workbook’s recorded passenger-car totals.
+
+An absent earlier row means “not separately recorded here,” not “no electric cars were sold.” The ratio is not a national EV market share.
 
 ---
 
 # A defensible conclusion
 
-The PAMA passenger car records show continued concentration among Suzuki, Toyota, and Honda.
+The PAMA passenger-car workbook shows **continued, very high recorded concentration** among Suzuki, Toyota, and Honda. CR3 rose from 91.2% in 2007–08 to a 100% recorded peak, then stood at 97.6% in 2025–26.
 
-The workbook alone cannot establish their share of the complete Pakistani market.
+The data do not show a sustained decline over the full period, and the workbook alone cannot establish the Big Three’s share of every new passenger car sold in Pakistan.
 
-Coverage determines the conclusion we can defend.
-
----
-
-# Exit ticket
-
-On any small piece of paper, write:
-
-1. One conclusion supported by today's data
-2. One conclusion the data cannot support
-
-Include the relevant population or denominator.
+A broader market claim needs a denominator that covers the intended sellers and vehicles, such as documented registration or import records.
 
 ---
 
-# Sources
+# Analysis workflow
 
-Pakistan Automotive Manufacturers Association
+**Question → population → source → row definition → validation → aggregation → denominator → result → limitation**
 
-https://pama.org.pk/monthly-production-sales-of-vehicles/
+Each step changes what the final number means. Correct arithmetic cannot repair a source that does not represent the population named in the claim.
 
-Ministry of Industries and Production
+---
 
-New Energy Vehicles Policy 2025 to 2030
+# Source and definitions
 
-https://moip.gov.pk/SiteImage/Policy/Draft%20NEV%20Policy%20120625%20(V%201.4).pdf
+- Pakistan Automotive Manufacturers Association, [Monthly Production and Sales of Vehicles](https://pama.org.pk/monthly-production-sales-of-vehicles/)
+- Fiscal year: July through June, using the workbook’s fiscal-year labels
+- CR3: combined share of the three named manufacturers, calculated from recorded sales
+- Prepared columns and known source limitations: [`data_dictionary.md`](data_dictionary.md)
 
+The analysis is descriptive. It measures the records supplied by the workbook and does not infer causes.

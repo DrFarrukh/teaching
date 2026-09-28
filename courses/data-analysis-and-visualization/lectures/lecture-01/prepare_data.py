@@ -3,7 +3,7 @@
 The source workbook contains one worksheet per fiscal year and uses presentation
 formatting rather than a consistent database layout. This script extracts monthly
 production and sales records, normalizes a small set of manufacturer names, and
-creates summary tables used by the live demonstration.
+creates the prepared tables used by the student notebook and slide analysis.
 
 The script never modifies the source workbook.
 """
