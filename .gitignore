@@ -39,3 +39,4 @@ temp/
 !courses/tools-and-tech-in-data-science/**/*.pptx
 !courses/tools-and-tech-in-data-science/**/*.pdf
 !courses/data-analysis-and-visualization/**/*.pptx
+!courses/artificial-neural-networks/**/*.pptx
