@@ -41,7 +41,7 @@ urllib3_connection.HAS_IPV6 = False  # some networks advertise IPv6 but stall on
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "demo_output"
 RAW = OUT / "raw_html"
-UA = "CS808-classroom-demo (dr.farrukh89@gmail.com)"
+UA = "CS808-classroom-demo (https://github.com/DrFarrukh/teaching)"
 PAUSE = 10  # seconds between the big steps: slow enough for the class to watch
 RATINGS = {"One": 1, "Two": 2, "Three": 3, "Four": 4, "Five": 5}
 

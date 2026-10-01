@@ -7,7 +7,7 @@
     "politics": "Pakistan (PTI OR \"National Assembly\" OR \"prime minister\" OR parliament OR \"political crisis\")",
     "war": "(Iran OR Tehran) (war OR strikes OR ceasefire OR attack OR conflict)"
   },
-  "user_agent": "CS808-classroom-demo (dr.farrukh89@gmail.com)",
+  "user_agent": "CS808-classroom-demo (https://github.com/DrFarrukh/teaching)",
   "note": "metadata only; GDELT returns at most 250 articles per call, so busy weeks may be truncated",
   "calls": [
     {

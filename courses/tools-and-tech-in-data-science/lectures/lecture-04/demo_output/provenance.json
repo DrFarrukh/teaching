@@ -2,7 +2,7 @@
   "source": "https://books.toscrape.com/ (practice site)",
   "login_site": "https://quotes.toscrape.com/login (accepts any password)",
   "method": "Selenium + Chrome, one page at a time, honest User-Agent",
-  "user_agent": "CS808-classroom-demo (dr.farrukh89@gmail.com)",
+  "user_agent": "CS808-classroom-demo (https://github.com/DrFarrukh/teaching)",
   "settings": {
     "categories": [
       "Travel",
