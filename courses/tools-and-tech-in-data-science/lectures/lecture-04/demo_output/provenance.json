@@ -1,0 +1,259 @@
+{
+  "source": "https://books.toscrape.com/ (practice site)",
+  "login_site": "https://quotes.toscrape.com/login (accepts any password)",
+  "method": "Selenium + Chrome, one page at a time, honest User-Agent",
+  "user_agent": "CS808-classroom-demo (dr.farrukh89@gmail.com)",
+  "settings": {
+    "categories": [
+      "Travel",
+      "Mystery",
+      "Poetry"
+    ],
+    "per_category": 8,
+    "headless": false
+  },
+  "started_utc": "2026-10-01T03:49:50+00:00",
+  "finished_utc": "2026-10-01T03:51:46+00:00",
+  "licence": "practice site built for scraping; invented data",
+  "rows": 24,
+  "output": {
+    "file": "books_catalogue.csv",
+    "bytes": 43827,
+    "sha256": "cf3a85396b55ef7aad45e8865f6c17f5be464a59bed593b2c522eb260dde75a6"
+  },
+  "raw_pages": [
+    {
+      "file": "raw_html/0001_login.html",
+      "url": "https://quotes.toscrape.com/",
+      "kind": "login",
+      "retrieved_utc": "2026-10-01T03:50:14+00:00",
+      "bytes": 11862,
+      "sha256": "6bba21364a9ff7491b4da1a07d2bbc60f8203f544a79f3f5dd9c2d91f261b5a1"
+    },
+    {
+      "file": "raw_html/0002_home.html",
+      "url": "https://books.toscrape.com/",
+      "kind": "home",
+      "retrieved_utc": "2026-10-01T03:50:26+00:00",
+      "bytes": 51350,
+      "sha256": "65f89e5814ca0d636e8a8a903fe829cf482ae846bdd7c1dbbc0dbb71cdd3a196"
+    },
+    {
+      "file": "raw_html/0003_list_Travel.html",
+      "url": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
+      "kind": "list_Travel",
+      "retrieved_utc": "2026-10-01T03:50:33+00:00",
+      "bytes": 36758,
+      "sha256": "dfcd9a58318b7b0ba2b624a89fdfea83872d3251c1f183895e65275a2effb3b1"
+    },
+    {
+      "file": "raw_html/0004_book.html",
+      "url": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:50:35+00:00",
+      "bytes": 19097,
+      "sha256": "3016be429eda0560c7611d77ada0076c59d1190a89497755b8fcefd8f50bae5e"
+    },
+    {
+      "file": "raw_html/0005_book.html",
+      "url": "https://books.toscrape.com/catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:50:37+00:00",
+      "bytes": 20057,
+      "sha256": "f6319617d04be4e05482abcb6d3901619cfbce031243d184f5ed776054bd6dc4"
+    },
+    {
+      "file": "raw_html/0006_book.html",
+      "url": "https://books.toscrape.com/catalogue/see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:50:40+00:00",
+      "bytes": 18408,
+      "sha256": "9a79caf82fa5caf2286ff59b071126c12748c7fa049e54a4748e641647dfc063"
+    },
+    {
+      "file": "raw_html/0007_book.html",
+      "url": "https://books.toscrape.com/catalogue/vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:50:42+00:00",
+      "bytes": 20731,
+      "sha256": "574d44db18a976cd4cab3a61d380e91c4015eecda150ae5d7dd1b2bd2a09594c"
+    },
+    {
+      "file": "raw_html/0008_book.html",
+      "url": "https://books.toscrape.com/catalogue/under-the-tuscan-sun_504/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:50:45+00:00",
+      "bytes": 18579,
+      "sha256": "381b366dcf5d3f239d87641d9ab84aadbb6abd0b5498686fbfb218a870f34d09"
+    },
+    {
+      "file": "raw_html/0009_book.html",
+      "url": "https://books.toscrape.com/catalogue/a-summer-in-europe_458/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:50:47+00:00",
+      "bytes": 20473,
+      "sha256": "efb94d162024fb74749023cef30608a756bf5d9aa9f7b0fab11adf7f157e2b4b"
+    },
+    {
+      "file": "raw_html/0010_book.html",
+      "url": "https://books.toscrape.com/catalogue/the-great-railway-bazaar_446/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:50:49+00:00",
+      "bytes": 18552,
+      "sha256": "79f5a819d274dc34f14e72a19dbea7f97ab5b3c3bb3a288a2fc593165b7c94ee"
+    },
+    {
+      "file": "raw_html/0011_book.html",
+      "url": "https://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:50:52+00:00",
+      "bytes": 18338,
+      "sha256": "4d109285d56595715db13be711b0223f6627fc3e1369f4eb7039079b59071166"
+    },
+    {
+      "file": "raw_html/0012_list_Mystery.html",
+      "url": "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
+      "kind": "list_Mystery",
+      "retrieved_utc": "2026-10-01T03:50:57+00:00",
+      "bytes": 50137,
+      "sha256": "30974a65117d1fbfbd715b7ca5239ed0fbd15378b7dc0188f73e1bd21222ae02"
+    },
+    {
+      "file": "raw_html/0013_book.html",
+      "url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:51:00+00:00",
+      "bytes": 14614,
+      "sha256": "13945c0b26a5c5b17d491980f22c58a5801f07e86db571934702bdc69c290e36"
+    },
+    {
+      "file": "raw_html/0014_book.html",
+      "url": "https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:51:03+00:00",
+      "bytes": 17857,
+      "sha256": "556ce269724b89b53100afaaa188f86e547ef71e701a8cc94f90e769d4d3974f"
+    },
+    {
+      "file": "raw_html/0015_book.html",
+      "url": "https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:51:06+00:00",
+      "bytes": 18865,
+      "sha256": "7295b681d29047c6602380e0aed09e1c6141de0e4e4260563d9291a48921d0a2"
+    },
+    {
+      "file": "raw_html/0016_book.html",
+      "url": "https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:51:08+00:00",
+      "bytes": 19102,
+      "sha256": "cb434fe9d037276b818be60ad0b4f09fbf76d41044edfdb35d202f18bbc8af1c"
+    },
+    {
+      "file": "raw_html/0017_book.html",
+      "url": "https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:51:11+00:00",
+      "bytes": 19256,
+      "sha256": "f18f19aa93236b126fc6b111c5105142b1d3af431ddb7a0b321c67c986ff877e"
+    },
+    {
+      "file": "raw_html/0018_book.html",
+      "url": "https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:51:14+00:00",
+      "bytes": 19281,
+      "sha256": "7092fceb60ab88f7615c04544b33a34434e42d24c855f38b8aa40d384eb3f901"
+    },
+    {
+      "file": "raw_html/0019_book.html",
+      "url": "https://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:51:16+00:00",
+      "bytes": 19049,
+      "sha256": "676d507758b0545612392d4913c1a6b08b42fcf17c92a94712eecf957b1d897f"
+    },
+    {
+      "file": "raw_html/0020_book.html",
+      "url": "https://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:51:19+00:00",
+      "bytes": 18220,
+      "sha256": "c8da924ebac11e52821f28408719ca7c7ba17ba79b5a4982ab995d8790acb885"
+    },
+    {
+      "file": "raw_html/0021_list_Poetry.html",
+      "url": "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html",
+      "kind": "list_Poetry",
+      "retrieved_utc": "2026-10-01T03:51:25+00:00",
+      "bytes": 47944,
+      "sha256": "3a82d03550a88d63e4c86d12683cb51e0fd113c2c3bb62655222d64c4bceccc1"
+    },
+    {
+      "file": "raw_html/0022_book.html",
+      "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:51:27+00:00",
+      "bytes": 9022,
+      "sha256": "e1e514cc328f0fada102edf872172160ee0346fb04d372b93d2bf8f71eaa004f"
+    },
+    {
+      "file": "raw_html/0023_book.html",
+      "url": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:51:29+00:00",
+      "bytes": 22445,
+      "sha256": "abdb48103e893394f321404d147d14c23729b7be035e6647e58305cfd3bc9164"
+    },
+    {
+      "file": "raw_html/0024_book.html",
+      "url": "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:51:32+00:00",
+      "bytes": 18192,
+      "sha256": "ef170f5b5121862c875871e759cead8e080959d49d21c8b00f95fb9be53e7bfc"
+    },
+    {
+      "file": "raw_html/0025_book.html",
+      "url": "https://books.toscrape.com/catalogue/olio_984/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:51:34+00:00",
+      "bytes": 19242,
+      "sha256": "3abd7ce6a313cb7adf55463126063e387a4ef9d8c5ed2654d936870b32e51fb7"
+    },
+    {
+      "file": "raw_html/0026_book.html",
+      "url": "https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:51:36+00:00",
+      "bytes": 20542,
+      "sha256": "0f442c09506223d84a10081c6ccbc953c989fb42f1d5a171c4f78bdbe0389384"
+    },
+    {
+      "file": "raw_html/0027_book.html",
+      "url": "https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:51:38+00:00",
+      "bytes": 19589,
+      "sha256": "e71787b99a6cfb9f9c757c676aaaf2858c229f6efeebdd4713513fe5c23fa6fd"
+    },
+    {
+      "file": "raw_html/0028_book.html",
+      "url": "https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:51:41+00:00",
+      "bytes": 19372,
+      "sha256": "588d8db2666f040ba07f2e2e35bdee8bdd861dfc2a47a1f91ca421351323b17c"
+    },
+    {
+      "file": "raw_html/0029_book.html",
+      "url": "https://books.toscrape.com/catalogue/poems-that-make-grown-women-cry_824/index.html",
+      "kind": "book",
+      "retrieved_utc": "2026-10-01T03:51:43+00:00",
+      "bytes": 18635,
+      "sha256": "655139946620293b26fb139a31d4f09547220a177deee53cd45de469489e6903"
+    }
+  ],
+  "known_limits": "Invented catalogue; prices in GBP; a snapshot of one moment; only the visited categories."
+}

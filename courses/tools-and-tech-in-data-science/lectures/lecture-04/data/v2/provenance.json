@@ -1,0 +1,200 @@
+[
+  {
+    "id": "imf_2022_report",
+    "url": "https://www.imf.org/-/media/Files/Publications/CR/2022/English/1PAKEA2022002.ashx",
+    "file": "data/v2/raw/imf_2022_report_20261001.pdf",
+    "sha256": "2afab4574f2761b3982a699e32fcbdf7aff2b94c06890bb5bd39f5dfc7fbc4cc",
+    "retrieved_utc": "2026-10-01T11:53:17.548883+00:00",
+    "http_status": 200,
+    "representation": "original HTTP response body",
+    "content_type": "application/pdf"
+  },
+  {
+    "id": "pid_fuel_20220228",
+    "url": "https://pid.gov.pk/site/press_detail/19305",
+    "file": "data/v2/raw/pid_fuel_20220228_20261001.html",
+    "sha256": "0ed3520d1d6b762962cf6bae36c7b1f0381282ab503a82cb8f15e52a648d18d8",
+    "retrieved_utc": "2026-10-01T11:53:19.072419+00:00",
+    "http_status": 200,
+    "representation": "original HTTP response body",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "flood_pdna_2022",
+    "url": "https://thedocs.worldbank.org/en/doc/4a0114eb7d1cecbbbf2f65c5ce0789db-0310012022/original/Pakistan-Floods-2022-PDNA-Main-Report.pdf",
+    "file": "data/v2/raw/flood_pdna_2022_20261001.pdf",
+    "sha256": "aba303195badd442b7f5af3f8a6a34200ccad80d34c6000d934afa5e6a249418",
+    "retrieved_utc": "2026-10-01T11:53:30.129587+00:00",
+    "http_status": 200,
+    "representation": "original HTTP response body",
+    "content_type": "application/pdf"
+  },
+  {
+    "id": "national_assembly_20220410",
+    "url": "https://na.gov.pk/uploads/documents/625d409dd2d91_338.pdf",
+    "file": "data/v2/raw/national_assembly_20220410_20261001.pdf",
+    "sha256": "bf41d24bea767a64c899523f553eeace5263222368f8c6511c86b06eba240e21",
+    "retrieved_utc": "2026-10-01T11:53:52.781373+00:00",
+    "http_status": 200,
+    "representation": "original HTTP response body",
+    "content_type": "application/pdf"
+  },
+  {
+    "id": "imf_2019_web_capture_20261001",
+    "url": "https://www.imf.org/en/news/articles/2019/07/03/pr19264-pakistan-imf-executive-board-approves-39-month-eff-arrangement",
+    "file": "data/v2/raw/imf_2019_web_capture_20261001.json",
+    "sha256": "9ee85e8c0bad0d7f4b5a2fb8c9d7861fba9388078881410d0fa1e35debe15b14",
+    "retrieved_utc": "2026-10-01",
+    "representation": "web tool extracted official page; not original HTTP HTML"
+  },
+  {
+    "id": "imf_2022_sla_web_capture_20261001",
+    "url": "https://www.imf.org/en/news/articles/2022/07/13/pr22255-pakistan-staff-level-agreement-on-7th-and-8th-eff-review",
+    "file": "data/v2/raw/imf_2022_sla_web_capture_20261001.json",
+    "sha256": "7ab43ce78df5a3ecddd2278c5bd230ba5b553995327adcb07b12aeb893343762",
+    "retrieved_utc": "2026-10-01",
+    "representation": "web tool extracted official page; not original HTTP HTML"
+  },
+  {
+    "id": "pid_fuel_20220228_web_capture_20261001",
+    "url": "https://pid.gov.pk/site/press_detail/19305",
+    "file": "data/v2/raw/pid_fuel_20220228_web_capture_20261001.json",
+    "sha256": "0e623ac3673a7571f97a3ba22698166b7d8c3b580203301fc5173f6080af4c89",
+    "retrieved_utc": "2026-10-01",
+    "representation": "web tool extracted official page; not original HTTP HTML"
+  },
+  {
+    "id": "imf_2023_web_capture_20261001",
+    "url": "https://www.imf.org/en/news/articles/2023/07/12/pr23261-pakistan-imf-exec-board-approves-us3bil-sba",
+    "file": "data/v2/raw/imf_2023_web_capture_20261001.json",
+    "sha256": "de563df710347dc0613bf99a4039484d4e35df7f9312d745818d5348e127b2e5",
+    "retrieved_utc": "2026-10-01",
+    "representation": "web tool extracted official page; not original HTTP HTML"
+  },
+  {
+    "id": "imf_2024_web_capture_20261001",
+    "url": "https://www.imf.org/en/news/articles/2024/09/27/pr-24343-pakistan-imf-concludes-2024-aiv-consultation-pakistan-approves-37-mo-extended-arr",
+    "file": "data/v2/raw/imf_2024_web_capture_20261001.json",
+    "sha256": "ab90f95fa19ac8e9b9af75302266ec56b85599f33608ee2f1541fa22c2393ba2",
+    "retrieved_utc": "2026-10-01",
+    "representation": "web tool extracted official page; not original HTTP HTML"
+  },
+  {
+    "id": "sbp_covid_web_capture_20261001",
+    "url": "https://www.sbp.org.pk/our-operations/covid-19-measures-by-sbp",
+    "file": "data/v2/raw/sbp_covid_web_capture_20261001.json",
+    "sha256": "400b9d985b97f37e672fd9c2f3e87870e8507e8191ac04ba840186fb026eb309",
+    "retrieved_utc": "2026-10-01",
+    "representation": "web tool extracted official page; not original HTTP HTML"
+  },
+  {
+    "id": "sbp_covid_indexed_capture_20261001",
+    "url": "https://www.sbp.org.pk/our-operations/covid-19-measures-by-sbp/",
+    "file": "data/v2/raw/sbp_covid_indexed_capture_20261001.json",
+    "sha256": "eb0998429d6b7165e0a7ce2e31c2f322bcc474779e4060fd57d592ddf1f3c0a0",
+    "retrieved_utc": "2026-10-01",
+    "representation": "web tool indexed official page; direct access unavailable"
+  },
+  {
+    "id": "iphone_sbp_2019_web_capture_20261001",
+    "url": "see iphone_sources.json",
+    "file": "data/v2/raw/iphone_sbp_2019_web_capture_20261001.json",
+    "sha256": "10b2092486283dc65e4a09e7fed702742fd873f827c0d0f908da592f3c1f6d47",
+    "retrieved_utc": "2026-10-01",
+    "representation": "web tool official extracted evidence; not original HTTP body"
+  },
+  {
+    "id": "iphone_sbp_2021_web_capture_20261001",
+    "url": "see iphone_sources.json",
+    "file": "data/v2/raw/iphone_sbp_2021_web_capture_20261001.json",
+    "sha256": "bfb78779be032d16ab64f517e83b249b7879880ec9eabdfee3ea2b26037f007f",
+    "retrieved_utc": "2026-10-01",
+    "representation": "web tool official extracted evidence; not original HTTP body"
+  },
+  {
+    "id": "iphone_sbp_2023_web_capture_20261001",
+    "url": "see iphone_sources.json",
+    "file": "data/v2/raw/iphone_sbp_2023_web_capture_20261001.json",
+    "sha256": "118bfdc2e92cc9bfd109cc149e77e81b8843adc95ff5307f0d889955c11360fe",
+    "retrieved_utc": "2026-10-01",
+    "representation": "web tool official extracted evidence; not original HTTP body"
+  },
+  {
+    "id": "iphone_sbp_2026_easydata_capture_20261001",
+    "url": "see iphone_sources.json",
+    "file": "data/v2/raw/iphone_sbp_2026_easydata_capture_20261001.json",
+    "sha256": "f74c2577be9287b526a74eb065b318d4233900fa2f345f964344bb17b9b0d4ec",
+    "retrieved_utc": "2026-10-01",
+    "representation": "web tool official extracted evidence; not original HTTP body"
+  },
+  {
+    "id": "iphone_sbp_2026_indexed_capture_20261001",
+    "url": "see iphone_sources.json",
+    "file": "data/v2/raw/iphone_sbp_2026_indexed_capture_20261001.json",
+    "sha256": "f6cd1100bca503212225ba055e1c303eb6555aaaf65183c75d25e815ed230e6f",
+    "retrieved_utc": "2026-10-01",
+    "representation": "web tool official extracted evidence; not original HTTP body"
+  },
+  {
+    "id": "iphone_sbp_2026_web_capture_20261001",
+    "url": "see iphone_sources.json",
+    "file": "data/v2/raw/iphone_sbp_2026_web_capture_20261001.json",
+    "sha256": "7dc8ad32cf86b2dabb8adfa5184a2762cf85f7453bb0442fd427c83f1b8d3dbb",
+    "retrieved_utc": "2026-10-01",
+    "representation": "web tool official extracted evidence; not original HTTP body"
+  },
+  {
+    "id": "public_claims",
+    "file": "data/v2/public_claims.json",
+    "sha256": "6f8fbbc611b84c99f79b52aafafe52fd56270500491122047d0ddf3e73709e7a",
+    "retrieved_utc": "2026-10-01",
+    "representation": "curated metadata / methodology; not HTTP raw",
+    "url": "see per-record URLs / parent raw PDF"
+  },
+  {
+    "id": "source_evidence_matrix",
+    "file": "data/v2/source_evidence_matrix.json",
+    "sha256": "55f478aa6d1227aeeeadb9de5bd3a39e055a99b67d72f04925e8c4f4a19c8fd3",
+    "retrieved_utc": "2026-10-01",
+    "representation": "curated metadata / methodology; not HTTP raw",
+    "url": "see per-record URLs / parent raw PDF"
+  },
+  {
+    "id": "iphone_sources",
+    "file": "data/v2/iphone_sources.json",
+    "sha256": "b4806263958df4ad6e8d1e1a602b23dc29410938582b3c1817fccd1d733826ff",
+    "retrieved_utc": "2026-10-01",
+    "representation": "curated metadata / methodology; not HTTP raw",
+    "url": "see per-record URLs / parent raw PDF"
+  },
+  {
+    "id": "imf_2022_report_text",
+    "file": "data/v2/imf_2022_report_text.txt",
+    "sha256": "fed969bb403e216dbd0ad88ceedb4076d7da86f2f647eabf4ca8b37b108689ff",
+    "retrieved_utc": "2026-10-01",
+    "representation": "derived PDF extraction",
+    "url": "see per-record URLs / parent raw PDF"
+  },
+  {
+    "id": "flood_pdna_2022_text",
+    "file": "data/v2/flood_pdna_2022_text.txt",
+    "sha256": "6b3ae3ae4fe5d5ef4c539620b6571d1acdfc00145248edd0698dc5846342ade2",
+    "retrieved_utc": "2026-10-01",
+    "representation": "derived PDF extraction",
+    "url": "see per-record URLs / parent raw PDF"
+  },
+  {
+    "file": "data/v2/raw/na_pm_period_web_capture_20261001.json",
+    "url": "https://na.gov.pk/en/priminister_list.php",
+    "representation": "web tool extracted official page; not original HTTP",
+    "retrieved_utc": "2026-10-01",
+    "sha256": "ddf24ad288b93329b74d8970b573780a2403f4e7535315bcedf086882316ca29"
+  },
+  {
+    "file": "data/v2/primary_source_catalog.json",
+    "sha256": "f510be229838fc73a37e43e50b502aa2b564334f7843d733aff7b74a1030633d",
+    "representation": "curated primary-source catalogue / dates / roles",
+    "retrieved_utc": "2026-10-01",
+    "url": "see per-source records"
+  }
+]

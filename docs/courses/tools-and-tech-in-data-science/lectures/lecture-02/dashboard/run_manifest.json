@@ -1,0 +1,19 @@
+{
+  "aqi_scheme": "US_EPA_PM25_2024_fixed_retrospective",
+  "concentration_rule": "truncate to 0.1 using Decimal",
+  "index_rounding": "nearest integer, half-up",
+  "unsupported": "missing or invalid inputs and above-table values return missing",
+  "annual_denominator": "observed valid days",
+  "matched_window": "Jan 1 to Feb 28 inclusive",
+  "input_sha256": {
+    "AQI-Data-20-22.csv": "b825ac56c52361b86ad41f73d7f5008b201c04a7902de3a40aeb6562674ee40c",
+    "AQI-Data-23.csv": "0187b9a63df38b2291ddf21fd10d27583ed2b29c7338cb2618dc9b5bb561c7d8"
+  },
+  "python": "3.12.10",
+  "packages": {
+    "numpy": "2.4.4",
+    "pandas": "3.0.5",
+    "matplotlib": "3.11.1",
+    "plotly": "7.0.0"
+  }
+}

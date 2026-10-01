@@ -1,0 +1,1155 @@
+Date,Temperature,Humidity,NO2,SO2,PM2.5,source_file,source_row,date_text,pm25_text,year,month,aqi,aqi_scheme,category,aqi_legacy,rule_difference,legacy_category,above_100,period
+2020-01-01,7.6,68.52,33.63,42.93,38.17,AQI-Data-20-22.csv,2,01/01/2020,38.17,2020,1,107,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,107,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-02,7.52,72.25,35.64,45.34,49.6,AQI-Data-20-22.csv,3,02/01/2020,49.6,2020,1,136,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,136,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-03,6.5,74.12,34.42,44.4,44.93,AQI-Data-20-22.csv,4,03/01/2020,44.93,2020,1,124,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,124,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-04,7.01,65.1,31.2,37.6,51.35,AQI-Data-20-22.csv,5,04/01/2020,51.35,2020,1,140,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,140,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-05,6.58,68.4,30.5,48.6,65.4,AQI-Data-20-22.csv,6,05/01/2020,65.4,2020,1,158,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,156,2,Unhealthy,True,2020-01
+2020-01-06,6.2,70.3,24.21,31.4,32.12,AQI-Data-20-22.csv,7,06/01/2020,32.12,2020,1,94,US_EPA_PM25_2024_fixed_retrospective,Moderate,93,1,Moderate,False,2020-01
+2020-01-07,6.88,74.2,29.6,32.6,44.3,AQI-Data-20-22.csv,8,07/01/2020,44.3,2020,1,123,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,123,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-08,6.53,79.0,33.63,78.88,50.36,AQI-Data-20-22.csv,9,08/01/2020,50.36,2020,1,137,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,137,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-09,6.54,70.0,34.8,66.03,40.72,AQI-Data-20-22.csv,10,09/01/2020,40.72,2020,1,114,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,114,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-10,6.37,68.2,33.27,70.09,38.9,AQI-Data-20-22.csv,11,10/01/2020,38.9,2020,1,109,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,109,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-11,6.3,51.3,34.63,60.3,45.7,AQI-Data-20-22.csv,12,11/01/2020,45.7,2020,1,126,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,126,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-12,5.61,47.2,30.4,44.1,27.3,AQI-Data-20-22.csv,13,12/01/2020,27.3,2020,1,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,83,2,Moderate,False,2020-01
+2020-01-13,5.44,50.36,30.2,35.21,22.6,AQI-Data-20-22.csv,14,13/01/2020,22.6,2020,1,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2020-01
+2020-01-14,5.42,54.8,32.71,33.8,30.4,AQI-Data-20-22.csv,15,14/01/2020,30.4,2020,1,91,US_EPA_PM25_2024_fixed_retrospective,Moderate,89,2,Moderate,False,2020-01
+2020-01-15,5.66,57.3,35.4,41.6,33.75,AQI-Data-20-22.csv,16,15/01/2020,33.75,2020,1,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,1,Moderate,False,2020-01
+2020-01-16,6.31,64.2,34.2,48.3,34.2,AQI-Data-20-22.csv,17,16/01/2020,34.2,2020,1,98,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,1,Moderate,False,2020-01
+2020-01-17,6.21,68.3,33.5,44.6,46.8,AQI-Data-20-22.csv,18,17/01/2020,46.8,2020,1,129,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,129,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-18,6.5,74.3,32.6,45.8,42.3,AQI-Data-20-22.csv,19,18/01/2020,42.3,2020,1,118,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,118,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-19,6.58,78.6,30.82,52.4,48.2,AQI-Data-20-22.csv,20,19/01/2020,48.2,2020,1,132,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,132,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-20,7.07,81.33,31.63,67.75,59.8,AQI-Data-20-22.csv,21,20/01/2020,59.8,2020,1,154,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,153,1,Unhealthy,True,2020-01
+2020-01-21,8.63,51.0,31.64,66.03,38.63,AQI-Data-20-22.csv,22,21/01/2020,38.63,2020,1,109,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,109,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-22,10.4,49.33,31.42,65.09,34.7,AQI-Data-20-22.csv,23,22/01/2020,34.7,2020,1,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,99,0,Moderate,False,2020-01
+2020-01-23,7.7,45.7,34.71,62.93,48.16,AQI-Data-20-22.csv,24,23/01/2020,48.16,2020,1,132,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,132,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-24,6.86,52.8,34.5,55.34,41.27,AQI-Data-20-22.csv,25,24/01/2020,41.27,2020,1,115,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,115,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-25,6.83,64.3,19.21,34.4,18.08,AQI-Data-20-22.csv,26,25/01/2020,18.08,2020,1,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,5,Moderate,False,2020-01
+2020-01-26,6.9,70.3,22.3,37.6,85.54,AQI-Data-20-22.csv,27,26/01/2020,85.54,2020,1,172,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,166,6,Unhealthy,True,2020-01
+2020-01-27,6.97,83.6,24.06,44.1,62.24,AQI-Data-20-22.csv,28,27/01/2020,62.24,2020,1,156,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,154,2,Unhealthy,True,2020-01
+2020-01-28,7.1,97.0,25.32,47.32,31.63,AQI-Data-20-22.csv,29,28/01/2020,31.63,2020,1,93,US_EPA_PM25_2024_fixed_retrospective,Moderate,92,1,Moderate,False,2020-01
+2020-01-29,11.7,64.0,21.16,37.01,40.26,AQI-Data-20-22.csv,30,29/01/2020,40.26,2020,1,113,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,113,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-30,12.6,49.66,23.16,42.2,53.02,AQI-Data-20-22.csv,31,30/01/2020,53.02,2020,1,144,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,144,0,Unhealthy for sensitive groups,True,2020-01
+2020-01-31,13.76,54.4,22.23,32.57,64.66,AQI-Data-20-22.csv,32,31/01/2020,64.66,2020,1,157,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,156,1,Unhealthy,True,2020-01
+2020-02-01,13.45,33.4,27.36,35.6,58.0,AQI-Data-20-22.csv,33,01/02/2020,58,2020,2,153,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,1,Unhealthy,True,2020-02
+2020-02-02,13.7,32.3,26.03,34.21,65.73,AQI-Data-20-22.csv,34,02/02/2020,65.73,2020,2,158,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,156,2,Unhealthy,True,2020-02
+2020-02-03,13.43,50.33,27.58,33.9,79.36,AQI-Data-20-22.csv,35,03/02/2020,79.36,2020,2,168,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,163,5,Unhealthy,True,2020-02
+2020-02-04,13.51,46.1,26.3,32.7,77.0,AQI-Data-20-22.csv,36,04/02/2020,77,2020,2,166,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,162,4,Unhealthy,True,2020-02
+2020-02-05,13.8,41.33,23.51,31.13,65.06,AQI-Data-20-22.csv,37,05/02/2020,65.06,2020,2,158,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,156,2,Unhealthy,True,2020-02
+2020-02-06,12.87,54.33,25.05,29.67,48.4,AQI-Data-20-22.csv,38,06/02/2020,48.4,2020,2,133,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,133,0,Unhealthy for sensitive groups,True,2020-02
+2020-02-07,13.2,56.2,24.6,35.6,79.0,AQI-Data-20-22.csv,39,07/02/2020,79,2020,2,167,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,163,4,Unhealthy,True,2020-02
+2020-02-08,13.71,55.8,25.2,31.9,82.0,AQI-Data-20-22.csv,40,08/02/2020,82,2020,2,170,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,165,5,Unhealthy,True,2020-02
+2020-02-09,14.43,57.66,23.66,32.35,75.87,AQI-Data-20-22.csv,41,09/02/2020,75.87,2020,2,165,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,161,4,Unhealthy,True,2020-02
+2020-02-10,15.06,46.33,28.92,44.25,103.04,AQI-Data-20-22.csv,42,10/02/2020,103.04,2020,2,184,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,176,8,Unhealthy,True,2020-02
+2020-02-11,14.56,59.0,30.0,44.21,92.23,AQI-Data-20-22.csv,43,11/02/2020,92.23,2020,2,177,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,170,7,Unhealthy,True,2020-02
+2020-02-12,14.0,65.0,23.93,32.49,87.91,AQI-Data-20-22.csv,44,12/02/2020,87.91,2020,2,174,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,168,6,Unhealthy,True,2020-02
+2020-02-13,14.6,71.4,21.53,29.21,66.66,AQI-Data-20-22.csv,45,13/02/2020,66.66,2020,2,159,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,157,2,Unhealthy,True,2020-02
+2020-02-14,15.33,73.7,18.72,25.94,29.65,AQI-Data-20-22.csv,46,14/02/2020,29.65,2020,2,89,US_EPA_PM25_2024_fixed_retrospective,Moderate,88,1,Moderate,False,2020-02
+2020-02-15,17.33,46.66,20.23,23.53,26.96,AQI-Data-20-22.csv,47,15/02/2020,26.96,2020,2,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2020-02
+2020-02-16,16.7,43.0,21.4,25.0,21.16,AQI-Data-20-22.csv,48,16/02/2020,21.16,2020,2,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2020-02
+2020-02-17,17.33,32.0,23.96,27.93,33.41,AQI-Data-20-22.csv,49,17/02/2020,33.41,2020,2,96,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,0,Moderate,False,2020-02
+2020-02-18,17.7,22.33,24.13,30.06,72.0,AQI-Data-20-22.csv,50,18/02/2020,72,2020,2,163,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,160,3,Unhealthy,True,2020-02
+2020-02-19,19.66,72.33,25.26,23.8,38.5,AQI-Data-20-22.csv,51,19/02/2020,38.5,2020,2,108,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,108,0,Unhealthy for sensitive groups,True,2020-02
+2020-02-20,17.33,92.66,23.86,23.06,21.25,AQI-Data-20-22.csv,52,20/02/2020,21.25,2020,2,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,4,Moderate,False,2020-02
+2020-02-21,17.81,81.2,32.8,28.4,73.0,AQI-Data-20-22.csv,53,21/02/2020,73,2020,2,163,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,160,3,Unhealthy,True,2020-02
+2020-02-22,18.8,74.6,29.51,24.3,32.0,AQI-Data-20-22.csv,54,22/02/2020,32,2020,2,94,US_EPA_PM25_2024_fixed_retrospective,Moderate,93,1,Moderate,False,2020-02
+2020-02-23,20.66,68.33,26.46,30.2,40.43,AQI-Data-20-22.csv,55,23/02/2020,40.43,2020,2,113,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,113,0,Unhealthy for sensitive groups,True,2020-02
+2020-02-24,20.0,66.33,28.3,30.5,39.33,AQI-Data-20-22.csv,56,24/02/2020,39.33,2020,2,110,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,110,0,Unhealthy for sensitive groups,True,2020-02
+2020-02-25,20.33,47.33,28.43,30.83,48.1,AQI-Data-20-22.csv,57,25/02/2020,48.1,2020,2,132,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,132,0,Unhealthy for sensitive groups,True,2020-02
+2020-02-26,20.7,42.0,30.93,33.66,56.7,AQI-Data-20-22.csv,58,26/02/2020,56.7,2020,2,152,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,0,Unhealthy,True,2020-02
+2020-02-27,20.33,71.0,30.7,33.66,55.33,AQI-Data-20-22.csv,59,27/02/2020,55.33,2020,2,150,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,150,0,Unhealthy for sensitive groups,True,2020-02
+2020-02-28,20.58,73.13,24.6,30.73,47.0,AQI-Data-20-22.csv,60,28/02/2020,47,2020,2,129,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,129,0,Unhealthy for sensitive groups,True,2020-02
+2020-02-29,20.7,64.4,22.82,27.34,26.0,AQI-Data-20-22.csv,61,29/02/2020,26,2020,2,82,US_EPA_PM25_2024_fixed_retrospective,Moderate,80,2,Moderate,False,2020-02
+2020-03-01,18.0,83.7,20.03,21.24,28.7,AQI-Data-20-22.csv,62,01/03/2020,28.7,2020,3,88,US_EPA_PM25_2024_fixed_retrospective,Moderate,86,2,Moderate,False,2020-03
+2020-03-02,19.7,55.33,18.4,19.53,29.7,AQI-Data-20-22.csv,63,02/03/2020,29.7,2020,3,89,US_EPA_PM25_2024_fixed_retrospective,Moderate,88,1,Moderate,False,2020-03
+2020-03-03,19.33,55.33,20.4,23.6,47.07,AQI-Data-20-22.csv,64,03/03/2020,47.07,2020,3,129,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,129,0,Unhealthy for sensitive groups,True,2020-03
+2020-03-04,17.7,97.7,20.66,22.1,34.66,AQI-Data-20-22.csv,65,04/03/2020,34.66,2020,3,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,98,1,Moderate,False,2020-03
+2020-03-05,16.5,92.2,20.31,23.4,27.2,AQI-Data-20-22.csv,66,05/03/2020,27.2,2020,3,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,83,2,Moderate,False,2020-03
+2020-03-06,16.33,94.0,20.44,24.43,25.0,AQI-Data-20-22.csv,67,06/03/2020,25,2020,3,81,US_EPA_PM25_2024_fixed_retrospective,Moderate,78,3,Moderate,False,2020-03
+2020-03-07,16.2,90.2,20.8,24.6,20.3,AQI-Data-20-22.csv,68,07/03/2020,20.3,2020,3,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,4,Moderate,False,2020-03
+2020-03-08,16.0,88.7,22.51,26.06,21.54,AQI-Data-20-22.csv,69,08/03/2020,21.54,2020,3,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,71,3,Moderate,False,2020-03
+2020-03-09,17.33,56.4,23.6,26.8,28.4,AQI-Data-20-22.csv,70,09/03/2020,28.4,2020,3,87,US_EPA_PM25_2024_fixed_retrospective,Moderate,85,2,Moderate,False,2020-03
+2020-03-10,17.66,45.33,25.08,27.15,53.46,AQI-Data-20-22.csv,71,10/03/2020,53.46,2020,3,145,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,145,0,Unhealthy for sensitive groups,True,2020-03
+2020-03-11,15.66,88.7,21.52,24.86,25.75,AQI-Data-20-22.csv,72,11/03/2020,25.75,2020,3,82,US_EPA_PM25_2024_fixed_retrospective,Moderate,80,2,Moderate,False,2020-03
+2020-03-12,14.7,97.33,19.83,23.33,17.83,AQI-Data-20-22.csv,73,12/03/2020,17.83,2020,3,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2020-03
+2020-03-13,16.0,63.7,19.1,22.73,24.1,AQI-Data-20-22.csv,74,13/03/2020,24.1,2020,3,79,US_EPA_PM25_2024_fixed_retrospective,Moderate,76,3,Moderate,False,2020-03
+2020-03-14,17.33,61.7,19.4,23.4,31.2,AQI-Data-20-22.csv,75,14/03/2020,31.2,2020,3,92,US_EPA_PM25_2024_fixed_retrospective,Moderate,91,1,Moderate,False,2020-03
+2020-03-15,18.7,63.33,19.7,23.6,33.33,AQI-Data-20-22.csv,76,15/03/2020,33.33,2020,3,96,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,0,Moderate,False,2020-03
+2020-03-16,16.0,56.66,18.54,23.2,35.0,AQI-Data-20-22.csv,77,16/03/2020,35,2020,3,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,99,0,Moderate,False,2020-03
+2020-03-17,16.7,53.0,16.9,23.96,34.05,AQI-Data-20-22.csv,78,17/03/2020,34.05,2020,3,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,0,Moderate,False,2020-03
+2020-03-18,17.33,52.33,19.3,26.23,41.31,AQI-Data-20-22.csv,79,18/03/2020,41.31,2020,3,115,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,115,0,Unhealthy for sensitive groups,True,2020-03
+2020-03-19,17.66,47.0,18.04,23.8,32.46,AQI-Data-20-22.csv,80,19/03/2020,32.46,2020,3,94,US_EPA_PM25_2024_fixed_retrospective,Moderate,94,0,Moderate,False,2020-03
+2020-03-20,18.33,42.33,16.96,19.43,19.74,AQI-Data-20-22.csv,81,20/03/2020,19.74,2020,3,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,67,4,Moderate,False,2020-03
+2020-03-21,17.2,54.8,16.8,19.31,20.4,AQI-Data-20-22.csv,82,21/03/2020,20.4,2020,3,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,4,Moderate,False,2020-03
+2020-03-22,16.8,70.0,16.6,19.4,22.6,AQI-Data-20-22.csv,83,22/03/2020,22.6,2020,3,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2020-03
+2020-03-23,16.6,83.6,16.5,19.21,17.8,AQI-Data-20-22.csv,84,23/03/2020,17.8,2020,3,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2020-03
+2020-03-24,16.33,94.66,16.1,19.5,16.67,AQI-Data-20-22.csv,85,24/03/2020,16.67,2020,3,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2020-03
+2020-03-25,17.33,87.7,15.36,18.86,21.8,AQI-Data-20-22.csv,86,25/03/2020,21.8,2020,3,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,71,4,Moderate,False,2020-03
+2020-03-26,17.7,59.0,14.26,14.93,18.97,AQI-Data-20-22.csv,87,26/03/2020,18.97,2020,3,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2020-03
+2020-03-27,17.7,96.0,12.93,13.3,16.17,AQI-Data-20-22.csv,88,27/03/2020,16.17,2020,3,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,5,Moderate,False,2020-03
+2020-03-28,17.33,88.0,11.8,14.4,10.9,AQI-Data-20-22.csv,89,28/03/2020,10.9,2020,3,54,US_EPA_PM25_2024_fixed_retrospective,Moderate,45,9,Good,False,2020-03
+2020-03-29,17.13,75.3,12.6,15.2,13.6,AQI-Data-20-22.csv,90,29/03/2020,13.6,2020,3,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,54,5,Moderate,False,2020-03
+2020-03-30,16.8,68.1,10.6,13.6,14.4,AQI-Data-20-22.csv,91,30/03/2020,14.4,2020,3,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2020-03
+2020-03-31,17.66,60.6,12.1,14.7,16.8,AQI-Data-20-22.csv,92,31/03/2020,16.8,2020,3,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,61,4,Moderate,False,2020-03
+2020-04-01,18.3,88.0,8.14,11.63,9.63,AQI-Data-20-22.csv,93,01/04/2020,9.63,2020,4,52,US_EPA_PM25_2024_fixed_retrospective,Moderate,40,12,Good,False,2020-04
+2020-04-02,18.8,46.0,8.47,11.24,12.6,AQI-Data-20-22.csv,94,02/04/2020,12.6,2020,4,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,6,Moderate,False,2020-04
+2020-04-03,19.0,87.0,9.24,12.6,11.43,AQI-Data-20-22.csv,95,03/04/2020,11.43,2020,4,55,US_EPA_PM25_2024_fixed_retrospective,Moderate,48,7,Good,False,2020-04
+2020-04-04,18.0,52.0,10.3,12.47,11.61,AQI-Data-20-22.csv,96,04/04/2020,11.61,2020,4,56,US_EPA_PM25_2024_fixed_retrospective,Moderate,48,8,Good,False,2020-04
+2020-04-05,18.8,87.0,9.87,12.35,12.46,AQI-Data-20-22.csv,97,05/04/2020,12.46,2020,4,57,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,5,Moderate,False,2020-04
+2020-04-06,19.0,37.0,8.93,14.6,14.63,AQI-Data-20-22.csv,98,06/04/2020,14.63,2020,4,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2020-04
+2020-04-07,20.0,43.0,10.3,13.8,12.4,AQI-Data-20-22.csv,99,07/04/2020,12.4,2020,4,57,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,5,Moderate,False,2020-04
+2020-04-08,21.0,45.0,10.5,13.93,21.3,AQI-Data-20-22.csv,100,08/04/2020,21.3,2020,4,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,4,Moderate,False,2020-04
+2020-04-09,18.33,54.33,11.4,14.06,19.54,AQI-Data-20-22.csv,101,09/04/2020,19.54,2020,4,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,67,3,Moderate,False,2020-04
+2020-04-10,18.8,50.33,9.61,13.4,18.63,AQI-Data-20-22.csv,102,10/04/2020,18.63,2020,4,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2020-04
+2020-04-11,18.3,42.6,9.45,13.16,15.34,AQI-Data-20-22.csv,103,11/04/2020,15.34,2020,4,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,5,Moderate,False,2020-04
+2020-04-12,19.7,38.33,10.23,12.86,24.04,AQI-Data-20-22.csv,104,12/04/2020,24.04,2020,4,79,US_EPA_PM25_2024_fixed_retrospective,Moderate,76,3,Moderate,False,2020-04
+2020-04-13,19.66,53.6,10.6,13.66,16.34,AQI-Data-20-22.csv,105,13/04/2020,16.34,2020,4,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,4,Moderate,False,2020-04
+2020-04-14,18.66,55.3,10.42,14.13,14.79,AQI-Data-20-22.csv,106,14/04/2020,14.79,2020,4,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2020-04
+2020-04-15,19.33,62.3,9.88,13.72,13.75,AQI-Data-20-22.csv,107,15/04/2020,13.75,2020,4,60,US_EPA_PM25_2024_fixed_retrospective,Moderate,54,6,Moderate,False,2020-04
+2020-04-16,19.11,78.1,9.53,14.37,14.62,AQI-Data-20-22.csv,108,16/04/2020,14.62,2020,4,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2020-04
+2020-04-17,19.0,97.33,9.26,11.4,15.45,AQI-Data-20-22.csv,109,17/04/2020,15.45,2020,4,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,5,Moderate,False,2020-04
+2020-04-18,19.33,63.0,8.92,10.06,12.84,AQI-Data-20-22.csv,110,18/04/2020,12.84,2020,4,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,6,Moderate,False,2020-04
+2020-04-19,20.0,46.7,8.46,10.11,13.52,AQI-Data-20-22.csv,111,19/04/2020,13.52,2020,4,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,54,5,Moderate,False,2020-04
+2020-04-20,19.33,53.7,9.93,12.83,18.47,AQI-Data-20-22.csv,112,20/04/2020,18.47,2020,4,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2020-04
+2020-04-21,20.33,49.6,10.18,13.6,19.11,AQI-Data-20-22.csv,113,21/04/2020,19.11,2020,4,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2020-04
+2020-04-22,20.66,45.0,10.06,12.82,21.33,AQI-Data-20-22.csv,114,22/04/2020,21.33,2020,4,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,4,Moderate,False,2020-04
+2020-04-23,19.66,50.0,11.34,13.68,20.6,AQI-Data-20-22.csv,115,23/04/2020,20.6,2020,4,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,3,Moderate,False,2020-04
+2020-04-24,20.11,48.0,10.66,14.71,19.22,AQI-Data-20-22.csv,116,24/04/2020,19.22,2020,4,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2020-04
+2020-04-25,20.33,100.0,10.78,15.23,18.6,AQI-Data-20-22.csv,117,25/04/2020,18.6,2020,4,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2020-04
+2020-04-26,19.66,67.33,9.4,11.63,23.89,AQI-Data-20-22.csv,118,26/04/2020,23.89,2020,4,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,76,2,Moderate,False,2020-04
+2020-04-27,20.33,88.7,9.36,12.84,20.9,AQI-Data-20-22.csv,119,27/04/2020,20.9,2020,4,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2020-04
+2020-04-28,20.33,55.33,13.34,15.46,30.69,AQI-Data-20-22.csv,120,28/04/2020,30.69,2020,4,91,US_EPA_PM25_2024_fixed_retrospective,Moderate,90,1,Moderate,False,2020-04
+2020-04-29,20.4,44.0,12.83,15.81,26.32,AQI-Data-20-22.csv,121,29/04/2020,26.32,2020,4,83,US_EPA_PM25_2024_fixed_retrospective,Moderate,81,2,Moderate,False,2020-04
+2020-04-30,20.66,38.0,12.61,16.56,26.06,AQI-Data-20-22.csv,122,30/04/2020,26.06,2020,4,82,US_EPA_PM25_2024_fixed_retrospective,Moderate,80,2,Moderate,False,2020-04
+2020-05-01,23.0,37.0,8.73,11.72,27.62,AQI-Data-20-22.csv,123,01/05/2020,27.62,2020,5,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,1,Moderate,False,2020-05
+2020-05-02,23.3,30.0,7.4,11.63,24.3,AQI-Data-20-22.csv,124,02/05/2020,24.3,2020,5,79,US_EPA_PM25_2024_fixed_retrospective,Moderate,77,2,Moderate,False,2020-05
+2020-05-03,22.5,28.0,8.24,11.81,22.3,AQI-Data-20-22.csv,125,03/05/2020,22.3,2020,5,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,4,Moderate,False,2020-05
+2020-05-04,24.5,54.3,10.3,15.7,18.3,AQI-Data-20-22.csv,126,04/05/2020,18.3,2020,5,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2020-05
+2020-05-05,22.5,44.0,12.6,14.9,16.4,AQI-Data-20-22.csv,127,05/05/2020,16.4,2020,5,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2020-05
+2020-05-06,25.0,33.0,13.74,14.78,11.47,AQI-Data-20-22.csv,128,06/05/2020,11.47,2020,5,55,US_EPA_PM25_2024_fixed_retrospective,Moderate,48,7,Good,False,2020-05
+2020-05-07,26.5,27.0,14.31,16.2,11.52,AQI-Data-20-22.csv,129,07/05/2020,11.52,2020,5,55,US_EPA_PM25_2024_fixed_retrospective,Moderate,48,7,Good,False,2020-05
+2020-05-08,27.5,43.7,11.34,14.56,19.43,AQI-Data-20-22.csv,130,08/05/2020,19.43,2020,5,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2020-05
+2020-05-09,25.0,48.0,10.92,13.7,20.03,AQI-Data-20-22.csv,131,09/05/2020,20.03,2020,5,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,3,Moderate,False,2020-05
+2020-05-10,27.5,55.6,11.86,13.51,20.85,AQI-Data-20-22.csv,132,10/05/2020,20.85,2020,5,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,4,Moderate,False,2020-05
+2020-05-11,22.33,76.3,11.53,12.86,20.13,AQI-Data-20-22.csv,133,11/05/2020,20.13,2020,5,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,3,Moderate,False,2020-05
+2020-05-12,23.0,78.0,11.83,14.7,22.27,AQI-Data-20-22.csv,134,12/05/2020,22.27,2020,5,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,3,Moderate,False,2020-05
+2020-05-13,28.5,53.0,12.6,16.3,11.47,AQI-Data-20-22.csv,135,13/05/2020,11.47,2020,5,55,US_EPA_PM25_2024_fixed_retrospective,Moderate,48,7,Good,False,2020-05
+2020-05-14,22.5,40.0,13.11,17.6,22.6,AQI-Data-20-22.csv,136,14/05/2020,22.6,2020,5,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2020-05
+2020-05-15,23.0,38.0,13.22,17.2,13.5,AQI-Data-20-22.csv,137,15/05/2020,13.5,2020,5,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,54,5,Moderate,False,2020-05
+2020-05-16,28.0,31.0,14.3,15.37,16.2,AQI-Data-20-22.csv,138,16/05/2020,16.2,2020,5,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,4,Moderate,False,2020-05
+2020-05-17,22.5,45.0,14.6,14.3,15.45,AQI-Data-20-22.csv,139,17/05/2020,15.45,2020,5,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,5,Moderate,False,2020-05
+2020-05-18,26.3,40.0,15.8,10.06,16.37,AQI-Data-20-22.csv,140,18/05/2020,16.37,2020,5,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,4,Moderate,False,2020-05
+2020-05-19,24.33,59.0,16.28,18.89,29.35,AQI-Data-20-22.csv,141,19/05/2020,29.35,2020,5,89,US_EPA_PM25_2024_fixed_retrospective,Moderate,87,2,Moderate,False,2020-05
+2020-05-20,26.5,53.7,9.93,12.83,28.57,AQI-Data-20-22.csv,142,20/05/2020,28.57,2020,5,87,US_EPA_PM25_2024_fixed_retrospective,Moderate,85,2,Moderate,False,2020-05
+2020-05-21,28.5,49.6,10.18,13.6,27.36,AQI-Data-20-22.csv,143,21/05/2020,27.36,2020,5,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,83,2,Moderate,False,2020-05
+2020-05-22,30.5,35.0,11.6,12.82,31.4,AQI-Data-20-22.csv,144,22/05/2020,31.4,2020,5,93,US_EPA_PM25_2024_fixed_retrospective,Moderate,92,1,Moderate,False,2020-05
+2020-05-23,29.5,78.0,10.88,13.68,21.8,AQI-Data-20-22.csv,145,23/05/2020,21.8,2020,5,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,71,4,Moderate,False,2020-05
+2020-05-24,29.0,66.0,11.73,14.71,29.64,AQI-Data-20-22.csv,146,24/05/2020,29.64,2020,5,89,US_EPA_PM25_2024_fixed_retrospective,Moderate,88,1,Moderate,False,2020-05
+2020-05-25,31.5,50.0,10.51,23.6,23.8,AQI-Data-20-22.csv,147,25/05/2020,23.8,2020,5,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,76,2,Moderate,False,2020-05
+2020-05-26,32.1,39.0,11.9,16.8,18.43,AQI-Data-20-22.csv,148,26/05/2020,18.43,2020,5,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2020-05
+2020-05-27,32.0,44.0,13.6,18.1,20.11,AQI-Data-20-22.csv,149,27/05/2020,20.11,2020,5,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,3,Moderate,False,2020-05
+2020-05-28,31.5,58.33,13.34,17.54,18.45,AQI-Data-20-22.csv,150,28/05/2020,18.45,2020,5,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2020-05
+2020-05-29,29.5,63.0,12.83,15.81,26.32,AQI-Data-20-22.csv,151,29/05/2020,26.32,2020,5,83,US_EPA_PM25_2024_fixed_retrospective,Moderate,81,2,Moderate,False,2020-05
+2020-05-30,28.6,48.0,12.61,16.6,17.8,AQI-Data-20-22.csv,152,30/05/2020,17.8,2020,5,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2020-05
+2020-05-31,29.5,45.0,14.4,17.33,16.23,AQI-Data-20-22.csv,153,31/05/2020,16.23,2020,5,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,4,Moderate,False,2020-05
+2020-06-01,29.0,37.0,8.73,11.72,23.62,AQI-Data-20-22.csv,154,01/06/2020,23.62,2020,6,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2020-06
+2020-06-02,31.3,30.0,7.4,11.63,20.8,AQI-Data-20-22.csv,155,02/06/2020,20.8,2020,6,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,4,Moderate,False,2020-06
+2020-06-03,29.5,28.0,8.24,11.81,22.3,AQI-Data-20-22.csv,156,03/06/2020,22.3,2020,6,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,4,Moderate,False,2020-06
+2020-06-04,30.33,54.3,10.3,15.7,18.3,AQI-Data-20-22.csv,157,04/06/2020,18.3,2020,6,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2020-06
+2020-06-05,33.3,44.0,12.6,14.9,16.4,AQI-Data-20-22.csv,158,05/06/2020,16.4,2020,6,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2020-06
+2020-06-06,31.5,33.0,13.74,14.78,13.2,AQI-Data-20-22.csv,159,06/06/2020,13.2,2020,6,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,53,6,Moderate,False,2020-06
+2020-06-07,33.4,27.0,14.31,16.2,12.61,AQI-Data-20-22.csv,160,07/06/2020,12.61,2020,6,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,6,Moderate,False,2020-06
+2020-06-08,31.5,43.7,11.34,14.56,17.5,AQI-Data-20-22.csv,161,08/06/2020,17.5,2020,6,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,62,5,Moderate,False,2020-06
+2020-06-09,25.0,48.0,10.92,13.7,18.3,AQI-Data-20-22.csv,162,09/06/2020,18.3,2020,6,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2020-06
+2020-06-10,27.5,55.6,11.86,13.51,18.8,AQI-Data-20-22.csv,163,10/06/2020,18.8,2020,6,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2020-06
+2020-06-11,31.0,76.3,11.53,12.86,20.13,AQI-Data-20-22.csv,164,11/06/2020,20.13,2020,6,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,3,Moderate,False,2020-06
+2020-06-12,30.6,78.0,11.83,14.7,16.3,AQI-Data-20-22.csv,165,12/06/2020,16.3,2020,6,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,4,Moderate,False,2020-06
+2020-06-13,32.5,53.0,12.6,16.3,15.41,AQI-Data-20-22.csv,166,13/06/2020,15.41,2020,6,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,5,Moderate,False,2020-06
+2020-06-14,31.8,40.0,13.11,17.6,13.66,AQI-Data-20-22.csv,167,14/06/2020,13.66,2020,6,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,54,5,Moderate,False,2020-06
+2020-06-15,31.33,38.0,13.22,17.2,18.6,AQI-Data-20-22.csv,168,15/06/2020,18.6,2020,6,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2020-06
+2020-06-16,30.0,15.0,16.0,22.23,21.3,AQI-Data-20-22.csv,169,16/06/2020,21.3,2020,6,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,4,Moderate,False,2020-06
+2020-06-17,30.33,15.7,16.53,22.82,21.45,AQI-Data-20-22.csv,170,17/06/2020,21.45,2020,6,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,71,3,Moderate,False,2020-06
+2020-06-18,30.66,40.0,15.8,10.06,20.13,AQI-Data-20-22.csv,171,18/06/2020,20.13,2020,6,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,3,Moderate,False,2020-06
+2020-06-19,32.4,59.0,16.28,18.89,18.22,AQI-Data-20-22.csv,172,19/06/2020,18.22,2020,6,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2020-06
+2020-06-20,34.0,53.7,9.93,12.83,19.8,AQI-Data-20-22.csv,173,20/06/2020,19.8,2020,6,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,67,4,Moderate,False,2020-06
+2020-06-21,31.33,49.6,10.18,13.6,27.3,AQI-Data-20-22.csv,174,21/06/2020,27.3,2020,6,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,83,2,Moderate,False,2020-06
+2020-06-22,32.5,35.0,11.6,12.82,33.8,AQI-Data-20-22.csv,175,22/06/2020,33.8,2020,6,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,0,Moderate,False,2020-06
+2020-06-23,32.0,47.66,15.4,21.09,22.74,AQI-Data-20-22.csv,176,23/06/2020,22.74,2020,6,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2020-06
+2020-06-24,33.5,50.0,10.3,14.5,20.6,AQI-Data-20-22.csv,177,24/06/2020,20.6,2020,6,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,3,Moderate,False,2020-06
+2020-06-25,32.8,58.0,14.7,15.3,20.38,AQI-Data-20-22.csv,178,25/06/2020,20.38,2020,6,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,4,Moderate,False,2020-06
+2020-06-26,33.0,56.0,13.8,16.5,21.46,AQI-Data-20-22.csv,179,26/06/2020,21.46,2020,6,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,71,3,Moderate,False,2020-06
+2020-06-27,32.0,78.0,14.31,16.2,15.8,AQI-Data-20-22.csv,180,27/06/2020,15.8,2020,6,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,4,Moderate,False,2020-06
+2020-06-28,31.0,83.0,11.88,15.11,15.4,AQI-Data-20-22.csv,181,28/06/2020,15.4,2020,6,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,5,Moderate,False,2020-06
+2020-06-29,33.3,53.0,13.1,14.6,19.3,AQI-Data-20-22.csv,182,29/06/2020,19.3,2020,6,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2020-06
+2020-06-30,32.7,38.0,14.2,14.87,22.86,AQI-Data-20-22.csv,183,30/06/2020,22.86,2020,6,77,US_EPA_PM25_2024_fixed_retrospective,Moderate,74,3,Moderate,False,2020-06
+2020-07-01,30.3,35.0,15.73,14.2,21.3,AQI-Data-20-22.csv,184,01/07/2020,21.3,2020,7,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,4,Moderate,False,2020-07
+2020-07-02,32.7,31.7,17.1,20.07,27.13,AQI-Data-20-22.csv,185,02/07/2020,27.13,2020,7,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,83,2,Moderate,False,2020-07
+2020-07-03,33.0,56.0,16.8,13.1,20.4,AQI-Data-20-22.csv,186,03/07/2020,20.4,2020,7,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,4,Moderate,False,2020-07
+2020-07-04,31.33,88.0,14.66,15.7,15.3,AQI-Data-20-22.csv,187,04/07/2020,15.3,2020,7,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,5,Moderate,False,2020-07
+2020-07-05,33.3,65.0,15.8,14.4,16.22,AQI-Data-20-22.csv,188,05/07/2020,16.22,2020,7,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,4,Moderate,False,2020-07
+2020-07-06,33.5,55.0,16.43,19.77,22.6,AQI-Data-20-22.csv,189,06/07/2020,22.6,2020,7,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2020-07
+2020-07-07,34.5,51.0,18.6,24.8,27.8,AQI-Data-20-22.csv,190,07/07/2020,27.8,2020,7,86,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,2,Moderate,False,2020-07
+2020-07-08,34.0,49.0,16.8,22.35,33.76,AQI-Data-20-22.csv,191,08/07/2020,33.76,2020,7,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,1,Moderate,False,2020-07
+2020-07-09,34.33,44.33,23.64,20.04,34.6,AQI-Data-20-22.csv,192,09/07/2020,34.6,2020,7,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,98,1,Moderate,False,2020-07
+2020-07-10,32.33,45.0,20.5,22.7,23.7,AQI-Data-20-22.csv,193,10/07/2020,23.7,2020,7,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2020-07
+2020-07-11,31.0,88.0,19.88,23.8,22.4,AQI-Data-20-22.csv,194,11/07/2020,22.4,2020,7,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2020-07
+2020-07-12,31.33,69.0,16.73,19.6,16.3,AQI-Data-20-22.csv,195,12/07/2020,16.3,2020,7,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,4,Moderate,False,2020-07
+2020-07-13,33.7,36.33,13.44,15.5,16.4,AQI-Data-20-22.csv,196,13/07/2020,16.4,2020,7,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2020-07
+2020-07-14,33.0,48.0,18.6,21.44,18.6,AQI-Data-20-22.csv,197,14/07/2020,18.6,2020,7,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2020-07
+2020-07-15,31.27,66.7,13.88,17.21,24.25,AQI-Data-20-22.csv,198,15/07/2020,24.25,2020,7,79,US_EPA_PM25_2024_fixed_retrospective,Moderate,76,3,Moderate,False,2020-07
+2020-07-16,33.66,62.33,13.5,16.7,26.7,AQI-Data-20-22.csv,199,16/07/2020,26.7,2020,7,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2020-07
+2020-07-17,30.0,80.0,20.6,28.9,33.8,AQI-Data-20-22.csv,200,17/07/2020,33.8,2020,7,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,0,Moderate,False,2020-07
+2020-07-18,31.0,56.0,27.5,39.4,40.88,AQI-Data-20-22.csv,201,18/07/2020,40.88,2020,7,114,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,114,0,Unhealthy for sensitive groups,True,2020-07
+2020-07-19,32.0,69.0,21.33,37.8,32.0,AQI-Data-20-22.csv,202,19/07/2020,32,2020,7,94,US_EPA_PM25_2024_fixed_retrospective,Moderate,93,1,Moderate,False,2020-07
+2020-07-20,33.3,42.0,20.7,35.88,31.6,AQI-Data-20-22.csv,203,20/07/2020,31.6,2020,7,93,US_EPA_PM25_2024_fixed_retrospective,Moderate,92,1,Moderate,False,2020-07
+2020-07-21,34.0,39.0,21.43,34.74,30.9,AQI-Data-20-22.csv,204,21/07/2020,30.9,2020,7,92,US_EPA_PM25_2024_fixed_retrospective,Moderate,91,1,Moderate,False,2020-07
+2020-07-22,33.6,45.0,22.1,33.6,28.4,AQI-Data-20-22.csv,205,22/07/2020,28.4,2020,7,87,US_EPA_PM25_2024_fixed_retrospective,Moderate,85,2,Moderate,False,2020-07
+2020-07-23,31.3,48.0,19.6,33.31,27.6,AQI-Data-20-22.csv,206,23/07/2020,27.6,2020,7,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,1,Moderate,False,2020-07
+2020-07-24,32.2,52.0,24.66,35.2,36.7,AQI-Data-20-22.csv,207,24/07/2020,36.7,2020,7,104,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,104,0,Unhealthy for sensitive groups,True,2020-07
+2020-07-25,30.3,86.0,22.8,31.6,30.8,AQI-Data-20-22.csv,208,25/07/2020,30.8,2020,7,91,US_EPA_PM25_2024_fixed_retrospective,Moderate,90,1,Moderate,False,2020-07
+2020-07-26,32.7,78.71,16.24,20.1,26.96,AQI-Data-20-22.csv,209,26/07/2020,26.96,2020,7,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2020-07
+2020-07-27,33.3,66.7,17.93,25.86,34.96,AQI-Data-20-22.csv,210,27/07/2020,34.96,2020,7,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,99,0,Moderate,False,2020-07
+2020-07-28,33.3,70.33,19.43,26.2,31.4,AQI-Data-20-22.csv,211,28/07/2020,31.4,2020,7,93,US_EPA_PM25_2024_fixed_retrospective,Moderate,92,1,Moderate,False,2020-07
+2020-07-29,32.0,68.0,16.93,21.83,28.9,AQI-Data-20-22.csv,212,29/07/2020,28.9,2020,7,88,US_EPA_PM25_2024_fixed_retrospective,Moderate,86,2,Moderate,False,2020-07
+2020-07-30,32.7,73.0,19.2,26.44,30.7,AQI-Data-20-22.csv,213,30/07/2020,30.7,2020,7,91,US_EPA_PM25_2024_fixed_retrospective,Moderate,90,1,Moderate,False,2020-07
+2020-07-31,34.0,66.0,18.7,25.88,28.6,AQI-Data-20-22.csv,214,31/07/2020,28.6,2020,7,87,US_EPA_PM25_2024_fixed_retrospective,Moderate,86,1,Moderate,False,2020-07
+2020-08-01,33.0,65.0,17.93,24.83,25.6,AQI-Data-20-22.csv,215,01/08/2020,25.6,2020,8,82,US_EPA_PM25_2024_fixed_retrospective,Moderate,79,3,Moderate,False,2020-08
+2020-08-02,33.7,62.0,20.6,28.7,27.9,AQI-Data-20-22.csv,216,02/08/2020,27.9,2020,8,86,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,2,Moderate,False,2020-08
+2020-08-03,34.0,58.0,18.7,29.6,28.33,AQI-Data-20-22.csv,217,03/08/2020,28.33,2020,8,87,US_EPA_PM25_2024_fixed_retrospective,Moderate,85,2,Moderate,False,2020-08
+2020-08-04,33.0,48.0,17.6,28.77,26.8,AQI-Data-20-22.csv,218,04/08/2020,26.8,2020,8,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2020-08
+2020-08-05,34.0,50.0,19.6,30.6,29.3,AQI-Data-20-22.csv,219,05/08/2020,29.3,2020,8,89,US_EPA_PM25_2024_fixed_retrospective,Moderate,87,2,Moderate,False,2020-08
+2020-08-06,35.0,51.0,18.9,25.8,20.6,AQI-Data-20-22.csv,220,06/08/2020,20.6,2020,8,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,3,Moderate,False,2020-08
+2020-08-07,29.0,57.0,18.3,26.1,21.9,AQI-Data-20-22.csv,221,07/08/2020,21.9,2020,8,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,3,Moderate,False,2020-08
+2020-08-08,32.0,61.0,17.6,24.6,22.5,AQI-Data-20-22.csv,222,08/08/2020,22.5,2020,8,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2020-08
+2020-08-09,31.0,65.0,17.5,26.4,21.3,AQI-Data-20-22.csv,223,09/08/2020,21.3,2020,8,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,4,Moderate,False,2020-08
+2020-08-10,32.0,96.7,17.3,21.16,20.03,AQI-Data-20-22.csv,224,10/08/2020,20.03,2020,8,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,3,Moderate,False,2020-08
+2020-08-11,31.0,80.7,19.54,24.03,30.6,AQI-Data-20-22.csv,225,11/08/2020,30.6,2020,8,91,US_EPA_PM25_2024_fixed_retrospective,Moderate,90,1,Moderate,False,2020-08
+2020-08-12,31.0,85.33,21.53,25.03,29.56,AQI-Data-20-22.csv,226,12/08/2020,29.56,2020,8,89,US_EPA_PM25_2024_fixed_retrospective,Moderate,88,1,Moderate,False,2020-08
+2020-08-13,33.0,63.0,24.9,33.6,31.3,AQI-Data-20-22.csv,227,13/08/2020,31.3,2020,8,92,US_EPA_PM25_2024_fixed_retrospective,Moderate,91,1,Moderate,False,2020-08
+2020-08-14,35.0,59.0,26.4,36.7,32.6,AQI-Data-20-22.csv,228,14/08/2020,32.6,2020,8,95,US_EPA_PM25_2024_fixed_retrospective,Moderate,94,1,Moderate,False,2020-08
+2020-08-15,34.0,43.0,20.6,27.3,40.8,AQI-Data-20-22.csv,229,15/08/2020,40.8,2020,8,114,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,114,0,Unhealthy for sensitive groups,True,2020-08
+2020-08-16,33.7,63.0,18.8,33.6,41.6,AQI-Data-20-22.csv,230,16/08/2020,41.6,2020,8,116,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,116,0,Unhealthy for sensitive groups,True,2020-08
+2020-08-17,35.0,70.0,21.6,24.9,23.4,AQI-Data-20-22.csv,231,17/08/2020,23.4,2020,8,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2020-08
+2020-08-18,34.0,82.0,20.1,25.1,20.6,AQI-Data-20-22.csv,232,18/08/2020,20.6,2020,8,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,3,Moderate,False,2020-08
+2020-08-19,35.0,70.0,21.6,24.5,19.2,AQI-Data-20-22.csv,233,19/08/2020,19.2,2020,8,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2020-08
+2020-08-20,34.0,82.0,18.2,23.21,17.66,AQI-Data-20-22.csv,234,20/08/2020,17.66,2020,8,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2020-08
+2020-08-21,33.7,56.0,18.4,23.6,18.1,AQI-Data-20-22.csv,235,21/08/2020,18.1,2020,8,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2020-08
+2020-08-22,33.3,63.0,19.7,24.9,18.72,AQI-Data-20-22.csv,236,22/08/2020,18.72,2020,8,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2020-08
+2020-08-23,34.0,59.33,15.3,18.27,17.52,AQI-Data-20-22.csv,237,23/08/2020,17.52,2020,8,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,62,5,Moderate,False,2020-08
+2020-08-24,33.7,68.0,19.19,24.4,27.8,AQI-Data-20-22.csv,238,24/08/2020,27.8,2020,8,86,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,2,Moderate,False,2020-08
+2020-08-25,32.7,88.33,19.5,26.8,28.5,AQI-Data-20-22.csv,239,25/08/2020,28.5,2020,8,87,US_EPA_PM25_2024_fixed_retrospective,Moderate,85,2,Moderate,False,2020-08
+2020-08-26,30.66,90.7,18.66,23.93,15.25,AQI-Data-20-22.csv,240,26/08/2020,15.25,2020,8,62,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,4,Moderate,False,2020-08
+2020-08-27,29.0,92.0,12.86,16.64,5.46,AQI-Data-20-22.csv,241,27/08/2020,5.46,2020,8,30,US_EPA_PM25_2024_fixed_retrospective,Good,23,7,Good,False,2020-08
+2020-08-28,33.0,88.0,17.3,22.4,12.6,AQI-Data-20-22.csv,242,28/08/2020,12.6,2020,8,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,6,Moderate,False,2020-08
+2020-08-29,31.0,86.0,16.8,20.6,11.7,AQI-Data-20-22.csv,243,29/08/2020,11.7,2020,8,56,US_EPA_PM25_2024_fixed_retrospective,Moderate,49,7,Good,False,2020-08
+2020-08-30,32.0,80.0,17.9,22.6,13.2,AQI-Data-20-22.csv,244,30/08/2020,13.2,2020,8,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,53,6,Moderate,False,2020-08
+2020-08-31,33.0,70.0,18.6,24.6,14.91,AQI-Data-20-22.csv,245,31/08/2020,14.91,2020,8,62,US_EPA_PM25_2024_fixed_retrospective,Moderate,57,5,Moderate,False,2020-08
+2020-09-01,30.0,68.0,20.11,25.2,22.1,AQI-Data-20-22.csv,246,01/09/2020,22.1,2020,9,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,3,Moderate,False,2020-09
+2020-09-02,32.0,63.0,18.7,24.7,20.3,AQI-Data-20-22.csv,247,02/09/2020,20.3,2020,9,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,4,Moderate,False,2020-09
+2020-09-03,31.0,77.0,18.2,24.41,19.1,AQI-Data-20-22.csv,248,03/09/2020,19.1,2020,9,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2020-09
+2020-09-04,32.0,83.0,18.5,27.4,18.6,AQI-Data-20-22.csv,249,04/09/2020,18.6,2020,9,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2020-09
+2020-09-05,31.0,75.0,19.7,28.66,19.4,AQI-Data-20-22.csv,250,05/09/2020,19.4,2020,9,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2020-09
+2020-09-06,30.0,61.33,15.36,19.77,11.94,AQI-Data-20-22.csv,251,06/09/2020,11.94,2020,9,56,US_EPA_PM25_2024_fixed_retrospective,Moderate,50,6,Good,False,2020-09
+2020-09-07,29.0,55.33,16.36,19.73,13.5,AQI-Data-20-22.csv,252,07/09/2020,13.5,2020,9,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,54,5,Moderate,False,2020-09
+2020-09-08,32.0,52.0,22.8,21.16,22.6,AQI-Data-20-22.csv,253,08/09/2020,22.6,2020,9,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2020-09
+2020-09-09,32.0,54.0,23.2,24.03,27.1,AQI-Data-20-22.csv,254,09/09/2020,27.1,2020,9,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,83,2,Moderate,False,2020-09
+2020-09-10,31.0,59.0,25.8,38.7,28.7,AQI-Data-20-22.csv,255,10/09/2020,28.7,2020,9,88,US_EPA_PM25_2024_fixed_retrospective,Moderate,86,2,Moderate,False,2020-09
+2020-09-11,31.0,64.0,19.54,24.03,26.4,AQI-Data-20-22.csv,256,11/09/2020,26.4,2020,9,83,US_EPA_PM25_2024_fixed_retrospective,Moderate,81,2,Moderate,False,2020-09
+2020-09-12,33.0,55.0,23.7,26.7,29.3,AQI-Data-20-22.csv,257,12/09/2020,29.3,2020,9,89,US_EPA_PM25_2024_fixed_retrospective,Moderate,87,2,Moderate,False,2020-09
+2020-09-13,32.3,66.0,26.42,30.6,34.2,AQI-Data-20-22.csv,258,13/09/2020,34.2,2020,9,98,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,1,Moderate,False,2020-09
+2020-09-14,33.0,58.0,25.6,29.4,31.9,AQI-Data-20-22.csv,259,14/09/2020,31.9,2020,9,93,US_EPA_PM25_2024_fixed_retrospective,Moderate,93,0,Moderate,False,2020-09
+2020-09-15,34.0,62.0,26.4,28.6,31.4,AQI-Data-20-22.csv,260,15/09/2020,31.4,2020,9,93,US_EPA_PM25_2024_fixed_retrospective,Moderate,92,1,Moderate,False,2020-09
+2020-09-16,34.0,59.0,27.1,32.7,34.2,AQI-Data-20-22.csv,261,16/09/2020,34.2,2020,9,98,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,1,Moderate,False,2020-09
+2020-09-17,34.5,66.0,26.4,32.5,33.1,AQI-Data-20-22.csv,262,17/09/2020,33.1,2020,9,96,US_EPA_PM25_2024_fixed_retrospective,Moderate,95,1,Moderate,False,2020-09
+2020-09-18,34.7,47.0,24.3,30.8,25.9,AQI-Data-20-22.csv,263,18/09/2020,25.9,2020,9,82,US_EPA_PM25_2024_fixed_retrospective,Moderate,80,2,Moderate,False,2020-09
+2020-09-19,34.5,41.0,23.7,28.9,23.4,AQI-Data-20-22.csv,264,19/09/2020,23.4,2020,9,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2020-09
+2020-09-20,34.0,64.0,24.8,29.6,25.3,AQI-Data-20-22.csv,265,20/09/2020,25.3,2020,9,81,US_EPA_PM25_2024_fixed_retrospective,Moderate,79,2,Moderate,False,2020-09
+2020-09-21,34.3,44.0,25.71,31.6,29.4,AQI-Data-20-22.csv,266,21/09/2020,29.4,2020,9,89,US_EPA_PM25_2024_fixed_retrospective,Moderate,87,2,Moderate,False,2020-09
+2020-09-22,34.0,44.0,27.53,33.2,32.8,AQI-Data-20-22.csv,267,22/09/2020,32.8,2020,9,95,US_EPA_PM25_2024_fixed_retrospective,Moderate,95,0,Moderate,False,2020-09
+2020-09-23,33.0,48.0,22.3,25.8,18.7,AQI-Data-20-22.csv,268,23/09/2020,18.7,2020,9,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2020-09
+2020-09-24,30.0,44.33,19.73,24.3,19.35,AQI-Data-20-22.csv,269,24/09/2020,19.35,2020,9,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2020-09
+2020-09-25,30.0,55.0,17.8,24.2,18.9,AQI-Data-20-22.csv,270,25/09/2020,18.9,2020,9,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2020-09
+2020-09-26,31.3,44.0,15.3,21.4,14.5,AQI-Data-20-22.csv,271,26/09/2020,14.5,2020,9,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2020-09
+2020-09-27,29.33,42.0,21.4,26.26,26.0,AQI-Data-20-22.csv,272,27/09/2020,26,2020,9,82,US_EPA_PM25_2024_fixed_retrospective,Moderate,80,2,Moderate,False,2020-09
+2020-09-28,30.3,39.0,22.24,31.2,29.93,AQI-Data-20-22.csv,273,28/09/2020,29.93,2020,9,90,US_EPA_PM25_2024_fixed_retrospective,Moderate,88,2,Moderate,False,2020-09
+2020-09-29,30.0,36.0,20.6,29.5,24.6,AQI-Data-20-22.csv,274,29/09/2020,24.6,2020,9,80,US_EPA_PM25_2024_fixed_retrospective,Moderate,77,3,Moderate,False,2020-09
+2020-09-30,29.0,37.0,18.6,24.7,20.8,AQI-Data-20-22.csv,275,30/09/2020,20.8,2020,9,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,4,Moderate,False,2020-09
+2020-10-01,29.0,38.0,20.11,25.2,26.8,AQI-Data-20-22.csv,276,01/10/2020,26.8,2020,10,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2020-10
+2020-10-02,29.3,29.0,23.2,28.4,31.43,AQI-Data-20-22.csv,277,02/10/2020,31.43,2020,10,93,US_EPA_PM25_2024_fixed_retrospective,Moderate,92,1,Moderate,False,2020-10
+2020-10-03,29.0,30.0,21.7,25.2,27.5,AQI-Data-20-22.csv,278,03/10/2020,27.5,2020,10,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,83,2,Moderate,False,2020-10
+2020-10-04,28.5,31.0,20.6,25.8,25.4,AQI-Data-20-22.csv,279,04/10/2020,25.4,2020,10,81,US_EPA_PM25_2024_fixed_retrospective,Moderate,79,2,Moderate,False,2020-10
+2020-10-05,28.0,34.0,21.11,25.4,26.9,AQI-Data-20-22.csv,280,05/10/2020,26.9,2020,10,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2020-10
+2020-10-06,28.5,21.0,18.6,22.3,18.78,AQI-Data-20-22.csv,281,06/10/2020,18.78,2020,10,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2020-10
+2020-10-07,29.0,24.0,17.1,18.8,16.5,AQI-Data-20-22.csv,282,07/10/2020,16.5,2020,10,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2020-10
+2020-10-08,28.0,26.0,18.9,23.2,22.6,AQI-Data-20-22.csv,283,08/10/2020,22.6,2020,10,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2020-10
+2020-10-09,28.5,28.0,23.7,33.1,27.6,AQI-Data-20-22.csv,284,09/10/2020,27.6,2020,10,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,1,Moderate,False,2020-10
+2020-10-10,28.3,31.0,26.3,34.5,30.1,AQI-Data-20-22.csv,285,10/10/2020,30.1,2020,10,90,US_EPA_PM25_2024_fixed_retrospective,Moderate,89,1,Moderate,False,2020-10
+2020-10-11,28.1,32.0,19.54,32.4,29.7,AQI-Data-20-22.csv,286,11/10/2020,29.7,2020,10,89,US_EPA_PM25_2024_fixed_retrospective,Moderate,88,1,Moderate,False,2020-10
+2020-10-12,28.0,33.0,23.7,33.6,31.4,AQI-Data-20-22.csv,287,12/10/2020,31.4,2020,10,93,US_EPA_PM25_2024_fixed_retrospective,Moderate,92,1,Moderate,False,2020-10
+2020-10-13,28.0,34.0,24.3,36.1,33.9,AQI-Data-20-22.csv,288,13/10/2020,33.9,2020,10,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,0,Moderate,False,2020-10
+2020-10-14,27.5,27.0,24.1,27.3,29.0,AQI-Data-20-22.csv,289,14/10/2020,29,2020,10,88,US_EPA_PM25_2024_fixed_retrospective,Moderate,87,1,Moderate,False,2020-10
+2020-10-15,27.0,22.0,24.7,29.2,31.0,AQI-Data-20-22.csv,290,15/10/2020,31,2020,10,92,US_EPA_PM25_2024_fixed_retrospective,Moderate,91,1,Moderate,False,2020-10
+2020-10-16,27.0,23.0,23.5,28.1,27.4,AQI-Data-20-22.csv,291,16/10/2020,27.4,2020,10,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,83,2,Moderate,False,2020-10
+2020-10-17,27.0,21.0,26.4,32.5,33.1,AQI-Data-20-22.csv,292,17/10/2020,33.1,2020,10,96,US_EPA_PM25_2024_fixed_retrospective,Moderate,95,1,Moderate,False,2020-10
+2020-10-18,26.5,23.0,24.3,30.8,26.3,AQI-Data-20-22.csv,293,18/10/2020,26.3,2020,10,83,US_EPA_PM25_2024_fixed_retrospective,Moderate,81,2,Moderate,False,2020-10
+2020-10-19,26.0,25.0,26.4,32.9,34.9,AQI-Data-20-22.csv,294,19/10/2020,34.9,2020,10,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,99,0,Moderate,False,2020-10
+2020-10-20,26.0,30.0,23.8,28.6,29.4,AQI-Data-20-22.csv,295,20/10/2020,29.4,2020,10,89,US_EPA_PM25_2024_fixed_retrospective,Moderate,87,2,Moderate,False,2020-10
+2020-10-21,25.0,32.0,25.71,32.4,42.0,AQI-Data-20-22.csv,296,21/10/2020,42,2020,10,117,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,117,0,Unhealthy for sensitive groups,True,2020-10
+2020-10-22,24.0,33.0,38.3,49.6,59.3,AQI-Data-20-22.csv,297,22/10/2020,59.3,2020,10,154,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,153,1,Unhealthy,True,2020-10
+2020-10-23,23.0,52.0,44.2,51.2,62.1,AQI-Data-20-22.csv,298,23/10/2020,62.1,2020,10,156,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,154,2,Unhealthy,True,2020-10
+2020-10-24,23.0,27.0,47.8,56.7,68.51,AQI-Data-20-22.csv,299,24/10/2020,68.51,2020,10,160,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,158,2,Unhealthy,True,2020-10
+2020-10-25,22.5,28.0,28.9,32.8,35.8,AQI-Data-20-22.csv,300,25/10/2020,35.8,2020,10,102,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,102,0,Unhealthy for sensitive groups,True,2020-10
+2020-10-26,22.0,22.0,27.8,33.4,36.9,AQI-Data-20-22.csv,301,26/10/2020,36.9,2020,10,104,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,104,0,Unhealthy for sensitive groups,True,2020-10
+2020-10-27,22.0,28.0,35.4,40.8,43.0,AQI-Data-20-22.csv,302,27/10/2020,43,2020,10,119,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,119,0,Unhealthy for sensitive groups,True,2020-10
+2020-10-28,21.0,27.0,36.6,39.22,42.8,AQI-Data-20-22.csv,303,28/10/2020,42.8,2020,10,119,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,119,0,Unhealthy for sensitive groups,True,2020-10
+2020-10-29,20.0,31.0,37.3,40.4,43.7,AQI-Data-20-22.csv,304,29/10/2020,43.7,2020,10,121,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,121,0,Unhealthy for sensitive groups,True,2020-10
+2020-10-30,21.0,32.0,33.8,35.3,32.4,AQI-Data-20-22.csv,305,30/10/2020,32.4,2020,10,94,US_EPA_PM25_2024_fixed_retrospective,Moderate,94,0,Moderate,False,2020-10
+2020-11-01,20.5,32.0,20.11,25.2,33.5,AQI-Data-20-22.csv,306,01/11/2020,33.5,2020,11,96,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,0,Moderate,False,2020-11
+2020-11-02,21.0,33.0,23.2,28.4,27.6,AQI-Data-20-22.csv,307,02/11/2020,27.6,2020,11,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,1,Moderate,False,2020-11
+2020-11-03,20.3,27.0,21.7,25.2,36.4,AQI-Data-20-22.csv,308,03/11/2020,36.4,2020,11,103,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,103,0,Unhealthy for sensitive groups,True,2020-11
+2020-11-04,19.5,24.0,26.7,30.8,34.2,AQI-Data-20-22.csv,309,04/11/2020,34.2,2020,11,98,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,1,Moderate,False,2020-11
+2020-11-05,19.0,20.0,32.8,44.9,45.7,AQI-Data-20-22.csv,310,05/11/2020,45.7,2020,11,126,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,126,0,Unhealthy for sensitive groups,True,2020-11
+2020-11-06,18.3,28.0,33.2,41.8,44.8,AQI-Data-20-22.csv,311,06/11/2020,44.8,2020,11,124,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,124,0,Unhealthy for sensitive groups,True,2020-11
+2020-11-07,18.5,32.0,33.8,43.2,45.8,AQI-Data-20-22.csv,312,07/11/2020,45.8,2020,11,126,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,126,0,Unhealthy for sensitive groups,True,2020-11
+2020-11-08,19.3,37.0,38.4,47.6,48.0,AQI-Data-20-22.csv,313,08/11/2020,48,2020,11,132,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,132,0,Unhealthy for sensitive groups,True,2020-11
+2020-11-09,18.3,44.0,39.8,49.2,54.0,AQI-Data-20-22.csv,314,09/11/2020,54,2020,11,147,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,147,0,Unhealthy for sensitive groups,True,2020-11
+2020-11-10,18.0,59.0,42.5,51.7,63.0,AQI-Data-20-22.csv,315,10/11/2020,63,2020,11,156,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,155,1,Unhealthy,True,2020-11
+2020-11-11,18.3,35.0,44.6,57.4,64.1,AQI-Data-20-22.csv,316,11/11/2020,64.1,2020,11,157,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,155,2,Unhealthy,True,2020-11
+2020-11-12,17.5,40.0,45.7,56.81,62.3,AQI-Data-20-22.csv,317,12/11/2020,62.3,2020,11,156,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,155,1,Unhealthy,True,2020-11
+2020-11-13,17.0,39.0,45.23,51.3,53.7,AQI-Data-20-22.csv,318,13/11/2020,53.7,2020,11,146,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,146,0,Unhealthy for sensitive groups,True,2020-11
+2020-11-14,16.0,77.0,29.7,33.4,35.0,AQI-Data-20-22.csv,319,14/11/2020,35,2020,11,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,99,0,Moderate,False,2020-11
+2020-11-15,15.0,100.0,28.6,31.8,33.7,AQI-Data-20-22.csv,320,15/11/2020,33.7,2020,11,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,1,Moderate,False,2020-11
+2020-11-16,16.3,93.0,18.8,22.4,17.8,AQI-Data-20-22.csv,321,16/11/2020,17.8,2020,11,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2020-11
+2020-11-17,16.5,65.0,21.3,24.5,23.4,AQI-Data-20-22.csv,322,17/11/2020,23.4,2020,11,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2020-11
+2020-11-18,17.5,50.0,25.2,28.1,30.9,AQI-Data-20-22.csv,323,18/11/2020,30.9,2020,11,92,US_EPA_PM25_2024_fixed_retrospective,Moderate,91,1,Moderate,False,2020-11
+2020-11-19,18.3,43.0,28.9,32.2,33.6,AQI-Data-20-22.csv,324,19/11/2020,33.6,2020,11,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,1,Moderate,False,2020-11
+2020-11-20,18.5,38.0,37.6,45.3,47.8,AQI-Data-20-22.csv,325,20/11/2020,47.8,2020,11,131,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,131,0,Unhealthy for sensitive groups,True,2020-11
+2020-11-21,18.33,35.0,38.4,48.6,48.3,AQI-Data-20-22.csv,326,21/11/2020,48.3,2020,11,133,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,133,0,Unhealthy for sensitive groups,True,2020-11
+2020-11-22,17.8,37.0,35.1,50.2,39.8,AQI-Data-20-22.csv,327,22/11/2020,39.8,2020,11,112,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,112,0,Unhealthy for sensitive groups,True,2020-11
+2020-11-23,17.0,39.0,31.6,40.2,33.9,AQI-Data-20-22.csv,328,23/11/2020,33.9,2020,11,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,0,Moderate,False,2020-11
+2020-11-24,16.5,42.0,36.2,44.8,37.9,AQI-Data-20-22.csv,329,24/11/2020,37.9,2020,11,107,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,107,0,Unhealthy for sensitive groups,True,2020-11
+2020-11-25,16.8,63.0,26.4,31.9,34.1,AQI-Data-20-22.csv,330,25/11/2020,34.1,2020,11,98,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,1,Moderate,False,2020-11
+2020-11-26,15.5,46.0,31.8,37.6,39.7,AQI-Data-20-22.csv,331,26/11/2020,39.7,2020,11,111,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,111,0,Unhealthy for sensitive groups,True,2020-11
+2020-11-27,15.8,55.0,22.11,28.2,26.4,AQI-Data-20-22.csv,332,27/11/2020,26.4,2020,11,83,US_EPA_PM25_2024_fixed_retrospective,Moderate,81,2,Moderate,False,2020-11
+2020-11-28,14.5,64.0,25.2,29.4,28.3,AQI-Data-20-22.csv,333,28/11/2020,28.3,2020,11,87,US_EPA_PM25_2024_fixed_retrospective,Moderate,85,2,Moderate,False,2020-11
+2020-11-29,14.8,70.0,26.7,30.2,32.8,AQI-Data-20-22.csv,334,29/11/2020,32.8,2020,11,95,US_EPA_PM25_2024_fixed_retrospective,Moderate,95,0,Moderate,False,2020-11
+2020-11-30,16.0,55.0,33.4,38.1,40.5,AQI-Data-20-22.csv,335,30/11/2020,40.5,2020,11,113,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,113,0,Unhealthy for sensitive groups,True,2020-11
+2020-12-01,17.3,38.0,19.2,26.2,48.9,AQI-Data-20-22.csv,336,01/12/2020,48.9,2020,12,134,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,134,0,Unhealthy for sensitive groups,True,2020-12
+2020-12-02,16.5,33.0,23.6,37.1,59.7,AQI-Data-20-22.csv,337,02/12/2020,59.7,2020,12,154,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,153,1,Unhealthy,True,2020-12
+2020-12-03,16.0,39.0,18.21,35.2,44.7,AQI-Data-20-22.csv,338,03/12/2020,44.7,2020,12,124,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,124,0,Unhealthy for sensitive groups,True,2020-12
+2020-12-04,15.0,87.0,25.3,35.5,57.8,AQI-Data-20-22.csv,339,04/12/2020,57.8,2020,12,153,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,1,Unhealthy,True,2020-12
+2020-12-05,15.5,60.0,16.8,29.4,44.0,AQI-Data-20-22.csv,340,05/12/2020,44,2020,12,122,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,122,0,Unhealthy for sensitive groups,True,2020-12
+2020-12-06,15.3,56.0,17.81,31.2,45.7,AQI-Data-20-22.csv,341,06/12/2020,45.7,2020,12,126,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,126,0,Unhealthy for sensitive groups,True,2020-12
+2020-12-07,14.5,66.0,31.4,36.1,58.3,AQI-Data-20-22.csv,342,07/12/2020,58.3,2020,12,153,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,1,Unhealthy,True,2020-12
+2020-12-08,13.0,81.33,21.36,29.63,26.7,AQI-Data-20-22.csv,343,08/12/2020,26.7,2020,12,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2020-12
+2020-12-09,13.66,86.7,29.53,40.76,43.03,AQI-Data-20-22.csv,344,09/12/2020,43.03,2020,12,119,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,119,0,Unhealthy for sensitive groups,True,2020-12
+2020-12-10,14.0,73.0,31.3,34.2,37.4,AQI-Data-20-22.csv,345,10/12/2020,37.4,2020,12,106,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,106,0,Unhealthy for sensitive groups,True,2020-12
+2020-12-11,13.0,87.0,19.8,33.7,36.0,AQI-Data-20-22.csv,346,11/12/2020,36,2020,12,102,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,102,0,Unhealthy for sensitive groups,True,2020-12
+2020-12-12,11.0,100.0,13.6,15.3,12.9,AQI-Data-20-22.csv,347,12/12/2020,12.9,2020,12,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,53,5,Moderate,False,2020-12
+2020-12-13,10.0,88.0,19.2,23.8,25.9,AQI-Data-20-22.csv,348,13/12/2020,25.9,2020,12,82,US_EPA_PM25_2024_fixed_retrospective,Moderate,80,2,Moderate,False,2020-12
+2020-12-14,9.3,90.0,32.6,42.4,43.6,AQI-Data-20-22.csv,349,14/12/2020,43.6,2020,12,121,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,121,0,Unhealthy for sensitive groups,True,2020-12
+2020-12-15,9.0,92.0,39.5,49.3,53.0,AQI-Data-20-22.csv,350,15/12/2020,53,2020,12,144,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,144,0,Unhealthy for sensitive groups,True,2020-12
+2020-12-16,9.0,69.0,33.9,43.6,40.8,AQI-Data-20-22.csv,351,16/12/2020,40.8,2020,12,114,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,114,0,Unhealthy for sensitive groups,True,2020-12
+2020-12-17,8.0,65.0,33.4,38.9,34.3,AQI-Data-20-22.csv,352,17/12/2020,34.3,2020,12,98,US_EPA_PM25_2024_fixed_retrospective,Moderate,98,0,Moderate,False,2020-12
+2020-12-18,9.7,44.33,17.5,26.5,47.8,AQI-Data-20-22.csv,353,18/12/2020,47.8,2020,12,131,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,131,0,Unhealthy for sensitive groups,True,2020-12
+2020-12-19,9.6,32.6,25.36,34.73,53.14,AQI-Data-20-22.csv,354,19/12/2020,53.14,2020,12,144,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,144,0,Unhealthy for sensitive groups,True,2020-12
+2020-12-20,9.3,40.0,24.8,35.6,61.31,AQI-Data-20-22.csv,355,20/12/2020,61.31,2020,12,155,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,154,1,Unhealthy,True,2020-12
+2020-12-21,9.2,39.33,25.63,35.26,62.76,AQI-Data-20-22.csv,356,21/12/2020,62.76,2020,12,156,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,155,1,Unhealthy,True,2020-12
+2020-12-22,9.3,46.6,20.8,29.36,63.76,AQI-Data-20-22.csv,357,22/12/2020,63.76,2020,12,157,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,155,2,Unhealthy,True,2020-12
+2020-12-23,9.3,63.7,23.4,35.46,66.21,AQI-Data-20-22.csv,358,23/12/2020,66.21,2020,12,159,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,157,2,Unhealthy,True,2020-12
+2020-12-24,8.3,62.0,25.3,39.6,74.3,AQI-Data-20-22.csv,359,24/12/2020,74.3,2020,12,164,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,161,3,Unhealthy,True,2020-12
+2020-12-25,8.0,63.0,27.6,40.3,82.3,AQI-Data-20-22.csv,360,25/12/2020,82.3,2020,12,170,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,165,5,Unhealthy,True,2020-12
+2020-12-26,7.0,82.0,22.4,35.1,58.0,AQI-Data-20-22.csv,361,26/12/2020,58,2020,12,153,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,1,Unhealthy,True,2020-12
+2020-12-27,7.0,95.0,23.3,33.06,71.93,AQI-Data-20-22.csv,362,27/12/2020,71.93,2020,12,162,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,159,3,Unhealthy,True,2020-12
+2020-12-28,7.6,80.0,20.17,28.83,47.86,AQI-Data-20-22.csv,363,28/12/2020,47.86,2020,12,131,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,131,0,Unhealthy for sensitive groups,True,2020-12
+2020-12-29,7.66,62.33,21.03,33.8,55.83,AQI-Data-20-22.csv,364,29/12/2020,55.83,2020,12,151,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,151,0,Unhealthy,True,2020-12
+2020-12-30,6.0,69.0,24.8,36.77,68.8,AQI-Data-20-22.csv,365,30/12/2020,68.8,2020,12,160,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,158,2,Unhealthy,True,2020-12
+2020-12-31,6.0,58.0,21.22,34.6,57.66,AQI-Data-20-22.csv,366,31/12/2020,57.66,2020,12,152,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,0,Unhealthy,True,2020-12
+2021-01-01,6.0,26.0,19.2,26.2,48.9,AQI-Data-20-22.csv,367,01/01/2021,48.9,2021,1,134,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,134,0,Unhealthy for sensitive groups,True,2021-01
+2021-01-02,6.0,68.0,23.6,37.1,56.4,AQI-Data-20-22.csv,368,02/01/2021,56.4,2021,1,152,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,151,1,Unhealthy,True,2021-01
+2021-01-03,6.0,96.0,18.21,31.6,38.3,AQI-Data-20-22.csv,369,03/01/2021,38.3,2021,1,108,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,108,0,Unhealthy for sensitive groups,True,2021-01
+2021-01-04,6.0,88.0,20.9,32.4,44.9,AQI-Data-20-22.csv,370,04/01/2021,44.9,2021,1,124,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,124,0,Unhealthy for sensitive groups,True,2021-01
+2021-01-05,11.0,100.0,13.72,21.9,23.61,AQI-Data-20-22.csv,371,05/01/2021,23.61,2021,1,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2021-01
+2021-01-06,8.6,79.33,14.46,21.8,24.76,AQI-Data-20-22.csv,372,06/01/2021,24.76,2021,1,80,US_EPA_PM25_2024_fixed_retrospective,Moderate,77,3,Moderate,False,2021-01
+2021-01-07,9.0,57.0,22.03,32.96,41.9,AQI-Data-20-22.csv,373,07/01/2021,41.9,2021,1,117,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,117,0,Unhealthy for sensitive groups,True,2021-01
+2021-01-08,8.0,86.0,25.8,40.6,59.2,AQI-Data-20-22.csv,374,08/01/2021,59.2,2021,1,154,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,153,1,Unhealthy,True,2021-01
+2021-01-09,7.0,71.0,24.6,41.5,57.6,AQI-Data-20-22.csv,375,09/01/2021,57.6,2021,1,152,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,0,Unhealthy,True,2021-01
+2021-01-10,8.0,62.7,31.7,41.36,61.55,AQI-Data-20-22.csv,376,10/01/2021,61.55,2021,1,155,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,154,1,Unhealthy,True,2021-01
+2021-01-11,8.5,71.33,37.92,45.65,74.82,AQI-Data-20-22.csv,377,11/01/2021,74.82,2021,1,165,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,161,4,Unhealthy,True,2021-01
+2021-01-12,8.3,56.33,37.8,40.43,57.8,AQI-Data-20-22.csv,378,12/01/2021,57.8,2021,1,153,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,1,Unhealthy,True,2021-01
+2021-01-13,8.0,56.33,29.26,39.06,60.57,AQI-Data-20-22.csv,379,13/01/2021,60.57,2021,1,155,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,154,1,Unhealthy,True,2021-01
+2021-01-14,8.5,63.0,32.6,42.6,71.4,AQI-Data-20-22.csv,380,14/01/2021,71.4,2021,1,162,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,159,3,Unhealthy,True,2021-01
+2021-01-15,8.0,62.0,33.7,40.3,68.9,AQI-Data-20-22.csv,381,15/01/2021,68.9,2021,1,160,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,158,2,Unhealthy,True,2021-01
+2021-01-16,8.3,56.0,34.6,42.8,73.4,AQI-Data-20-22.csv,382,16/01/2021,73.4,2021,1,164,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,160,4,Unhealthy,True,2021-01
+2021-01-17,9.0,51.33,33.58,43.16,78.44,AQI-Data-20-22.csv,383,17/01/2021,78.44,2021,1,167,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,163,4,Unhealthy,True,2021-01
+2021-01-18,8.0,42.0,34.6,43.21,76.8,AQI-Data-20-22.csv,384,18/01/2021,76.8,2021,1,166,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,162,4,Unhealthy,True,2021-01
+2021-01-19,9.0,48.66,32.63,41.15,59.58,AQI-Data-20-22.csv,385,19/01/2021,59.58,2021,1,154,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,153,1,Unhealthy,True,2021-01
+2021-01-20,9.6,39.0,32.06,40.77,56.42,AQI-Data-20-22.csv,386,20/01/2021,56.42,2021,1,152,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,151,1,Unhealthy,True,2021-01
+2021-01-21,9.0,43.0,33.4,40.1,56.3,AQI-Data-20-22.csv,387,21/01/2021,56.3,2021,1,152,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,151,1,Unhealthy,True,2021-01
+2021-01-22,8.0,61.0,19.8,26.8,40.8,AQI-Data-20-22.csv,388,22/01/2021,40.8,2021,1,114,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,114,0,Unhealthy for sensitive groups,True,2021-01
+2021-01-23,8.0,68.0,20.77,27.2,42.9,AQI-Data-20-22.csv,389,23/01/2021,42.9,2021,1,119,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,119,0,Unhealthy for sensitive groups,True,2021-01
+2021-01-24,8.5,48.0,21.8,25.9,44.9,AQI-Data-20-22.csv,390,24/01/2021,44.9,2021,1,124,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,124,0,Unhealthy for sensitive groups,True,2021-01
+2021-01-25,8.0,38.0,25.4,30.3,49.5,AQI-Data-20-22.csv,391,25/01/2021,49.5,2021,1,135,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,135,0,Unhealthy for sensitive groups,True,2021-01
+2021-01-26,9.33,45.7,31.18,39.4,57.79,AQI-Data-20-22.csv,392,26/01/2021,57.79,2021,1,153,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,1,Unhealthy,True,2021-01
+2021-01-27,8.3,37.0,24.7,29.4,46.5,AQI-Data-20-22.csv,393,27/01/2021,46.5,2021,1,128,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,128,0,Unhealthy for sensitive groups,True,2021-01
+2021-01-28,9.0,43.0,25.4,31.2,48.3,AQI-Data-20-22.csv,394,28/01/2021,48.3,2021,1,133,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,133,0,Unhealthy for sensitive groups,True,2021-01
+2021-01-29,8.0,35.0,22.6,28.7,43.8,AQI-Data-20-22.csv,395,29/01/2021,43.8,2021,1,121,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,121,0,Unhealthy for sensitive groups,True,2021-01
+2021-01-30,9.0,52.0,24.31,31.2,46.42,AQI-Data-20-22.csv,396,30/01/2021,46.42,2021,1,128,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,128,0,Unhealthy for sensitive groups,True,2021-01
+2021-01-31,8.3,62.0,26.26,36.8,58.7,AQI-Data-20-22.csv,397,31/01/2021,58.7,2021,1,153,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,153,0,Unhealthy,True,2021-01
+2021-02-01,8.0,54.0,19.2,30.5,62.7,AQI-Data-20-22.csv,398,01/02/2021,62.7,2021,2,156,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,155,1,Unhealthy,True,2021-02
+2021-02-02,9.66,58.33,17.16,23.65,29.85,AQI-Data-20-22.csv,399,02/02/2021,29.85,2021,2,90,US_EPA_PM25_2024_fixed_retrospective,Moderate,88,2,Moderate,False,2021-02
+2021-02-03,9.5,48.0,16.3,19.6,18.9,AQI-Data-20-22.csv,400,03/02/2021,18.9,2021,2,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2021-02
+2021-02-04,9.0,74.0,18.6,20.1,20.45,AQI-Data-20-22.csv,401,04/02/2021,20.45,2021,2,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,4,Moderate,False,2021-02
+2021-02-05,10.0,63.0,19.3,22.4,32.8,AQI-Data-20-22.csv,402,05/02/2021,32.8,2021,2,95,US_EPA_PM25_2024_fixed_retrospective,Moderate,95,0,Moderate,False,2021-02
+2021-02-06,11.0,51.0,22.1,29.3,42.3,AQI-Data-20-22.csv,403,06/02/2021,42.3,2021,2,118,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,118,0,Unhealthy for sensitive groups,True,2021-02
+2021-02-07,11.5,48.0,27.0,35.4,61.2,AQI-Data-20-22.csv,404,07/02/2021,61.2,2021,2,155,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,154,1,Unhealthy,True,2021-02
+2021-02-08,12.0,43.0,28.33,38.5,65.82,AQI-Data-20-22.csv,405,08/02/2021,65.82,2021,2,158,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,156,2,Unhealthy,True,2021-02
+2021-02-09,11.8,39.0,31.22,44.6,71.35,AQI-Data-20-22.csv,406,09/02/2021,71.35,2021,2,162,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,159,3,Unhealthy,True,2021-02
+2021-02-10,12.5,40.0,32.3,47.63,74.82,AQI-Data-20-22.csv,407,10/02/2021,74.82,2021,2,165,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,161,4,Unhealthy,True,2021-02
+2021-02-11,13.0,41.0,22.4,37.4,53.4,AQI-Data-20-22.csv,408,11/02/2021,53.4,2021,2,145,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,145,0,Unhealthy for sensitive groups,True,2021-02
+2021-02-12,12.0,43.0,27.3,38.6,57.2,AQI-Data-20-22.csv,409,12/02/2021,57.2,2021,2,152,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,0,Unhealthy,True,2021-02
+2021-02-13,13.0,39.0,26.11,37.11,52.9,AQI-Data-20-22.csv,410,13/02/2021,52.9,2021,2,144,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,144,0,Unhealthy for sensitive groups,True,2021-02
+2021-02-14,14.0,38.0,26.3,37.3,50.1,AQI-Data-20-22.csv,411,14/02/2021,50.1,2021,2,137,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,137,0,Unhealthy for sensitive groups,True,2021-02
+2021-02-15,15.0,44.0,32.1,48.6,75.4,AQI-Data-20-22.csv,412,15/02/2021,75.4,2021,2,165,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,161,4,Unhealthy,True,2021-02
+2021-02-16,15.0,46.0,28.6,45.62,62.9,AQI-Data-20-22.csv,413,16/02/2021,62.9,2021,2,156,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,155,1,Unhealthy,True,2021-02
+2021-02-17,16.0,39.0,27.33,41.33,58.6,AQI-Data-20-22.csv,414,17/02/2021,58.6,2021,2,153,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,153,0,Unhealthy,True,2021-02
+2021-02-18,16.3,43.0,23.6,40.55,55.83,AQI-Data-20-22.csv,415,18/02/2021,55.83,2021,2,151,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,151,0,Unhealthy,True,2021-02
+2021-02-19,16.0,36.0,27.8,44.2,59.44,AQI-Data-20-22.csv,416,19/02/2021,59.44,2021,2,154,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,153,1,Unhealthy,True,2021-02
+2021-02-20,17.0,38.0,31.7,48.2,62.7,AQI-Data-20-22.csv,417,20/02/2021,62.7,2021,2,156,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,155,1,Unhealthy,True,2021-02
+2021-02-21,16.0,42.7,26.03,44.7,59.44,AQI-Data-20-22.csv,418,21/02/2021,59.44,2021,2,154,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,153,1,Unhealthy,True,2021-02
+2021-02-22,16.0,54.0,27.88,42.61,52.68,AQI-Data-20-22.csv,419,22/02/2021,52.68,2021,2,143,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,143,0,Unhealthy for sensitive groups,True,2021-02
+2021-02-23,17.5,46.0,28.4,43.35,55.63,AQI-Data-20-22.csv,420,23/02/2021,55.63,2021,2,151,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,151,0,Unhealthy,True,2021-02
+2021-02-24,18.0,38.0,25.61,36.4,44.67,AQI-Data-20-22.csv,421,24/02/2021,44.67,2021,2,123,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,123,0,Unhealthy for sensitive groups,True,2021-02
+2021-02-25,18.0,36.0,21.3,34.3,43.2,AQI-Data-20-22.csv,422,25/02/2021,43.2,2021,2,120,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,120,0,Unhealthy for sensitive groups,True,2021-02
+2021-02-26,19.0,40.0,22.6,38.5,46.3,AQI-Data-20-22.csv,423,26/02/2021,46.3,2021,2,128,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,128,0,Unhealthy for sensitive groups,True,2021-02
+2021-02-27,19.0,41.0,18.9,22.6,18.5,AQI-Data-20-22.csv,424,27/02/2021,18.5,2021,2,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,5,Moderate,False,2021-02
+2021-02-28,20.0,32.0,18.11,23.6,20.1,AQI-Data-20-22.csv,425,28/02/2021,20.1,2021,2,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,3,Moderate,False,2021-02
+2021-03-01,20.0,30.0,16.2,23.6,17.0,AQI-Data-20-22.csv,426,01/03/2021,17,2021,3,66,US_EPA_PM25_2024_fixed_retrospective,Moderate,61,5,Moderate,False,2021-03
+2021-03-02,19.66,39.66,13.73,19.43,16.43,AQI-Data-20-22.csv,427,02/03/2021,16.43,2021,3,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2021-03
+2021-03-03,19.7,41.0,19.02,23.76,22.13,AQI-Data-20-22.csv,428,03/03/2021,22.13,2021,3,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,3,Moderate,False,2021-03
+2021-03-04,20.0,42.0,21.6,29.7,27.0,AQI-Data-20-22.csv,429,04/03/2021,27,2021,3,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2021-03
+2021-03-05,21.0,29.0,22.3,28.7,27.66,AQI-Data-20-22.csv,430,05/03/2021,27.66,2021,3,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,1,Moderate,False,2021-03
+2021-03-06,22.0,38.0,16.8,22.5,22.1,AQI-Data-20-22.csv,431,06/03/2021,22.1,2021,3,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,3,Moderate,False,2021-03
+2021-03-07,21.0,46.0,17.6,20.2,17.4,AQI-Data-20-22.csv,432,07/03/2021,17.4,2021,3,66,US_EPA_PM25_2024_fixed_retrospective,Moderate,62,4,Moderate,False,2021-03
+2021-03-08,20.0,74.0,18.93,21.6,20.6,AQI-Data-20-22.csv,433,08/03/2021,20.6,2021,3,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,3,Moderate,False,2021-03
+2021-03-09,22.0,32.0,16.2,23.1,17.9,AQI-Data-20-22.csv,434,09/03/2021,17.9,2021,3,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2021-03
+2021-03-10,21.0,48.0,14.3,22.4,16.0,AQI-Data-20-22.csv,435,10/03/2021,16,2021,3,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,5,Moderate,False,2021-03
+2021-03-11,21.0,66.0,7.2,13.4,8.9,AQI-Data-20-22.csv,436,11/03/2021,8.9,2021,3,49,US_EPA_PM25_2024_fixed_retrospective,Good,37,12,Good,False,2021-03
+2021-03-12,20.0,60.0,8.7,15.6,12.3,AQI-Data-20-22.csv,437,12/03/2021,12.3,2021,3,57,US_EPA_PM25_2024_fixed_retrospective,Moderate,51,6,Moderate,False,2021-03
+2021-03-13,21.0,47.0,12.4,18.5,21.6,AQI-Data-20-22.csv,438,13/03/2021,21.6,2021,3,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,71,3,Moderate,False,2021-03
+2021-03-14,21.0,36.0,11.8,18.9,22.9,AQI-Data-20-22.csv,439,14/03/2021,22.9,2021,3,77,US_EPA_PM25_2024_fixed_retrospective,Moderate,74,3,Moderate,False,2021-03
+2021-03-15,22.0,30.0,18.6,26.4,30.6,AQI-Data-20-22.csv,440,15/03/2021,30.6,2021,3,91,US_EPA_PM25_2024_fixed_retrospective,Moderate,90,1,Moderate,False,2021-03
+2021-03-16,22.0,43.0,19.4,27.3,33.8,AQI-Data-20-22.csv,441,16/03/2021,33.8,2021,3,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,0,Moderate,False,2021-03
+2021-03-17,21.0,37.0,20.6,30.4,36.87,AQI-Data-20-22.csv,442,17/03/2021,36.87,2021,3,104,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,104,0,Unhealthy for sensitive groups,True,2021-03
+2021-03-18,21.0,35.0,22.3,32.9,39.4,AQI-Data-20-22.csv,443,18/03/2021,39.4,2021,3,111,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,111,0,Unhealthy for sensitive groups,True,2021-03
+2021-03-19,23.0,34.0,24.5,32.46,38.7,AQI-Data-20-22.csv,444,19/03/2021,38.7,2021,3,109,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,109,0,Unhealthy for sensitive groups,True,2021-03
+2021-03-20,22.0,58.0,21.7,27.4,26.3,AQI-Data-20-22.csv,445,20/03/2021,26.3,2021,3,83,US_EPA_PM25_2024_fixed_retrospective,Moderate,81,2,Moderate,False,2021-03
+2021-03-21,21.0,76.0,17.5,21.8,18.2,AQI-Data-20-22.csv,446,21/03/2021,18.2,2021,3,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2021-03
+2021-03-22,20.0,82.0,7.3,12.6,12.8,AQI-Data-20-22.csv,447,22/03/2021,12.8,2021,3,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,6,Moderate,False,2021-03
+2021-03-23,20.0,83.0,4.3,8.2,11.6,AQI-Data-20-22.csv,448,23/03/2021,11.6,2021,3,56,US_EPA_PM25_2024_fixed_retrospective,Moderate,48,8,Good,False,2021-03
+2021-03-24,19.0,73.66,10.6,15.6,10.04,AQI-Data-20-22.csv,449,24/03/2021,10.04,2021,3,53,US_EPA_PM25_2024_fixed_retrospective,Moderate,42,11,Good,False,2021-03
+2021-03-25,20.0,60.0,13.8,14.7,18.6,AQI-Data-20-22.csv,450,25/03/2021,18.6,2021,3,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2021-03
+2021-03-26,21.0,37.0,14.7,23.1,20.4,AQI-Data-20-22.csv,451,26/03/2021,20.4,2021,3,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,4,Moderate,False,2021-03
+2021-03-27,22.0,38.0,17.9,29.2,28.9,AQI-Data-20-22.csv,452,27/03/2021,28.9,2021,3,88,US_EPA_PM25_2024_fixed_retrospective,Moderate,86,2,Moderate,False,2021-03
+2021-03-28,22.0,60.0,15.4,26.8,23.6,AQI-Data-20-22.csv,453,28/03/2021,23.6,2021,3,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2021-03
+2021-03-29,23.0,30.0,12.3,24.3,16.5,AQI-Data-20-22.csv,454,29/03/2021,16.5,2021,3,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2021-03
+2021-03-30,23.0,32.0,16.4,20.9,19.6,AQI-Data-20-22.csv,455,30/03/2021,19.6,2021,3,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,67,4,Moderate,False,2021-03
+2021-03-31,22.0,33.0,15.3,17.6,16.4,AQI-Data-20-22.csv,456,31/03/2021,16.4,2021,3,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2021-03
+2021-04-01,20.0,30.0,16.2,23.6,17.0,AQI-Data-20-22.csv,457,01/04/2021,17,2021,4,66,US_EPA_PM25_2024_fixed_retrospective,Moderate,61,5,Moderate,False,2021-04
+2021-04-02,19.66,39.66,13.73,19.43,16.43,AQI-Data-20-22.csv,458,02/04/2021,16.43,2021,4,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2021-04
+2021-04-03,19.7,41.0,19.02,23.76,22.13,AQI-Data-20-22.csv,459,03/04/2021,22.13,2021,4,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,3,Moderate,False,2021-04
+2021-04-04,20.0,42.0,21.6,29.7,27.0,AQI-Data-20-22.csv,460,04/04/2021,27,2021,4,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2021-04
+2021-04-05,21.0,29.0,22.3,28.7,27.66,AQI-Data-20-22.csv,461,05/04/2021,27.66,2021,4,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,1,Moderate,False,2021-04
+2021-04-06,22.0,38.0,16.8,22.5,22.1,AQI-Data-20-22.csv,462,06/04/2021,22.1,2021,4,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,3,Moderate,False,2021-04
+2021-04-07,21.0,84.0,8.5,12.73,9.2,AQI-Data-20-22.csv,463,07/04/2021,9.2,2021,4,51,US_EPA_PM25_2024_fixed_retrospective,Moderate,38,13,Good,False,2021-04
+2021-04-08,24.0,52.0,12.3,19.5,14.6,AQI-Data-20-22.csv,464,08/04/2021,14.6,2021,4,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2021-04
+2021-04-09,22.0,42.0,13.2,21.6,14.77,AQI-Data-20-22.csv,465,09/04/2021,14.77,2021,4,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2021-04
+2021-04-10,23.0,41.0,13.8,23.1,15.8,AQI-Data-20-22.csv,466,10/04/2021,15.8,2021,4,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,4,Moderate,False,2021-04
+2021-04-11,22.0,48.0,18.1,24.1,19.0,AQI-Data-20-22.csv,467,11/04/2021,19,2021,4,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,3,Moderate,False,2021-04
+2021-04-12,24.0,30.0,17.73,23.7,18.6,AQI-Data-20-22.csv,468,12/04/2021,18.6,2021,4,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2021-04
+2021-04-13,24.0,41.0,17.84,25.4,19.4,AQI-Data-20-22.csv,469,13/04/2021,19.4,2021,4,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2021-04
+2021-04-14,25.0,36.0,22.8,30.1,26.7,AQI-Data-20-22.csv,470,14/04/2021,26.7,2021,4,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2021-04
+2021-04-15,24.0,85.0,13.5,19.6,16.4,AQI-Data-20-22.csv,471,15/04/2021,16.4,2021,4,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2021-04
+2021-04-16,23.0,88.0,15.6,18.9,14.2,AQI-Data-20-22.csv,472,16/04/2021,14.2,2021,4,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,55,6,Moderate,False,2021-04
+2021-04-17,23.0,84.0,13.5,17.3,9.8,AQI-Data-20-22.csv,473,17/04/2021,9.8,2021,4,52,US_EPA_PM25_2024_fixed_retrospective,Moderate,41,11,Good,False,2021-04
+2021-04-18,24.0,68.0,14.3,18.6,11.0,AQI-Data-20-22.csv,474,18/04/2021,11,2021,4,55,US_EPA_PM25_2024_fixed_retrospective,Moderate,46,9,Good,False,2021-04
+2021-04-19,24.0,38.0,15.22,19.8,13.5,AQI-Data-20-22.csv,475,19/04/2021,13.5,2021,4,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,54,5,Moderate,False,2021-04
+2021-04-20,23.0,55.0,14.8,23.1,16.0,AQI-Data-20-22.csv,476,20/04/2021,16,2021,4,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,5,Moderate,False,2021-04
+2021-04-21,22.5,51.0,9.3,13.6,9.6,AQI-Data-20-22.csv,477,21/04/2021,9.6,2021,4,52,US_EPA_PM25_2024_fixed_retrospective,Moderate,40,12,Good,False,2021-04
+2021-04-22,22.0,96.0,9.1,12.2,7.3,AQI-Data-20-22.csv,478,22/04/2021,7.3,2021,4,41,US_EPA_PM25_2024_fixed_retrospective,Good,30,11,Good,False,2021-04
+2021-04-23,23.0,52.0,10.8,15.3,10.4,AQI-Data-20-22.csv,479,23/04/2021,10.4,2021,4,53,US_EPA_PM25_2024_fixed_retrospective,Moderate,43,10,Good,False,2021-04
+2021-04-24,24.0,46.0,13.4,18.8,11.8,AQI-Data-20-22.csv,480,24/04/2021,11.8,2021,4,56,US_EPA_PM25_2024_fixed_retrospective,Moderate,49,7,Good,False,2021-04
+2021-04-25,24.0,37.0,16.7,19.7,14.6,AQI-Data-20-22.csv,481,25/04/2021,14.6,2021,4,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2021-04
+2021-04-26,25.0,31.0,18.5,24.6,17.8,AQI-Data-20-22.csv,482,26/04/2021,17.8,2021,4,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2021-04
+2021-04-27,27.0,30.0,15.8,22.8,14.6,AQI-Data-20-22.csv,483,27/04/2021,14.6,2021,4,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2021-04
+2021-04-28,27.0,27.0,16.92,25.2,17.55,AQI-Data-20-22.csv,484,28/04/2021,17.55,2021,4,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,62,5,Moderate,False,2021-04
+2021-04-29,27.5,30.0,15.7,18.5,16.4,AQI-Data-20-22.csv,485,29/04/2021,16.4,2021,4,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2021-04
+2021-04-30,28.0,59.0,17.11,20.4,18.2,AQI-Data-20-22.csv,486,30/04/2021,18.2,2021,4,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2021-04
+2021-05-01,23.0,57.0,15.7,20.3,16.7,AQI-Data-20-22.csv,487,01/05/2021,16.7,2021,5,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,61,4,Moderate,False,2021-05
+2021-05-02,23.0,59.0,16.8,22.8,18.6,AQI-Data-20-22.csv,488,02/05/2021,18.6,2021,5,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2021-05
+2021-05-03,23.0,38.0,18.9,25.9,23.6,AQI-Data-20-22.csv,489,03/05/2021,23.6,2021,5,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2021-05
+2021-05-04,23.7,60.0,20.3,26.8,33.0,AQI-Data-20-22.csv,490,04/05/2021,33,2021,5,96,US_EPA_PM25_2024_fixed_retrospective,Moderate,95,1,Moderate,False,2021-05
+2021-05-05,24.0,56.0,14.5,17.6,20.3,AQI-Data-20-22.csv,491,05/05/2021,20.3,2021,5,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,4,Moderate,False,2021-05
+2021-05-06,24.0,41.0,16.3,20.11,22.0,AQI-Data-20-22.csv,492,06/05/2021,22,2021,5,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,3,Moderate,False,2021-05
+2021-05-07,24.0,37.0,16.5,20.4,21.0,AQI-Data-20-22.csv,493,07/05/2021,21,2021,5,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2021-05
+2021-05-08,24.0,32.0,15.6,19.1,19.2,AQI-Data-20-22.csv,494,08/05/2021,19.2,2021,5,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2021-05
+2021-05-09,24.0,29.0,13.33,17.4,18.0,AQI-Data-20-22.csv,495,09/05/2021,18,2021,5,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,5,Moderate,False,2021-05
+2021-05-10,24.5,30.0,13.6,17.0,18.4,AQI-Data-20-22.csv,496,10/05/2021,18.4,2021,5,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2021-05
+2021-05-11,25.0,31.0,13.8,17.7,17.88,AQI-Data-20-22.csv,497,11/05/2021,17.88,2021,5,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2021-05
+2021-05-12,25.0,28.0,14.1,16.7,18.2,AQI-Data-20-22.csv,498,12/05/2021,18.2,2021,5,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2021-05
+2021-05-13,25.0,25.0,12.5,13.6,16.4,AQI-Data-20-22.csv,499,13/05/2021,16.4,2021,5,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2021-05
+2021-05-14,24.5,27.0,12.7,18.3,18.7,AQI-Data-20-22.csv,500,14/05/2021,18.7,2021,5,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2021-05
+2021-05-15,25.0,44.0,12.66,16.7,15.6,AQI-Data-20-22.csv,501,15/05/2021,15.6,2021,5,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,5,Moderate,False,2021-05
+2021-05-16,25.5,32.0,13.2,15.1,16.8,AQI-Data-20-22.csv,502,16/05/2021,16.8,2021,5,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,61,4,Moderate,False,2021-05
+2021-05-17,26.0,33.0,13.5,16.7,18.3,AQI-Data-20-22.csv,503,17/05/2021,18.3,2021,5,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2021-05
+2021-05-18,26.0,64.0,13.24,16.8,16.5,AQI-Data-20-22.csv,504,18/05/2021,16.5,2021,5,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2021-05
+2021-05-19,26.0,40.0,9.11,17.3,18.8,AQI-Data-20-22.csv,505,19/05/2021,18.8,2021,5,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2021-05
+2021-05-20,26.0,32.0,17.3,20.8,31.2,AQI-Data-20-22.csv,506,20/05/2021,31.2,2021,5,92,US_EPA_PM25_2024_fixed_retrospective,Moderate,91,1,Moderate,False,2021-05
+2021-05-21,26.5,35.0,9.6,13.9,13.4,AQI-Data-20-22.csv,507,21/05/2021,13.4,2021,5,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,54,5,Moderate,False,2021-05
+2021-05-22,27.0,43.0,8.6,14.7,14.3,AQI-Data-20-22.csv,508,22/05/2021,14.3,2021,5,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2021-05
+2021-05-23,27.0,35.0,8.91,14.6,12.6,AQI-Data-20-22.csv,509,23/05/2021,12.6,2021,5,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,6,Moderate,False,2021-05
+2021-05-24,27.0,27.0,9.2,13.6,12.2,AQI-Data-20-22.csv,510,24/05/2021,12.2,2021,5,57,US_EPA_PM25_2024_fixed_retrospective,Moderate,51,6,Moderate,False,2021-05
+2021-05-25,27.0,26.0,9.4,16.9,11.7,AQI-Data-20-22.csv,511,25/05/2021,11.7,2021,5,56,US_EPA_PM25_2024_fixed_retrospective,Moderate,49,7,Good,False,2021-05
+2021-05-26,27.33,82.0,18.89,22.33,18.3,AQI-Data-20-22.csv,512,26/05/2021,18.3,2021,5,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2021-05
+2021-05-27,28.0,18.0,18.6,23.4,20.8,AQI-Data-20-22.csv,513,27/05/2021,20.8,2021,5,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,4,Moderate,False,2021-05
+2021-05-28,28.0,37.0,18.88,24.7,26.3,AQI-Data-20-22.csv,514,28/05/2021,26.3,2021,5,83,US_EPA_PM25_2024_fixed_retrospective,Moderate,81,2,Moderate,False,2021-05
+2021-05-29,28.0,49.0,20.6,26.4,30.2,AQI-Data-20-22.csv,515,29/05/2021,30.2,2021,5,90,US_EPA_PM25_2024_fixed_retrospective,Moderate,89,1,Moderate,False,2021-05
+2021-05-30,28.0,41.0,17.3,21.3,22.6,AQI-Data-20-22.csv,516,30/05/2021,22.6,2021,5,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2021-05
+2021-05-31,28.0,49.0,15.4,20.2,19.0,AQI-Data-20-22.csv,517,31/05/2021,19,2021,5,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,3,Moderate,False,2021-05
+2021-06-01,28.0,34.0,7.3,11.8,10.0,AQI-Data-20-22.csv,518,01/06/2021,10,2021,6,53,US_EPA_PM25_2024_fixed_retrospective,Moderate,42,11,Good,False,2021-06
+2021-06-02,29.0,39.0,6.0,12.6,13.6,AQI-Data-20-22.csv,519,02/06/2021,13.6,2021,6,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,54,5,Moderate,False,2021-06
+2021-06-03,28.0,49.0,9.2,15.8,15.0,AQI-Data-20-22.csv,520,03/06/2021,15,2021,6,62,US_EPA_PM25_2024_fixed_retrospective,Moderate,57,5,Moderate,False,2021-06
+2021-06-04,29.0,43.0,8.3,14.2,11.5,AQI-Data-20-22.csv,521,04/06/2021,11.5,2021,6,55,US_EPA_PM25_2024_fixed_retrospective,Moderate,48,7,Good,False,2021-06
+2021-06-05,30.0,45.0,11.9,16.8,23.8,AQI-Data-20-22.csv,522,05/06/2021,23.8,2021,6,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,76,2,Moderate,False,2021-06
+2021-06-06,30.0,32.0,14.0,20.3,34.6,AQI-Data-20-22.csv,523,06/06/2021,34.6,2021,6,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,98,1,Moderate,False,2021-06
+2021-06-07,31.0,44.0,14.2,23.6,35.8,AQI-Data-20-22.csv,524,07/06/2021,35.8,2021,6,102,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,102,0,Unhealthy for sensitive groups,True,2021-06
+2021-06-08,32.0,29.0,13.4,22.4,33.4,AQI-Data-20-22.csv,525,08/06/2021,33.4,2021,6,96,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,0,Moderate,False,2021-06
+2021-06-09,32.0,27.0,14.6,24.1,36.9,AQI-Data-20-22.csv,526,09/06/2021,36.9,2021,6,104,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,104,0,Unhealthy for sensitive groups,True,2021-06
+2021-06-10,34.0,26.7,18.86,21.4,33.6,AQI-Data-20-22.csv,527,10/06/2021,33.6,2021,6,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,1,Moderate,False,2021-06
+2021-06-11,33.0,50.0,9.8,22.6,38.0,AQI-Data-20-22.csv,528,11/06/2021,38,2021,6,107,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,107,0,Unhealthy for sensitive groups,True,2021-06
+2021-06-12,32.0,48.0,6.9,13.2,20.6,AQI-Data-20-22.csv,529,12/06/2021,20.6,2021,6,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,3,Moderate,False,2021-06
+2021-06-13,32.0,45.0,8.6,12.7,15.3,AQI-Data-20-22.csv,530,13/06/2021,15.3,2021,6,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,5,Moderate,False,2021-06
+2021-06-14,33.0,52.0,11.0,15.8,25.0,AQI-Data-20-22.csv,531,14/06/2021,25,2021,6,81,US_EPA_PM25_2024_fixed_retrospective,Moderate,78,3,Moderate,False,2021-06
+2021-06-15,32.0,25.0,12.6,14.3,17.2,AQI-Data-20-22.csv,532,15/06/2021,17.2,2021,6,66,US_EPA_PM25_2024_fixed_retrospective,Moderate,62,4,Moderate,False,2021-06
+2021-06-16,31.0,55.0,6.3,12.22,11.6,AQI-Data-20-22.csv,533,16/06/2021,11.6,2021,6,56,US_EPA_PM25_2024_fixed_retrospective,Moderate,48,8,Good,False,2021-06
+2021-06-17,32.0,33.0,6.88,14.3,14.5,AQI-Data-20-22.csv,534,17/06/2021,14.5,2021,6,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2021-06
+2021-06-18,32.0,22.0,12.3,20.1,23.0,AQI-Data-20-22.csv,535,18/06/2021,23,2021,6,77,US_EPA_PM25_2024_fixed_retrospective,Moderate,74,3,Moderate,False,2021-06
+2021-06-19,32.0,31.0,8.9,18.3,18.6,AQI-Data-20-22.csv,536,19/06/2021,18.6,2021,6,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2021-06
+2021-06-20,31.0,30.0,7.4,15.6,15.4,AQI-Data-20-22.csv,537,20/06/2021,15.4,2021,6,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,5,Moderate,False,2021-06
+2021-06-21,31.0,35.0,6.8,12.3,19.5,AQI-Data-20-22.csv,538,21/06/2021,19.5,2021,6,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,67,3,Moderate,False,2021-06
+2021-06-22,32.0,31.0,7.3,16.3,13.4,AQI-Data-20-22.csv,539,22/06/2021,13.4,2021,6,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,54,5,Moderate,False,2021-06
+2021-06-23,32.0,30.0,8.9,17.6,16.2,AQI-Data-20-22.csv,540,23/06/2021,16.2,2021,6,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,4,Moderate,False,2021-06
+2021-06-24,33.0,18.0,7.9,16.8,14.6,AQI-Data-20-22.csv,541,24/06/2021,14.6,2021,6,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2021-06
+2021-06-25,34.0,59.0,6.2,15.6,13.2,AQI-Data-20-22.csv,542,25/06/2021,13.2,2021,6,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,53,6,Moderate,False,2021-06
+2021-06-26,31.0,40.0,6.3,12.2,10.0,AQI-Data-20-22.csv,543,26/06/2021,10,2021,6,53,US_EPA_PM25_2024_fixed_retrospective,Moderate,42,11,Good,False,2021-06
+2021-06-27,32.0,49.0,5.7,13.8,13.9,AQI-Data-20-22.csv,544,27/06/2021,13.9,2021,6,60,US_EPA_PM25_2024_fixed_retrospective,Moderate,55,5,Moderate,False,2021-06
+2021-06-28,34.0,46.0,6.88,15.6,18.7,AQI-Data-20-22.csv,545,28/06/2021,18.7,2021,6,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2021-06
+2021-06-29,35.0,20.0,7.2,16.44,19.5,AQI-Data-20-22.csv,546,29/06/2021,19.5,2021,6,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,67,3,Moderate,False,2021-06
+2021-06-30,36.0,16.0,9.6,17.5,23.5,AQI-Data-20-22.csv,547,30/06/2021,23.5,2021,6,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2021-06
+2021-07-01,41.0,15.0,8.9,19.6,32.9,AQI-Data-20-22.csv,548,01/07/2021,32.9,2021,7,95,US_EPA_PM25_2024_fixed_retrospective,Moderate,95,0,Moderate,False,2021-07
+2021-07-02,40.0,20.0,5.7,13.8,31.0,AQI-Data-20-22.csv,549,02/07/2021,31,2021,7,92,US_EPA_PM25_2024_fixed_retrospective,Moderate,91,1,Moderate,False,2021-07
+2021-07-03,40.0,30.0,6.88,15.6,10.0,AQI-Data-20-22.csv,550,03/07/2021,10,2021,7,53,US_EPA_PM25_2024_fixed_retrospective,Moderate,42,11,Good,False,2021-07
+2021-07-04,38.0,45.0,7.2,16.44,20.0,AQI-Data-20-22.csv,551,04/07/2021,20,2021,7,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,3,Moderate,False,2021-07
+2021-07-05,38.0,38.0,9.6,17.5,15.2,AQI-Data-20-22.csv,552,05/07/2021,15.2,2021,7,62,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,4,Moderate,False,2021-07
+2021-07-06,37.0,35.0,7.6,19.2,20.6,AQI-Data-20-22.csv,553,06/07/2021,20.6,2021,7,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,3,Moderate,False,2021-07
+2021-07-07,38.0,40.0,8.2,18.3,21.0,AQI-Data-20-22.csv,554,07/07/2021,21,2021,7,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2021-07
+2021-07-08,39.0,18.0,7.6,17.2,18.6,AQI-Data-20-22.csv,555,08/07/2021,18.6,2021,7,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2021-07
+2021-07-09,38.0,53.0,4.0,8.6,7.8,AQI-Data-20-22.csv,556,09/07/2021,7.8,2021,7,43,US_EPA_PM25_2024_fixed_retrospective,Good,33,10,Good,False,2021-07
+2021-07-10,37.0,56.0,4.3,10.2,9.5,AQI-Data-20-22.csv,557,10/07/2021,9.5,2021,7,52,US_EPA_PM25_2024_fixed_retrospective,Moderate,40,12,Good,False,2021-07
+2021-07-11,38.0,32.0,4.9,12.8,13.2,AQI-Data-20-22.csv,558,11/07/2021,13.2,2021,7,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,53,6,Moderate,False,2021-07
+2021-07-12,37.0,51.0,3.8,11.77,9.88,AQI-Data-20-22.csv,559,12/07/2021,9.88,2021,7,52,US_EPA_PM25_2024_fixed_retrospective,Moderate,41,11,Good,False,2021-07
+2021-07-13,35.0,69.0,4.5,13.6,14.3,AQI-Data-20-22.csv,560,13/07/2021,14.3,2021,7,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2021-07
+2021-07-14,31.0,64.0,3.8,9.6,8.78,AQI-Data-20-22.csv,561,14/07/2021,8.78,2021,7,48,US_EPA_PM25_2024_fixed_retrospective,Good,36,12,Good,False,2021-07
+2021-07-15,32.0,30.0,5.2,13.0,13.4,AQI-Data-20-22.csv,562,15/07/2021,13.4,2021,7,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,54,5,Moderate,False,2021-07
+2021-07-16,32.0,62.0,3.92,11.8,11.3,AQI-Data-20-22.csv,563,16/07/2021,11.3,2021,7,55,US_EPA_PM25_2024_fixed_retrospective,Moderate,47,8,Good,False,2021-07
+2021-07-17,33.0,30.0,11.3,22.3,33.5,AQI-Data-20-22.csv,564,17/07/2021,33.5,2021,7,96,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,0,Moderate,False,2021-07
+2021-07-18,32.0,48.0,13.2,27.9,40.6,AQI-Data-20-22.csv,565,18/07/2021,40.6,2021,7,114,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,114,0,Unhealthy for sensitive groups,True,2021-07
+2021-07-19,30.0,80.0,10.6,20.8,26.9,AQI-Data-20-22.csv,566,19/07/2021,26.9,2021,7,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2021-07
+2021-07-20,29.0,86.0,7.6,18.7,20.4,AQI-Data-20-22.csv,567,20/07/2021,20.4,2021,7,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,4,Moderate,False,2021-07
+2021-07-21,29.0,73.0,8.88,20.6,23.5,AQI-Data-20-22.csv,568,21/07/2021,23.5,2021,7,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2021-07
+2021-07-22,29.0,61.0,8.6,18.3,18.6,AQI-Data-20-22.csv,569,22/07/2021,18.6,2021,7,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2021-07
+2021-07-23,28.0,48.0,8.44,17.2,17.8,AQI-Data-20-22.csv,570,23/07/2021,17.8,2021,7,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2021-07
+2021-07-24,28.0,55.0,6.8,14.6,18.6,AQI-Data-20-22.csv,571,24/07/2021,18.6,2021,7,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2021-07
+2021-07-25,27.0,53.0,6.1,10.6,12.6,AQI-Data-20-22.csv,572,25/07/2021,12.6,2021,7,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,6,Moderate,False,2021-07
+2021-07-26,27.0,58.0,7.0,10.8,11.3,AQI-Data-20-22.csv,573,26/07/2021,11.3,2021,7,55,US_EPA_PM25_2024_fixed_retrospective,Moderate,47,8,Good,False,2021-07
+2021-07-27,27.0,62.0,4.6,11.8,9.7,AQI-Data-20-22.csv,574,27/07/2021,9.7,2021,7,52,US_EPA_PM25_2024_fixed_retrospective,Moderate,40,12,Good,False,2021-07
+2021-07-28,26.0,94.0,5.3,10.2,8.6,AQI-Data-20-22.csv,575,28/07/2021,8.6,2021,7,48,US_EPA_PM25_2024_fixed_retrospective,Good,36,12,Good,False,2021-07
+2021-07-29,26.0,83.0,6.11,9.2,12.3,AQI-Data-20-22.csv,576,29/07/2021,12.3,2021,7,57,US_EPA_PM25_2024_fixed_retrospective,Moderate,51,6,Moderate,False,2021-07
+2021-07-30,26.0,68.0,7.2,11.4,12.6,AQI-Data-20-22.csv,577,30/07/2021,12.6,2021,7,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,6,Moderate,False,2021-07
+2021-07-31,26.0,64.0,7.2,11.4,13.4,AQI-Data-20-22.csv,578,31/07/2021,13.4,2021,7,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,54,5,Moderate,False,2021-07
+2021-08-01,25.0,66.0,7.1,12.4,17.0,AQI-Data-20-22.csv,579,01/08/2021,17,2021,8,66,US_EPA_PM25_2024_fixed_retrospective,Moderate,61,5,Moderate,False,2021-08
+2021-08-02,27.0,56.0,8.2,13.2,17.6,AQI-Data-20-22.csv,580,02/08/2021,17.6,2021,8,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2021-08
+2021-08-03,27.0,78.0,9.6,17.6,34.6,AQI-Data-20-22.csv,581,03/08/2021,34.6,2021,8,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,98,1,Moderate,False,2021-08
+2021-08-04,26.7,72.7,6.1,12.0,17.5,AQI-Data-20-22.csv,582,04/08/2021,17.5,2021,8,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,62,5,Moderate,False,2021-08
+2021-08-05,26.5,70.0,8.3,15.3,25.2,AQI-Data-20-22.csv,583,05/08/2021,25.2,2021,8,81,US_EPA_PM25_2024_fixed_retrospective,Moderate,79,2,Moderate,False,2021-08
+2021-08-06,26.0,61.0,6.4,11.8,16.3,AQI-Data-20-22.csv,584,06/08/2021,16.3,2021,8,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,4,Moderate,False,2021-08
+2021-08-07,27.0,35.0,10.1,19.1,37.0,AQI-Data-20-22.csv,585,07/08/2021,37,2021,8,105,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,105,0,Unhealthy for sensitive groups,True,2021-08
+2021-08-08,26.5,83.0,6.5,15.7,26.4,AQI-Data-20-22.csv,586,08/08/2021,26.4,2021,8,83,US_EPA_PM25_2024_fixed_retrospective,Moderate,81,2,Moderate,False,2021-08
+2021-08-09,27.0,70.0,7.4,16.3,28.7,AQI-Data-20-22.csv,587,09/08/2021,28.7,2021,8,88,US_EPA_PM25_2024_fixed_retrospective,Moderate,86,2,Moderate,False,2021-08
+2021-08-10,27.0,78.0,8.67,17.73,33.2,AQI-Data-20-22.csv,588,10/08/2021,33.2,2021,8,96,US_EPA_PM25_2024_fixed_retrospective,Moderate,95,1,Moderate,False,2021-08
+2021-08-11,28.0,70.0,9.1,18.9,33.8,AQI-Data-20-22.csv,589,11/08/2021,33.8,2021,8,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,0,Moderate,False,2021-08
+2021-08-12,28.0,79.0,7.71,18.4,31.9,AQI-Data-20-22.csv,590,12/08/2021,31.9,2021,8,93,US_EPA_PM25_2024_fixed_retrospective,Moderate,93,0,Moderate,False,2021-08
+2021-08-13,27.0,56.0,5.4,11.2,17.9,AQI-Data-20-22.csv,591,13/08/2021,17.9,2021,8,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2021-08
+2021-08-14,27.0,50.0,4.33,9.65,15.2,AQI-Data-20-22.csv,592,14/08/2021,15.2,2021,8,62,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,4,Moderate,False,2021-08
+2021-08-15,25.0,78.0,4.24,9.1,12.3,AQI-Data-20-22.csv,593,15/08/2021,12.3,2021,8,57,US_EPA_PM25_2024_fixed_retrospective,Moderate,51,6,Moderate,False,2021-08
+2021-08-16,26.0,49.0,6.1,10.3,15.0,AQI-Data-20-22.csv,594,16/08/2021,15,2021,8,62,US_EPA_PM25_2024_fixed_retrospective,Moderate,57,5,Moderate,False,2021-08
+2021-08-17,25.0,58.0,8.5,13.4,33.8,AQI-Data-20-22.csv,595,17/08/2021,33.8,2021,8,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,0,Moderate,False,2021-08
+2021-08-18,25.0,47.0,10.52,14.6,34.6,AQI-Data-20-22.csv,596,18/08/2021,34.6,2021,8,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,98,1,Moderate,False,2021-08
+2021-08-19,25.0,68.0,8.9,13.2,31.5,AQI-Data-20-22.csv,597,19/08/2021,31.5,2021,8,93,US_EPA_PM25_2024_fixed_retrospective,Moderate,92,1,Moderate,False,2021-08
+2021-08-20,27.0,49.0,7.2,12.4,16.0,AQI-Data-20-22.csv,598,20/08/2021,16,2021,8,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,5,Moderate,False,2021-08
+2021-08-21,28.0,54.0,6.1,11.0,15.2,AQI-Data-20-22.csv,599,21/08/2021,15.2,2021,8,62,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,4,Moderate,False,2021-08
+2021-08-22,28.0,63.33,6.26,9.03,12.3,AQI-Data-20-22.csv,600,22/08/2021,12.3,2021,8,57,US_EPA_PM25_2024_fixed_retrospective,Moderate,51,6,Moderate,False,2021-08
+2021-08-23,28.6,83.0,8.3,11.3,16.4,AQI-Data-20-22.csv,601,23/08/2021,16.4,2021,8,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2021-08
+2021-08-24,28.0,66.0,9.77,13.7,20.2,AQI-Data-20-22.csv,602,24/08/2021,20.2,2021,8,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,4,Moderate,False,2021-08
+2021-08-25,29.0,73.0,12.4,17.6,35.2,AQI-Data-20-22.csv,603,25/08/2021,35.2,2021,8,100,US_EPA_PM25_2024_fixed_retrospective,Moderate,100,0,Moderate,False,2021-08
+2021-08-26,30.0,58.0,12.73,17.9,37.9,AQI-Data-20-22.csv,604,26/08/2021,37.9,2021,8,107,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,107,0,Unhealthy for sensitive groups,True,2021-08
+2021-08-27,29.0,59.0,11.6,19.1,39.6,AQI-Data-20-22.csv,605,27/08/2021,39.6,2021,8,111,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,111,0,Unhealthy for sensitive groups,True,2021-08
+2021-08-28,28.0,48.0,4.6,8.65,12.6,AQI-Data-20-22.csv,606,28/08/2021,12.6,2021,8,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,6,Moderate,False,2021-08
+2021-08-29,26.7,83.33,8.17,10.03,19.54,AQI-Data-20-22.csv,607,29/08/2021,19.54,2021,8,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,67,3,Moderate,False,2021-08
+2021-08-30,25.7,85.0,5.88,9.3,13.6,AQI-Data-20-22.csv,608,30/08/2021,13.6,2021,8,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,54,5,Moderate,False,2021-08
+2021-08-31,26.0,63.0,9.6,13.4,19.0,AQI-Data-20-22.csv,609,31/08/2021,19,2021,8,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,3,Moderate,False,2021-08
+2021-09-01,25.0,70.0,7.1,13.68,18.0,AQI-Data-20-22.csv,610,01/09/2021,18,2021,9,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,5,Moderate,False,2021-09
+2021-09-02,26.0,60.0,8.2,13.4,17.0,AQI-Data-20-22.csv,611,02/09/2021,17,2021,9,66,US_EPA_PM25_2024_fixed_retrospective,Moderate,61,5,Moderate,False,2021-09
+2021-09-03,27.0,44.0,9.3,13.77,19.3,AQI-Data-20-22.csv,612,03/09/2021,19.3,2021,9,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2021-09
+2021-09-04,28.0,45.0,10.9,14.6,25.4,AQI-Data-20-22.csv,613,04/09/2021,25.4,2021,9,81,US_EPA_PM25_2024_fixed_retrospective,Moderate,79,2,Moderate,False,2021-09
+2021-09-05,28.0,48.0,12.34,14.93,28.3,AQI-Data-20-22.csv,614,05/09/2021,28.3,2021,9,87,US_EPA_PM25_2024_fixed_retrospective,Moderate,85,2,Moderate,False,2021-09
+2021-09-06,27.0,58.0,13.48,17.6,33.7,AQI-Data-20-22.csv,615,06/09/2021,33.7,2021,9,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,1,Moderate,False,2021-09
+2021-09-07,26.5,80.0,13.87,19.3,37.4,AQI-Data-20-22.csv,616,07/09/2021,37.4,2021,9,106,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,106,0,Unhealthy for sensitive groups,True,2021-09
+2021-09-08,26.0,84.7,9.97,11.21,21.06,AQI-Data-20-22.csv,617,08/09/2021,21.06,2021,9,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2021-09
+2021-09-09,27.0,83.0,7.9,13.2,14.6,AQI-Data-20-22.csv,618,09/09/2021,14.6,2021,9,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2021-09
+2021-09-10,26.5,85.0,9.6,10.8,7.43,AQI-Data-20-22.csv,619,10/09/2021,7.43,2021,9,41,US_EPA_PM25_2024_fixed_retrospective,Good,31,10,Good,False,2021-09
+2021-09-11,27.3,71.0,7.82,9.2,5.6,AQI-Data-20-22.csv,620,11/09/2021,5.6,2021,9,31,US_EPA_PM25_2024_fixed_retrospective,Good,23,8,Good,False,2021-09
+2021-09-12,27.8,70.0,8.31,12.8,16.9,AQI-Data-20-22.csv,621,12/09/2021,16.9,2021,9,66,US_EPA_PM25_2024_fixed_retrospective,Moderate,61,5,Moderate,False,2021-09
+2021-09-13,27.0,65.0,8.68,11.6,15.38,AQI-Data-20-22.csv,622,13/09/2021,15.38,2021,9,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,5,Moderate,False,2021-09
+2021-09-14,27.8,60.0,9.2,14.3,19.6,AQI-Data-20-22.csv,623,14/09/2021,19.6,2021,9,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,67,4,Moderate,False,2021-09
+2021-09-15,28.0,44.0,7.6,13.77,15.4,AQI-Data-20-22.csv,624,15/09/2021,15.4,2021,9,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,5,Moderate,False,2021-09
+2021-09-16,28.33,47.66,10.92,19.67,31.58,AQI-Data-20-22.csv,625,16/09/2021,31.58,2021,9,93,US_EPA_PM25_2024_fixed_retrospective,Moderate,92,1,Moderate,False,2021-09
+2021-09-17,28.0,76.0,9.8,19.42,30.8,AQI-Data-20-22.csv,626,17/09/2021,30.8,2021,9,91,US_EPA_PM25_2024_fixed_retrospective,Moderate,90,1,Moderate,False,2021-09
+2021-09-18,28.3,73.0,10.43,25.4,27.83,AQI-Data-20-22.csv,627,18/09/2021,27.83,2021,9,86,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,2,Moderate,False,2021-09
+2021-09-19,28.0,68.0,10.1,22.7,34.6,AQI-Data-20-22.csv,628,19/09/2021,34.6,2021,9,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,98,1,Moderate,False,2021-09
+2021-09-20,27.0,73.0,11.6,21.3,30.1,AQI-Data-20-22.csv,629,20/09/2021,30.1,2021,9,90,US_EPA_PM25_2024_fixed_retrospective,Moderate,89,1,Moderate,False,2021-09
+2021-09-21,27.0,79.0,9.7,12.6,21.3,AQI-Data-20-22.csv,630,21/09/2021,21.3,2021,9,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,4,Moderate,False,2021-09
+2021-09-22,26.8,86.0,9.55,13.8,20.2,AQI-Data-20-22.csv,631,22/09/2021,20.2,2021,9,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,4,Moderate,False,2021-09
+2021-09-23,27.7,76.33,6.24,11.1,12.96,AQI-Data-20-22.csv,632,23/09/2021,12.96,2021,9,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,53,5,Moderate,False,2021-09
+2021-09-24,27.0,62.0,6.8,13.4,16.9,AQI-Data-20-22.csv,633,24/09/2021,16.9,2021,9,66,US_EPA_PM25_2024_fixed_retrospective,Moderate,61,5,Moderate,False,2021-09
+2021-09-25,27.6,63.0,7.6,13.72,17.5,AQI-Data-20-22.csv,634,25/09/2021,17.5,2021,9,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,62,5,Moderate,False,2021-09
+2021-09-26,27.33,59.33,6.93,10.66,20.2,AQI-Data-20-22.csv,635,26/09/2021,20.2,2021,9,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,4,Moderate,False,2021-09
+2021-09-27,28.0,62.0,9.7,23.46,34.8,AQI-Data-20-22.csv,636,27/09/2021,34.8,2021,9,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,99,0,Moderate,False,2021-09
+2021-09-28,28.33,63.66,8.8,17.73,32.36,AQI-Data-20-22.csv,637,28/09/2021,32.36,2021,9,94,US_EPA_PM25_2024_fixed_retrospective,Moderate,93,1,Moderate,False,2021-09
+2021-09-29,29.0,57.0,12.6,17.5,33.41,AQI-Data-20-22.csv,638,29/09/2021,33.41,2021,9,96,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,0,Moderate,False,2021-09
+2021-09-30,29.5,72.0,14.6,23.9,42.91,AQI-Data-20-22.csv,639,30/09/2021,42.91,2021,9,119,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,119,0,Unhealthy for sensitive groups,True,2021-09
+2021-10-01,28.0,76.0,16.3,17.3,28.3,AQI-Data-20-22.csv,640,01/10/2021,28.3,2021,10,87,US_EPA_PM25_2024_fixed_retrospective,Moderate,85,2,Moderate,False,2021-10
+2021-10-02,28.0,83.0,15.22,15.2,24.6,AQI-Data-20-22.csv,641,02/10/2021,24.6,2021,10,80,US_EPA_PM25_2024_fixed_retrospective,Moderate,77,3,Moderate,False,2021-10
+2021-10-03,27.5,70.0,10.6,11.8,12.5,AQI-Data-20-22.csv,642,03/10/2021,12.5,2021,10,57,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,5,Moderate,False,2021-10
+2021-10-04,27.0,59.0,13.54,16.31,23.76,AQI-Data-20-22.csv,643,04/10/2021,23.76,2021,10,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2021-10
+2021-10-05,26.0,66.0,7.22,12.1,12.3,AQI-Data-20-22.csv,644,05/10/2021,12.3,2021,10,57,US_EPA_PM25_2024_fixed_retrospective,Moderate,51,6,Moderate,False,2021-10
+2021-10-06,26.0,52.0,7.94,13.21,17.6,AQI-Data-20-22.csv,645,06/10/2021,17.6,2021,10,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2021-10
+2021-10-07,25.0,79.0,11.3,15.23,23.66,AQI-Data-20-22.csv,646,07/10/2021,23.66,2021,10,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2021-10
+2021-10-08,25.0,55.0,10.3,15.94,24.87,AQI-Data-20-22.csv,647,08/10/2021,24.87,2021,10,80,US_EPA_PM25_2024_fixed_retrospective,Moderate,78,2,Moderate,False,2021-10
+2021-10-09,24.5,70.0,13.71,18.3,30.6,AQI-Data-20-22.csv,648,09/10/2021,30.6,2021,10,91,US_EPA_PM25_2024_fixed_retrospective,Moderate,90,1,Moderate,False,2021-10
+2021-10-10,24.0,83.0,10.6,9.7,19.6,AQI-Data-20-22.csv,649,10/10/2021,19.6,2021,10,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,67,4,Moderate,False,2021-10
+2021-10-11,24.8,59.0,6.21,8.99,10.3,AQI-Data-20-22.csv,650,11/10/2021,10.3,2021,10,53,US_EPA_PM25_2024_fixed_retrospective,Moderate,43,10,Good,False,2021-10
+2021-10-12,25.0,34.0,7.1,13.6,15.34,AQI-Data-20-22.csv,651,12/10/2021,15.34,2021,10,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,5,Moderate,False,2021-10
+2021-10-13,25.0,50.0,8.22,14.1,22.0,AQI-Data-20-22.csv,652,13/10/2021,22,2021,10,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,3,Moderate,False,2021-10
+2021-10-14,25.6,39.0,9.64,14.53,27.3,AQI-Data-20-22.csv,653,14/10/2021,27.3,2021,10,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,83,2,Moderate,False,2021-10
+2021-10-15,26.0,31.0,7.88,13.87,19.84,AQI-Data-20-22.csv,654,15/10/2021,19.84,2021,10,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,67,4,Moderate,False,2021-10
+2021-10-16,25.8,57.0,6.73,13.24,17.6,AQI-Data-20-22.csv,655,16/10/2021,17.6,2021,10,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2021-10
+2021-10-17,25.0,83.0,6.4,13.7,18.2,AQI-Data-20-22.csv,656,17/10/2021,18.2,2021,10,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2021-10
+2021-10-18,24.0,41.0,7.12,7.6,13.4,AQI-Data-20-22.csv,657,18/10/2021,13.4,2021,10,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,54,5,Moderate,False,2021-10
+2021-10-19,24.0,47.0,6.82,12.77,15.87,AQI-Data-20-22.csv,658,19/10/2021,15.87,2021,10,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,4,Moderate,False,2021-10
+2021-10-20,23.5,44.0,7.88,12.6,20.8,AQI-Data-20-22.csv,659,20/10/2021,20.8,2021,10,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,4,Moderate,False,2021-10
+2021-10-21,23.0,34.0,9.42,15.4,32.78,AQI-Data-20-22.csv,660,21/10/2021,32.78,2021,10,95,US_EPA_PM25_2024_fixed_retrospective,Moderate,94,1,Moderate,False,2021-10
+2021-10-22,23.0,69.0,11.3,13.88,27.0,AQI-Data-20-22.csv,661,22/10/2021,27,2021,10,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2021-10
+2021-10-23,22.8,72.0,7.2,11.3,19.66,AQI-Data-20-22.csv,662,23/10/2021,19.66,2021,10,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,67,4,Moderate,False,2021-10
+2021-10-24,22.5,85.0,6.83,7.68,12.86,AQI-Data-20-22.csv,663,24/10/2021,12.86,2021,10,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,6,Moderate,False,2021-10
+2021-10-25,22.3,64.0,7.33,9.6,18.65,AQI-Data-20-22.csv,664,25/10/2021,18.65,2021,10,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2021-10
+2021-10-26,22.0,57.0,7.46,11.2,21.6,AQI-Data-20-22.csv,665,26/10/2021,21.6,2021,10,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,71,3,Moderate,False,2021-10
+2021-10-27,21.8,53.0,7.62,11.73,23.4,AQI-Data-20-22.csv,666,27/10/2021,23.4,2021,10,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2021-10
+2021-10-28,21.5,50.0,8.6,12.13,24.11,AQI-Data-20-22.csv,667,28/10/2021,24.11,2021,10,79,US_EPA_PM25_2024_fixed_retrospective,Moderate,76,3,Moderate,False,2021-10
+2021-10-29,21.0,35.0,8.22,10.64,22.5,AQI-Data-20-22.csv,668,29/10/2021,22.5,2021,10,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2021-10
+2021-10-30,20.5,43.0,8.56,11.6,27.2,AQI-Data-20-22.csv,669,30/10/2021,27.2,2021,10,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,83,2,Moderate,False,2021-10
+2021-10-31,20.0,48.0,8.15,9.68,22.3,AQI-Data-20-22.csv,670,31/10/2021,22.3,2021,10,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,4,Moderate,False,2021-10
+2021-11-01,20.0,50.0,5.6,18.33,31.82,AQI-Data-20-22.csv,671,01/11/2021,31.82,2021,11,93,US_EPA_PM25_2024_fixed_retrospective,Moderate,92,1,Moderate,False,2021-11
+2021-11-02,19.33,49.66,9.923,17.62,47.9,AQI-Data-20-22.csv,672,02/11/2021,47.9,2021,11,132,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,132,0,Unhealthy for sensitive groups,True,2021-11
+2021-11-03,19.5,50.0,15.67,19.86,78.37,AQI-Data-20-22.csv,673,03/11/2021,78.37,2021,11,167,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,163,4,Unhealthy,True,2021-11
+2021-11-04,18.33,56.0,13.56,18.83,60.92,AQI-Data-20-22.csv,674,04/11/2021,60.92,2021,11,155,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,154,1,Unhealthy,True,2021-11
+2021-11-05,18.0,75.0,15.4,19.66,62.68,AQI-Data-20-22.csv,675,05/11/2021,62.68,2021,11,156,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,155,1,Unhealthy,True,2021-11
+2021-11-06,18.0,53.0,16.3,19.7,64.45,AQI-Data-20-22.csv,676,06/11/2021,64.45,2021,11,157,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,156,1,Unhealthy,True,2021-11
+2021-11-07,17.5,42.0,15.67,19.66,58.52,AQI-Data-20-22.csv,677,07/11/2021,58.52,2021,11,153,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,153,0,Unhealthy,True,2021-11
+2021-11-08,17.5,39.0,14.6,21.4,55.69,AQI-Data-20-22.csv,678,08/11/2021,55.69,2021,11,151,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,151,0,Unhealthy,True,2021-11
+2021-11-09,17.0,37.0,8.7,19.3,36.98,AQI-Data-20-22.csv,679,09/11/2021,36.98,2021,11,104,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,104,0,Unhealthy for sensitive groups,True,2021-11
+2021-11-10,16.8,30.0,8.31,20.0,38.8,AQI-Data-20-22.csv,680,10/11/2021,38.8,2021,11,109,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,109,0,Unhealthy for sensitive groups,True,2021-11
+2021-11-11,16.5,33.0,9.66,20.32,44.6,AQI-Data-20-22.csv,681,11/11/2021,44.6,2021,11,123,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,123,0,Unhealthy for sensitive groups,True,2021-11
+2021-11-12,16.0,31.0,9.21,19.67,39.6,AQI-Data-20-22.csv,682,12/11/2021,39.6,2021,11,111,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,111,0,Unhealthy for sensitive groups,True,2021-11
+2021-11-13,16.0,28.0,10.68,20.4,48.6,AQI-Data-20-22.csv,683,13/11/2021,48.6,2021,11,133,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,133,0,Unhealthy for sensitive groups,True,2021-11
+2021-11-14,16.0,27.0,12.4,23.6,51.92,AQI-Data-20-22.csv,684,14/11/2021,51.92,2021,11,141,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,141,0,Unhealthy for sensitive groups,True,2021-11
+2021-11-15,15.8,31.0,9.42,19.88,38.8,AQI-Data-20-22.csv,685,15/11/2021,38.8,2021,11,109,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,109,0,Unhealthy for sensitive groups,True,2021-11
+2021-11-16,15.5,35.0,10.9,20.57,47.8,AQI-Data-20-22.csv,686,16/11/2021,47.8,2021,11,131,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,131,0,Unhealthy for sensitive groups,True,2021-11
+2021-11-17,15.3,29.0,12.8,21.0,56.7,AQI-Data-20-22.csv,687,17/11/2021,56.7,2021,11,152,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,0,Unhealthy,True,2021-11
+2021-11-18,15.33,32.0,12.4,20.59,51.78,AQI-Data-20-22.csv,688,18/11/2021,51.78,2021,11,141,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,141,0,Unhealthy for sensitive groups,True,2021-11
+2021-11-19,15.0,33.0,14.77,21.38,58.6,AQI-Data-20-22.csv,689,19/11/2021,58.6,2021,11,153,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,153,0,Unhealthy,True,2021-11
+2021-11-20,15.3,30.0,15.73,22.3,61.3,AQI-Data-20-22.csv,690,20/11/2021,61.3,2021,11,155,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,154,1,Unhealthy,True,2021-11
+2021-11-21,14.8,43.0,13.8,23.54,59.8,AQI-Data-20-22.csv,691,21/11/2021,59.8,2021,11,154,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,153,1,Unhealthy,True,2021-11
+2021-11-22,14.8,58.0,13.46,22.6,54.9,AQI-Data-20-22.csv,692,22/11/2021,54.9,2021,11,149,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,149,0,Unhealthy for sensitive groups,True,2021-11
+2021-11-23,15.0,49.0,12.5,21.6,47.6,AQI-Data-20-22.csv,693,23/11/2021,47.6,2021,11,131,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,131,0,Unhealthy for sensitive groups,True,2021-11
+2021-11-24,15.5,46.0,13.33,23.4,53.6,AQI-Data-20-22.csv,694,24/11/2021,53.6,2021,11,146,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,146,0,Unhealthy for sensitive groups,True,2021-11
+2021-11-25,16.0,44.0,14.6,24.5,62.87,AQI-Data-20-22.csv,695,25/11/2021,62.87,2021,11,156,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,155,1,Unhealthy,True,2021-11
+2021-11-26,16.3,45.0,15.33,25.6,65.9,AQI-Data-20-22.csv,696,26/11/2021,65.9,2021,11,158,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,156,2,Unhealthy,True,2021-11
+2021-11-27,16.5,47.6,18.4,27.6,68.2,AQI-Data-20-22.csv,697,27/11/2021,68.2,2021,11,160,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,158,2,Unhealthy,True,2021-11
+2021-11-28,16.17,48.86,28.97,22.8,49.45,AQI-Data-20-22.csv,698,28/11/2021,49.45,2021,11,135,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,135,0,Unhealthy for sensitive groups,True,2021-11
+2021-11-29,15.0,50.3,19.4,21.6,48.66,AQI-Data-20-22.csv,699,29/11/2021,48.66,2021,11,133,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,133,0,Unhealthy for sensitive groups,True,2021-11
+2021-11-30,14.6,51.2,19.6,23.14,51.84,AQI-Data-20-22.csv,700,30/11/2021,51.84,2021,11,141,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,141,0,Unhealthy for sensitive groups,True,2021-11
+2021-12-01,15.0,31.4,29.3,40.2,100.6,AQI-Data-20-22.csv,701,01/12/2021,100.6,2021,12,183,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,174,9,Unhealthy,True,2021-12
+2021-12-02,14.5,43.6,32.2,41.3,94.3,AQI-Data-20-22.csv,702,02/12/2021,94.3,2021,12,178,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,171,7,Unhealthy,True,2021-12
+2021-12-03,11.43,65.03,49.9,55.94,133.97,AQI-Data-20-22.csv,703,03/12/2021,133.97,2021,12,209,US_EPA_PM25_2024_fixed_retrospective,Very unhealthy,191,18,Unhealthy,True,2021-12
+2021-12-04,14.0,72.0,13.6,23.5,68.3,AQI-Data-20-22.csv,704,04/12/2021,68.3,2021,12,160,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,158,2,Unhealthy,True,2021-12
+2021-12-05,13.33,80.0,13.64,22.46,53.2,AQI-Data-20-22.csv,705,05/12/2021,53.2,2021,12,145,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,145,0,Unhealthy for sensitive groups,True,2021-12
+2021-12-06,14.0,48.7,17.72,20.47,56.05,AQI-Data-20-22.csv,706,06/12/2021,56.05,2021,12,151,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,151,0,Unhealthy,True,2021-12
+2021-12-07,13.33,51.66,20.04,20.79,69.7,AQI-Data-20-22.csv,707,07/12/2021,69.7,2021,12,161,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,158,3,Unhealthy,True,2021-12
+2021-12-08,13.7,56.0,27.03,21.73,93.38,AQI-Data-20-22.csv,708,08/12/2021,93.38,2021,12,177,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,171,6,Unhealthy,True,2021-12
+2021-12-09,13.5,50.33,28.35,22.39,100.34,AQI-Data-20-22.csv,709,09/12/2021,100.34,2021,12,182,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,174,8,Unhealthy,True,2021-12
+2021-12-10,13.0,47.3,26.4,23.4,80.95,AQI-Data-20-22.csv,710,10/12/2021,80.95,2021,12,169,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,164,5,Unhealthy,True,2021-12
+2021-12-11,12.0,43.5,25.8,21.5,85.7,AQI-Data-20-22.csv,711,11/12/2021,85.7,2021,12,172,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,167,5,Unhealthy,True,2021-12
+2021-12-12,11.66,42.0,27.74,22.49,120.5,AQI-Data-20-22.csv,712,12/12/2021,120.5,2021,12,197,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,185,12,Unhealthy,True,2021-12
+2021-12-13,11.0,49.66,25.51,21.92,96.06,AQI-Data-20-22.csv,713,13/12/2021,96.06,2021,12,179,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,172,7,Unhealthy,True,2021-12
+2021-12-14,10.0,57.7,19.88,22.21,91.18,AQI-Data-20-22.csv,714,14/12/2021,91.18,2021,12,176,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,169,7,Unhealthy,True,2021-12
+2021-12-15,9.7,46.66,23.97,22.39,129.58,AQI-Data-20-22.csv,715,15/12/2021,129.58,2021,12,205,US_EPA_PM25_2024_fixed_retrospective,Very unhealthy,189,16,Unhealthy,True,2021-12
+2021-12-16,9.0,52.66,13.82,20.19,73.88,AQI-Data-20-22.csv,716,16/12/2021,73.88,2021,12,164,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,160,4,Unhealthy,True,2021-12
+2021-12-17,9.5,64.0,14.6,21.3,73.4,AQI-Data-20-22.csv,717,17/12/2021,73.4,2021,12,164,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,160,4,Unhealthy,True,2021-12
+2021-12-18,9.33,60.0,22.97,22.14,111.9,AQI-Data-20-22.csv,718,18/12/2021,111.9,2021,12,191,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,180,11,Unhealthy,True,2021-12
+2021-12-19,9.5,56.3,27.8,23.5,149.4,AQI-Data-20-22.csv,719,19/12/2021,149.4,2021,12,225,US_EPA_PM25_2024_fixed_retrospective,Very unhealthy,199,26,Unhealthy,True,2021-12
+2021-12-20,9.33,59.0,27.97,20.64,156.2,AQI-Data-20-22.csv,720,20/12/2021,156.2,2021,12,231,US_EPA_PM25_2024_fixed_retrospective,Very unhealthy,207,24,Very unhealthy,True,2021-12
+2021-12-21,11.33,52.66,43.44,19.88,198.96,AQI-Data-20-22.csv,721,21/12/2021,198.96,2021,12,274,US_EPA_PM25_2024_fixed_retrospective,Very unhealthy,249,25,Very unhealthy,True,2021-12
+2021-12-22,11.0,54.0,39.98,21.25,182.1,AQI-Data-20-22.csv,722,22/12/2021,182.1,2021,12,257,US_EPA_PM25_2024_fixed_retrospective,Very unhealthy,232,25,Very unhealthy,True,2021-12
+2021-12-23,10.66,57.66,39.43,21.78,156.53,AQI-Data-20-22.csv,723,23/12/2021,156.53,2021,12,232,US_EPA_PM25_2024_fixed_retrospective,Very unhealthy,207,25,Very unhealthy,True,2021-12
+2021-12-24,10.0,54.6,29.78,22.28,119.9,AQI-Data-20-22.csv,724,24/12/2021,119.9,2021,12,196,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,184,12,Unhealthy,True,2021-12
+2021-12-25,9.5,63.0,29.14,22.31,142.8,AQI-Data-20-22.csv,725,25/12/2021,142.8,2021,12,218,US_EPA_PM25_2024_fixed_retrospective,Very unhealthy,196,22,Unhealthy,True,2021-12
+2021-12-26,9.33,74.7,25.02,22.55,107.37,AQI-Data-20-22.csv,726,26/12/2021,107.37,2021,12,187,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,178,9,Unhealthy,True,2021-12
+2021-12-27,8.33,79.0,17.55,22.64,57.11,AQI-Data-20-22.csv,727,27/12/2021,57.11,2021,12,152,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,0,Unhealthy,True,2021-12
+2021-12-28,9.2,61.0,24.03,21.69,84.79,AQI-Data-20-22.csv,728,28/12/2021,84.79,2021,12,171,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,166,5,Unhealthy,True,2021-12
+2021-12-29,9.0,63.0,20.9,19.99,87.6,AQI-Data-20-22.csv,729,29/12/2021,87.6,2021,12,174,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,168,6,Unhealthy,True,2021-12
+2021-12-30,8.5,69.0,23.4,20.5,85.9,AQI-Data-20-22.csv,730,30/12/2021,85.9,2021,12,172,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,167,5,Unhealthy,True,2021-12
+2021-12-31,8.3,58.0,22.9,21.74,86.2,AQI-Data-20-22.csv,731,31/12/2021,86.2,2021,12,173,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,167,6,Unhealthy,True,2021-12
+2022-01-01,8.0,69.0,19.2,21.3,112.45,AQI-Data-20-22.csv,732,01/01/2022,112.45,2022,1,191,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,180,11,Unhealthy,True,2022-01
+2022-01-02,8.5,63.0,23.6,19.45,72.6,AQI-Data-20-22.csv,733,02/01/2022,72.6,2022,1,163,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,160,3,Unhealthy,True,2022-01
+2022-01-03,10.7,67.0,21.35,19.81,80.41,AQI-Data-20-22.csv,734,03/01/2022,80.41,2022,1,168,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,164,4,Unhealthy,True,2022-01
+2022-01-04,9.7,90.0,7.89,18.34,43.31,AQI-Data-20-22.csv,735,04/01/2022,43.31,2022,1,120,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,120,0,Unhealthy for sensitive groups,True,2022-01
+2022-01-05,9.0,89.33,7.61,20.37,35.8,AQI-Data-20-22.csv,736,05/01/2022,35.8,2022,1,102,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,102,0,Unhealthy for sensitive groups,True,2022-01
+2022-01-06,9.0,91.7,7.72,19.66,57.83,AQI-Data-20-22.csv,737,06/01/2022,57.83,2022,1,153,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,1,Unhealthy,True,2022-01
+2022-01-07,8.0,90.1,7.45,18.83,44.67,AQI-Data-20-22.csv,738,07/01/2022,44.67,2022,1,123,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,123,0,Unhealthy for sensitive groups,True,2022-01
+2022-01-08,8.33,77.4,8.2,18.42,21.0,AQI-Data-20-22.csv,739,08/01/2022,21,2022,1,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2022-01
+2022-01-09,8.6,74.33,9.41,18.7,35.41,AQI-Data-20-22.csv,740,09/01/2022,35.41,2022,1,100,US_EPA_PM25_2024_fixed_retrospective,Moderate,100,0,Moderate,False,2022-01
+2022-01-10,8.0,55.33,9.23,19.19,51.2,AQI-Data-20-22.csv,741,10/01/2022,51.2,2022,1,140,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,140,0,Unhealthy for sensitive groups,True,2022-01
+2022-01-11,8.7,47.0,10.25,18.46,58.75,AQI-Data-20-22.csv,742,11/01/2022,58.75,2022,1,153,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,153,0,Unhealthy,True,2022-01
+2022-01-12,8.3,44.33,11.57,20.12,93.65,AQI-Data-20-22.csv,743,12/01/2022,93.65,2022,1,178,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,171,7,Unhealthy,True,2022-01
+2022-01-13,8.7,43.0,11.32,21.31,104.21,AQI-Data-20-22.csv,744,13/01/2022,104.21,2022,1,185,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,176,9,Unhealthy,True,2022-01
+2022-01-14,8.5,44.0,12.22,20.34,108.42,AQI-Data-20-22.csv,745,14/01/2022,108.42,2022,1,188,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,178,10,Unhealthy,True,2022-01
+2022-01-15,8.33,73.0,10.82,19.39,130.3,AQI-Data-20-22.csv,746,15/01/2022,130.3,2022,1,206,US_EPA_PM25_2024_fixed_retrospective,Very unhealthy,190,16,Unhealthy,True,2022-01
+2022-01-16,8.0,74.33,11.24,19.19,131.09,AQI-Data-20-22.csv,747,16/01/2022,131.09,2022,1,206,US_EPA_PM25_2024_fixed_retrospective,Very unhealthy,190,16,Unhealthy,True,2022-01
+2022-01-17,8.8,78.0,9.25,19.77,145.76,AQI-Data-20-22.csv,748,17/01/2022,145.76,2022,1,221,US_EPA_PM25_2024_fixed_retrospective,Very unhealthy,198,23,Unhealthy,True,2022-01
+2022-01-18,8.7,80.33,9.14,20.22,120.06,AQI-Data-20-22.csv,749,18/01/2022,120.06,2022,1,196,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,184,12,Unhealthy,True,2022-01
+2022-01-19,8.0,83.0,8.09,19.78,81.17,AQI-Data-20-22.csv,750,19/01/2022,81.17,2022,1,169,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,164,5,Unhealthy,True,2022-01
+2022-01-20,8.7,87.0,8.82,19.72,108.06,AQI-Data-20-22.csv,751,20/01/2022,108.06,2022,1,188,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,178,10,Unhealthy,True,2022-01
+2022-01-21,8.3,90.0,8.41,19.61,60.8,AQI-Data-20-22.csv,752,21/01/2022,60.8,2022,1,155,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,154,1,Unhealthy,True,2022-01
+2022-01-22,8.0,93.0,8.03,18.7,20.9,AQI-Data-20-22.csv,753,22/01/2022,20.9,2022,1,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2022-01
+2022-01-23,7.7,89.33,8.5,19.31,25.12,AQI-Data-20-22.csv,754,23/01/2022,25.12,2022,1,81,US_EPA_PM25_2024_fixed_retrospective,Moderate,78,3,Moderate,False,2022-01
+2022-01-24,7.0,87.33,7.99,18.58,39.13,AQI-Data-20-22.csv,755,24/01/2022,39.13,2022,1,110,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,110,0,Unhealthy for sensitive groups,True,2022-01
+2022-01-25,7.33,82.66,8.26,17.91,46.59,AQI-Data-20-22.csv,756,25/01/2022,46.59,2022,1,128,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,128,0,Unhealthy for sensitive groups,True,2022-01
+2022-01-26,7.7,72.33,8.18,18.31,53.44,AQI-Data-20-22.csv,757,26/01/2022,53.44,2022,1,145,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,145,0,Unhealthy for sensitive groups,True,2022-01
+2022-01-27,8.33,60.33,7.96,18.39,65.31,AQI-Data-20-22.csv,758,27/01/2022,65.31,2022,1,158,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,156,2,Unhealthy,True,2022-01
+2022-01-28,8.0,45.0,8.66,18.81,80.34,AQI-Data-20-22.csv,759,28/01/2022,80.34,2022,1,168,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,164,4,Unhealthy,True,2022-01
+2022-01-29,8.5,52.9,9.42,19.04,125.73,AQI-Data-20-22.csv,760,29/01/2022,125.73,2022,1,201,US_EPA_PM25_2024_fixed_retrospective,Very unhealthy,187,14,Unhealthy,True,2022-01
+2022-01-30,8.7,55.7,9.69,19.3,90.96,AQI-Data-20-22.csv,761,30/01/2022,90.96,2022,1,176,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,169,7,Unhealthy,True,2022-01
+2022-01-31,9.0,63.7,10.4,20.17,102.7,AQI-Data-20-22.csv,762,31/01/2022,102.7,2022,1,184,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,175,9,Unhealthy,True,2022-01
+2022-02-01,9.7,75.33,8.94,20.12,62.5,AQI-Data-20-22.csv,763,01/02/2022,62.5,2022,2,156,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,155,1,Unhealthy,True,2022-02
+2022-02-02,9.0,77.33,8.36,20.35,61.17,AQI-Data-20-22.csv,764,02/02/2022,61.17,2022,2,155,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,154,1,Unhealthy,True,2022-02
+2022-02-03,8.33,82.33,8.86,20.3,24.86,AQI-Data-20-22.csv,765,03/02/2022,24.86,2022,2,80,US_EPA_PM25_2024_fixed_retrospective,Moderate,78,2,Moderate,False,2022-02
+2022-02-04,8.5,63.0,9.67,20.21,52.43,AQI-Data-20-22.csv,766,04/02/2022,52.43,2022,2,143,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,143,0,Unhealthy for sensitive groups,True,2022-02
+2022-02-05,8.7,71.0,10.33,20.86,66.4,AQI-Data-20-22.csv,767,05/02/2022,66.4,2022,2,159,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,157,2,Unhealthy,True,2022-02
+2022-02-06,9.0,75.0,9.18,20.49,73.4,AQI-Data-20-22.csv,768,06/02/2022,73.4,2022,2,164,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,160,4,Unhealthy,True,2022-02
+2022-02-07,9.66,65.66,9.7,19.75,38.83,AQI-Data-20-22.csv,769,07/02/2022,38.83,2022,2,109,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,109,0,Unhealthy for sensitive groups,True,2022-02
+2022-02-08,9.5,58.6,10.51,19.58,54.58,AQI-Data-20-22.csv,770,08/02/2022,54.58,2022,2,148,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,148,0,Unhealthy for sensitive groups,True,2022-02
+2022-02-09,9.66,56.66,8.53,18.8,26.76,AQI-Data-20-22.csv,771,09/02/2022,26.76,2022,2,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2022-02
+2022-02-10,10.0,44.33,9.03,19.73,49.35,AQI-Data-20-22.csv,772,10/02/2022,49.35,2022,2,135,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,135,0,Unhealthy for sensitive groups,True,2022-02
+2022-02-11,10.5,33.0,9.6,20.2,51.44,AQI-Data-20-22.csv,773,11/02/2022,51.44,2022,2,140,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,140,0,Unhealthy for sensitive groups,True,2022-02
+2022-02-12,11.5,42.0,10.48,20.7,78.84,AQI-Data-20-22.csv,774,12/02/2022,78.84,2022,2,167,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,163,4,Unhealthy,True,2022-02
+2022-02-13,12.0,46.0,11.7,20.9,70.92,AQI-Data-20-22.csv,775,13/02/2022,70.92,2022,2,162,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,159,3,Unhealthy,True,2022-02
+2022-02-14,12.33,51.0,11.34,21.52,68.57,AQI-Data-20-22.csv,776,14/02/2022,68.57,2022,2,160,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,158,2,Unhealthy,True,2022-02
+2022-02-15,13.7,44.0,11.7,23.4,57.5,AQI-Data-20-22.csv,777,15/02/2022,57.5,2022,2,152,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,0,Unhealthy,True,2022-02
+2022-02-16,14.33,36.7,11.96,20.91,63.31,AQI-Data-20-22.csv,778,16/02/2022,63.31,2022,2,156,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,155,1,Unhealthy,True,2022-02
+2022-02-17,14.8,43.0,11.51,22.87,57.6,AQI-Data-20-22.csv,779,17/02/2022,57.6,2022,2,152,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,0,Unhealthy,True,2022-02
+2022-02-18,15.33,49.0,11.2,23.8,49.4,AQI-Data-20-22.csv,780,18/02/2022,49.4,2022,2,135,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,135,0,Unhealthy for sensitive groups,True,2022-02
+2022-02-19,15.3,36.0,10.3,20.3,23.66,AQI-Data-20-22.csv,781,19/02/2022,23.66,2022,2,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2022-02
+2022-02-20,15.5,38.0,10.42,20.1,22.6,AQI-Data-20-22.csv,782,20/02/2022,22.6,2022,2,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2022-02
+2022-02-21,15.66,51.66,11.7,20.92,39.99,AQI-Data-20-22.csv,783,21/02/2022,39.99,2022,2,112,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,112,0,Unhealthy for sensitive groups,True,2022-02
+2022-02-22,14.0,70.0,10.61,19.88,54.66,AQI-Data-20-22.csv,784,22/02/2022,54.66,2022,2,148,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,148,0,Unhealthy for sensitive groups,True,2022-02
+2022-02-23,14.7,86.33,9.57,25.44,45.96,AQI-Data-20-22.csv,785,23/02/2022,45.96,2022,2,127,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,127,0,Unhealthy for sensitive groups,True,2022-02
+2022-02-24,14.33,85.0,9.93,18.82,75.11,AQI-Data-20-22.csv,786,24/02/2022,75.11,2022,2,165,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,161,4,Unhealthy,True,2022-02
+2022-02-25,14.0,93.0,9.52,18.62,36.2,AQI-Data-20-22.csv,787,25/02/2022,36.2,2022,2,103,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,103,0,Unhealthy for sensitive groups,True,2022-02
+2022-02-26,14.5,90.0,9.7,18.68,41.16,AQI-Data-20-22.csv,788,26/02/2022,41.16,2022,2,115,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,115,0,Unhealthy for sensitive groups,True,2022-02
+2022-02-27,15.0,61.7,9.44,18.1,41.88,AQI-Data-20-22.csv,789,27/02/2022,41.88,2022,2,117,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,117,0,Unhealthy for sensitive groups,True,2022-02
+2022-02-28,15.33,44.33,11.41,23.19,45.61,AQI-Data-20-22.csv,790,28/02/2022,45.61,2022,2,126,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,126,0,Unhealthy for sensitive groups,True,2022-02
+2022-03-01,16.66,61.0,11.15,20.96,38.34,AQI-Data-20-22.csv,791,01/03/2022,38.34,2022,3,108,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,108,0,Unhealthy for sensitive groups,True,2022-03
+2022-03-02,16.0,74.33,11.95,22.88,54.22,AQI-Data-20-22.csv,792,02/03/2022,54.22,2022,3,147,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,147,0,Unhealthy for sensitive groups,True,2022-03
+2022-03-03,16.33,82.0,9.63,21.7,34.53,AQI-Data-20-22.csv,793,03/03/2022,34.53,2022,3,98,US_EPA_PM25_2024_fixed_retrospective,Moderate,98,0,Moderate,False,2022-03
+2022-03-04,16.5,68.0,10.98,23.8,42.33,AQI-Data-20-22.csv,794,04/03/2022,42.33,2022,3,118,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,118,0,Unhealthy for sensitive groups,True,2022-03
+2022-03-05,16.0,76.3,12.6,26.4,73.4,AQI-Data-20-22.csv,795,05/03/2022,73.4,2022,3,164,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,160,4,Unhealthy,True,2022-03
+2022-03-06,15.33,83.33,10.07,19.7,32.38,AQI-Data-20-22.csv,796,06/03/2022,32.38,2022,3,94,US_EPA_PM25_2024_fixed_retrospective,Moderate,93,1,Moderate,False,2022-03
+2022-03-07,16.7,36.0,9.46,16.6,20.95,AQI-Data-20-22.csv,797,07/03/2022,20.95,2022,3,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2022-03
+2022-03-08,17.33,62.66,7.85,15.4,33.7,AQI-Data-20-22.csv,798,08/03/2022,33.7,2022,3,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,1,Moderate,False,2022-03
+2022-03-09,18.66,67.0,4.88,19.82,33.53,AQI-Data-20-22.csv,799,09/03/2022,33.53,2022,3,96,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,0,Moderate,False,2022-03
+2022-03-10,19.0,66.0,4.88,25.96,32.13,AQI-Data-20-22.csv,800,10/03/2022,32.13,2022,3,94,US_EPA_PM25_2024_fixed_retrospective,Moderate,93,1,Moderate,False,2022-03
+2022-03-11,19.5,59.0,7.6,26.4,47.3,AQI-Data-20-22.csv,801,11/03/2022,47.3,2022,3,130,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,130,0,Unhealthy for sensitive groups,True,2022-03
+2022-03-12,19.7,54.0,8.57,30.6,58.73,AQI-Data-20-22.csv,802,12/03/2022,58.73,2022,3,153,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,153,0,Unhealthy,True,2022-03
+2022-03-13,21.0,58.0,7.36,19.78,32.99,AQI-Data-20-22.csv,803,13/03/2022,32.99,2022,3,95,US_EPA_PM25_2024_fixed_retrospective,Moderate,95,0,Moderate,False,2022-03
+2022-03-14,21.0,36.0,11.8,18.9,22.9,AQI-Data-20-22.csv,804,14/03/2022,22.9,2022,3,77,US_EPA_PM25_2024_fixed_retrospective,Moderate,74,3,Moderate,False,2022-03
+2022-03-15,22.0,30.0,18.6,26.4,30.6,AQI-Data-20-22.csv,805,15/03/2022,30.6,2022,3,91,US_EPA_PM25_2024_fixed_retrospective,Moderate,90,1,Moderate,False,2022-03
+2022-03-16,22.0,43.0,19.4,27.3,33.8,AQI-Data-20-22.csv,806,16/03/2022,33.8,2022,3,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,0,Moderate,False,2022-03
+2022-03-17,21.0,37.0,20.6,30.4,36.87,AQI-Data-20-22.csv,807,17/03/2022,36.87,2022,3,104,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,104,0,Unhealthy for sensitive groups,True,2022-03
+2022-03-18,22.3,39.0,17.6,28.3,38.64,AQI-Data-20-22.csv,808,18/03/2022,38.64,2022,3,109,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,109,0,Unhealthy for sensitive groups,True,2022-03
+2022-03-19,23.0,41.0,16.53,26.4,33.5,AQI-Data-20-22.csv,809,19/03/2022,33.5,2022,3,96,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,0,Moderate,False,2022-03
+2022-03-20,23.33,37.0,15.6,26.82,36.4,AQI-Data-20-22.csv,810,20/03/2022,36.4,2022,3,103,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,103,0,Unhealthy for sensitive groups,True,2022-03
+2022-03-21,23.5,38.0,14.7,19.2,34.68,AQI-Data-20-22.csv,811,21/03/2022,34.68,2022,3,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,98,1,Moderate,False,2022-03
+2022-03-22,24.0,40.0,14.33,19.6,33.5,AQI-Data-20-22.csv,812,22/03/2022,33.5,2022,3,96,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,0,Moderate,False,2022-03
+2022-03-23,24.5,43.0,13.1,19.3,33.2,AQI-Data-20-22.csv,813,23/03/2022,33.2,2022,3,96,US_EPA_PM25_2024_fixed_retrospective,Moderate,95,1,Moderate,False,2022-03
+2022-03-24,25.2,49.2,9.0,20.14,28.27,AQI-Data-20-22.csv,814,24/03/2022,28.27,2022,3,87,US_EPA_PM25_2024_fixed_retrospective,Moderate,85,2,Moderate,False,2022-03
+2022-03-25,25.0,43.2,12.66,27.33,26.11,AQI-Data-20-22.csv,815,25/03/2022,26.11,2022,3,83,US_EPA_PM25_2024_fixed_retrospective,Moderate,80,3,Moderate,False,2022-03
+2022-03-26,25.3,41.6,12.82,28.4,26.74,AQI-Data-20-22.csv,816,26/03/2022,26.74,2022,3,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2022-03
+2022-03-27,26.66,39.33,14.64,31.79,27.8,AQI-Data-20-22.csv,817,27/03/2022,27.8,2022,3,86,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,2,Moderate,False,2022-03
+2022-03-28,26.0,37.66,15.73,34.72,50.81,AQI-Data-20-22.csv,818,28/03/2022,50.81,2022,3,139,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,139,0,Unhealthy for sensitive groups,True,2022-03
+2022-03-29,26.66,37.66,13.48,35.36,63.72,AQI-Data-20-22.csv,819,29/03/2022,63.72,2022,3,157,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,155,2,Unhealthy,True,2022-03
+2022-03-30,26.7,39.0,14.97,36.93,69.69,AQI-Data-20-22.csv,820,30/03/2022,69.69,2022,3,161,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,158,3,Unhealthy,True,2022-03
+2022-03-31,27.0,31.66,11.03,37.73,53.46,AQI-Data-20-22.csv,821,31/03/2022,53.46,2022,3,145,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,145,0,Unhealthy for sensitive groups,True,2022-03
+2022-04-01,26.7,30.0,11.6,25.6,36.8,AQI-Data-20-22.csv,822,01/04/2022,36.8,2022,4,104,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,104,0,Unhealthy for sensitive groups,True,2022-04
+2022-04-02,27.0,31.6,14.8,22.47,26.88,AQI-Data-20-22.csv,823,02/04/2022,26.88,2022,4,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2022-04
+2022-04-03,27.33,29.66,10.94,20.33,25.44,AQI-Data-20-22.csv,824,03/04/2022,25.44,2022,4,81,US_EPA_PM25_2024_fixed_retrospective,Moderate,79,2,Moderate,False,2022-04
+2022-04-04,27.33,28.66,11.3,23.75,33.24,AQI-Data-20-22.csv,825,04/04/2022,33.24,2022,4,96,US_EPA_PM25_2024_fixed_retrospective,Moderate,95,1,Moderate,False,2022-04
+2022-04-05,27.0,29.66,10.9,23.03,28.6,AQI-Data-20-22.csv,826,05/04/2022,28.6,2022,4,87,US_EPA_PM25_2024_fixed_retrospective,Moderate,86,1,Moderate,False,2022-04
+2022-04-06,27.33,28.0,11.54,23.8,27.43,AQI-Data-20-22.csv,827,06/04/2022,27.43,2022,4,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,83,2,Moderate,False,2022-04
+2022-04-07,28.0,28.0,12.83,23.27,28.55,AQI-Data-20-22.csv,828,07/04/2022,28.55,2022,4,87,US_EPA_PM25_2024_fixed_retrospective,Moderate,85,2,Moderate,False,2022-04
+2022-04-08,27.6,30.0,10.4,20.6,32.7,AQI-Data-20-22.csv,829,08/04/2022,32.7,2022,4,95,US_EPA_PM25_2024_fixed_retrospective,Moderate,94,1,Moderate,False,2022-04
+2022-04-09,27.0,29.0,9.1,20.21,31.4,AQI-Data-20-22.csv,830,09/04/2022,31.4,2022,4,93,US_EPA_PM25_2024_fixed_retrospective,Moderate,92,1,Moderate,False,2022-04
+2022-04-10,28.33,26.7,11.88,24.16,31.5,AQI-Data-20-22.csv,831,10/04/2022,31.5,2022,4,93,US_EPA_PM25_2024_fixed_retrospective,Moderate,92,1,Moderate,False,2022-04
+2022-04-11,28.33,27.0,9.923,22.87,30.32,AQI-Data-20-22.csv,832,11/04/2022,30.32,2022,4,90,US_EPA_PM25_2024_fixed_retrospective,Moderate,89,1,Moderate,False,2022-04
+2022-04-12,27.33,41.33,9.78,22.97,33.67,AQI-Data-20-22.csv,833,12/04/2022,33.67,2022,4,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,1,Moderate,False,2022-04
+2022-04-13,27.66,44.33,9.78,22.9,28.7,AQI-Data-20-22.csv,834,13/04/2022,28.7,2022,4,88,US_EPA_PM25_2024_fixed_retrospective,Moderate,86,2,Moderate,False,2022-04
+2022-04-14,28.0,37.0,9.71,21.38,18.61,AQI-Data-20-22.csv,835,14/04/2022,18.61,2022,4,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2022-04
+2022-04-15,27.66,31.33,9.04,20.53,17.31,AQI-Data-20-22.csv,836,15/04/2022,17.31,2022,4,66,US_EPA_PM25_2024_fixed_retrospective,Moderate,62,4,Moderate,False,2022-04
+2022-04-16,28.0,32.5,9.2,20.4,19.3,AQI-Data-20-22.csv,837,16/04/2022,19.3,2022,4,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2022-04
+2022-04-17,29.0,34.33,9.48,19.7,24.36,AQI-Data-20-22.csv,838,17/04/2022,24.36,2022,4,79,US_EPA_PM25_2024_fixed_retrospective,Moderate,77,2,Moderate,False,2022-04
+2022-04-18,28.33,41.0,9.2,22.12,31.03,AQI-Data-20-22.csv,839,18/04/2022,31.03,2022,4,92,US_EPA_PM25_2024_fixed_retrospective,Moderate,91,1,Moderate,False,2022-04
+2022-04-19,28.33,48.0,8.53,21.53,24.6,AQI-Data-20-22.csv,840,19/04/2022,24.6,2022,4,80,US_EPA_PM25_2024_fixed_retrospective,Moderate,77,3,Moderate,False,2022-04
+2022-04-20,28.0,46.33,8.21,19.81,20.94,AQI-Data-20-22.csv,841,20/04/2022,20.94,2022,4,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2022-04
+2022-04-21,27.33,46.0,9.7,19.64,13.2,AQI-Data-20-22.csv,842,21/04/2022,13.2,2022,4,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,53,6,Moderate,False,2022-04
+2022-04-22,27.0,47.66,8.64,18.16,16.78,AQI-Data-20-22.csv,843,22/04/2022,16.78,2022,4,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,61,4,Moderate,False,2022-04
+2022-04-23,27.5,43.0,7.22,18.64,21.2,AQI-Data-20-22.csv,844,23/04/2022,21.2,2022,4,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,4,Moderate,False,2022-04
+2022-04-24,27.66,45.7,6.85,18.8,12.6,AQI-Data-20-22.csv,845,24/04/2022,12.6,2022,4,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,6,Moderate,False,2022-04
+2022-04-25,28.66,37.33,6.57,21.55,12.73,AQI-Data-20-22.csv,846,25/04/2022,12.73,2022,4,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,6,Moderate,False,2022-04
+2022-04-26,29.66,35.0,6.57,20.46,17.63,AQI-Data-20-22.csv,847,26/04/2022,17.63,2022,4,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2022-04
+2022-04-27,30.7,34.33,6.04,18.6,16.6,AQI-Data-20-22.csv,848,27/04/2022,16.6,2022,4,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2022-04
+2022-04-28,31.66,37.33,6.53,19.16,27.13,AQI-Data-20-22.csv,849,28/04/2022,27.13,2022,4,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,83,2,Moderate,False,2022-04
+2022-04-29,32.7,35.33,5.7,18.8,15.18,AQI-Data-20-22.csv,850,29/04/2022,15.18,2022,4,62,US_EPA_PM25_2024_fixed_retrospective,Moderate,57,5,Moderate,False,2022-04
+2022-04-30,28.0,38.6,6.22,19.53,16.4,AQI-Data-20-22.csv,851,30/04/2022,16.4,2022,4,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2022-04
+2022-05-01,30.3,30.0,8.41,20.88,20.5,AQI-Data-20-22.csv,852,01/05/2022,20.5,2022,5,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,3,Moderate,False,2022-05
+2022-05-02,30.63,43.0,7.6,18.4,21.3,AQI-Data-20-22.csv,853,02/05/2022,21.3,2022,5,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,4,Moderate,False,2022-05
+2022-05-03,30.0,40.0,6.35,16.8,17.0,AQI-Data-20-22.csv,854,03/05/2022,17,2022,5,66,US_EPA_PM25_2024_fixed_retrospective,Moderate,61,5,Moderate,False,2022-05
+2022-05-04,29.3,38.0,6.2,17.2,18.4,AQI-Data-20-22.csv,855,04/05/2022,18.4,2022,5,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2022-05
+2022-05-05,27.1,36.9,4.0,15.83,12.13,AQI-Data-20-22.csv,856,05/05/2022,12.13,2022,5,57,US_EPA_PM25_2024_fixed_retrospective,Moderate,51,6,Moderate,False,2022-05
+2022-05-06,28.4,37.87,5.3,17.07,16.13,AQI-Data-20-22.csv,857,06/05/2022,16.13,2022,5,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,5,Moderate,False,2022-05
+2022-05-07,28.0,28.0,12.83,23.27,28.55,AQI-Data-20-22.csv,858,07/05/2022,28.55,2022,5,87,US_EPA_PM25_2024_fixed_retrospective,Moderate,85,2,Moderate,False,2022-05
+2022-05-08,33.0,32.7,5.87,17.45,16.27,AQI-Data-20-22.csv,859,08/05/2022,16.27,2022,5,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,4,Moderate,False,2022-05
+2022-05-09,32.0,41.0,5.29,15.5,19.66,AQI-Data-20-22.csv,860,09/05/2022,19.66,2022,5,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,67,4,Moderate,False,2022-05
+2022-05-10,34.33,31.3,5.24,14.13,15.7,AQI-Data-20-22.csv,861,10/05/2022,15.7,2022,5,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,4,Moderate,False,2022-05
+2022-05-11,35.33,29.0,6.12,15.54,33.73,AQI-Data-20-22.csv,862,11/05/2022,33.73,2022,5,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,96,1,Moderate,False,2022-05
+2022-05-12,36.0,29.0,6.12,15.81,25.33,AQI-Data-20-22.csv,863,12/05/2022,25.33,2022,5,81,US_EPA_PM25_2024_fixed_retrospective,Moderate,79,2,Moderate,False,2022-05
+2022-05-13,36.7,25.33,5.69,16.04,24.2,AQI-Data-20-22.csv,864,13/05/2022,24.2,2022,5,79,US_EPA_PM25_2024_fixed_retrospective,Moderate,76,3,Moderate,False,2022-05
+2022-05-14,37.0,22.0,5.53,16.33,27.0,AQI-Data-20-22.csv,865,14/05/2022,27,2022,5,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2022-05
+2022-05-15,37.0,30.7,5.74,17.79,17.2,AQI-Data-20-22.csv,866,15/05/2022,17.2,2022,5,66,US_EPA_PM25_2024_fixed_retrospective,Moderate,62,4,Moderate,False,2022-05
+2022-05-16,35.66,30.33,6.11,19.14,29.46,AQI-Data-20-22.csv,867,16/05/2022,29.46,2022,5,89,US_EPA_PM25_2024_fixed_retrospective,Moderate,87,2,Moderate,False,2022-05
+2022-05-17,34.7,34.33,6.06,18.71,28.06,AQI-Data-20-22.csv,868,17/05/2022,28.06,2022,5,86,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,2,Moderate,False,2022-05
+2022-05-18,34.33,35.33,5.97,20.16,25.0,AQI-Data-20-22.csv,869,18/05/2022,25,2022,5,81,US_EPA_PM25_2024_fixed_retrospective,Moderate,78,3,Moderate,False,2022-05
+2022-05-19,34.33,36.0,5.5,19.8,28.83,AQI-Data-20-22.csv,870,19/05/2022,28.83,2022,5,88,US_EPA_PM25_2024_fixed_retrospective,Moderate,86,2,Moderate,False,2022-05
+2022-05-20,34.0,33.33,5.83,18.7,19.96,AQI-Data-20-22.csv,871,20/05/2022,19.96,2022,5,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,67,4,Moderate,False,2022-05
+2022-05-21,35.0,21.0,5.44,18.83,23.0,AQI-Data-20-22.csv,872,21/05/2022,23,2022,5,77,US_EPA_PM25_2024_fixed_retrospective,Moderate,74,3,Moderate,False,2022-05
+2022-05-22,30.66,41.7,5.3,14.33,12.23,AQI-Data-20-22.csv,873,22/05/2022,12.23,2022,5,57,US_EPA_PM25_2024_fixed_retrospective,Moderate,51,6,Moderate,False,2022-05
+2022-05-23,29.33,46.0,5.44,14.97,12.23,AQI-Data-20-22.csv,874,23/05/2022,12.23,2022,5,57,US_EPA_PM25_2024_fixed_retrospective,Moderate,51,6,Moderate,False,2022-05
+2022-05-24,30.0,46.0,5.3,14.33,12.25,AQI-Data-20-22.csv,875,24/05/2022,12.25,2022,5,57,US_EPA_PM25_2024_fixed_retrospective,Moderate,51,6,Moderate,False,2022-05
+2022-05-25,32.0,35.0,5.54,17.0,22.25,AQI-Data-20-22.csv,876,25/05/2022,22.25,2022,5,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,3,Moderate,False,2022-05
+2022-05-26,31.7,33.33,6.43,22.05,39.33,AQI-Data-20-22.csv,877,26/05/2022,39.33,2022,5,110,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,110,0,Unhealthy for sensitive groups,True,2022-05
+2022-05-27,31.33,46.0,5.37,20.23,28.33,AQI-Data-20-22.csv,878,27/05/2022,28.33,2022,5,87,US_EPA_PM25_2024_fixed_retrospective,Moderate,85,2,Moderate,False,2022-05
+2022-05-28,31.0,47.0,5.4,20.4,25.0,AQI-Data-20-22.csv,879,28/05/2022,25,2022,5,81,US_EPA_PM25_2024_fixed_retrospective,Moderate,78,3,Moderate,False,2022-05
+2022-05-29,34.66,38.0,5.39,19.0,24.33,AQI-Data-20-22.csv,880,29/05/2022,24.33,2022,5,79,US_EPA_PM25_2024_fixed_retrospective,Moderate,77,2,Moderate,False,2022-05
+2022-05-30,34.33,38.77,5.07,19.6,21.66,AQI-Data-20-22.csv,881,30/05/2022,21.66,2022,5,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,71,3,Moderate,False,2022-05
+2022-05-31,33.33,39.7,4.42,18.43,26.63,AQI-Data-20-22.csv,882,31/05/2022,26.63,2022,5,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,81,3,Moderate,False,2022-05
+2022-06-01,32.0,36.66,4.61,16.44,22.66,AQI-Data-20-22.csv,883,01/06/2022,22.66,2022,6,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2022-06
+2022-06-02,33.7,32.33,4.2,15.57,12.46,AQI-Data-20-22.csv,884,02/06/2022,12.46,2022,6,57,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,5,Moderate,False,2022-06
+2022-06-03,34.0,26.33,4.23,14.1,13.86,AQI-Data-20-22.csv,885,03/06/2022,13.86,2022,6,60,US_EPA_PM25_2024_fixed_retrospective,Moderate,55,5,Moderate,False,2022-06
+2022-06-04,35.0,21.6,4.35,14.62,19.86,AQI-Data-20-22.csv,886,04/06/2022,19.86,2022,6,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,67,4,Moderate,False,2022-06
+2022-06-05,35.7,18.33,4.41,14.68,23.43,AQI-Data-20-22.csv,887,05/06/2022,23.43,2022,6,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2022-06
+2022-06-06,37.0,17.0,4.72,15.6,26.8,AQI-Data-20-22.csv,888,06/06/2022,26.8,2022,6,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2022-06
+2022-06-07,37.33,20.66,5.07,16.09,35.76,AQI-Data-20-22.csv,889,07/06/2022,35.76,2022,6,101,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,101,0,Unhealthy for sensitive groups,True,2022-06
+2022-06-08,38.0,19.4,4.86,17.3,47.0,AQI-Data-20-22.csv,890,08/06/2022,47,2022,6,129,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,129,0,Unhealthy for sensitive groups,True,2022-06
+2022-06-09,37.63,19.83,5.57,16.2,34.98,AQI-Data-20-22.csv,891,09/06/2022,34.98,2022,6,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,99,0,Moderate,False,2022-06
+2022-06-10,38.0,20.0,4.41,15.11,21.0,AQI-Data-20-22.csv,892,10/06/2022,21,2022,6,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2022-06
+2022-06-11,37.0,25.0,4.43,15.3,22.7,AQI-Data-20-22.csv,893,11/06/2022,22.7,2022,6,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2022-06
+2022-06-12,33.66,31.0,4.63,13.3,29.46,AQI-Data-20-22.csv,894,12/06/2022,29.46,2022,6,89,US_EPA_PM25_2024_fixed_retrospective,Moderate,87,2,Moderate,False,2022-06
+2022-06-13,34.17,23.0,5.4,12.97,26.17,AQI-Data-20-22.csv,895,13/06/2022,26.17,2022,6,83,US_EPA_PM25_2024_fixed_retrospective,Moderate,80,3,Moderate,False,2022-06
+2022-06-14,34.66,22.0,4.72,14.07,35.0,AQI-Data-20-22.csv,896,14/06/2022,35,2022,6,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,99,0,Moderate,False,2022-06
+2022-06-15,36.33,25.66,4.77,15.56,49.33,AQI-Data-20-22.csv,897,15/06/2022,49.33,2022,6,135,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,135,0,Unhealthy for sensitive groups,True,2022-06
+2022-06-16,31.33,57.33,4.33,13.31,16.33,AQI-Data-20-22.csv,898,16/06/2022,16.33,2022,6,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,4,Moderate,False,2022-06
+2022-06-17,34.7,34.33,6.06,18.71,28.06,AQI-Data-20-22.csv,899,17/06/2022,28.06,2022,6,86,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,2,Moderate,False,2022-06
+2022-06-18,34.33,35.33,5.97,20.16,25.0,AQI-Data-20-22.csv,900,18/06/2022,25,2022,6,81,US_EPA_PM25_2024_fixed_retrospective,Moderate,78,3,Moderate,False,2022-06
+2022-06-19,30.0,79.0,3.99,11.33,11.33,AQI-Data-20-22.csv,901,19/06/2022,11.33,2022,6,55,US_EPA_PM25_2024_fixed_retrospective,Moderate,47,8,Good,False,2022-06
+2022-06-20,26.0,77.7,3.83,11.76,12.16,AQI-Data-20-22.csv,902,20/06/2022,12.16,2022,6,57,US_EPA_PM25_2024_fixed_retrospective,Moderate,51,6,Moderate,False,2022-06
+2022-06-21,24.0,76.0,3.9,12.53,10.93,AQI-Data-20-22.csv,903,21/06/2022,10.93,2022,6,54,US_EPA_PM25_2024_fixed_retrospective,Moderate,45,9,Good,False,2022-06
+2022-06-22,26.0,62.0,3.96,12.95,15.0,AQI-Data-20-22.csv,904,22/06/2022,15,2022,6,62,US_EPA_PM25_2024_fixed_retrospective,Moderate,57,5,Moderate,False,2022-06
+2022-06-23,27.66,50.33,3.91,13.07,15.76,AQI-Data-20-22.csv,905,23/06/2022,15.76,2022,6,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,4,Moderate,False,2022-06
+2022-06-24,27.66,50.33,3.91,13.07,15.76,AQI-Data-20-22.csv,906,24/06/2022,15.76,2022,6,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,4,Moderate,False,2022-06
+2022-06-25,34.0,52.0,4.18,13.2,20.6,AQI-Data-20-22.csv,907,25/06/2022,20.6,2022,6,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,3,Moderate,False,2022-06
+2022-06-26,35.33,41.0,4.37,13.4,26.14,AQI-Data-20-22.csv,908,26/06/2022,26.14,2022,6,83,US_EPA_PM25_2024_fixed_retrospective,Moderate,80,3,Moderate,False,2022-06
+2022-06-27,36.33,34.66,4.46,13.92,29.53,AQI-Data-20-22.csv,909,27/06/2022,29.53,2022,6,89,US_EPA_PM25_2024_fixed_retrospective,Moderate,88,1,Moderate,False,2022-06
+2022-06-28,36.7,40.7,4.65,18.37,34.1,AQI-Data-20-22.csv,910,28/06/2022,34.1,2022,6,98,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,1,Moderate,False,2022-06
+2022-06-29,36.0,43.0,4.43,17.81,39.4,AQI-Data-20-22.csv,911,29/06/2022,39.4,2022,6,111,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,111,0,Unhealthy for sensitive groups,True,2022-06
+2022-06-30,33.7,58.7,4.2,16.43,34.66,AQI-Data-20-22.csv,912,30/06/2022,34.66,2022,6,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,98,1,Moderate,False,2022-06
+2022-07-01,31.0,68.0,3.72,12.4,11.5,AQI-Data-20-22.csv,913,01/07/2022,11.5,2022,7,55,US_EPA_PM25_2024_fixed_retrospective,Moderate,48,7,Good,False,2022-07
+2022-07-02,31.5,66.0,3.6,13.6,15.6,AQI-Data-20-22.csv,914,02/07/2022,15.6,2022,7,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,5,Moderate,False,2022-07
+2022-07-03,31.7,61.7,4.02,16.03,28.2,AQI-Data-20-22.csv,915,03/07/2022,28.2,2022,7,87,US_EPA_PM25_2024_fixed_retrospective,Moderate,85,2,Moderate,False,2022-07
+2022-07-04,30.33,72.0,3.81,12.23,16.0,AQI-Data-20-22.csv,916,04/07/2022,16,2022,7,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,5,Moderate,False,2022-07
+2022-07-05,30.7,82.7,3.94,13.15,30.8,AQI-Data-20-22.csv,917,05/07/2022,30.8,2022,7,91,US_EPA_PM25_2024_fixed_retrospective,Moderate,90,1,Moderate,False,2022-07
+2022-07-06,30.0,72.0,3.96,13.4,24.0,AQI-Data-20-22.csv,918,06/07/2022,24,2022,7,79,US_EPA_PM25_2024_fixed_retrospective,Moderate,76,3,Moderate,False,2022-07
+2022-07-07,30.33,56.0,3.78,11.6,21.0,AQI-Data-20-22.csv,919,07/07/2022,21,2022,7,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2022-07
+2022-07-08,31.0,58.0,4.07,13.4,24.0,AQI-Data-20-22.csv,920,08/07/2022,24,2022,7,79,US_EPA_PM25_2024_fixed_retrospective,Moderate,76,3,Moderate,False,2022-07
+2022-07-09,31.5,61.0,3.87,13.12,22.0,AQI-Data-20-22.csv,921,09/07/2022,22,2022,7,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,3,Moderate,False,2022-07
+2022-07-10,31.0,73.0,4.13,12.5,24.0,AQI-Data-20-22.csv,922,10/07/2022,24,2022,7,79,US_EPA_PM25_2024_fixed_retrospective,Moderate,76,3,Moderate,False,2022-07
+2022-07-11,30.5,76.0,4.05,13.1,27.0,AQI-Data-20-22.csv,923,11/07/2022,27,2022,7,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2022-07
+2022-07-12,30.33,77.66,3.89,12.4,19.33,AQI-Data-20-22.csv,924,12/07/2022,19.33,2022,7,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2022-07
+2022-07-13,28.33,84.33,3.43,11.42,12.0,AQI-Data-20-22.csv,925,13/07/2022,12,2022,7,56,US_EPA_PM25_2024_fixed_retrospective,Moderate,50,6,Good,False,2022-07
+2022-07-14,29.33,73.7,3.47,11.63,13.7,AQI-Data-20-22.csv,926,14/07/2022,13.7,2022,7,60,US_EPA_PM25_2024_fixed_retrospective,Moderate,54,6,Moderate,False,2022-07
+2022-07-15,28.5,78.0,3.2,11.2,12.6,AQI-Data-20-22.csv,927,15/07/2022,12.6,2022,7,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,6,Moderate,False,2022-07
+2022-07-16,30.0,69.0,3.24,10.4,10.0,AQI-Data-20-22.csv,928,16/07/2022,10,2022,7,53,US_EPA_PM25_2024_fixed_retrospective,Moderate,42,11,Good,False,2022-07
+2022-07-17,30.33,62.7,3.41,12.32,20.56,AQI-Data-20-22.csv,929,17/07/2022,20.56,2022,7,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,3,Moderate,False,2022-07
+2022-07-18,32.0,61.0,3.24,12.95,21.0,AQI-Data-20-22.csv,930,18/07/2022,21,2022,7,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2022-07
+2022-07-19,33.0,64.0,3.3,12.56,16.0,AQI-Data-20-22.csv,931,19/07/2022,16,2022,7,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,5,Moderate,False,2022-07
+2022-07-20,28.7,87.0,3.23,12.43,14.33,AQI-Data-20-22.csv,932,20/07/2022,14.33,2022,7,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2022-07
+2022-07-21,28.33,88.33,3.24,11.7,9.66,AQI-Data-20-22.csv,933,21/07/2022,9.66,2022,7,52,US_EPA_PM25_2024_fixed_retrospective,Moderate,40,12,Good,False,2022-07
+2022-07-22,28.0,77.0,3.3,10.45,10.0,AQI-Data-20-22.csv,934,22/07/2022,10,2022,7,53,US_EPA_PM25_2024_fixed_retrospective,Moderate,42,11,Good,False,2022-07
+2022-07-23,28.5,64.0,3.51,10.6,13.9,AQI-Data-20-22.csv,935,23/07/2022,13.9,2022,7,60,US_EPA_PM25_2024_fixed_retrospective,Moderate,55,5,Moderate,False,2022-07
+2022-07-24,27.66,50.33,3.91,13.07,15.76,AQI-Data-20-22.csv,936,24/07/2022,15.76,2022,7,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,4,Moderate,False,2022-07
+2022-07-25,30.0,83.0,3.63,12.3,23.0,AQI-Data-20-22.csv,937,25/07/2022,23,2022,7,77,US_EPA_PM25_2024_fixed_retrospective,Moderate,74,3,Moderate,False,2022-07
+2022-07-26,29.0,81.0,3.54,11.12,15.33,AQI-Data-20-22.csv,938,26/07/2022,15.33,2022,7,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,5,Moderate,False,2022-07
+2022-07-27,27.33,83.0,3.62,10.71,15.66,AQI-Data-20-22.csv,939,27/07/2022,15.66,2022,7,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,5,Moderate,False,2022-07
+2022-07-28,27.0,85.7,3.64,12.52,21.33,AQI-Data-20-22.csv,940,28/07/2022,21.33,2022,7,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,4,Moderate,False,2022-07
+2022-07-29,26.0,98.0,3.05,11.2,12.0,AQI-Data-20-22.csv,941,29/07/2022,12,2022,7,56,US_EPA_PM25_2024_fixed_retrospective,Moderate,50,6,Good,False,2022-07
+2022-07-30,26.5,92.0,3.45,11.47,20.0,AQI-Data-20-22.csv,942,30/07/2022,20,2022,7,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,3,Moderate,False,2022-07
+2022-07-31,26.0,89.0,2.87,9.88,8.66,AQI-Data-20-22.csv,943,31/07/2022,8.66,2022,7,48,US_EPA_PM25_2024_fixed_retrospective,Good,36,12,Good,False,2022-07
+2022-08-01,28.33,80.0,3.24,8.85,4.66,AQI-Data-20-22.csv,944,01/08/2022,4.66,2022,8,26,US_EPA_PM25_2024_fixed_retrospective,Good,19,7,Good,False,2022-08
+2022-08-02,29.0,73.0,3.15,8.8,14.33,AQI-Data-20-22.csv,945,02/08/2022,14.33,2022,8,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2022-08
+2022-08-03,30.0,64.33,3.56,10.3,21.0,AQI-Data-20-22.csv,946,03/08/2022,21,2022,8,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2022-08
+2022-08-04,31.0,69.33,3.47,11.0,21.0,AQI-Data-20-22.csv,947,04/08/2022,21,2022,8,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2022-08
+2022-08-05,30.0,82.0,3.8,12.6,27.0,AQI-Data-20-22.csv,948,05/08/2022,27,2022,8,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2022-08
+2022-08-06,30.3,73.0,3.6,12.51,25.1,AQI-Data-20-22.csv,949,06/08/2022,25.1,2022,8,81,US_EPA_PM25_2024_fixed_retrospective,Moderate,78,3,Moderate,False,2022-08
+2022-08-07,31.0,63.0,3.5,11.8,21.0,AQI-Data-20-22.csv,950,07/08/2022,21,2022,8,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2022-08
+2022-08-08,30.5,58.0,4.2,13.4,28.0,AQI-Data-20-22.csv,951,08/08/2022,28,2022,8,86,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,2,Moderate,False,2022-08
+2022-08-09,31.33,61.0,3.96,12.02,24.03,AQI-Data-20-22.csv,952,09/08/2022,24.03,2022,8,79,US_EPA_PM25_2024_fixed_retrospective,Moderate,76,3,Moderate,False,2022-08
+2022-08-10,32.33,62.66,3.92,12.78,23.6,AQI-Data-20-22.csv,953,10/08/2022,23.6,2022,8,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2022-08
+2022-08-11,28.33,79.33,3.96,11.81,16.0,AQI-Data-20-22.csv,954,11/08/2022,16,2022,8,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,5,Moderate,False,2022-08
+2022-08-12,28.0,65.0,3.61,12.3,19.6,AQI-Data-20-22.csv,955,12/08/2022,19.6,2022,8,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,67,4,Moderate,False,2022-08
+2022-08-13,25.5,68.0,3.24,12.8,24.7,AQI-Data-20-22.csv,956,13/08/2022,24.7,2022,8,80,US_EPA_PM25_2024_fixed_retrospective,Moderate,77,3,Moderate,False,2022-08
+2022-08-14,28.0,80.0,3.8,12.27,22.6,AQI-Data-20-22.csv,957,14/08/2022,22.6,2022,8,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2022-08
+2022-08-15,27.33,79.66,3.7,12.17,14.23,AQI-Data-20-22.csv,958,15/08/2022,14.23,2022,8,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,55,6,Moderate,False,2022-08
+2022-08-16,27.66,82.0,3.42,12.06,17.6,AQI-Data-20-22.csv,959,16/08/2022,17.6,2022,8,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2022-08
+2022-08-17,27.0,82.33,3.5,11.6,17.5,AQI-Data-20-22.csv,960,17/08/2022,17.5,2022,8,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,62,5,Moderate,False,2022-08
+2022-08-18,29.3,79.5,3.7,11.77,20.17,AQI-Data-20-22.csv,961,18/08/2022,20.17,2022,8,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,3,Moderate,False,2022-08
+2022-08-19,30.0,80.3,3.1,11.4,21.2,AQI-Data-20-22.csv,962,19/08/2022,21.2,2022,8,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,4,Moderate,False,2022-08
+2022-08-20,30.5,76.2,3.02,11.54,22.7,AQI-Data-20-22.csv,963,20/08/2022,22.7,2022,8,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2022-08
+2022-08-21,28.0,82.17,3.2,10.13,18.17,AQI-Data-20-22.csv,964,21/08/2022,18.17,2022,8,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2022-08
+2022-08-22,22.0,74.67,4.0,10.77,20.67,AQI-Data-20-22.csv,965,22/08/2022,20.67,2022,8,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,3,Moderate,False,2022-08
+2022-08-23,28.13,75.67,3.9,10.73,21.07,AQI-Data-20-22.csv,966,23/08/2022,21.07,2022,8,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2022-08
+2022-08-24,27.1,77.0,3.6,9.83,18.7,AQI-Data-20-22.csv,967,24/08/2022,18.7,2022,8,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2022-08
+2022-08-25,26.1,78.0,3.37,8.67,16.27,AQI-Data-20-22.csv,968,25/08/2022,16.27,2022,8,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,4,Moderate,False,2022-08
+2022-08-26,27.0,74.0,3.27,10.6,18.9,AQI-Data-20-22.csv,969,26/08/2022,18.9,2022,8,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2022-08
+2022-08-27,29.0,72.0,3.21,10.81,21.6,AQI-Data-20-22.csv,970,27/08/2022,21.6,2022,8,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,71,3,Moderate,False,2022-08
+2022-08-28,28.07,70.73,3.3,7.83,16.1,AQI-Data-20-22.csv,971,28/08/2022,16.1,2022,8,64,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,5,Moderate,False,2022-08
+2022-08-29,28.53,71.07,4.6,9.13,19.33,AQI-Data-20-22.csv,972,29/08/2022,19.33,2022,8,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2022-08
+2022-08-30,30.0,66.67,5.2,9.5,20.27,AQI-Data-20-22.csv,973,30/08/2022,20.27,2022,8,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,4,Moderate,False,2022-08
+2022-08-31,30.42,63.33,5.9,10.1,22.0,AQI-Data-20-22.csv,974,31/08/2022,22,2022,8,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,3,Moderate,False,2022-08
+2022-09-01,30.83,62.67,5.9,9.23,20.67,AQI-Data-20-22.csv,975,01/09/2022,20.67,2022,9,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,3,Moderate,False,2022-09
+2022-09-02,30.5,65.0,4.1,10.6,19.6,AQI-Data-20-22.csv,976,02/09/2022,19.6,2022,9,71,US_EPA_PM25_2024_fixed_retrospective,Moderate,67,4,Moderate,False,2022-09
+2022-09-03,30.0,62.0,3.67,11.2,18.6,AQI-Data-20-22.csv,977,03/09/2022,18.6,2022,9,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2022-09
+2022-09-04,29.63,62.0,4.7,8.4,18.9,AQI-Data-20-22.csv,978,04/09/2022,18.9,2022,9,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2022-09
+2022-09-05,26.13,70.0,3.6,7.17,15.73,AQI-Data-20-22.csv,979,05/09/2022,15.73,2022,9,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,4,Moderate,False,2022-09
+2022-09-06,28.07,68.33,5.3,8.0,18.17,AQI-Data-20-22.csv,980,06/09/2022,18.17,2022,9,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2022-09
+2022-09-07,29.37,66.67,6.6,8.23,21.1,AQI-Data-20-22.csv,981,07/09/2022,21.1,2022,9,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2022-09
+2022-09-08,29.7,66.7,3.62,15.96,22.73,AQI-Data-20-22.csv,982,08/09/2022,22.73,2022,9,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2022-09
+2022-09-09,29.0,73.0,3.73,16.4,21.0,AQI-Data-20-22.csv,983,09/09/2022,21,2022,9,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2022-09
+2022-09-10,28.0,74.0,3.5,14.2,18.3,AQI-Data-20-22.csv,984,10/09/2022,18.3,2022,9,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2022-09
+2022-09-11,27.33,76.33,3.38,11.47,11.93,AQI-Data-20-22.csv,985,11/09/2022,11.93,2022,9,56,US_EPA_PM25_2024_fixed_retrospective,Moderate,50,6,Good,False,2022-09
+2022-09-12,27.7,74.0,3.42,12.36,18.2,AQI-Data-20-22.csv,986,12/09/2022,18.2,2022,9,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2022-09
+2022-09-13,28.0,66.7,3.36,13.43,22.06,AQI-Data-20-22.csv,987,13/09/2022,22.06,2022,9,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,3,Moderate,False,2022-09
+2022-09-14,28.7,66.33,3.62,13.16,21.98,AQI-Data-20-22.csv,988,14/09/2022,21.98,2022,9,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,3,Moderate,False,2022-09
+2022-09-15,28.7,67.7,2.83,13.03,21.3,AQI-Data-20-22.csv,989,15/09/2022,21.3,2022,9,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,4,Moderate,False,2022-09
+2022-09-16,28.0,84.0,3.02,11.7,18.7,AQI-Data-20-22.csv,990,16/09/2022,18.7,2022,9,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2022-09
+2022-09-17,27.0,76.0,2.75,11.4,15.8,AQI-Data-20-22.csv,991,17/09/2022,15.8,2022,9,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,59,4,Moderate,False,2022-09
+2022-09-18,27.7,57.33,3.23,12.03,18.93,AQI-Data-20-22.csv,992,18/09/2022,18.93,2022,9,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2022-09
+2022-09-19,28.0,58.0,3.36,12.3,26.2,AQI-Data-20-22.csv,993,19/09/2022,26.2,2022,9,83,US_EPA_PM25_2024_fixed_retrospective,Moderate,81,2,Moderate,False,2022-09
+2022-09-20,28.3,57.0,3.31,13.2,23.24,AQI-Data-20-22.csv,994,20/09/2022,23.24,2022,9,77,US_EPA_PM25_2024_fixed_retrospective,Moderate,74,3,Moderate,False,2022-09
+2022-09-21,28.7,60.0,3.45,12.67,21.6,AQI-Data-20-22.csv,995,21/09/2022,21.6,2022,9,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,71,3,Moderate,False,2022-09
+2022-09-22,29.0,59.0,3.93,16.42,34.06,AQI-Data-20-22.csv,996,22/09/2022,34.06,2022,9,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,0,Moderate,False,2022-09
+2022-09-23,30.0,63.0,4.51,19.6,43.2,AQI-Data-20-22.csv,997,23/09/2022,43.2,2022,9,120,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,120,0,Unhealthy for sensitive groups,True,2022-09
+2022-09-24,28.5,75.0,4.0,16.4,18.7,AQI-Data-20-22.csv,998,24/09/2022,18.7,2022,9,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2022-09
+2022-09-25,26.7,74.7,3.51,14.23,17.6,AQI-Data-20-22.csv,999,25/09/2022,17.6,2022,9,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2022-09
+2022-09-26,26.7,70.0,3.55,13.34,21.49,AQI-Data-20-22.csv,1000,26/09/2022,21.49,2022,9,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,71,3,Moderate,False,2022-09
+2022-09-27,27.66,62.66,3.96,15.2,30.0,AQI-Data-20-22.csv,1001,27/09/2022,30,2022,9,90,US_EPA_PM25_2024_fixed_retrospective,Moderate,89,1,Moderate,False,2022-09
+2022-09-28,28.33,57.0,4.0,16.3,28.0,AQI-Data-20-22.csv,1002,28/09/2022,28,2022,9,86,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,2,Moderate,False,2022-09
+2022-09-29,28.0,51.7,3.62,16.65,28.0,AQI-Data-20-22.csv,1003,29/09/2022,28,2022,9,86,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,2,Moderate,False,2022-09
+2022-09-30,29.0,47.0,3.7,17.4,32.0,AQI-Data-20-22.csv,1004,30/09/2022,32,2022,9,94,US_EPA_PM25_2024_fixed_retrospective,Moderate,93,1,Moderate,False,2022-09
+2022-10-01,27.6,65.0,2.8,12.2,12.8,AQI-Data-20-22.csv,1005,01/10/2022,12.8,2022,10,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,6,Moderate,False,2022-10
+2022-10-02,27.0,74.66,2.73,11.63,12.66,AQI-Data-20-22.csv,1006,02/10/2022,12.66,2022,10,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,6,Moderate,False,2022-10
+2022-10-03,27.0,72.0,2.73,13.47,23.0,AQI-Data-20-22.csv,1007,03/10/2022,23,2022,10,77,US_EPA_PM25_2024_fixed_retrospective,Moderate,74,3,Moderate,False,2022-10
+2022-10-04,27.6,56.6,2.73,13.13,18.0,AQI-Data-20-22.csv,1008,04/10/2022,18,2022,10,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,5,Moderate,False,2022-10
+2022-10-05,28.0,51.33,2.91,13.76,25.7,AQI-Data-20-22.csv,1009,05/10/2022,25.7,2022,10,82,US_EPA_PM25_2024_fixed_retrospective,Moderate,80,2,Moderate,False,2022-10
+2022-10-06,26.33,64.0,2.8,13.83,14.26,AQI-Data-20-22.csv,1010,06/10/2022,14.26,2022,10,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,55,6,Moderate,False,2022-10
+2022-10-07,27.0,58.0,2.94,14.7,17.0,AQI-Data-20-22.csv,1011,07/10/2022,17,2022,10,66,US_EPA_PM25_2024_fixed_retrospective,Moderate,61,5,Moderate,False,2022-10
+2022-10-08,26.0,60.0,3.3,15.6,21.2,AQI-Data-20-22.csv,1012,08/10/2022,21.2,2022,10,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,4,Moderate,False,2022-10
+2022-10-09,25.0,62.0,4.05,18.0,29.53,AQI-Data-20-22.csv,1013,09/10/2022,29.53,2022,10,89,US_EPA_PM25_2024_fixed_retrospective,Moderate,88,1,Moderate,False,2022-10
+2022-10-10,24.33,65.0,4.23,21.12,32.33,AQI-Data-20-22.csv,1014,10/10/2022,32.33,2022,10,94,US_EPA_PM25_2024_fixed_retrospective,Moderate,93,1,Moderate,False,2022-10
+2022-10-11,24.0,70.33,4.31,21.65,31.7,AQI-Data-20-22.csv,1015,11/10/2022,31.7,2022,10,93,US_EPA_PM25_2024_fixed_retrospective,Moderate,92,1,Moderate,False,2022-10
+2022-10-12,24.0,61.33,3.83,17.33,19.0,AQI-Data-20-22.csv,1016,12/10/2022,19,2022,10,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,3,Moderate,False,2022-10
+2022-10-13,23.5,57.0,3.91,18.7,27.0,AQI-Data-20-22.csv,1017,13/10/2022,27,2022,10,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2022-10
+2022-10-14,23.0,56.0,3.92,19.2,29.0,AQI-Data-20-22.csv,1018,14/10/2022,29,2022,10,88,US_EPA_PM25_2024_fixed_retrospective,Moderate,87,1,Moderate,False,2022-10
+2022-10-15,23.0,54.0,3.45,19.4,27.2,AQI-Data-20-22.csv,1019,15/10/2022,27.2,2022,10,85,US_EPA_PM25_2024_fixed_retrospective,Moderate,83,2,Moderate,False,2022-10
+2022-10-16,23.0,54.33,3.55,17.03,23.2,AQI-Data-20-22.csv,1020,16/10/2022,23.2,2022,10,77,US_EPA_PM25_2024_fixed_retrospective,Moderate,74,3,Moderate,False,2022-10
+2022-10-17,23.0,51.66,3.69,17.42,28.26,AQI-Data-20-22.csv,1021,17/10/2022,28.26,2022,10,87,US_EPA_PM25_2024_fixed_retrospective,Moderate,85,2,Moderate,False,2022-10
+2022-10-18,22.5,50.8,3.5,18.4,29.4,AQI-Data-20-22.csv,1022,18/10/2022,29.4,2022,10,89,US_EPA_PM25_2024_fixed_retrospective,Moderate,87,2,Moderate,False,2022-10
+2022-10-19,22.3,48.0,3.71,18.53,24.33,AQI-Data-20-22.csv,1023,19/10/2022,24.33,2022,10,79,US_EPA_PM25_2024_fixed_retrospective,Moderate,77,2,Moderate,False,2022-10
+2022-10-20,21.7,59.66,3.54,15.9,17.0,AQI-Data-20-22.csv,1024,20/10/2022,17,2022,10,66,US_EPA_PM25_2024_fixed_retrospective,Moderate,61,5,Moderate,False,2022-10
+2022-10-21,21.33,56.0,3.65,16.8,21.0,AQI-Data-20-22.csv,1025,21/10/2022,21,2022,10,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2022-10
+2022-10-22,21.0,47.0,3.68,17.5,22.6,AQI-Data-20-22.csv,1026,22/10/2022,22.6,2022,10,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2022-10
+2022-10-23,20.7,43.0,3.57,17.3,21.8,AQI-Data-20-22.csv,1027,23/10/2022,21.8,2022,10,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,71,4,Moderate,False,2022-10
+2022-10-24,20.66,40.33,3.72,16.56,24.66,AQI-Data-20-22.csv,1028,24/10/2022,24.66,2022,10,80,US_EPA_PM25_2024_fixed_retrospective,Moderate,77,3,Moderate,False,2022-10
+2022-10-25,21.7,42.33,3.47,16.83,26.7,AQI-Data-20-22.csv,1029,25/10/2022,26.7,2022,10,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2022-10
+2022-10-26,21.0,48.0,3.72,17.8,28.0,AQI-Data-20-22.csv,1030,26/10/2022,28,2022,10,86,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,2,Moderate,False,2022-10
+2022-10-27,22.0,42.7,3.83,18.1,28.0,AQI-Data-20-22.csv,1031,27/10/2022,28,2022,10,86,US_EPA_PM25_2024_fixed_retrospective,Moderate,84,2,Moderate,False,2022-10
+2022-10-28,21.0,38.0,3.9,19.2,32.0,AQI-Data-20-22.csv,1032,28/10/2022,32,2022,10,94,US_EPA_PM25_2024_fixed_retrospective,Moderate,93,1,Moderate,False,2022-10
+2022-10-29,21.7,42.0,4.17,21.8,34.0,AQI-Data-20-22.csv,1033,29/10/2022,34,2022,10,97,US_EPA_PM25_2024_fixed_retrospective,Moderate,97,0,Moderate,False,2022-10
+2022-10-30,22.0,46.33,4.32,23.16,42.0,AQI-Data-20-22.csv,1034,30/10/2022,42,2022,10,117,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,117,0,Unhealthy for sensitive groups,True,2022-10
+2022-10-31,21.7,46.33,4.93,24.5,51.0,AQI-Data-20-22.csv,1035,31/10/2022,51,2022,10,139,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,139,0,Unhealthy for sensitive groups,True,2022-10
+2022-11-01,23.0,57.0,15.7,20.3,16.7,AQI-Data-20-22.csv,1036,01/11/2022,16.7,2022,11,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,61,4,Moderate,False,2022-11
+2022-11-02,23.0,59.0,16.8,22.8,18.6,AQI-Data-20-22.csv,1037,02/11/2022,18.6,2022,11,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2022-11
+2022-11-03,23.0,38.0,18.9,25.9,23.6,AQI-Data-20-22.csv,1038,03/11/2022,23.6,2022,11,78,US_EPA_PM25_2024_fixed_retrospective,Moderate,75,3,Moderate,False,2022-11
+2022-11-04,23.7,60.0,20.3,26.8,33.0,AQI-Data-20-22.csv,1039,04/11/2022,33,2022,11,96,US_EPA_PM25_2024_fixed_retrospective,Moderate,95,1,Moderate,False,2022-11
+2022-11-05,24.0,56.0,14.5,17.6,20.3,AQI-Data-20-22.csv,1040,05/11/2022,20.3,2022,11,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,68,4,Moderate,False,2022-11
+2022-11-06,24.0,41.0,16.3,20.11,22.0,AQI-Data-20-22.csv,1041,06/11/2022,22,2022,11,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,3,Moderate,False,2022-11
+2022-11-07,24.0,37.0,16.5,20.4,21.0,AQI-Data-20-22.csv,1042,07/11/2022,21,2022,11,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2022-11
+2022-11-08,24.0,32.0,15.6,19.1,19.2,AQI-Data-20-22.csv,1043,08/11/2022,19.2,2022,11,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2022-11
+2022-11-09,24.0,29.0,13.33,17.4,18.0,AQI-Data-20-22.csv,1044,09/11/2022,18,2022,11,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,5,Moderate,False,2022-11
+2022-11-10,24.5,30.0,13.6,17.0,18.4,AQI-Data-20-22.csv,1045,10/11/2022,18.4,2022,11,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2022-11
+2022-11-11,25.0,31.0,13.8,17.7,17.88,AQI-Data-20-22.csv,1046,11/11/2022,17.88,2022,11,67,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,4,Moderate,False,2022-11
+2022-11-12,25.0,28.0,14.1,16.7,18.2,AQI-Data-20-22.csv,1047,12/11/2022,18.2,2022,11,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2022-11
+2022-11-13,25.0,25.0,12.5,13.6,16.4,AQI-Data-20-22.csv,1048,13/11/2022,16.4,2022,11,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2022-11
+2022-11-14,24.5,27.0,12.7,18.3,18.7,AQI-Data-20-22.csv,1049,14/11/2022,18.7,2022,11,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2022-11
+2022-11-15,25.0,44.0,12.66,16.7,15.6,AQI-Data-20-22.csv,1050,15/11/2022,15.6,2022,11,63,US_EPA_PM25_2024_fixed_retrospective,Moderate,58,5,Moderate,False,2022-11
+2022-11-16,25.5,32.0,13.2,15.1,16.8,AQI-Data-20-22.csv,1051,16/11/2022,16.8,2022,11,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,61,4,Moderate,False,2022-11
+2022-11-17,26.0,33.0,13.5,16.7,18.3,AQI-Data-20-22.csv,1052,17/11/2022,18.3,2022,11,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2022-11
+2022-11-18,26.0,64.0,13.24,16.8,16.5,AQI-Data-20-22.csv,1053,18/11/2022,16.5,2022,11,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2022-11
+2022-11-19,26.0,40.0,9.11,17.3,18.8,AQI-Data-20-22.csv,1054,19/11/2022,18.8,2022,11,69,US_EPA_PM25_2024_fixed_retrospective,Moderate,65,4,Moderate,False,2022-11
+2022-11-20,26.0,32.0,17.3,20.8,31.2,AQI-Data-20-22.csv,1055,20/11/2022,31.2,2022,11,92,US_EPA_PM25_2024_fixed_retrospective,Moderate,91,1,Moderate,False,2022-11
+2022-11-21,26.5,35.0,9.6,13.9,13.4,AQI-Data-20-22.csv,1056,21/11/2022,13.4,2022,11,59,US_EPA_PM25_2024_fixed_retrospective,Moderate,54,5,Moderate,False,2022-11
+2022-11-22,27.0,43.0,8.6,14.7,14.3,AQI-Data-20-22.csv,1057,22/11/2022,14.3,2022,11,61,US_EPA_PM25_2024_fixed_retrospective,Moderate,56,5,Moderate,False,2022-11
+2022-11-23,27.0,35.0,8.91,14.6,12.6,AQI-Data-20-22.csv,1058,23/11/2022,12.6,2022,11,58,US_EPA_PM25_2024_fixed_retrospective,Moderate,52,6,Moderate,False,2022-11
+2022-11-24,27.0,27.0,9.2,13.6,12.2,AQI-Data-20-22.csv,1059,24/11/2022,12.2,2022,11,57,US_EPA_PM25_2024_fixed_retrospective,Moderate,51,6,Moderate,False,2022-11
+2022-11-25,27.0,26.0,9.4,16.9,11.7,AQI-Data-20-22.csv,1060,25/11/2022,11.7,2022,11,56,US_EPA_PM25_2024_fixed_retrospective,Moderate,49,7,Good,False,2022-11
+2022-11-26,27.33,82.0,18.89,22.33,18.3,AQI-Data-20-22.csv,1061,26/11/2022,18.3,2022,11,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2022-11
+2022-11-27,28.0,18.0,18.6,23.4,20.8,AQI-Data-20-22.csv,1062,27/11/2022,20.8,2022,11,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,4,Moderate,False,2022-11
+2022-11-28,28.0,37.0,18.88,24.7,26.3,AQI-Data-20-22.csv,1063,28/11/2022,26.3,2022,11,83,US_EPA_PM25_2024_fixed_retrospective,Moderate,81,2,Moderate,False,2022-11
+2022-11-29,28.0,49.0,20.6,26.4,30.2,AQI-Data-20-22.csv,1064,29/11/2022,30.2,2022,11,90,US_EPA_PM25_2024_fixed_retrospective,Moderate,89,1,Moderate,False,2022-11
+2022-11-30,28.0,41.0,17.3,21.3,22.6,AQI-Data-20-22.csv,1065,30/11/2022,22.6,2022,11,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2022-11
+2022-12-01,15.0,42.0,5.2,23.6,35.6,AQI-Data-20-22.csv,1066,01/12/2022,35.6,2022,12,101,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,101,0,Unhealthy for sensitive groups,True,2022-12
+2022-12-02,15.6,57.0,5.4,28.7,51.0,AQI-Data-20-22.csv,1067,02/12/2022,51,2022,12,139,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,139,0,Unhealthy for sensitive groups,True,2022-12
+2022-12-03,15.33,56.0,5.5,30.6,68.9,AQI-Data-20-22.csv,1068,03/12/2022,68.9,2022,12,160,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,158,2,Unhealthy,True,2022-12
+2022-12-04,15.33,58.0,5.4,31.8,75.3,AQI-Data-20-22.csv,1069,04/12/2022,75.3,2022,12,165,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,161,4,Unhealthy,True,2022-12
+2022-12-05,15.0,53.7,7.23,30.36,92.03,AQI-Data-20-22.csv,1070,05/12/2022,92.03,2022,12,177,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,170,7,Unhealthy,True,2022-12
+2022-12-06,14.33,47.0,7.56,30.63,65.16,AQI-Data-20-22.csv,1071,06/12/2022,65.16,2022,12,158,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,156,2,Unhealthy,True,2022-12
+2022-12-07,14.7,46.0,8.99,32.3,66.8,AQI-Data-20-22.csv,1072,07/12/2022,66.8,2022,12,159,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,157,2,Unhealthy,True,2022-12
+2022-12-08,15.0,48.0,10.3,34.6,70.6,AQI-Data-20-22.csv,1073,08/12/2022,70.6,2022,12,162,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,159,3,Unhealthy,True,2022-12
+2022-12-09,14.3,50.0,9.53,31.4,57.8,AQI-Data-20-22.csv,1074,09/12/2022,57.8,2022,12,153,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,1,Unhealthy,True,2022-12
+2022-12-10,14.0,52.0,9.33,30.1,46.2,AQI-Data-20-22.csv,1075,10/12/2022,46.2,2022,12,127,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,127,0,Unhealthy for sensitive groups,True,2022-12
+2022-12-11,13.7,51.0,11.7,32.9,52.46,AQI-Data-20-22.csv,1076,11/12/2022,52.46,2022,12,143,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,143,0,Unhealthy for sensitive groups,True,2022-12
+2022-12-12,13.6,52.7,12.9,33.3,53.86,AQI-Data-20-22.csv,1077,12/12/2022,53.86,2022,12,146,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,146,0,Unhealthy for sensitive groups,True,2022-12
+2022-12-13,13.0,50.7,11.33,29.46,45.3,AQI-Data-20-22.csv,1078,13/12/2022,45.3,2022,12,125,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,125,0,Unhealthy for sensitive groups,True,2022-12
+2022-12-14,13.7,48.0,10.9,28.66,43.7,AQI-Data-20-22.csv,1079,14/12/2022,43.7,2022,12,121,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,121,0,Unhealthy for sensitive groups,True,2022-12
+2022-12-15,13.7,42.0,11.3,28.9,45.9,AQI-Data-20-22.csv,1080,15/12/2022,45.9,2022,12,127,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,127,0,Unhealthy for sensitive groups,True,2022-12
+2022-12-16,13.3,39.0,11.6,31.22,49.5,AQI-Data-20-22.csv,1081,16/12/2022,49.5,2022,12,135,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,135,0,Unhealthy for sensitive groups,True,2022-12
+2022-12-17,13.0,37.0,12.7,31.7,57.6,AQI-Data-20-22.csv,1082,17/12/2022,57.6,2022,12,152,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,0,Unhealthy,True,2022-12
+2022-12-18,12.7,40.0,13.55,33.8,72.0,AQI-Data-20-22.csv,1083,18/12/2022,72,2022,12,163,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,160,3,Unhealthy,True,2022-12
+2022-12-19,12.7,42.66,15.93,31.83,70.33,AQI-Data-20-22.csv,1084,19/12/2022,70.33,2022,12,161,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,159,2,Unhealthy,True,2022-12
+2022-12-20,13.0,43.0,14.6,33.8,84.3,AQI-Data-20-22.csv,1085,20/12/2022,84.3,2022,12,171,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,166,5,Unhealthy,True,2022-12
+2022-12-21,13.0,45.0,15.7,35.6,89.5,AQI-Data-20-22.csv,1086,21/12/2022,89.5,2022,12,175,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,169,6,Unhealthy,True,2022-12
+2022-12-22,12.7,54.0,14.3,33.5,80.0,AQI-Data-20-22.csv,1087,22/12/2022,80,2022,12,168,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,164,4,Unhealthy,True,2022-12
+2022-12-23,12.7,47.0,14.56,33.84,81.0,AQI-Data-20-22.csv,1088,23/12/2022,81,2022,12,169,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,164,5,Unhealthy,True,2022-12
+2022-12-24,12.33,42.0,13.7,32.6,74.0,AQI-Data-20-22.csv,1089,24/12/2022,74,2022,12,164,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,161,3,Unhealthy,True,2022-12
+2022-12-25,12.33,40.0,15.2,39.7,96.3,AQI-Data-20-22.csv,1090,25/12/2022,96.3,2022,12,180,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,172,8,Unhealthy,True,2022-12
+2022-12-26,12.0,45.0,14.81,38.6,90.0,AQI-Data-20-22.csv,1091,26/12/2022,90,2022,12,175,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,169,6,Unhealthy,True,2022-12
+2022-12-27,12.0,48.0,13.6,33.21,73.6,AQI-Data-20-22.csv,1092,27/12/2022,73.6,2022,12,164,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,160,4,Unhealthy,True,2022-12
+2022-12-28,12.0,50.0,13.8,31.7,72.4,AQI-Data-20-22.csv,1093,28/12/2022,72.4,2022,12,163,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,160,3,Unhealthy,True,2022-12
+2022-12-29,11.7,54.0,14.3,32.6,80.0,AQI-Data-20-22.csv,1094,29/12/2022,80,2022,12,168,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,164,4,Unhealthy,True,2022-12
+2022-12-30,11.7,73.0,12.4,31.6,47.8,AQI-Data-20-22.csv,1095,30/12/2022,47.8,2022,12,131,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,131,0,Unhealthy for sensitive groups,True,2022-12
+2022-12-31,11.33,70.0,11.3,29.4,40.2,AQI-Data-20-22.csv,1096,31/12/2022,40.2,2022,12,113,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,113,0,Unhealthy for sensitive groups,True,2022-12
+2023-01-01,11.66,44.0,14.9,48.7,63.1,AQI-Data-23.csv,2,1/1/2023,63.1,2023,1,156,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,155,1,Unhealthy,True,2023-01
+2023-01-02,11.66,40.0,15.22,49.5,65.0,AQI-Data-23.csv,3,2/1/2023,65,2023,1,158,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,156,2,Unhealthy,True,2023-01
+2023-01-03,12.0,37.6,16.8,52.6,112.0,AQI-Data-23.csv,4,3/1/2023,112,2023,1,191,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,180,11,Unhealthy,True,2023-01
+2023-01-04,12.66,35.2,15.3,53.6,74.0,AQI-Data-23.csv,5,4/1/2023,74,2023,1,164,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,161,3,Unhealthy,True,2023-01
+2023-01-05,13.0,33.66,15.9,58.23,71.64,AQI-Data-23.csv,6,5/1/2023,71.64,2023,1,162,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,159,3,Unhealthy,True,2023-01
+2023-01-06,14.0,36.0,16.4,56.4,85.0,AQI-Data-23.csv,7,6/1/2023,85,2023,1,172,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,166,6,Unhealthy,True,2023-01
+2023-01-07,14.33,38.0,17.33,54.3,102.3,AQI-Data-23.csv,8,7/1/2023,102.3,2023,1,184,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,175,9,Unhealthy,True,2023-01
+2023-01-08,14.66,43.6,16.8,52.1,97.5,AQI-Data-23.csv,9,8/1/2023,97.5,2023,1,180,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,173,7,Unhealthy,True,2023-01
+2023-01-09,15.33,49.33,13.63,34.1,62.7,AQI-Data-23.csv,10,9/1/2023,62.7,2023,1,156,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,155,1,Unhealthy,True,2023-01
+2023-01-10,13.0,66.0,12.8,41.3,70.4,AQI-Data-23.csv,11,10/1/2023,70.4,2023,1,161,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,159,2,Unhealthy,True,2023-01
+2023-01-11,10.66,78.0,11.9,33.4,42.0,AQI-Data-23.csv,12,11/1/2023,42,2023,1,117,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,117,0,Unhealthy for sensitive groups,True,2023-01
+2023-01-12,10.33,72.0,12.4,33.5,43.0,AQI-Data-23.csv,13,12/1/2023,43,2023,1,119,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,119,0,Unhealthy for sensitive groups,True,2023-01
+2023-01-13,10.0,64.0,13.8,34.6,59.6,AQI-Data-23.csv,14,13/01/2023,59.6,2023,1,154,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,153,1,Unhealthy,True,2023-01
+2023-01-14,9.33,60.0,13.64,33.7,57.2,AQI-Data-23.csv,15,14/01/2023,57.2,2023,1,152,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,152,0,Unhealthy,True,2023-01
+2023-01-15,8.0,46.0,12.7,31.4,46.7,AQI-Data-23.csv,16,15/01/2023,46.7,2023,1,129,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,129,0,Unhealthy for sensitive groups,True,2023-01
+2023-01-16,8.33,41.0,14.73,33.2,50.53,AQI-Data-23.csv,17,16/01/2023,50.53,2023,1,138,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,138,0,Unhealthy for sensitive groups,True,2023-01
+2023-01-17,8.7,41.0,13.04,31.7,45.5,AQI-Data-23.csv,18,17/01/2023,45.5,2023,1,126,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,126,0,Unhealthy for sensitive groups,True,2023-01
+2023-01-18,8.7,40.0,14.3,35.6,72.0,AQI-Data-23.csv,19,18/01/2023,72,2023,1,163,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,160,3,Unhealthy,True,2023-01
+2023-01-19,9.0,44.7,11.56,31.4,44.0,AQI-Data-23.csv,20,19/01/2023,44,2023,1,122,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,122,0,Unhealthy for sensitive groups,True,2023-01
+2023-01-20,9.0,50.0,11.2,30.1,40.0,AQI-Data-23.csv,21,20/01/2023,40,2023,1,112,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,112,0,Unhealthy for sensitive groups,True,2023-01
+2023-01-21,9.0,66.0,10.6,28.6,28.1,AQI-Data-23.csv,22,21/01/2023,28.1,2023,1,86,US_EPA_PM25_2024_fixed_retrospective,Moderate,85,1,Moderate,False,2023-01
+2023-01-22,8.7,60.0,10.91,31.6,51.4,AQI-Data-23.csv,23,22/01/2023,51.4,2023,1,140,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,140,0,Unhealthy for sensitive groups,True,2023-01
+2023-01-23,8.7,58.0,12.3,35.3,75.0,AQI-Data-23.csv,24,23/01/2023,75,2023,1,165,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,161,4,Unhealthy,True,2023-01
+2023-01-24,8.33,55.0,14.6,37.68,90.0,AQI-Data-23.csv,25,24/01/2023,90,2023,1,175,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,169,6,Unhealthy,True,2023-01
+2023-01-25,8.33,53.5,13.2,35.4,82.0,AQI-Data-23.csv,26,25/01/2023,82,2023,1,170,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,165,5,Unhealthy,True,2023-01
+2023-01-26,8.6,50.0,13.6,33.7,72.0,AQI-Data-23.csv,27,26/01/2023,72,2023,1,163,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,160,3,Unhealthy,True,2023-01
+2023-01-27,9.0,49.0,14.7,34.5,84.0,AQI-Data-23.csv,28,27/01/2023,84,2023,1,171,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,166,5,Unhealthy,True,2023-01
+2023-01-28,9.6,67.0,13.8,30.9,62.0,AQI-Data-23.csv,29,28/01/2023,62,2023,1,156,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,154,2,Unhealthy,True,2023-01
+2023-01-29,10.0,61.0,11.2,26.8,35.0,AQI-Data-23.csv,30,29/01/2023,35,2023,1,99,US_EPA_PM25_2024_fixed_retrospective,Moderate,99,0,Moderate,False,2023-01
+2023-01-30,10.33,57.7,8.9,20.13,23.0,AQI-Data-23.csv,31,30/01/2023,23,2023,1,77,US_EPA_PM25_2024_fixed_retrospective,Moderate,74,3,Moderate,False,2023-01
+2023-01-31,10.7,56.0,10.34,24.67,42.7,AQI-Data-23.csv,32,31/01/2023,42.7,2023,1,119,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,119,0,Unhealthy for sensitive groups,True,2023-01
+2023-02-01,12.0,42.0,9.88,23.7,43.7,AQI-Data-23.csv,33,1/2/2023,43.7,2023,2,121,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,121,0,Unhealthy for sensitive groups,True,2023-02
+2023-02-02,13.33,44.33,10.9,24.83,48.33,AQI-Data-23.csv,34,2/2/2023,48.33,2023,2,133,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,133,0,Unhealthy for sensitive groups,True,2023-02
+2023-02-03,13.0,46.0,12.6,29.4,70.3,AQI-Data-23.csv,35,3/2/2023,70.3,2023,2,161,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,159,2,Unhealthy,True,2023-02
+2023-02-04,14.0,60.0,9.74,23.6,41.8,AQI-Data-23.csv,36,4/2/2023,41.8,2023,2,117,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,117,0,Unhealthy for sensitive groups,True,2023-02
+2023-02-05,14.0,60.0,10.2,24.11,43.9,AQI-Data-23.csv,37,5/2/2023,43.9,2023,2,122,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,122,0,Unhealthy for sensitive groups,True,2023-02
+2023-02-06,12.7,56.7,8.62,22.53,16.56,AQI-Data-23.csv,38,6/2/2023,16.56,2023,2,65,US_EPA_PM25_2024_fixed_retrospective,Moderate,60,5,Moderate,False,2023-02
+2023-02-07,13.33,47.7,7.77,18.2,19.4,AQI-Data-23.csv,39,7/2/2023,19.4,2023,2,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2023-02
+2023-02-08,12.0,52.0,7.58,17.1,27.0,AQI-Data-23.csv,40,8/2/2023,27,2023,2,84,US_EPA_PM25_2024_fixed_retrospective,Moderate,82,2,Moderate,False,2023-02
+2023-02-09,10.33,59.33,7.04,15.83,17.4,AQI-Data-23.csv,41,9/2/2023,17.4,2023,2,66,US_EPA_PM25_2024_fixed_retrospective,Moderate,62,4,Moderate,False,2023-02
+2023-02-10,10.66,67.0,7.3,23.1,32.0,AQI-Data-23.csv,42,10/2/2023,32,2023,2,94,US_EPA_PM25_2024_fixed_retrospective,Moderate,93,1,Moderate,False,2023-02
+2023-02-11,10.66,70.0,7.2,22.8,22.1,AQI-Data-23.csv,43,11/2/2023,22.1,2023,2,75,US_EPA_PM25_2024_fixed_retrospective,Moderate,72,3,Moderate,False,2023-02
+2023-02-12,11.0,32.0,7.16,22.6,19.33,AQI-Data-23.csv,44,12/2/2023,19.33,2023,2,70,US_EPA_PM25_2024_fixed_retrospective,Moderate,66,4,Moderate,False,2023-02
+2023-02-13,11.66,34.0,6.9,20.5,21.5,AQI-Data-23.csv,45,13/02/2023,21.5,2023,2,74,US_EPA_PM25_2024_fixed_retrospective,Moderate,71,3,Moderate,False,2023-02
+2023-02-14,13.0,34.33,7.16,27.4,43.7,AQI-Data-23.csv,46,14/02/2023,43.7,2023,2,121,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,121,0,Unhealthy for sensitive groups,True,2023-02
+2023-02-15,13.0,42.0,7.33,21.2,28.9,AQI-Data-23.csv,47,15/02/2023,28.9,2023,2,88,US_EPA_PM25_2024_fixed_retrospective,Moderate,86,2,Moderate,False,2023-02
+2023-02-16,13.33,43.0,8.1,28.1,70.0,AQI-Data-23.csv,48,16/02/2023,70,2023,2,161,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,158,3,Unhealthy,True,2023-02
+2023-02-17,13.66,39.0,8.6,28.3,73.8,AQI-Data-23.csv,49,17/02/2023,73.8,2023,2,164,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,160,4,Unhealthy,True,2023-02
+2023-02-18,14.33,40.0,7.6,27.75,66.8,AQI-Data-23.csv,50,18/02/2023,66.8,2023,2,159,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,157,2,Unhealthy,True,2023-02
+2023-02-19,14.33,63.0,6.73,27.3,60.0,AQI-Data-23.csv,51,19/02/2023,60,2023,2,154,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,153,1,Unhealthy,True,2023-02
+2023-02-20,15.0,54.0,6.88,25.9,71.0,AQI-Data-23.csv,52,20/02/2023,71,2023,2,162,US_EPA_PM25_2024_fixed_retrospective,Unhealthy,159,3,Unhealthy,True,2023-02
+2023-02-21,15.7,43.33,6.7,19.2,20.66,AQI-Data-23.csv,53,21/02/2023,20.66,2023,2,72,US_EPA_PM25_2024_fixed_retrospective,Moderate,69,3,Moderate,False,2023-02
+2023-02-22,15.33,46.0,6.2,20.1,18.0,AQI-Data-23.csv,54,22/02/2023,18,2023,2,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,63,5,Moderate,False,2023-02
+2023-02-23,15.0,47.0,6.5,21.46,22.7,AQI-Data-23.csv,55,23/02/2023,22.7,2023,2,76,US_EPA_PM25_2024_fixed_retrospective,Moderate,73,3,Moderate,False,2023-02
+2023-02-24,15.66,51.0,5.8,23.8,41.33,AQI-Data-23.csv,56,24/02/2023,41.33,2023,2,115,US_EPA_PM25_2024_fixed_retrospective,Unhealthy for sensitive groups,115,0,Unhealthy for sensitive groups,True,2023-02
+2023-02-25,15.66,56.0,5.6,21.9,26.0,AQI-Data-23.csv,57,25/02/2023,26,2023,2,82,US_EPA_PM25_2024_fixed_retrospective,Moderate,80,2,Moderate,False,2023-02
+2023-02-26,16.0,49.33,5.43,19.96,18.33,AQI-Data-23.csv,58,26/02/2023,18.33,2023,2,68,US_EPA_PM25_2024_fixed_retrospective,Moderate,64,4,Moderate,False,2023-02
+2023-02-27,15.0,51.0,5.22,19.51,23.0,AQI-Data-23.csv,59,27/02/2023,23,2023,2,77,US_EPA_PM25_2024_fixed_retrospective,Moderate,74,3,Moderate,False,2023-02
+2023-02-28,14.66,55.7,5.14,19.2,21.0,AQI-Data-23.csv,60,28/02/2023,21,2023,2,73,US_EPA_PM25_2024_fixed_retrospective,Moderate,70,3,Moderate,False,2023-02

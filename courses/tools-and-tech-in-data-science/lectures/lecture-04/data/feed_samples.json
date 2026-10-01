@@ -1,0 +1,134 @@
+[
+ {
+  "outlet": "BBC",
+  "feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+  "retrieved_utc": "2026-10-01T05:12:14+00:00",
+  "status": 200,
+  "content_type": "text/xml; charset=utf-8",
+  "bytes": 24617,
+  "items_in_feed": 32,
+  "items": [
+   {
+    "raw_xml": "<item>\n            <title>US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer</title>\n            <description>Her lawyer says Pike is being \"provided life-saving measures\" after two syringes of pentobarbital.</description>\n            <link>https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&amp;at_campaign=rss</link>\n            <guid isPermaLink=\"false\">https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o#0</guid>\n            <pubDate>Thu, 01 Oct 2026 04:35:26 GMT</pubDate>\n            <ns0:thumbnail width=\"240\" height=\"135\" url=\"https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6311/live/31a802d0-bd25-11f1-bc2e-018d645d8d21.jpg\" />\n        </item>",
+    "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
+    "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 04:35:26 GMT",
+    "category": ""
+   },
+   {
+    "raw_xml": "<item>\n            <title>Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says</title>\n            <description>A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.</description>\n            <link>https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss</link>\n            <guid isPermaLink=\"false\">https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo#0</guid>\n            <pubDate>Thu, 01 Oct 2026 03:43:06 GMT</pubDate>\n            <ns0:thumbnail width=\"240\" height=\"135\" url=\"https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02c7/live/9c055220-bd4a-11f1-bc2e-018d645d8d21.jpg\" />\n        </item>",
+    "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+    "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 03:43:06 GMT",
+    "category": ""
+   }
+  ]
+ },
+ {
+  "outlet": "DW",
+  "feed": "https://rss.dw.com/xml/rss-en-all",
+  "retrieved_utc": "2026-10-01T05:12:14+00:00",
+  "status": 200,
+  "content_type": "application/xml; charset=UTF-8",
+  "bytes": 80556,
+  "items_in_feed": 133,
+  "items": [
+   {
+    "raw_xml": "<item>\n   <guid isPermaLink=\"false\">79495965</guid>\n   <pubDate>Thu, 1 Oct 2026 03:13:00 GMT</pubDate>\n   <title>Swiss glaciers lose more than 5% in ice volume in 2026</title>\n   <link>https://www.dw.com/en/swiss-glaciers-lose-more-than-5-in-ice-volume-in-2026/a-79495965?maca=en-rss-en-all-1573-xml-mrss</link>\n   <description>Over the last five years, Swiss glaciers have lost nearly 20% of their mass, and 2026 saw the second-biggest loss of glacier volume on record. Experts warn there could be no ice left in the next 10-15 years.</description>\n   <category>News</category>\n  </item>",
+    "title": "Swiss glaciers lose more than 5% in ice volume in 2026",
+    "link": "https://www.dw.com/en/swiss-glaciers-lose-more-than-5-in-ice-volume-in-2026/a-79495965?maca=en-rss-en-all-1573-xml-mrss",
+    "published": "Thu, 1 Oct 2026 03:13:00 GMT",
+    "category": "News"
+   },
+   {
+    "raw_xml": "<item>\n   <guid isPermaLink=\"false\">79495683</guid>\n   <pubDate>Thu, 1 Oct 2026 01:45:00 GMT</pubDate>\n   <title>US military cuts generals, admirals by 20%, Hegseth says</title>\n   <link>https://www.dw.com/en/us-military-cuts-generals-admirals-by-20-hegseth-says/a-79495683?maca=en-rss-en-all-1573-xml-mrss</link>\n   <description>The US defense secretary has also unveiled major changes, including a new drone command and an Elon Musk-led task force to assess the future of warfare.</description>\n   <category>News</category>\n  </item>",
+    "title": "US military cuts generals, admirals by 20%, Hegseth says",
+    "link": "https://www.dw.com/en/us-military-cuts-generals-admirals-by-20-hegseth-says/a-79495683?maca=en-rss-en-all-1573-xml-mrss",
+    "published": "Thu, 1 Oct 2026 01:45:00 GMT",
+    "category": "News"
+   }
+  ]
+ },
+ {
+  "outlet": "Al Jazeera",
+  "feed": "https://www.aljazeera.com/xml/rss/all.xml",
+  "retrieved_utc": "2026-10-01T05:12:14+00:00",
+  "status": "error",
+  "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+ },
+ {
+  "outlet": "Dawn",
+  "feed": "https://www.dawn.com/feeds/latest-news",
+  "retrieved_utc": "2026-10-01T05:12:14+00:00",
+  "status": 200,
+  "content_type": "application/xml; charset=UTF-8",
+  "bytes": 202270,
+  "items_in_feed": 30,
+  "items": [
+   {
+    "raw_xml": "<item>\n      <title>If the government's oil refineries reforms bear fruit, momentum can certainly start to build</title>\n      <link>https://www.dawn.com/news/2033941/if-the-governments-oil-refineries-reforms-bear-fruit-momentum-can-certainly-start-to-build</link>\n      <description>&lt;p&gt;&lt;a href=\"https://www.dawn.com/news/2033921\"&gt;https://www.dawn.com/news/2033921&lt;/a&gt;&lt;/p&gt;\n</description>\n      <category>Pakistan</category>\n      <guid>https://www.dawn.com/news/2033941</guid>\n      <pubDate>Thu, 01 Oct 2026 10:05:36 +0500</pubDate>\n      <author>none@none.com ()</author>\n      <ns0:content url=\"https://i.dawn.com/large/2026/10/010959168b4c4c8.webp\" type=\"image/webp\" medium=\"image\" height=\"480\" width=\"800\">\n        <ns0:thumbnail url=\"https://i.dawn.com/thumbnail/2026/10/010959168b4c4c8.webp\" />\n        <ns0:title>The writer is a business and economy journalist.</ns0:t",
+    "title": "If the government's oil refineries reforms bear fruit, momentum can certainly start to build",
+    "link": "https://www.dawn.com/news/2033941/if-the-governments-oil-refineries-reforms-bear-fruit-momentum-can-certainly-start-to-build",
+    "published": "Thu, 01 Oct 2026 10:05:36 +0500",
+    "category": "Pakistan"
+   },
+   {
+    "raw_xml": "<item>\n      <title>If new administrative units are to be carved out in Pakistan, the decision belongs exclusively to the public</title>\n      <link>https://www.dawn.com/news/2033939/if-new-administrative-units-are-to-be-carved-out-in-pakistan-the-decision-belongs-exclusively-to-the-public</link>\n      <description>&lt;p&gt;&lt;a href=\"https://www.dawn.com/news/2033922\"&gt;https://www.dawn.com/news/2033922&lt;/a&gt;&lt;/p&gt;\n</description>\n      <category>Pakistan</category>\n      <guid>https://www.dawn.com/news/2033939</guid>\n      <pubDate>Thu, 01 Oct 2026 09:55:47 +0500</pubDate>\n      <author>none@none.com ()</author>\n      <ns0:content url=\"https://i.dawn.com/large/2026/10/0109505780417f2.webp\" type=\"image/webp\" medium=\"image\" height=\"480\" width=\"800\">\n        <ns0:thumbnail url=\"https://i.dawn.com/thumbnail/2026/10/0109505780417f2.webp\" />\n        <ns0:title>The writer is a lawyer",
+    "title": "If new administrative units are to be carved out in Pakistan, the decision belongs exclusively to the public",
+    "link": "https://www.dawn.com/news/2033939/if-new-administrative-units-are-to-be-carved-out-in-pakistan-the-decision-belongs-exclusively-to-the-public",
+    "published": "Thu, 01 Oct 2026 09:55:47 +0500",
+    "category": "Pakistan"
+   }
+  ]
+ },
+ {
+  "outlet": "Tribune",
+  "feed": "https://tribune.com.pk/feed/business",
+  "retrieved_utc": "2026-10-01T05:12:14+00:00",
+  "status": 200,
+  "content_type": "application/xml",
+  "bytes": 81269,
+  "items_in_feed": 25,
+  "items": [
+   {
+    "raw_xml": "<item>\n\t\t\t<title>FBR extends income tax returns filing deadline to Oct 15</title>\n\t\t\t<link>https://tribune.com.pk/story/2632315/fbr-extends-income-tax-returns-filing-deadline-to-oct-15</link>\n\t\t\t<comments>https://tribune.com.pk/story/2632315/fbr-extends-income-tax-returns-filing-deadline-to-oct-15#comments</comments>\n\t\t\t<pubDate>Wed, 30 Sep 26 19:37:41 +0500</pubDate>\n\t\t\t<dc:creator>\n\t\t\t\tWeb Desk\n\t\t\t</dc:creator>\n\t\t\t<category>Pakistan</category>\n\t\t\t<guid isPermaLink=\"false\">https://tribune.com.pk/?p=2632315</guid>\n\t\t\t<description>\n\t\t\t\tNotification says date has been extended to Oct 15 in view of requests from various trade bodies, tax bar associations\n\t\t\t</description>\n\t\t\t<image>\n\t\t\t\t    <img src=\"https://i.tribune.com.pk/media/images/sidra-841738657588-0/sidra-841738657588-0.png\" class=\"featured_image\" />\n            </image>\n\t\t\t</item>",
+    "title": "FBR extends income tax returns filing deadline to Oct 15",
+    "link": "https://tribune.com.pk/story/2632315/fbr-extends-income-tax-returns-filing-deadline-to-oct-15",
+    "published": "Wed, 30 Sep 26 19:37:41 +0500",
+    "category": "Pakistan"
+   },
+   {
+    "raw_xml": "<item>\n\t\t\t<title>Govt decreases petrol by 14 paisas, diesel by Rs1.89 for Oct 1</title>\n\t\t\t<link>https://tribune.com.pk/story/2632297/govt-decreases-petrol-by-14-paisas-diesel-by-rs189-for-oct-1</link>\n\t\t\t<comments>https://tribune.com.pk/story/2632297/govt-decreases-petrol-by-14-paisas-diesel-by-rs189-for-oct-1#comments</comments>\n\t\t\t<pubDate>Wed, 30 Sep 26 17:50:39 +0500</pubDate>\n\t\t\t<dc:creator>\n\t\t\t\tWeb Desk\n\t\t\t</dc:creator>\n\t\t\t<category>Pakistan</category>\n\t\t\t<guid isPermaLink=\"false\">https://tribune.com.pk/?p=2632297</guid>\n\t\t\t<description>\n\t\t\t\tPetrol price decreases to Rs387.40 per litre, while HSD will cost Rs400.35\n\t\t\t</description>\n\t\t\t<image>\n\t\t\t\t    <img src=\"https://i.tribune.com.pk/media/images/fuel03-r1789660951-2/fuel03-r1789660951-2.jpg\" class=\"featured_image\" />\n            </image>\n\t\t\t</item>",
+    "title": "Govt decreases petrol by 14 paisas, diesel by Rs1.89 for Oct 1",
+    "link": "https://tribune.com.pk/story/2632297/govt-decreases-petrol-by-14-paisas-diesel-by-rs189-for-oct-1",
+    "published": "Wed, 30 Sep 26 17:50:39 +0500",
+    "category": "Pakistan"
+   }
+  ]
+ },
+ {
+  "outlet": "The News",
+  "feed": "https://www.thenews.com.pk/rss/1/1",
+  "retrieved_utc": "2026-10-01T05:12:14+00:00",
+  "status": 200,
+  "content_type": "application/xml; charset=ISO-8859-1",
+  "bytes": 50072,
+  "items_in_feed": 50,
+  "items": [
+   {
+    "raw_xml": "<item>\n\t\t\t<title>Punjab by-polls: Notices served on minister, SAPM for 'violating' election code of conduct</title>\n\t\t\t<link>https://www.thenews.com.pk/latest/1381918-notices-served-on-minister-sapm-for-violating-election-code-of-conduct</link>\n\t\t\t<pubDate>Fri, 21 Nov 2025 06:33:00 +0500</pubDate>\n            <guid>https://www.thenews.com.pk/latest/1381918-notices-served-on-minister-sapm-for-violating-election-code-of-conduct</guid>\n\t\t\t<description>\n                                    &lt;img src=\"https://www.thenews.com.pk/assets/uploads/updates/2025-11-21/l_1381918_062710_updates.jpg\"/&gt;\n                \t\t\t\tThis collage of pictures show Federal Minister of Power Sardar Awais Ahmad Khan Leghari  and Special Assistant to the Prime Minister Huzaifa Rehman. &amp;mdash;APP/NA website/FileShow-cause notices have been issued to Minister for Power Sardar Awais Ahmad Khan Leghari and Special ",
+    "title": "Punjab by-polls: Notices served on minister, SAPM for 'violating' election code of conduct",
+    "link": "https://www.thenews.com.pk/latest/1381918-notices-served-on-minister-sapm-for-violating-election-code-of-conduct",
+    "published": "Fri, 21 Nov 2025 06:33:00 +0500",
+    "category": ""
+   },
+   {
+    "raw_xml": "<item>\n\t\t\t<title>27th Amendment empowers FCC to hear all constitutional cases: minister</title>\n\t\t\t<link>https://www.thenews.com.pk/latest/1381786-27th-amendment-empowers-fcc-to-hear-all-constitutional-cases-minister</link>\n\t\t\t<pubDate>Fri, 21 Nov 2025 00:59:00 +0500</pubDate>\n            <guid>https://www.thenews.com.pk/latest/1381786-27th-amendment-empowers-fcc-to-hear-all-constitutional-cases-minister</guid>\n\t\t\t<description>\n                                    &lt;img src=\"https://www.thenews.com.pk/assets/uploads/updates/2025-11-21/l_1381786_010142_updates.jpg\"/&gt;\n                \t\t\t\tMinister of State for Law and Justice Barrister Aqeel Malik addressing an event on December 21, 2024. &amp;mdash; Facebook@BarristerAqeelMalikState Minister for Law Aqeel Malik said on Thursday that the 27th Amendment has vested authority to hear constitutional matters in the Federal Constitutional...\n",
+    "title": "27th Amendment empowers FCC to hear all constitutional cases: minister",
+    "link": "https://www.thenews.com.pk/latest/1381786-27th-amendment-empowers-fcc-to-hear-all-constitutional-cases-minister",
+    "published": "Fri, 21 Nov 2025 00:59:00 +0500",
+    "category": ""
+   }
+  ]
+ }
+]

@@ -34,3 +34,7 @@ temp/
 *.pdf
 *resume*
 *cv*
+
+# Tools and Tech in Data Science: published lecture decks and the source PDFs its notebooks read
+!courses/tools-and-tech-in-data-science/**/*.pptx
+!courses/tools-and-tech-in-data-science/**/*.pdf

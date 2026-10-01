@@ -1,0 +1,1697 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>PID</title>
+
+    <link rel="shortcut icon" href="https://pid.gov.pk/assets/images/favicon.png">
+
+<style>
+.contentPost { display:none;}
+</style>
+
+<!-- Bootstrap -->
+    <link href="https://pid.gov.pk/assets/css/bootstrap.min.css" rel="stylesheet">
+    <!-- h  -->
+  
+    <link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+   <link href="https://pid.gov.pk/assets/css/simple.min.css" rel="stylesheet"> <!-- Marquee -->  
+
+    <link rel="stylesheet" type="text/css" href="https://pid.gov.pk/assets/css/includes.css">
+    <!-- /h -->
+    <link href="https://pid.gov.pk/assets/css/custom.css" rel="stylesheet">
+
+   
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+<!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:600" rel="stylesheet"> -->
+
+     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    
+
+
+<!--<link href="https://pid.gov.pk/assets/css/styles/__main.css" rel="stylesheet" type="text/css">-->
+
+
+<link rel="stylesheet" type="text/css" href="https://pid.gov.pk/assets/css/forms.css">
+
+
+   <!-- for toaster -->
+   <link rel="stylesheet" type="text/css" href="https://pid.gov.pk/assets/css/toastr.min.css">
+    <!-- toaster end -->
+
+    
+    
+    <link rel="stylesheet" type="text/css" href="https://pid.gov.pk/assets/css/jquery-ui.min.css">
+
+<!-- ma gallery -->
+<link rel="stylesheet" href="https://pid.gov.pk/assets/css/magallery/css/MAgallery.css">
+
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://pid.gov.pk/assets/js/bootstrap.min.js"></script>
+    <!-- h -->
+    
+    
+
+ <script>  
+  $(document).ready(function() {
+    $(".contentPost").delay(1000).fadeIn(50);
+});
+
+
+  </script>
+
+       <script type="text/javascript" src="https://pid.gov.pk/assets/js/jquery.marquee.js"></script>
+
+<!-- ma gallery ends -->
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]--> 
+  </head>    
+    <!--singel view css-->
+    <link rel="stylesheet" type="text/css" href="https://pid.gov.pk/assets/css/singleview/demo.css" />
+		<link rel="stylesheet" type="text/css" href="https://pid.gov.pk/assets/css/singleview/style.css" />
+		<link rel="stylesheet" type="text/css" href="https://pid.gov.pk/assets/css/singleview/elastislide.css" />
+    
+    <noscript>
+			<style>
+				.es-carousel ul{
+					display:block;
+				}
+			</style>
+		</noscript>
+		<script id="img-wrapper-tmpl" type="text/x-jquery-tmpl">	
+			<div class="rg-image-wrapper">
+				{{if itemsCount > 1}}
+					<div class="rg-image-nav">
+						<a href="#" class="rg-image-nav-prev">Previous Image</a>
+						<a href="#" class="rg-image-nav-next">Next Image</a>
+					</div>
+				{{/if}}
+				<div class="rg-image"></div>
+				<div class="rg-loading"></div>
+				<div class="rg-caption-wrapper">
+					<div class="rg-caption" style="display:none;">
+						<p></p>
+					</div>
+				</div>
+			</div>
+		</script>
+		<!-- single view css -->
+    
+    
+    
+    
+  	<body>
+
+<style type="text/css">
+  
+            .alatest {
+              -webkit-animation: flicker 1.5s infinite;
+              
+            }
+
+            .alatest:hover, .alatest:active, .alatest:focus {
+              -webkit-animation: flicker 0s infinite;
+              
+            }
+
+            @-webkit-keyframes flicker
+            {   
+                0% {background-color: red; color:white;}
+                
+                50% {background-color: transparent; color:#fff;}
+                
+                100% {background-color: red; color:white;}
+
+                /* 
+                
+                0% {background-color: white; color:#2c4928;}
+                
+                50% {background-color: transparent; color:#fff;}
+                
+                100% {background-color: white; color:#808080;}
+                
+                
+                #2c4928; 0% {opacity:0;}
+                9% {opacity:0;}
+                10% {opacity:.5;}
+                13% {opacity:0;}
+                20% {opacity:.5;}
+                25% {opacity:1;} */
+            }
+            
+            /* Media Query for Mobile Devices */
+@media (max-width: 768px) {
+  .dropdown-menu li {
+    padding-left: none; /* Adjust the padding to make the items more compact */
+    font-size: 14px; /* Optionally, adjust the font size for better readability on mobile */
+  }
+}
+
+</style>
+<div class="container-fluid" style="padding-right:0px; padding-left:0px">
+
+      
+        <a href="https://pid.gov.pk/" title="PID Home" id="small-screen">
+        <img src="https://pid.gov.pk/assets/images/Header101.png" alt="Top-left" class="img-responsive hidden-xs" style="width: 100%;">
+        <img src="https://pid.gov.pk/assets/images/Header101_mobile.png" alt="Top-left" class="img-responsive hidden-lg hidden-md hidden-sm" style="width: 100%;">
+        </a>
+    
+    
+    <!--<div class="col-lg-5 col-md-5 col-sm-5 col-lg-off-2 col-md-off-2 col-sm-off-2 hidden-xs" style="float: right;">     -->
+
+    <!--      <a href="https://pid.gov.pk/" title="PID Home" >-->
+    <!--      <img src="https://pid.gov.pk/assets/images/Img-top-right.png" alt="Top-left" class="img-responsive">-->
+    <!--      </a>-->
+    <!--</div>-->
+
+</div>
+  
+<nav class="[ navbar navbar-default ][ navbar-bootsnipp animate ]" role="navigation">
+      
+      <div class="[ container-fluid ]">
+      <!-- Brand and toggle get grouped for better mobile disassets/imagesplay -->
+      <div class="[ navbar-header ]">
+        <button type="button" class="[ navbar-toggle ]" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="[ sr-only ]">Toggle navigation</span>
+          <span class="[ icon-bar ]"></span>
+          <span class="[ icon-bar ]"></span>
+          <span class="[ icon-bar ]"></span>
+        </button>
+        <div class="[ animbrand ]  hidden-md">
+          <a class="[ navbar-brand ][ animate ]" href="https://pid.gov.pk/">
+              <!--
+              <span class="glyphicon glyphicon-home"></span>
+              -->
+              <img src="https://pid.gov.pk/assets/images/home12.png" class="img-responsive" />
+              </a>
+        </div>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="[ collapse navbar-collapse ]" id="bs-example-navbar-collapse-1">
+        <ul class="[ nav navbar-nav ] " id="adjuster">
+          <li class="[ visible-xs visible-sm ]">
+            <center>
+              <div class="container" style="margin: 8px 0px 12px 0px;">
+                  
+                <a href="https://twitter.com/pid_moib/" title="Twitter" class="col-xs-1 col-xs-offset-2 ">
+                  <img src="https://pid.gov.pk/assets/images/twit.png" alt="fb">
+                </a>
+                <a href="https://www.facebook.com/profile.php?id=61552235581430" title="Facebook" class="col-xs-1">
+                  <img src="https://pid.gov.pk/assets/images/fb.png" alt="fb">
+                </a>
+                
+                <a href="https://www.instagram.com/GovtofPakistan/" title="Instagram" class="col-xs-1">
+                  <img src="https://pid.gov.pk/assets/images/in.png" alt="fb">
+                </a>
+                
+                <!--<a href="https://www.youtube.com/GovtofPakistan" title="YouTube" class="col-xs-1">
+                  <img src="https://pid.gov.pk/assets/images/youtube.png" alt="fb">
+                </a>
+                
+                <a href="https://www.pinterest.com/GovernmentofPakistan/" title="Pinterest" class="col-xs-1">
+                  <img src="https://pid.gov.pk/assets/images/pin.png" alt="fb">
+                </a>-->
+                
+                
+               <!--  <a href="https://plus.google.com/+PressInformationDepartmentGovernmentofPakistan" title="FB" class="col-xs-1">
+                  <img src="https://pid.gov.pk/assets/images/g+.png" alt="fb">
+                </a>  -->
+                
+                <a href="http://pressinformationdepartment.blogspot.com/" title="FB" class="col-xs-1">
+                  <img src="https://pid.gov.pk/assets/images/blog1.png" alt="fb">
+                </a>
+                
+                 
+                
+                
+                
+               
+              </div>
+            </center>
+            <form action="https://pid.gov.pk/site/user_sreach" method="Post" role="search">
+              <div class="[ input-group ]">
+                <input type="text" class="[ form-control ]" name="input_sreach" required placeholder="Search keywords here">
+                <span class="[ input-group-btn ]">
+                  <button class="[ btn btn-default ]" type="submit"><span class="[ glyphicon glyphicon-search ]" style="color: #2c4928;"></span></button>
+                  <button class="[ btn btn-danger ]" type="reset"><span class="[ glyphicon glyphicon-remove ]"></span></button>
+                </span>
+              </div>
+            </form>
+          </li>
+
+         
+          <li><a class="animate" href="https://pid.gov.pk/about">ABOUT US</a></li> 
+          <!--<li><a class="animate" href="http://coronacounter.pid.gov.pk/" target="_blank">Corona Info Gateway</a></li>-->
+          <li class="dropdown">
+              <a href="#" class=" animate dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">PRESS RELEASES <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a class="animate" href="https://pid.gov.pk/press">Today's Press Releases</a></li>
+                
+                <!--<li><a class="animate" href="">Press Release Archives</a></li>-->
+                <li><a class="animate" href="https://pid.gov.pk/press_archive">Press Release Archives</a></li>
+                
+              </ul>
+          </li>
+          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">PHOTOS <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a class="animate" href="https://pid.gov.pk/photos">Today's Photos</a></li>
+                
+                <!--<li><a class="animate" href="">Photo Archives</a></li> -->
+               <li><a class="animate" href="https://pid.gov.pk/photos_archive">Photo Archives</a></li> 
+             
+              </ul>
+          </li>
+
+        <!--  <li><a class="animate" href="https://pid.gov.pk//dpd">DPD</a></li>-->
+         <!-- <li><a class="animate" href="https://pid.gov.pk//articles">Initiative</a></li> -->
+         
+         <!--<li><a  class="[ animate ] dropdown-toggle alatest" href="https://docs.google.com/spreadsheets/d/1pjxvD4x9WQIj60wqKZxu_WgZhRz7jMZ5WJk3Vg0tS0s/edit?usp=sharing" target="_blank">CVE Successful Candidates</a></li>-->
+            <li><a class="animate" href="https://pid.gov.pk//advertisement">Announcements</a></li> 
+             <!--<li><a class="animate" href="https://pid.gov.pk//jobs">CVE; NUST Screening Test</a></li>-->
+            <!--<li class="dropdown">
+              <a href="#" class="[ animate ] dropdown-toggle alatest" type="button" data-toggle="dropdown" data-hover="dropdown">CVE Interviews, 2023<span class="caret"></span></a>
+
+              <ul class="dropdown-menu">
+                 <li style="cursor:pointer;"><a class="animate" href="https://docs.google.com/spreadsheets/d/1JeQQZTcqHhrgu7afpNSOB1ROIjQHPiJvV5Kcy1EAKHQ/edit?usp=sharing">Successful Candidates</br>& Interview Centres</a></li>
+                   <li style="cursor:pointer;"><a class="animate" href="/uploads/CVE-Paper-Pattern.pdf" target="_blank">Paper Pattern</a></li>
+                 </ul>
+          </li>-->
+          
+            
+            <!--<li><a class="[ animate ] dropdown-toggle alatest" href="https://pid.gov.pk//project">Project</a></li> -->
+            
+         <!--  <li class="dropdown">
+              <a href="#" class="[ animate ] dropdown-toggle alatest" type="button" data-toggle="dropdown" data-hover="dropdown">Registration <span class="caret"></span></a>
+
+              <ul class="dropdown-menu">
+                <li style="cursor:pointer;"><a class="animate" href="https://docs.google.com/forms/d/e/1FAIpQLScRbEBRFiA2uHYVCJhve4YsNmlCp_x_AcWxyNT6z-qx9UTeDg/viewform" target="_blank">Digital Media Agencies</a></li>
+                 <li style="cursor:pointer;"><a class="animate " href="https://docs.google.com/forms/d/e/1FAIpQLSfCIk96ETiuJOYJGkbxJPKtzxFkGAU4e5sEXSlFrA4XG8spsg/viewform" target="_blank">Digital Media Influencers/Bloggers/V-Loggers</a></li>
+               </ul>
+          </li> 
+          <li><a class="[ animate ] dropdown-toggle alatest" href="https://bit.ly/PID-OIC-GALLERY" target="_blank">OIC PHOTO GALLERY</a></li>
+            -->
+          <li class="dropdown">
+              <a href="#" class=" animate " type="button" data-toggle="dropdown" data-hover="dropdown">ONLINE FACILITIES <span class="caret"></span></a>
+
+              <ul class="dropdown-menu">
+                  <!--<li style="cursor:pointer;"><a class="[ animate ] dropdown-toggle alatest" href="http://moib.gov.pk/digital-advertisment-registration/" target="_blank">Apply For Digital Advertisement</a></li>-->
+                <!--<li style="cursor:pointer;"><a class="animate" href="http://app.opr.gov.pk/register" target="_blank">Apply for Central Media List</a></li>-->           
+                <!--<li style="cursor:pointer;"><a class="animate" href="https://play.google.com/store/apps/details?id=covid19care.virus.coronavirus.corona.sick.marcom.health.pakistan" target="_blank">COVID19 Care for Media</a></li>-->
+                <!--<li style="cursor:pointer;"><a class="animate " data-toggle="modal" data-target="#myModal1">Journalist Accreditation Form</a></li>-->
+                <!--<li style="cursor:pointer;"><a class="animate" data-toggle="modal" data-target="#myModal2">Central Media List Form</a></li>-->
+                <li style="cursor:pointer;"><a class="animate" href="https://docs.google.com/spreadsheets/d/1CpppbOv0uNm_G6WARSCkZxfVmoB6wyoLCuQy7KzDZ2I/edit?usp=sharing">Newspapers Attendance</a></li>
+               <!--
+               https://docs.google.com/spreadsheets/d/1Tcq6ZSXda56F7x3aI7JUXaX_Uz8QfUA1Euw_kBdQg1k/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/1BOP7nQE1u6pu60HqjTHz1FAbIq09f6JL_QH9tcnE8HQ/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/11fp2VjikFLXtoAxBFnV3I5fa91mJA8I1_cCoxGAytyg/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/1U6-vCR_c1Nq9OCf0k8r4dAM6vJV3dBl68lQsQMQXKC8/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/15A26j7FOln6UvzBKCJU25LpNFZ4I5OWy-NJqlx-8rzk/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/1gHEXeHTZob_iSAvZxXq73CS_LSjbcu17oHtKVetVmD0/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/1xsI-DdeJBs17gm-n9ZC7XF7CTLKbyQ5fQMOwtK64eqc/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/1RwO2o99mjSnXsQik6dBjTiWTSVwLhRkp_Un8Lk2vh6k/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/1AATGc-FImWz26qyfiMaShDOCktP4z4NfTjnM_3gVHBY/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/1XEK2t4mB67Q8noej0uByjyZ4-3kjSVV0fBG0i-z37nI/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/1wERd6mYhdg3Y0CawPiZTMnGZSPHEOkKb4CLw_IdLDrc/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/1K7g1jM6EQfPM2Os0yLkdhBYxm2QQY5_swTHYEcyQFZQ/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/1SyhnV_FSAAbcG0J27lnkmaW_JAAEpPezswckRHc5Ozg/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/1tQbvQLUPhI6FjDuaD4O1MSvSSfzyy8CSLWdXqOD8E6A/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/18OVSTr0zJOat2UaLbhyoHBzUQV5Kf5Rd2pXQBY5MUAU/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/1BSuAw8_xwqjWFBuPUaeyWD5ZapFGOhJGQtbZHU0QKmM/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/13TzI3pUNqpTsBbF7l2TEOaSXm27ARmWDuJ2I8ZH4MSU/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/1FkvfBWIu0w-2Wu1e5JlMY1Eckc_4ygb8GuqWyUwqc3I/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/1EpvizFnr8Odb6RzWXxwGkvSxnYHgFF2PCIvAHZroWzo/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/19aqCZ59kp5-z2DqmbqMT498B5wkRscC8C22c-33zTII/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/1_DcEEumcHkXdf2Y9QVwf3zVbMoFzpugEMZAkjT43_7s/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/170BYJqXSV32gssbd1ImhvPmuTA4QXEqjODe1EEPE8a8/edit?usp=sharing
+               https://docs.google.com/spreadsheets/d/1EEAhGahe2jZPxD2D4EcDUxDy2EWaFToy6R2EQdpErL4/edit?usp=sharing
+               href="https://docs.google.com/spreadsheets/d/1LUYwF48sVXrAOwmeGtHGQG47atLV3T3oMpHISsNUM9g/edit?usp=sharing" target="_blank"
+               https://docs.google.com/spreadsheets/d/1wnCLupMcwQoeWLoMCbYScVo1qdn3nkiLoskvyxoTcFk
+               https://docs.google.com/spreadsheets/d/12s2TE7B_ub51_GsjCpomeXLZ3U_0_x73D9hVNH7CE0o/edit?usp=sharing 
+               href="https://docs.google.com/spreadsheets/d/1IkbXTx5R0GKkN0yXjAuiieAug0F792aDK1e8JH3GSLQ/edit#gid=629794731"-->
+              </ul>
+          </li>
+          
+          <li class="dropdown">
+              <a href="#" class="[ animate ] dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">CONTACT US <span class="caret"></span></a>
+
+              <ul class="dropdown-menu">
+                <!-- <li><a class="animate" href="https://pid.gov.pk/contact">Contact</a></li> -->
+                <li><a class="animate" href="https://pid.gov.pk/contact_head">Pid Head Office</a></li>
+                <li><a class="animate" href="https://pid.gov.pk/contact_regional">Regional Office</a></li>
+              </ul>
+          </li>
+          <li class="dropdown">
+              <a href="#"  class="[ animate ] dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown"> EXTERNAL LINKS <span class="caret"></span></a>
+
+              <ul class="dropdown-menu">
+                  <li><a class="animate" target="_blank" href="https://na.gov.pk/en/fmins_list.php">Federal Ministers</a></li>
+                <!-- <li><a class="animate" href="https://pid.gov.pk/fedaral_ministers">Federal Ministers</a></li>-->
+                <li><a class="animate" href="">Spokespersons</a></li>
+                <!-- add echo base url line then this 'sokespersons'; ?>-->
+                
+                <li><a class="animate" href="http://epwing.gov.pk/Detail/MDY3ZjM4ZGMtNGI0Yy00OGM4LTg1YTMtMGM5MjA4NzFlMDNl" target="_blank">Press Officers Aboard</a></li>
+               <!-- add echo base url line then this 'press_press_aboard'; ?>-->
+                
+                <li><a class="animate" href="https://pid.gov.pk/publicity_officers">Publicity Officers</a></li>
+                
+                <!--<li><a class="animate" href="https://pid.gov.pk/dmw">DMW</a></li>-->
+                
+               <!-- <li><a class="animate" href="https://pid.gov.pk/yearbook">Year Book</a></li>-->
+                
+                <li><a class="animate" href="https://information.gov.pk/" target="_blank">Pakistan Information Center</a></li>
+                
+                <li><a class="animate" href="https://pid.gov.pk/pensioncell">Pension Cell</a></li>
+                
+                <!--<li><a class="animate" href="https://pid.gov.pk//media_accrediation">Media Accrediation</a></li>-->
+                <li><a class="animate" href="https://pid.gov.pk/media_laws">Media Laws</a></li>
+                <!-- <li><a class="animate" href="https://pid.gov.pk/ordinances">Ordinances</a></li>-->
+                <li><a class="animate" href="https://pid.gov.pk/notifications">Notifications</a></li>
+               <!-- <li><a class="animate" href="https://pid.gov.pk/messages">Messages</a></li>-->
+                <li><a class="animate" href="https://pid.gov.pk/speeches">Speeches</a></li>
+                 <!-- <li><a class="animate" href="https://pid.gov.pk/statements">Statements</a></li> -->
+                <li><a class="animate" href="https://pid.gov.pk/downloads">Downloads</a></li>
+              </ul>
+          </li>
+          <br>
+          <!--<li style="padding-left: 333px; font-weight: bold;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4kQ8wnjOhpBOPXgnNmRsW8uLZLBTsHtnh_Wmka9K6uNgFFA/viewform" target="_blank"><b>PM’s Health Insurance Scheme for Media Workers & Journalists-2023</b></a></li>-->
+          
+        <!--  <li class="dropdown">
+              <a href="/uploads/BannerUpdated.pdf" class="[ animate ] dropdown-toggle alatest" type="button" target="_blank">Announcement</a>
+          </li>-->
+          
+          <!--class="[ animate ] dropdown-toggle alatest" for blink-->
+          
+          <li class="[ hidden-lg hidden-md hidden-xs hidden-sm ]" style="border-left: 1px solid white;"><a href="#toggle-search" class="[ animate ]"><span class="[ glyphicon glyphicon-search ]"></span></a>
+          </li> 
+
+        </ul>
+
+
+        <ul class="[ nav navbar-nav navbar-right ]" id="adjuster">
+          <li class="visible-lg visible-md hid-link"><a class="animate link" href="https://x.com/MoIB_Official" target="_blank"><img src="https://pid.gov.pk/assets/images/twit.png" alt="FB" class="img-responsive"></a></li>
+          <li class="visible-lg visible-md hid-link"><a class="animate link" href="https://www.facebook.com/MoIB.Official/#" target="_blank"><img src="https://pid.gov.pk/assets/images/blog.png" alt="FB" class="img-responsive"></a></li>
+          <li class="visible-lg visible-md hid-link"><a class="animate link" href="https://www.instagram.com/MoIB_Official/" target="_blank"><img src="https://pid.gov.pk/assets/images/in.png" alt="FB" class="img-responsive"></a></li>
+          
+          <!--<li class="visible-lg visible-md hid-link"><a class="animate link" href="https://www.youtube.com/GovtofPakistan/" target="_blank"><img src="https://pid.gov.pk/assets/images/youtube.png" alt="FB" class="img-responsive"></a></li>
+          
+          <li class="visible-lg visible-md hid-link"><a class="animate link" href="https://www.pinterest.com/GovernmentofPakistan/" target="_blank"><img src="https://pid.gov.pk/assets/images/pin.png" alt="FB" class="img-responsive"></a></li>-->
+          
+          <!-- new 
+          <li class="visible-lg visible-md hid-link"><a class="animate link" href="https://plus.google.com/+PressInformationDepartmentGovernmentofPakistan" target="_blank"><img src="https://pid.gov.pk/assets/images/g+.png" alt="FB" class="img-responsive"></a></li>
+          -->
+          
+          <!-- <li class="visible-lg visible-md hid-link"><a class="animate link" href="http://pressinformationdepartment.blogspot.com/" target="_blank"><img src="https://pid.gov.pk/assets/images/blog1.png" alt="FB" class="img-responsive"></a></li>
+            -->
+         
+           <li class="[ visible-lg visible-md animate ]" style="border-left: 1px solid white;   "><a href="#toggle-search" class="[ animate ]"><span class="[ glyphicon glyphicon-search ]"></span></a>
+          </li> 
+
+        </ul>
+      </div>
+      <!--<ul style=" text-align:center;"><li style=" font-weight: bold;"><a class="[ animate ] dropdown-toggle alatest" href="https://mediahelpline.moib.gov.pk/" target="_blank"><b>&nbsp&nbsp&nbsp<strong>MEDIA HELPLINE</strong>&nbsp&nbsp&nbsp</b></a></li></ul>-->
+      <ul style=" text-align:center;"><li style=" font-weight: bold;"><a class="[ animate ] dropdown-toggle alatest" href="https://pid.gov.pk//site/health" target="_blank"><b>&nbsp&nbsp<strong>PM's HEALTH INSURANCE SCHEME FOR JOURNALISTS & MEDIA WORKERS</strong>&nbsp&nbsp</b></a></li></ul>
+    </div>
+    <div class="[ bootsnipp-search animate ]">
+      <div class="[ container ]">
+       <form action="https://pid.gov.pk/site/user_sreach" method="Post" role="search">
+          <div class="[ input-group ]">
+            <input type="text" class="[ form-control ]" required='required' name="input_sreach" placeholder="Search keywords here">
+            <span class="[ input-group-btn ]">
+              <button class="[ btn btn-danger ]" type="reset"><span class="[ glyphicon glyphicon-remove ]"></span></button>
+            </span>
+          </div>
+        </form>
+      </div>
+    </div> 
+</nav>
+
+<!-- fb 
+<div class="container-fluid" style="padding: 0px; box-shadow: 0px 2px 2px 1px #e2e2e2;">
+<div class="col-md-6" style="padding-left:0px; padding-right:0px;display: flex;">
+      <div style="max-width: 45px; padding: 9px 6px;background-color: #3B5998;">
+                  <img class="img-responsive" src="https://pid.gov.pk/assets/images/fb-slid.png" alt="fb">
+      </div>
+      <div class="list-wrpaaer" style="height: 51px; background-color: #3B5998;width:100%;">       
+               <ul class="list-aggregate custom_aggregate contentPost" id="marquee-horizontal2">
+                                
+             
+               <li class="fat-l">
+                <a href="https://www.facebook.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading" style="color:white;"> Making affordable housing a reality through Naya Pakistan Housing initiative to enable low and middle income people to own their houses..</h4>
+                </a>
+               </li>
+                            
+             
+               <li class="fat-l">
+                <a href="https://www.facebook.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading" style="color:white;"> Furthering PM’s vision of digitisation and skill development for youth, we are launching PM’s Digital Media Development Program.</h4>
+                </a>
+               </li>
+                            
+             
+               <li class="fat-l">
+                <a href="https://www.facebook.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading" style="color:white;"> UNDP has lauded Pakistan’s role in the fight against climate change and multiple initiatives taken by the present government aimed at safeguarding the environment, protecting biodiversity and creating nature-based jobs..</h4>
+                </a>
+               </li>
+                            
+             
+               <li class="fat-l">
+                <a href="https://www.facebook.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading" style="color:white;"> Under the visionary leadership of Prime Minister Imran Khan, Pakistan is stepping towards a greener future..</h4>
+                </a>
+               </li>
+                            
+             
+               <li class="fat-l">
+                <a href="https://www.facebook.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading" style="color:white;">Message of SAPM on climate change Malik Amin Aslam on the Labour Day.
+#LabourDay2021.</h4>
+                </a>
+               </li>
+                            
+             
+               <li class="fat-l">
+                <a href="https://www.facebook.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading" style="color:white;">Follow the SOPs to prevent and minimize the spread of coronavirus.
+#Covid_19
+.</h4>
+                </a>
+               </li>
+                            
+             
+               <li class="fat-l">
+                <a href="https://www.facebook.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading" style="color:white;">Pakistan has joined the pioneering Digital Cooperation Organization (DCO) as a founding member as announced by Foreign Minister Makhdoom Shah Mahmood Qureshi at the official launch of the #DCO today
+
+
+.</h4>
+                </a>
+               </li>
+                            
+             
+               <li class="fat-l">
+                <a href="https://www.facebook.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading" style="color:white;">Prime Minister Imran Khan called climate change a "defining global challenge" of our time.
+Pakistan is the fifth most climate-impacted country in the world. PM Khan is committed to a "clean and green" Pakistan.</h4>
+                </a>
+               </li>
+                            
+             
+               <li class="fat-l">
+                <a href="https://www.facebook.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading" style="color:white;">Cabinet approves a draft law stipulating harsh punishments, including chemical castration for rape offenders, in order to curb growing incidence of sexual violence against women & children in the country.</h4>
+                </a>
+               </li>
+                            
+             
+               <li class="fat-l">
+                <a href="https://www.facebook.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading" style="color:white;">The darkest day in the history of Kashmir is 27th Oct when Indian forces in total contrast to Kashmiri’s aspirations, disregarded Indian Independence Act & Partition Plan by invading Kashmir.
+#KashmirBlackDay .</h4>
+                </a>
+               </li>
+                            
+             
+               <li class="fat-l">
+                <a href="https://www.facebook.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading" style="color:white;">A Government’s initiative to ensure that no student should be deprived of education because of financial need.
+Apply Online: http://ehsaas.hec.gov.pk
+Last Date to Apply Online:  30th October 2020
+.</h4>
+                </a>
+               </li>
+                            
+             
+               <li class="fat-l">
+                <a href="https://www.facebook.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading" style="color:white;"> October 9 is celebrated as World Post Day every year. The purpose to celebrate this day is to bring awareness to the Post’s role in the everyday lives of people and businesses, as well as its contribution to global, social and economic development.
+#WorldPostDay
+.</h4>
+                </a>
+               </li>
+                            
+             
+               <li class="fat-l">
+                <a href="https://www.facebook.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading" style="color:white;">Government of Pakistan achieved a critical milestone towards protecting the rights of the differently-abled. ICT Rights of Persons with Disabilities Bill passed by the parliament.</h4>
+                </a>
+               </li>
+                            
+             
+               <li class="fat-l">
+                <a href="https://www.facebook.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading" style="color:white;"> Int'l Literacy Day is being observed today with the theme “Literacy teaching and learning in the COVID-19 crisis and beyond”. The day is celebrated to advance the literacy agenda towards a more literate and sustainable society.
+#Internationalliteracyday2020.</h4>
+                </a>
+               </li>
+                            
+             
+               <li class="fat-l">
+                <a href="https://www.facebook.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading" style="color:white;"> ”Today, reminds us of the heroic deeds & daring achievements of our Ghazis & Shuhadas who fought gallantly & humbled a much bigger adversary with their absolute faith in Allah & profound self-belief.”
+Admiral Zafar Mahmood Abbasi
+.</h4>
+                </a>
+               </li>
+             
+               </ul>
+            </div>
+  </div> -->
+<!--
+  <div class="col-md-6" style="padding-left:0px; padding-right:0px;display: flex;">
+        <div style="max-width: 45px; padding: 9px 6px;background-color: #1dcaff;">
+                    <img class="img-responsive" src="https://pid.gov.pk/assets/images/twit-slid.png" alt="fb">
+        </div>
+        <div class="list-wrpaaer" style="height: 51px;background-color: #1dcaff;width:100%; ">
+            <ul class="list-aggregate custom_aggregate contentPost" id="marquee-horizontal3">
+                             <li class="fat-l " >
+                <a href="https://twitter.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading"> Making affordable housing a reality through Naya Pakistan Housing initiative to enable low and middle income people to own their houses.</h4>
+                </a>
+               </li>
+               <li class="fat-l " >
+                <a href="https://twitter.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading"> Furthering PM’s vision of digitisation and skill development for youth, we are launching PM’s Digital Media Development Program</h4>
+                </a>
+               </li>
+               <li class="fat-l " >
+                <a href="https://twitter.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading"> Under the visionary leadership of Prime Minister Imran Khan, Pakistan is stepping towards a greener future.</h4>
+                </a>
+               </li>
+               <li class="fat-l " >
+                <a href="https://twitter.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading"> Pakistan has achieved the target of 1 million vaccinations in a day. The target set by NCOC for 1 million vaccinations in a day has crossed on Monday with 10 lakh 72 thousand vaccinations</h4>
+                </a>
+               </li>
+               <li class="fat-l " >
+                <a href="https://twitter.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading"> The largest and longest military siege in modern history! #KashmiriLivesMatter #IIOJKUnderSiege</h4>
+                </a>
+               </li>
+               <li class="fat-l " >
+                <a href="https://twitter.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading">Islam teaches fulfilling the rights of everyone including workers and labourers.
+
+The Prophet Muhammad (PBUH) is reported to have said:  “Pay the worker his wages before his sweat has dried.” 
+
+(Sunan Ibn Ma¯jah 2443)
+
+#LaborDay2021</h4>
+                </a>
+               </li>
+               <li class="fat-l " >
+                <a href="https://twitter.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading">Not all disabilities are visible, International Day of Persons with Disabilities is being observed today. The day re-affirms and draws attention to the rights of people who live with disabilities. 
+#DisabilityDay
+</h4>
+                </a>
+               </li>
+               <li class="fat-l " >
+                <a href="https://twitter.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading">Not all disabilities are visible, International Day of Persons with Disabilities is being observed today. The day re-affirms and draws attention to the rights of people who live with disabilities. 
+#DisabilityDay
+</h4>
+                </a>
+               </li>
+               <li class="fat-l " >
+                <a href="https://twitter.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading">Mr Phillip Joeining, Chairman of John Menzies called on Prime Minister Imran Khan at Islamabad today.
+
+ </h4>
+                </a>
+               </li>
+               <li class="fat-l " >
+                <a href="https://twitter.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading">Follow the SOPs to prevent and minimize the spread of coronavirus.
+#Covid_19</h4>
+                </a>
+               </li>
+               <li class="fat-l " >
+                <a href="https://twitter.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading">Pakistan has joined the pioneering Digital Cooperation Organization (DCO) as a founding member as announced by Foreign Minister Makhdoom Shah Mahmood Qureshi at the official launch of the #DCO today.</h4>
+                </a>
+               </li>
+               <li class="fat-l " >
+                <a href="https://twitter.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading">Prime Minister Imran Khan called climate change a "defining global challenge" of our time.
+Pakistan is the fifth most climate-impacted country in the world. PM Khan is committed to a "clean and green" Pakistan.</h4>
+                </a>
+               </li>
+               <li class="fat-l " >
+                <a href="https://twitter.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading">Cabinet approves a draft law stipulating harsh punishments, including chemical castration for rape offenders, in order to curb growing incidence of sexual violence against women & children in the country.</h4>
+                </a>
+               </li>
+               <li class="fat-l " >
+                <a href="https://twitter.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading">Prime Minister Imran Khan writes letter to leaders of Muslim States asking them to act collectively to counter the growing Islamophobia.</h4>
+                </a>
+               </li>
+               <li class="fat-l " >
+                <a href="https://twitter.com/GovtofPakistan/" target="_blank">
+                    <h4 class="facebook_ticker_heading">The darkest day in the history of Kashmir is 27th Oct when Indian forces in total contrast to Kashmiri’s aspirations, disregarded Indian Independence Act & Partition Plan by invading Kashmir.
+#KashmirBlackDay </h4>
+                </a>
+               </li>
+  
+            </ul>
+          </div>
+  </div>
+      </div> <!-- block-hdnews -->
+<!-- ///fb and tweetr -->
+
+
+
+
+<script type="text/javascript">
+function ContactUs() {
+  window.location.href = "contactus.php";
+}
+</script>
+
+
+
+
+  	
+  
+  	<!-- page content start -->
+<div class="container-fluid" style="margin-top: 2%;margin-bottom: 2%;">
+ 
+
+  	<!--slider-->
+  			<div class="container" style="
+    padding-bottom: 1%;
+">
+	
+            
+            			<img src="http://pid.gov.pk/uploads/press-release.jpg"  class="img-responsive center-block" alt="">
+					</div><!-- container -->
+  	<!-- slider-->
+  
+  
+
+<div class="container" style="padding-left: 5.6%;padding-right: 5.6%;">
+ <h2 class="photo_h2"> PR No. 255<br> Islamabad: February 28, 2022<br></h2>
+ <p class="photo_p">
+The global petroleum products’ prices are tracking the Ukraine- Russia war and resultantly surged to $100/bbl. The unprecedented increase is very risky for the domestic fuel prices and inflation. The situation leaves very few options for the Government. Prior to today’s review, the Government has left more than Rupees 70 billion per month to keep the prices lower and providing relief to the masses. 
+
+In the fortnightly review, due on 28th February, OGRA has recommended Rs10/litre increase in the petroleum products’ prices. The Prime Minister has not only rejected the increase but also announced to decrease the prices of petroleum products by Rupees 10/litre in his address to the nation in order to provide maximum relief to the consumers, despite the limited fiscal space. 
+ 
+The new prices of petroleum products with effect from 1st March, 2022 will be as follows: <br>
+
+ (Rs./Litre)
+
+Product	Existing  Prices w.e.f
+16-02-2022	New Prices w.e.f. 01-03-2022	Increase / (-)
+Decrease
+MS (Petrol)	159.86	149.86	-10.00
+High Speed Diesel (HSD)	154.15	144.15	-10.00
+Kerosene (SKO)	126.56	125.56	-1.00
+Light Diesel Oil	123.97	118.31	-5.66
+<br>
+
+
+
+
+*-*-*-*-*
+</p>
+
+
+<a class="btn icon-btn btn-default single_previous"  href="https://pid.gov.pk/site/press_detail/19304"   >
+ <i class="fa fa-angle-left"  aria-hidden="true"></i><i class="fa fa-angle-left" aria-hidden="true"></i> PREVIOUS</a>
+ 
+
+ <a class="btn icon-btn btn-default single_next"  href="https://pid.gov.pk/site/press_detail/19306"  >
+NEXT <i class="fa fa-angle-right" aria-hidden="true"></i><i class="fa fa-angle-right" aria-hidden="true"></i></a>
+</div>
+  	<!-- page content ends -->
+
+
+</div>
+
+    <footer>
+    <div class="footer" id="footer">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-8  col-md-8">
+                    <h3> ABOUT US </h3>
+                                        
+                    <p><span style="color: rgb(233, 233, 233); font-family: "Open Sans", sans-serif; background-color: rgb(34, 34, 34);">Press Information Department is the principal department of Ministry of Information and Broadcasting,  headed by Principal Information officer (PIO). PID is working since 1947 with the mission to establish an authentic source for timely dissemination of information to people through all forms of media.
+</span>   
+<p>
+PID carries out its operation round the clock through a proper mechanism of media projection, monitoring and feedback. It aims to publicize the government policies and also to apprise the Government about the impact of its policies.</p></p>
+                    
+                    
+                    <div class="social">
+                    <h3> FOLLOW US </h3>
+                    <ul class="list-inline">
+                    
+                    <li><a href="https://x.com/MoIB_Official" target="_blank"><img src="https://pid.gov.pk/assets/images/twitter.png"></a></li>
+                    
+                    <li> <a href="https://www.facebook.com/MoIB.Official/#" target="_blank"><img src="https://pid.gov.pk/assets/images/fb.png"></a></li>
+                    
+                    <li><a href="https://www.instagram.com/MoIB_Official/" target="_blank"><img src="https://pid.gov.pk/assets/images/in.png"></a></li>
+                    
+                    <!--<li><a href="https://www.youtube.com/GovtofPakistan/" target="_blank"><img src="https://pid.gov.pk/assets/images/youtube.png"></a></li>
+                     
+                    <li><a href="https://www.pinterest.com/GovernmentofPakistan/" target="_blank"><img src="https://pid.gov.pk/assets/images/pin.png"></a></li>-->
+                    <!--
+                    <li><a href="https://plus.google.com/+PressInformationDepartmentGovernmentofPakistan" target="_blank"><img src="https://pid.gov.pk/assets/images/g+.png"></a></li>
+                    
+                    <li><a href="http://pressinformationdepartment.blogspot.com/" target="_blank"><img src="https://pid.gov.pk/assets/images/blog1.png"></a></li>
+                    -->
+                    </ul>
+                    </div>
+                </div>
+
+               <!-- <div class="col-lg-4  col-md-4" >
+                    <h3> BLOGS </h3>
+                    <div id="blogdata" >
+                        
+                        
+                    </div>
+                
+                
+                </div>-->
+                <div class="col-lg-4  col-md-4">
+                    <h3> Visitors </h3>
+                    <img src="https://pid.gov.pk/assets/images/pid.png" style="margin-top: 2%; padding: 0% 20%;" />
+                    <h4 style="    color: #fff;
+    text-align: center;
+    font-weight: 900;
+    font-size: 15px;
+    padding-top: 0%;
+    letter-spacing: 20px;"><b>18285834<b></h4>
+    
+                </div>
+
+
+<!-- for mobile responsive portion -->
+
+               <!-- video section -->
+                
+
+            </div>
+            <!--/.row--> 
+        </div>
+        <!--/.container--> 
+    </div>
+    <!--/.footer-->
+    
+    <div class="footer-bottom">
+        <div class="container-fluid">
+            <p class="pull-left"> Copyright © 2017 Press Information Department developed by <a style="color:#fff;" target="_black" href="http://ebmacs.com/">EBMACS</a> .</p>
+            <div class="pull-right">
+                <p class="pull-left"> All Rights Reserved. </p>
+            </div>
+        </div>
+    </div>
+    <!--/.footer-bottom--> 
+</footer>
+
+
+<!-- form 1 and form 2 models -->
+
+<div id="myModal1" class="modal fade " role="dialog">
+              <div class="modal-dialog " style="width: 90% !important;">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">GOVERNMENT OF PAKISTAN PRESS INFORMATION DEPARTMENT</h4>
+                  </div>
+                  <div class="modal-body">
+                          <div class="container-fluid form">
+            <center>
+              <p>GOVERNMENT OF PAKISTAN</p>
+              <p>PRESS INFORMATION DEPARTMENT</p>
+            </center>         
+     </div>
+
+<!--
+<form role="form" action="https://pid.gov.pk/site/media_form" method="post" enctype="multipart/form-data">
+<input type="file" name="userfile" size="20" />
+
+<br /><br />
+
+<input type="submit" value="upload" />
+
+</form>
+-->
+
+<div class="container-fluid">
+<div class="stepwizard">
+    <div class="stepwizard-row setup-panel2">
+        <div class="stepwizard-step">
+            <a href="#step2-1" type="button" class="btn btn-primary btn-circle">1</a>
+            <p>Step 1</p>
+        </div>
+        <div class="stepwizard-step">
+            <a href="#step2-2" type="button" class="btn btn-default btn-circle" disabled="disabled">2</a>
+            <p>Step 2</p>
+        </div>
+        <div class="stepwizard-step">
+            <a href="#step2-3" type="button" class="btn btn-default btn-circle" disabled="disabled">3</a>
+            <p>Step 3</p>
+        </div>
+    </div>
+</div>
+<form role="form" action="https://pid.gov.pk/site/press_form/create" method="post" enctype="multipart/form-data">
+
+<!-- step 1 -->
+    <div class="row setup-content2" id="step2-1">
+        <div class="col-xs-12">
+            <div class="col-md-12">
+                <h3> Step 1</h3>
+                <!-- input -->
+<div class="container-fluid all-input">
+        <center>
+        <h3><strong>MEDIA CARD</strong></h3>
+        <br>
+       
+        </center>
+        
+          <div class="form-group col-lg-6 col-md-6 col-sm-6">
+            <label for="usr">NAME OF PUBLICATION</label>
+            <input type="text" name="pressf2_mc_p_name" placeholder="Type Here" required="required" class="form-control" id="usr">
+          </div>
+                    
+          <div class="form-group col-lg-6 col-md-6 col-sm-6">
+            <label for="pwd">TOWN/CITY</label>
+            <input type="text" name="pressf2_mc_town" placeholder="Type Here" required="required" class="form-control" id="pwd">
+          </div>
+          
+          <div class="form-group col-lg-6 col-md-6 col-sm-6">
+            <label for="pwd">ADDRESS</label>
+            <input type="text" name="pressf2_mc_addrs" placeholder="Type Here" required="required" class="form-control" id="pwd">
+          </div>
+          
+          <div class="form-group col-lg-6 col-md-6 col-sm-6">
+            <label for="usr">TELEPHONE/FAX NO</label>
+            <input type="text" name="pressf2_mc_tele" placeholder="Type Here" required="required" class="form-control" id="usr">
+          </div>
+          
+          <div class="form-group col-lg-6 col-md-6 col-sm-6">
+            <label for="pwd">NAME OF EDITOR</label>
+            <input type="text" name="pressf2_mc_editor_name" placeholder="Type Here" required="required" class="form-control" id="pwd">
+          </div>
+    
+    </div>
+                <!-- /// input -->
+                <button class="btn btn-primary nextBtn2 btn-lg pull-right" type="button"  style="
+    background-color: #2c4928 !important;
+">Next</button>
+            </div>
+        </div>
+    </div>
+<!-- /// step 1 //// -->
+
+    <!-- step 2 -->
+    <div class="row setup-content2" id="step2-2">
+        <div class="col-xs-12">
+            <div class="col-md-12">
+                <h3> Step 2</h3>
+                <!-- input  -->
+                  <center>
+      <hr style="border-top: 1px solid #334511; width: 95%;">
+                </center>
+                
+                <br>
+
+                <div class="container-fluid all-input">
+            <center>
+            <h3><strong>MEDIA QUESTIONNAIRE</strong></h3>
+            <br>
+           
+            </center>
+            
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="usr">Name of Publication</label>
+                <input type="text" name="pressf2_mq_p_name" placeholder="Type Here" required="required" class="form-control" id="usr">
+              </div>
+                        
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="pwd">Established (Give exact date)</label>
+                <input type="text" name="pressf2_mq_estb" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+              
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="pwd">ADDRESS</label>
+                <input type="text" name="pressf2_mq_addrs" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+              
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="usr">TELEPHONE</label>
+                <input type="text" name="pressf2_mq_tele" placeholder="Type Here" required="required" class="form-control" id="usr">
+              </div>
+              
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="usr">FAX NO</label>
+                <input type="text" name="pressf2_mq_fax_no" placeholder="Type Here" required="required" class="form-control" id="usr">
+              </div>
+              
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="pwd">NAME OF EDITOR</label>
+                <input type="text" name="pressf2_mq_editr_name" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="usr">Name of Printer</label>
+                <input type="text" name="pressf2_mq_printr_name" placeholder="Type Here" required="required" class="form-control" id="usr">
+              </div>
+             
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="pwd">Language</label>
+                <input type="text" name="pressf2_mq_lang" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+              <div class="form-group col-lg-6 col-md-6 col-sm-6 visible-md visible-lg visible-sm">
+                <label for="pwd">Frequency</label>
+                <input type="text" name="pressf2_mq_freq" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+              <!-- <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="pwd">Off days</label>
+                <input type="text" name="" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div> -->
+
+              <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                  <label>Please attach a copy of declaration certificate</label>
+                  <input type="file" name="pressf2_mq_declaratioin_cert">  
+              </div>
+
+              <div class="form-group col-lg-6 col-md-12 col-sm-12">
+                <label for="pwd">Off Days</label>
+                <input type="text" name="pressf2_mq_off_date" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+
+              <div class="form-group col-lg-6 col-md-12 col-sm-12">
+                <label for="pwd">Please specify whether morning, evening or state the date of issue</label>
+                <input type="text" name="pressf2_mq_date_of_1issue" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+
+              <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                <label for="pwd">Date on which the first issue was brought out</label>
+                <input type="text" name="pressf2_mq_specify" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="pwd">Any special edition</label>
+                <input type="text" name="pressf2_mq_special_edit" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="pwd">Price per copy</label>
+                <input type="text" name="pressf2_mq_price_per_copy" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="pwd">Annual subscription</label>
+                <input type="text" name="pressf2_mq_annual_sbscptn" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="pwd">Editorial Objectives and policy</label>
+                <input type="text" name="pressf2_mq_edt_obj" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+
+              <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                <label for="pwd">Appeal to any special community, class or section</label>
+                <input type="text" name="pressf2_mq_appeal_cmn" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+
+
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="pwd">News services subscribed to</label>
+                <input type="text" name="pressf2_mq_subscriber" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+
+            <!--   <div class="form-group col-lg-6 col-md-6 col-sm-6 visible-md visible-lg visible-sm">
+                <label for="pwd">Frequency</label>
+                <input type="text" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div> -->
+
+              <div class="form-group col-lg-12 col-md-12 col-sm-12">
+                <label for="pwd">Special regular features (i.e Women’s or Children page etc) & when appearing</label>
+                <input type="text" name="pressf2_mq_reg_feactr" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+
+
+              <div class="form-group col-lg-12 col-md-12 col-sm-12">
+                <label>Total net paid circulation as cerified by the audit bureay of circulation (plwase attach a copy of abc certificate).</label>
+                  <input type="file" name="pressf2_mq_circulation_cert" required="" />
+                <!-- <div class="input-group">
+                  
+                  <input type="text" class="form-control" placeholder="Please Attach" required="required" name="search">
+                  <div class="input-group-btn">
+                    <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-paperclip"></i></button>
+                  </div>
+                </div> -->
+              </div>
+
+    </div>
+                <!-- // input -->
+                <button class="btn btn-primary nextBtn2 btn-lg pull-right" type="button"  style="
+    background-color: #2c4928 !important;
+">Next</button>
+            </div>
+        </div>
+    </div>
+    <!-- /// step 2 /// -->
+
+    <!-- step 3 -->
+    <div class="row setup-content2" id="step2-3">
+        <div class="col-xs-12">
+            <div class="col-md-12">
+                <h3> Step 3</h3>
+                <!-- input -->
+                <center>
+      <hr style="border-top: 1px solid #334511; width: 95%;">
+    </center>
+    
+    <br>
+
+    <div class="container-fluid all-input">
+            <center>
+            <h3><strong>MEDIA QUESTIONNAIRE</strong></h3>
+            <br>
+           
+            </center>
+     
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="usr">Size of printed page</label>
+                <input type="text" name="pressf2_mq_printage_page" placeholder="Type Here" required="required" class="form-control" id="usr">
+              </div>
+                        
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="pwd">Number of column</label>
+                <input type="text" name="pressf2_mq_no_col" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+              
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="pwd">Average number of pages</label>
+                <input type="text" name="pressf2_mq_avr_no_page" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+              
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="usr">Kind of paper used</label>
+                <input type="text" name="pressf2_mq_k_paper" placeholder="Type Here" required="required" class="form-control" id="usr">
+              </div>
+              
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="usr">Type of printing press</label>
+                <input type="text" name="pressf2_mq_type_print_press" placeholder="Type Here" required="required" class="form-control" id="usr">
+              </div>
+              
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="pwd">Is printing done in colour</label>
+                <input type="text" name="pressf2_mq_color_printing" placeholder="Type Here" required="required" class="form-control" id="pwd">
+              </div>
+
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label for="usr">Advertisement rates. Commercial rates</label>
+                <input type="text" name="pressf2_mq_add_rate" placeholder="Type Here" required="required" class="form-control" id="usr">
+              </div>
+              
+
+              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                <label>Please attach a rate card, if any</label>
+
+                  <input type="file" name="pressf2_mq_read_card" required="">
+<!-- 
+                <div class="input-group">
+                  
+                  <input type="text" class="form-control" placeholder="Please Attach" name="search">
+                  <div class="input-group-btn">
+                    <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-paperclip"></i></button>
+                  </div>
+                </div> -->
+              </div>
+               <p style="font-size:15px; text-transform:uppercase; color:#5e5e5e; margin:13px 0px; padding:10px 15px;">
+                I hereby declare that all the particulars given above are correct and that advertisement contract, from or on behalf of Government of Pakistan will be accepted on this understanding.
+              </p>
+
+              <div class="col-lg-6 col-lg-offset-6 col-md-8 col-md-offset-4 col-sm-8 col-sm-offset-4 col-xs-12 sign">
+                
+                <div  class="col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+                  <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
+                    <h4><strong>SIGNATURES</strong></h4>
+                  </div>
+                  <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7">
+                    <hr style="border-bottom:0.1px solid #c1c1c1; margin-top:27px; margin-bottom:0px">
+                  </div>
+                </div>
+
+                <div   class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                  <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
+                    <h4><strong>OFFICIAL POSITION</strong></h4>
+                  </div>
+                  <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7">
+                    <hr style="border-bottom:0.1px solid #c1c1c1; margin-top:27px; margin-bottom:0px">
+                  </div>
+                </div>
+
+                <div   class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                  <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
+                    <h4><strong>DATE</strong></h4>
+                  </div>
+                  <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7">
+                    <hr style="border-bottom:0.1px solid #c1c1c1; margin-top:27px; margin-bottom:0px">
+                  </div>
+                </div>
+              </div>
+
+      <div style="margin:13px 0px 40px 0px; padding:10px 15px;">
+          <button type="submit" class="btn btn-default btn-lg btn-group-justified btn-style">SUBMIT NOW</button>
+      </div>
+        
+
+    </div>
+                <!-- /// input /// -->
+            </div>
+        </div>
+    </div>
+    <!-- /// step /// -->
+</form>
+</div>
+
+
+  
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                  </div>
+                </div>
+
+              </div>
+      </div>
+
+            <div id="myModal2" class="modal fade" role="dialog">
+              <div class="modal-dialog " style="width: 90% !important;">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">APPLICATION FOR ACCREDITION ON BEHALF OF PAKISTANI MEDIA</h4>
+                  </div>
+                  <div class="modal-body">
+                          <!-- form heading --> 
+     <div class="container-fluid form">
+           <center>
+              <p>APPLICATION FOR ACCREDITATION ON BEHALF OF PAKISTANI MEDIA</p>
+              
+            </center>
+            
+     </div>
+
+     <div class="application col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <p>To,&emsp;&emsp;&emsp;<span>The Principal Information Officer,</span></p>
+            <p>&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;Press Information Department,</p>
+            <p>&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;Government of Pakistan,</p>
+            <p>&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;Islamabad</p>
+            <!-- <h3><strong>MEDIA CARD</strong></h3> -->
+        </div>
+        
+        <br />
+
+
+<div class="container-fluid">
+  <div class="stepwizard">
+      <div class="stepwizard-row setup-panel">
+          <div class="stepwizard-step">
+              <a  href="#step-1" type="button" class="btn btn-primary btn-circle">1</a>
+              <p>Step 1</p>
+          </div>
+          <div class="stepwizard-step">
+              <a disabled="disabled" href="#step-2" type="button" class="btn btn-default btn-circle" >2</a>
+              <p>Step 2</p>
+          </div>
+          <div class="stepwizard-step">
+              <a href="#step-3" type="button" class="btn btn-default btn-circle" disabled="disabled">3</a>
+              <p>Step 3</p>
+          </div>
+      </div>
+  </div>
+
+<form role="form" action="https://pid.gov.pk/site/media_form/create" method="post">
+    <div class="container-fluid all-input">
+  <!-- step 1 -->
+      <div class="row setup-content" id="step-1">
+          <div class="col-xs-12">
+          <h3> Step1 </h3>
+              <div class="col-md-12">
+                  <!-- form inputs -->
+                  
+                     <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                        <label for="usr">Name of Newspaper/ News Agency/ TV Channel</label>
+                        <input type="text" name="mediaf1_newspaper_name" placeholder="Type Here" required="required" class="form-control" id="usr">
+                      </div>
+                                
+                      <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                        <label for="pwd">Language(S) in which Published</label>
+                        <input type="text" name="mediaf1_lang" placeholder="Type Here" required="required" class="form-control" id="pwd">
+                      </div>
+                      
+                      <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                        <label for="pwd">Countries or centers serve</label>
+                        <input type="text" name="mediaf1_countries_or_centers_serve" placeholder="Type Here" required="required" class="form-control" id="pwd">
+                      </div>
+                      
+                      <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                        <label for="usr">Number of Newspapers served</label>
+                        <input type="text" name="mediaf1_no_of_newspaper" placeholder="Type Here" required="required" class="form-control" id="usr">
+                      </div>
+                      
+                      <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                        <label for="pwd">Place of Publication</label>
+                        <input type="text" name="mediaf1_place_of_publication" placeholder="Type Here" required="required" class="form-control" id="pwd">
+                      </div>
+                
+                      <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                        <label for="pwd">Applicant Name (Block letters)</label>
+                        <input type="text" name="mediaf1_applicant_name" placeholder="Type Here" required="required" class="form-control" id="pwd">
+                      </div>
+                
+                      <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                        <label for="pwd">Date of Birth</label>
+                        <input type="text" name="mediaf1_dob" placeholder="Type Here" required="required" class="form-control " id="datepicker">
+                      </div>
+                 
+                      <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                        <label for="pwd">Father’s Name</label>
+                        <input type="text" name="mediaf1_father_name" placeholder="Type Here" required="required" class="form-control" id="pwd">
+                      </div>
+                
+                      <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                        <label for="pwd">Passport/CNIC No</label>
+                        <input type="text" name="mediaf1_pass_cnic" placeholder="Type Here" required="required" class="form-control" id="pwd">
+                      </div>
+                
+                      <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                        <label for="pwd">Place of Birth</label>
+                        <input type="text" name="mediaf1_place_of_birth" placeholder="Type Here" required="required" class="form-control" id="pwd">
+                      </div>
+                
+                      <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                        <label for="pwd">Nationality & Religion</label>
+                        <input type="text" name="mediaf1_nationality_religion" placeholder="Type Here" required="required" class="form-control" id="pwd">
+                      </div>
+                
+                      <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                        <label for="pwd">Designation Applying for</label>
+                        <input type="text" name="mediaf1_designation_applying" placeholder="Type Here" required="required" class="form-control" id="pwd">
+                      </div>
+                
+                      <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                        <label for="pwd">Educational Qualifications</label>
+                        <input type="text" name="mediaf1_edu_quf" placeholder="Type Here" required="required" class="form-control" id="pwd">
+                      </div>
+                
+                      <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                        <label for="pwd">Previous experience (vide Class 4 of the Rules</label>
+                        <input type="text" name="mediaf1_pre_exp" placeholder="Type Here" required="required" class="form-control" id="pwd">
+                      </div>
+                  <!-- //form inputs -->
+                  <button class="btn btn-primary nextBtn btn-lg pull-right" type="button" style="
+    background-color: #2c4928 !important;
+" >Next</button>
+              </div>
+          </div>
+      </div>
+  <!--  /////// step1 ends /// -->
+
+  <!-- step 2 starts -->
+   <div class="row setup-content" id="step-2">
+          <div class="col-xs-12">
+              <div class="col-md-12">
+                  <h3> Step 2</h3>
+                  <!-- input s -->
+                   <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 table-responsive info-table">
+            <table class="table table-hover table-bordered">
+              <thead style="background-color: #efefef;">
+                <tr>
+                  <th>PAPERS, NEWS AGENCIES OR TV CHANNELS SERVED</th>
+                  <th>Post-held</th>
+                  <th>PERIOD OF SERVICE (DATE BE SPECIFIED)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1. <input type="text" name="field1_a"></td>
+                  <td><input type="text" name="field2_a"></td>
+                  <td><input type="text" name="field3_a"></td>
+                </tr>
+                <tr>
+                  <td>2. <input type="text" name="field1_b"></td>
+                  <td><input type="text" name="field2_b"></td>
+                  <td><input type="text" name="field3_b"></td>
+                </tr>
+                <tr>
+                  <td>3. <input type="text" name="field1_c"></td>
+                  <td><input type="text" name="field2_c"></td>
+                  <td><input type="text" name="field3_c"></td>
+                </tr>
+                <tr>
+                  <td>4. <input type="text" name="field1_d"></td>
+                  <td><input type="text" name="field2_d"></td>
+                  <td><input type="text" name="field3_d"></td>
+                </tr>
+                <tr>
+                  <td>5. <input type="text" name="field1_e"></td>
+                  <td><input type="text" name="field2_e"></td>
+                  <td><input type="text" name="field3_e"></td>
+                </tr>
+              </tbody>
+            </table>
+
+          </div>
+
+          <div class="form-group col-lg-12 col-md-12 col-sm-12">
+            <label for="pwd">Residential Address:-</label>
+            <input type="text" name="mediaf1_resd_addrs" placeholder="Type Here" class="form-control" id="pwd">
+          </div>
+    </div>
+                  <!-- / inputs -->
+                  <button class="btn btn-primary nextBtn btn-lg pull-right" style="
+    background-color: #2c4928 !important;
+" type="button" >Next</button>
+              </div>
+          </div>
+      </div>
+  <!-- // step 2 ends -->
+
+
+  <!-- STEP 3 -->
+    <div class="row setup-content" id="step-3">
+          <div class="col-xs-12">
+              <div class="col-md-12">
+                  <h3> Step 3</h3>
+                  <!-- inputs  -->
+                    <center>
+                      <hr style="border-top: 1px solid #334511; width: 95%;">
+                    </center>
+                    
+                    <br>
+
+                    <div class="container-fluid all-input">
+                            
+                              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                                <label for="usr">Residence Telephone</label>
+                                <input type="text" name="mediaf1_resd_tele" placeholder="Type Here" class="form-control" id="usr">
+                              </div>
+                                        
+                              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                                <label for="pwd">Mobile</label>
+                                <input type="text" name="mediaf1_resd_mob" placeholder="Type Here" class="form-control" id="pwd">
+                              </div>
+                              
+                              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                                <label for="pwd">Official Address</label>
+                                <input type="text" name="mediaf1_ofc_addrs" placeholder="Type Here" class="form-control" id="pwd">
+                              </div>
+                              
+                              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                                <label for="usr">Telephone</label>
+                                <input type="text" name="mediaf1_ofc_tele" placeholder="Type Here" class="form-control" id="usr">
+                              </div>
+                              
+                              <div class="form-group col-lg-6 col-md-6 col-sm-6">
+                                <label for="usr">Fax No</label>
+                                <input type="text" name="mediaf1_ofc_fax_no" placeholder="Type Here" class="form-control" id="usr">
+                              </div>
+                              
+                              <div class="form-group col-lg-6 col-md-6 col-sm-6" style="padding-top: 32px;">
+                                <label for="pwd">Certified that Mr./Ms/<input type="text" name="mediaf1_certified_name" style="style="
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 1px solid;
+""> is a full time employee of our
+                                News Agency/Newspaper/TV Channel.</label>
+                              </div>
+
+
+                    </div>
+
+
+                    <div class="container-fluid all-input">
+                            
+                              <div class="col-lg-12 col-md-12 col-sm-12  col-xs-12 form1-bot">
+                                
+                                <div  class="col-lg-7 col-md-7 col-sm-7 col-xs-12" >
+                                  
+                                  <ol type="i">
+                                    <li>Note:</li>
+                                    <li>Following supporting documents for processing of my case in question are attached.</li>
+                                  </ol>
+                                  <ol type="i">
+                                    <li>Employer introductory/recommendatory letter, in original.</li>
+                                    <li>Six Photocopies prescribed form, duly filled in.</li>
+                                    <li>Six copies of my recent photographs (Size 1x1).</li>
+                                    <li>Six photocopies of my NIC.</li>
+                                  </ol> 
+                                </div>
+
+                                <div   class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
+                                  
+                                    <h4 class="pull-right" style="border-top:0.1px solid #c1c1c1; margin-top:50px; margin-bottom:0px; padding-top: 10px;"><strong>Signature of the Editor/Managing Editor</strong></h4>
+                                  
+                                  
+                                </div>
+
+                              </div>
+
+                      <div style="margin:13px 0px 40px 0px; padding:10px 15px;">
+                          <button type="submit" class="btn btn-default btn-lg btn-group-justified btn-style">SUBMIT NOW</button>
+                      </div>
+                        
+
+                    </div>
+                  <!-- // inputs -->
+              </div>
+          </div>
+      </div>
+  <!-- //// step 3 ends //// -->
+  </div>
+  </form>
+<!-- /form headin -->
+
+
+
+
+
+                   </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+   	
+   <!-- top links -->
+
+<!-- top links ends -->
+
+
+<!--<script type="text/javascript" src="https://pid.gov.pk/assets/js/scripts/main.js"></script>-->
+    <!--<script type="text/javascript" src="https://pid.gov.pk/assets/js/scripts/repo/gallery.js"></script>-->
+
+<!-- fullcallendar -->
+
+<script src="https://use.fontawesome.com/8662945c79.js"></script>
+
+<script src='https://pid.gov.pk/assets/js/jquery-ui.min.js'></script>
+
+<script src='https://pid.gov.pk/assets/js/fullcalendar/moment.min.js'></script>
+<script src='https://pid.gov.pk/assets/js/fullcalendar/fullcalendar.min.js'></script>
+
+ <script type="text/javascript" src="https://pid.gov.pk/assets/js/custom.js"></script>
+
+<!-- toaster -->
+  
+      <script type="text/javascript" src="https://pid.gov.pk/assets/js/toastr.min.js"></script>
+    <!-- toaster end -->
+
+<!-- ma gallery -->
+<script type="text/javascript" src="https://pid.gov.pk/assets/js/magallery/js/MAgallery.js"></script>
+<!-- ma gallery ends -->
+
+<!--  // toaster -->
+
+
+
+
+<script>
+
+  $(document).ready(function() {
+  
+    $('#calendar').fullCalendar({
+      header: {
+        left: 'prev,next today',
+        center: 'title',
+        right: 'month,agendaWeek,agendaDay,listWeek'
+      },
+      defaultDate: '2017-05-12',
+      editable: true,
+      navLinks: true, // can click day/week names to navigate views
+      eventLimit: true, // allow "more" link when too many events
+      events: {
+        url: 'php/get-events.php',
+        error: function() {
+          $('#script-warning').show();
+        }
+      },
+      loading: function(bool) {
+        $('#loading').toggle(bool);
+      }
+    });
+    
+  });
+
+</script>
+<!-- /fullcallendar -->
+
+    <script type="text/javascript">
+    $(function() { 
+    
+        $('a[href="#toggle-search"], .navbar-bootsnipp .bootsnipp-search .input-group-btn > .btn[type="reset"]').on('click', function(event) {
+        event.preventDefault();
+        $('.navbar-bootsnipp .bootsnipp-search .input-group > input').val('');
+        $('.navbar-bootsnipp .bootsnipp-search').toggleClass('open');
+        $('a[href="#toggle-search"]').closest('li').toggleClass('active');
+    
+        if ($('.navbar-bootsnipp .bootsnipp-search').hasClass('open')) {
+          /* I think .focus dosen't like css animations, set timeout to make sure input gets focus */
+          setTimeout(function() { 
+            $('.navbar-bootsnipp .bootsnipp-search .form-control').focus();
+          }, 100);
+        }     
+      });
+    
+      $(document).on('keyup', function(event) {
+        if (event.which == 27 && $('.navbar-bootsnipp .bootsnipp-search').hasClass('open')) {
+          $('a[href="#toggle-search"]').trigger('click');
+        }
+      });
+        
+    });  
+    </script>
+ 
+
+ <script type="text/javascript">
+   $('ul.nav li.dropdown').hover(function() {
+      $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeIn(200);
+    }, function() {
+      $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut(200);
+    });
+ </script>
+    <!-- /h -->
+
+
+
+<!-- test -->
+
+
+<!-- 
+<script type="text/javascript">
+  (function($) {
+    var speed = 300;
+    var first = 0;
+    var pause = 3000;
+
+    function tick() {
+        first = $('ul#ticker li:first').html();
+        $('ul#ticker li:first').animate({
+            height: 0
+        }, speed).hide('medium', function() {
+            $(this).remove();
+            last = '<li>' + first + '</li>';
+            $('ul#ticker').append(last);
+        });
+    }
+    $('ul#ticker').click(function() {
+        tick();
+   0 |
+
+
+
+     return false;
+    });
+    setInterval(tick, pause);
+})(jQuery);
+</script> -->
+      <script>
+         
+  // Request an API Key for the Blogger API from 
+  // https://code.google.com/apis/console/
+  var apikey = "AIzaSyDKtM4Ap_5KAnFrrTlNFtmtVZaJ7qesJ_g";
+  
+  // You can find the blogId in the HTML source of a blog
+  var blogId = "2849068615245532786";
+  
+  // When the document is loaded
+  $(document).ready(function() {
+   //console.log("https://www.googleapis.com/blogger/v2/blogs/"+ blogId + "/posts?key="+apikey);
+    // Make a JSONP request for the Posts on the Blogger Buzz blog
+    $.ajax({
+      url:"https://www.googleapis.com/blogger/v2/blogs/"+
+        blogId+"/posts?key="+apikey,
+      dataType: "jsonp",
+      success: function(data, textStatus, jqXHR) {
+	//	  console.log(data);
+        var items = [];   
+		var newitem=[];
+		var imageurlfooter = 'https://pid.gov.pk/assets/images/blogfooter.jpg';
+		//console.log(imageurlfooter);
+        // Construct a chunk of HTML for each post
+        // containing the Post title, content, and a 
+        // link to the post author.
+        $.each(data.items, function(index, value) {
+          items.push("<a target='_blank'  href='"+value.url+"'><div class = 'media' ><div style='margin-right: 0%;' class = 'pull-left' ><img style='height: 80px; width: 80px; margin-right: 10px;' class = 'media-object img-responsive' src = '"+imageurlfooter+"' alt = 'Media Object' width='106' height='80'></div><div class = 'media-body'><h4 class = 'media-heading'>"+value.title+"</h4></a><p style='line-height: 1.5;'><small>"+value.published+
+            "</small></p><p style='line-height: 1.5;'><small>Posted by <em><a target='_blank' href='"+value.author.url+"'>"+
+            value.author.displayName+"</a></em></small></p></div></div>");
+        });
+ //console.log(items.length);
+ for(var j=0;j<3;j++){
+	 //console.log(items[j]);
+newitem[j]=items[j];
+ } 
+ 
+ 
+ //console.log(items.length);
+        // And finally, append the generated content to the page body.
+        //.appendTo();
+      
+	  $('#blogdata').append($(newitem.join('')));
+	  }
+    });
+  });
+  </script>
+  
+ 
+     
+   <!-- sigle view links js-->
+   <script type="text/javascript" src="https://pid.gov.pk/assets/js/singleview/jquery.tmpl.min.js"></script>
+		<script type="text/javascript" src="https://pid.gov.pk/assets/js/singleview/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="https://pid.gov.pk/assets/js/singleview/jquery.elastislide.js"></script>
+		<script type="text/javascript" src="https://pid.gov.pk/assets/js/singleview/gallery.js"></script>
+		<!--singel iew links js ends-->
+ 
+  </body>
+</html>

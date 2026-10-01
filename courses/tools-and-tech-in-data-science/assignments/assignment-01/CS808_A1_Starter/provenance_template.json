@@ -1,0 +1,27 @@
+{
+  "source_name": "TODO",
+  "source_url": "TODO",
+  "query_parameters": {},
+  "retrieval_time_utc": "TODO (Option B: one record per snapshot)",
+  "retrieved_by": {
+    "script": "TODO",
+    "user_agent": "TODO"
+  },
+  "licence_or_terms": {
+    "quoted_text": "TODO",
+    "url": "TODO",
+    "date_checked": "TODO",
+    "api_rate_limit_noted": "TODO or n/a"
+  },
+  "robots_txt": "TODO: your finding, or 'not applicable: documented API'",
+  "files": [
+    {
+      "file": "TODO",
+      "sha256": "TODO",
+      "bytes": 0
+    }
+  ],
+  "known_limitations": [
+    "TODO"
+  ]
+}

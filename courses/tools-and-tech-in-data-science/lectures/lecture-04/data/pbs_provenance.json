@@ -1,0 +1,29 @@
+[
+  {
+    "file": "data/raw/pbs_cpi_sdmx_20261001T100949Z.xml",
+    "source_url": "https://www.pbs.gov.pk/cpi/",
+    "retrieved_utc": "20261001T100949Z",
+    "http_status": 200,
+    "bytes": 80394,
+    "sha256": "eaa5321f96fcade33467e512158f5dc5591dc96a3f1f9337a627fabd254760ec",
+    "note": "SDMX-ML structure-specific data: monthly CPI (base 2015-16 = 100), general and 12 divisions, weights included"
+  },
+  {
+    "file": "data/raw/pbs_monthly_review_august_2026_20261001T100957Z.pdf",
+    "source_url": "https://www.pbs.gov.pk/wp-content/uploads/2020/07/Monthly-Review-August-2026.pdf",
+    "retrieved_utc": "20261001T100957Z",
+    "http_status": 200,
+    "bytes": 1612431,
+    "sha256": "7b31134a08e3dba97f02795f388476f3ad6eee6247658db1a35c30348e86bb74",
+    "note": "PBS Monthly Review on Price Indices (PDF)"
+  },
+  {
+    "file": "data/raw/pbs_monthly_review_september_2026_20261001T101009Z.pdf",
+    "source_url": "https://www.pbs.gov.pk/wp-content/uploads/2020/07/Monthly-Review-September2026.pdf",
+    "retrieved_utc": "20261001T101009Z",
+    "http_status": 200,
+    "bytes": 1601800,
+    "sha256": "63abd15a32c08e9484e83a6d8579d9cf83d45f7176fcf45e3919e493e32caf81",
+    "note": "PBS Monthly Review on Price Indices (PDF)"
+  }
+]

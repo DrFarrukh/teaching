@@ -1,0 +1,805 @@
+                                                   Annex-I
+
+
+
+
+             Monthly Review
+                   on
+              Price Indices
+
+
+
+
+                   August 2026
+                 (Base Year 2015-16)
+
+                Government of Pakistan
+Ministry of Planning, Development & Special Initiatives
+              Pakistan Bureau of Statistics
+                       Islamabad
+                    PRICE STATISTICS TEAM
+
+ S# Name                             Designation
+
+ 1.   Dr.1 Naeem Uz Zafar (S.I)      Chief Statistician
+ 2.   Syed Abdul Qader Shah          Director General
+ 3.   Mr. Naseer Ahmad               Director
+ 4.   Dr.2 Ahtasham Gul              Chief Statistical Officer
+ 5.    3 Kashif Ali
+      Mr.                            Statistical Officer
+ 6.   Miss. Umaira Zareen
+       6                             Statistical Officer
+ 7.   Mr. Abdul Qadir                Statistical Officer
+ 8.   Mrs. Safia Akram               Statistical Officer
+ 9.   Mrs. Faiza Razzaq              Statistical Officer
+ 10. Mr. Umer Farooq                 Statistical Officer
+ 11. Mr. Ansar Mahmood               Statistical Assistant
+ 12. Mrs. Madiha Gulfraz             Statistical Assistant
+ 13. Mrs. Humail Fatima              Statistical Assistant
+
+
+                          IT & SOFTWARE TEAM
+
+1.    Mr. Muhammad Ehtesham          Director (DP)
+2.    Mr. Arsalan Bashir             Chief System Analyst
+3.    Mr. Muhammad Kibria            Data Processing Officer
+4.    Mr. Irfan Bajwa                Data Processing Officer
+
+
+
+
+                                                                 Page 1 of 17
+    Inflation in Brief
+    1. CPI inflation General, increased by 11.1% on year-on-year basis in August 2026 as compared to an
+       increase of 9.2% in the previous month and 3.1% in August 2025. On month-on-month basis, it
+       remained unchanged at 1.2% in August 2026 as compared to the previous month and a decrease of
+       0.6% in August 2025.
+    2.    CPI inflation Urban, increased by 10.4% on year-on-year basis in August 2026 as compared to an
+          increase of 8.7% in the previous month and an increase of 3.5% in August 2025. On month-on-month
+          basis, it increased by 0.9% in August 2026 as compared to an increase of 1.2% in the previous month
+          and a decrease of 0.7% in August 2025.
+    3. CPI inflation Rural, increased by 12.2% on year-on-year basis in August 2026 as compared to an
+       increase of 9.9% in the previous month and an increase of 2.5% observed in August 2025. On month-
+       on-month basis, it increased by 1.6% in August 2026 as compared to an increase of 1.2 in the previous
+       month and a decrease of 0.5% in August 2025.
+    4.    SPI inflation on YoY basis increased by 9.5% in August 2026 as compared to an increase of 12.0%
+          in the previous month and an increase of 2.6% in August 2025. On MoM basis, it increased by 0.9%
+          in August 2026 as compared to 2.4% in the previous month and an increase of 3.2% in August 2025.
+    5.    WPI inflation on YoY basis increased by 11.8% in August 2026 as compared to an increase of 9.4%
+          in the previous month and a decrease of 1.0% in August 2025. On month-on-month basis, it increased
+          by 2.0% in August 2026 as compared to no change in the previous month and a decrease of 0.2% in
+          August 2025.
+    6.    Figures 1 and 2 show graphically the yearly data of Table 1.a for Urban and Rural CPI while Table 1.1
+          shows “Period Average” and “YoY” percentage changes in indices.
+
+Table 1.a                                              General Inflation (%)                  (Base 2015-16)
+                                                                        CPI
+                              General                                         Food                    Non-Food              SPI*           WPI
+PERIOD      National           Urban            Rural              Urban             Rural        Urban      Rural
+            YoY     MoM      YoY     MoM      YoY     MoM        YoY     MoM    YoY     MoM     YoY   MoM    YoY   MoM    YoY      MoM YoY      MoM
+Nov-24      4.9 0.5 5.2 0.5 4.3                      0.5         1.7     -0.2   -0.2    0.2     7.8    1.0   9.1    0.8    7.3     1.0    2.3   -0.1
+ Dec-24     4.1 0.1 4.4 -0.1 3.6                     0.3         2.5      0.1   -0.2    0.1     5.7   -0.2   7.6    0.5    4.2     0.8    1.9   -0.4
+ Jan-25     2.4 0.2 2.7 0.2 1.9                      0.2         -0.6    -0.3   -2.9    -0.4    5.0    0.5   7.0    0.9    0.7    -1.4    0.6    0.2
+ Feb-25     1.5 -0.8 1.8 -0.7 1.1                    -1.1        -0.9    -1.8   -4.3    -2.5    3.6    0.1   6.6    0.3   -0.2    -1.6   -0.7   -0.2
+Mar-25      0.7 0.9 1.2 0.8 0.0                      1.1         -1.7     1.6   -5.4    1.6     3.1    0.2   5.6    0.5   -2.3    -0.1   -1.6    0.3
+ Apr-25     0.3 -0.8 0.5 -0.7 -0.1                   -1.0        -1.9    -1.6   -4.6    -1.8    2.2   -0.1   4.4   -0.4   -3.6    -2.1   -2.2   -1.3
+May-25      3.5 -0.2 3.5 0.1 3.4                     -0.5        5.3      0.6   2.1     -1.0    2.4   -0.3   4.6   -0.1   -0.6    -1.0    0.4    0.0
+June-25     3.2 0.2 3.0 0.1 3.6                      0.5         4.2     -0.6   2.4     0.1     2.2    0.5   4.7    0.8   -1.9     0.0    0.6    0.6
+July-25     4.1 2.9 4.4 3.4 3.5 2.2 2.2 2.4 1.5 2.7                                             5.9    4.1   5.4    1.6 -0.9 3.1 -0.5 1.2
+Aug-25      3.1 -0.6 3.5 -0.7 2.5 -0.5 -0.5 -1.3 -0.5 -0.7                                      6.1   -0.3   5.3   -0.3 2.6 3.2 -1.0 -0.2
+Sep-25      5.8 2.1 5.7 1.6 5.9 2.8 4.4 4.0 6.0 5.5                                             6.5    0.1   5.8    0.4 4.5 2.0 0.6 0.5
+Oct-25      6.2     1.7     6.0      1.4     6.6      2.1        4.5     1.7    6.8     3.0     7.0   1.1    6.4   1.3    4.8      0.9   1.1    0.5
+Nov-25      6.1     0.4     6.1      0.5     6.3      0.2        5.0     0.3    5.9     -0.7    6.7   0.7    6.7   1.0    4.2      0.4   1.1 -0.2
+Dec-25      5.6 -0.4 5.8 -0.4 5.4 -0.6 3.2 -1.7 3.8                                     -1.9    7.5   0.5    6.9   0.7    2.5 -0.8 0.6 -0.9
+Jan-26      5.8     0.4     5.8      0.2     5.8      0.6        3.3 -0.2 4.7           0.4     7.4   0.5    6.9   0.8    3.3 -0.8 0.2 -0.2
+Feb-26      7.0     0.3     6.8      0.3     7.3      0.3        4.4 -0.8 6.8           -0.5    8.3   0.9    7.7   1.0    4.8 -0.1 1.0          0.7
+Mar-26      7.3     1.2     7.4      1.3     7.2      1.0        2.9     0.1    4.5     -0.6 10.3 2.1        9.7   2.4    5.6      0.7   6.7    5.9
+Apr-26 10.9 2.5 11.1 2.7 10.6 2.1                                6.9     2.3    7.3     0.9 13.8 3.0 13.6 3.2 10.1 2.0 13.6 5.1
+May-26 11.7 0.5 11.8 0.7 11.5 0.3                                6.5     0.2    8.5     0.2 15.2 1.0 14.2 0.4 12.0 0.7 12.7 -0.8
+June-26 11.1 -0.3 11.2 -0.5 10.9 0.0                             8.2     1.0    9.4     0.9 13.1 -1.4 12.3 -0.9 12.8 0.7 10.7 -1.2
+July-26     9.2     1.2     8.7      1.2     9.9      1.2        9.6     3.7 10.2 3.4           8.2   -0.4   9.7   -0.7 12.0 2.4         9.4    0.0
+Aug-26 11.1 1.2 10.4 0.9 12.2 1.6 12.1 1.0 13.2 2.1                                             9.4   0.9 11.3 1.1        9.5      0.9 11.8 2.0
+    * SPI for quintile 1. Digits 0.0* are due to rounding off.
+
+
+
+
+                                                                                                                                 Page 2 of 17
+      Core inflation (NFNE)
+   7. Measured by non-food non-energy Urban increased by 8.8% on (YoY) basis in August 2026 as
+      compared to an increase of 8.6% in the previous month and an increase of 6.9% in August 2025. On
+      (MoM) basis, it increased by 0.5% in August 2026 as compared to an increase of 0.7% in the previous
+      month and an increase of 0.3% in the corresponding month of last year i.e. August 2025.
+   8. Measured by non-food non-energy Rural increased by 8.5% on (YoY) basis in August 2026 as
+      compared to an increase of 8.1% in the previous month and an increase of 7.8% in August 2025. On
+      (MoM) basis, it increased by 0.6% in August 2026 as compared to 0.9% in the previous month and an
+      increase of 0.2% in the corresponding month of last year i.e. August 2025.
+
+      Core inflation (Trimmed)
+   9. Measured by 20% weighted trimmed mean Urban increased by 8.9% on (YoY) basis in August 2026
+      as compared to an increase of 7.5% in the previous month and 4.2% in August 2025. On (MoM) basis,
+      it increased by 0.4% in August 2026 as compared to an increase of 0.6% a month earlier and no
+      change in the corresponding month of last year i.e. August 2025.
+  10. Measured by 20% weighted trimmed mean Rural increased by 9.1% on (YoY) basis in August 2026
+      as compared to an increase of 8.0% in the previous month and 3.5% in August 2025. On (MoM) basis,
+      it increased by 1.1% in August 2026 as compared to an increase of 1.0% in the previous month and an
+      increase of 0.3% in the corresponding month of last year i.e. August 2025.
+
+           Table 1.b                    Core Inflation (%) (Base 2015-16)
+                                          NFNE                           Trimmed
+           Period                  Urban            Rural         Urban          Rural
+                             YoY       MoM       YoY   MoM       YoY    MoM       YoY       MoM
+              Aug-25         6.9        0.3      7.8    0.2       4.2    0.0        3.5      0.3
+               Sep-25        7.0        0.3      7.8    0.6       5.7    0.3        6.5      0.7
+               Oct-25        7.5        1.1      8.4    1.3       6.0    0.9        6.8      1.2
+              Nov-25         6.6        0.3      8.2    0.5       5.3    0.3        6.4      0.4
+               Dec-25        6.9        0.5      8.1    0.6       5.5    0.3        6.0      0.4
+               Jan-26        7.2        1.0      8.3    1.1       4.9    0.5        5.4      0.7
+               Feb-26        7.1        0.2      8.3    0.4       5.1    0.2        5.6      0.3
+              Mar-26         7.4        0.7      8.4    0.8       5.9    0.6        6.3      0.5
+               Apr-26        8.0        1.9      8.5    1.1       9.2    1.1        8.9      1.0
+              May-26         9.0        1.3      8.4    0.2       9.8    0.6        9.6      0.8
+              June-26        8.7       -0.1      7.9    0.2       9.6    0.3        9.3      0.5
+               July-26       8.6        0.7      8.1    0.9       7.5    0.6        8.0      1.0
+              Aug-26         8.8       0.5       8.5    0.6       8.9    0.4        9.1      1.1
+
+
+  Table 1.1                                       Y-o-Y % Change
+
+                                    Average July - August                      August over August
+   INDEX                                 % Changes                                % Changes
+                         2026-2027        2025-2026      2024-2025      2026-2027     2025-2026       2024-2025
+CPI (National)             10.17              3.56            10.36       11.15           3.06           9.64
+ CPI (Urban)               9.57               3.94            12.44       10.43           3.46           11.71
+ CPI (Rural)               11.07              3.01            7.43        12.22           2.48           6.73
+
+     SPI                   10.72              0.88            13.24       9.46            2.63           10.85
+     WPI                   10.62              -0.74           8.28        11.82           -1.00          6.28
+
+
+
+                                                                                                 Page 3 of 17
+Page 4 of 17
+Page 5 of 17
+Page 6 of 17
+I.       National Consumer Price Index (NCPI)
+
+The National Consumer Price Index for August 2026 is increased by 1.19% over July 2026 and
+increased by 11.15% over corresponding month of the last year i.e. August 2025.
+
+
+ Table 1: Consumer Price Index (National) by Group of Commodities and Services (Base 2015-16)
+
+                                                                             % Change            Impact
+                                     Group             Indices               Aug 2026          (In % points)
+                  Group              Weight                                    Over          Aug 2026 Over
+No                                     (%)
+                                              Aug 26   July 26   Aug 25   July 26   Aug 25   July 26   Aug 25
+      General                        100.00   300.50   296.97    270.35    1.19      11.15    1.19      11.15
+
+1.    Food & Non-alcoholic Bev.      34.58    313.99   308.86    275.70    1.66      13.89    0.60      4.90
+
+       Non-perishable Food Items     29.60    315.74   311.90    281.20    1.23      12.28    0.38      3.78
+
+       Perishable Food Items          4.99    303.63   290.78    243.08    4.42      24.91    0.22      1.12
+
+2.    Alcoholic Bev. & Tobacco        1.02    410.53   410.11    397.79    0.10      3.20     0.00      0.05
+
+3.    Clothing & Footwear             8.60    289.14   288.42    264.70    0.25      9.23     0.02      0.78
+      Housing, Water, Electricity,
+4.                                   23.63    268.09   266.63    246.24    0.55      8.87     0.12      1.91
+      Gas & Fuels
+      Furnishing & Household
+5.                                    4.10    299.49   298.01    279.69    0.50      7.08     0.02      0.30
+      Equipment Maintenance
+6.    Health                          2.79    299.44   296.71    277.20    0.92      8.02     0.03      0.23
+
+7.    Transport                       5.91    382.06   369.45    317.93    3.41      20.17    0.25      1.40
+
+8.    Communication                   2.21    153.72   153.69    135.31    0.02      13.60    0.00      0.15
+
+9.    Recreation & Culture            1.59    268.62   269.83    267.34    -0.45     0.48     -0.01     0.01
+
+10.   Education                       3.79    240.41   239.97    222.97    0.18      7.82     0.01      0.24
+
+11.   Restaurants & Hotels            6.92    308.22   306.49    290.50    0.56      6.10     0.04      0.45
+
+12.   Miscellaneous                   4.87    374.06   367.13    333.52    1.89      12.15    0.11      0.73
+
+
+
+
+                                                                                               Page 7 of 17
+      II.     Urban Consumer Price Index (UCPI)
+           The Urban Consumer Price Index for August 2026 is increased by 0.91% over July 2026 and
+      increased by 10.43% over corresponding month of the last year i.e. August 2025.
+        Table 2: Consumer Price Index (Urban) by Group of Commodities and Services (Base 2015-16)
+                                                                                     % Change          Impact
+                                             Group             Indices               Aug 2026        (In % points)
+No                   Group                   Weight                                     Over      Aug 2026 Over
+                                               (%)
+                                                      Aug 26   July 26   Aug 25   July 26 Aug 25 July 26 Aug 25
+        General                              100.00   296.24   293.58    268.26    0.91    10.43    0.91    10.43
+1.      Food & Non-alcoholic Bev.            30.42    311.32   307.98    274.74    1.08    13.31    0.35     4.15
+          Non-perishable Food Items          25.97    312.13   309.98    280.77    0.69    11.17    0.19     3.04
+          Perishable Food Items               4.46    306.61   296.29    239.65    3.48    27.94    0.16     1.11
+2.      Alcoholic Bev. & Tobacco              0.85    435.49   435.24    420.23    0.06     3.63    0.00     0.05
+3.      Clothing & Footwear                   8.01    283.87   283.31    255.32    0.20    11.18    0.02     0.85
+        Housing, Water, Electricity, Gas &
+4.                                           27.03    273.36   272.48    256.33    0.32     6.64    0.08     1.72
+        Fuels
+        Furnishing & Household Equip. &
+5.                                            4.09    287.75   286.60    269.71    0.40     6.69    0.02     0.28
+        Maintenance
+6.      Health                                2.31    299.75   297.03    278.71    0.92     7.55    0.02     0.18
+7.      Transport                             6.14    380.97   367.98    312.80    3.53    21.79    0.27     1.56
+8.      Communication                         2.35    159.90   159.86    138.68    0.03    15.30    0.00     0.19
+9.      Recreation & Culture                  1.73    253.70   253.84    251.61    -0.06    0.83    0.00     0.01
+10.     Education                             4.88    231.89   231.32    216.13    0.25     7.29    0.01     0.29
+11.     Restaurants & Hotels                  7.41    302.29   300.67    284.54    0.54     6.24    0.04     0.49
+12.     Miscellaneous                         4.77    361.27   354.91    323.39    1.79    11.71    0.10     0.67
+          Main contributors to month-on-month and year-on-year percentage changes are given below and detail
+      is given in Annexure-A.
+      MONTH-ON-MONTH: Top few commodities which varied from previous month i.e. July, 2026 are
+      given below:
+      FOOD
+      Increased: Onions (45.87%), Eggs (11.51%), Potatoes (6.82%), Fresh Vegetables (5.50%), Wheat
+      (5.25%), Pulse Gram (4.77%), Besan (3.74%), Wheat Flour (2.03%), Wheat Products (1.67%), Tea
+      (1.24%), Gram Whole (1.06%), Pulse Masoor (0.99%), Vegetable Ghee (0.64%), Readymade Food
+      (0.61%) and Meat (0.54%).
+      Decreased: Fresh Fruits (12.49%), Beans (4.54%), Pulse Moong (2.47%), Chicken (1.88%), Sugar
+      (0.77%), Tomatoes (0.67%), Fish (0.53%), Bakery and Confectionary (0.36%), Milk Powder (0.01%) and
+      Sweetmeat (0.01%).
+
+      NON-FOOD:
+      Increased: Motor Fuel (5.61%), Water Supply (4.15%), Mechanical Services (1.81%), Electricity Charges
+      (1.70%), Appliances/Articles/Products (1.42%), Transport Services (1.35%), Medical Tests (1.11%),
+      Hospitals Services (1.10%), Tailoring (1.02%), Doctor (MBBS) Clinic Fee (0.85%), Drugs & Medicines
+      (0.85%) and Construcion Input Items (0.78%).
+      Decreased: Liquified Hydrocarbons (1.31%), Text Books (0.25%), Motor Vehicle Accessories (0.24%) and
+      Footware (0.04%).
+
+      YEAR-ON-YEAR: Top few commodities, which varied from corresponding month of previous year
+      i.e. August 2025, are given below:
+      FOOD:
+      Increased: Tomatoes (128.13%), Onions (124.28%), Wheat (86.72%), Wheat Flour (73.12%), Wheat
+      Products (22.04%), Fresh Vegetables (16.78%), Fresh Fruits (16.18%), Meat (14.69%), Ice Cream
+      (12.09%), Bakery and Confectionary (10.31%), Dry Fruits (9.27%) and Milk Products (8.97%).
+      Decreased: Potatoes (23.14%), Chicken (18.51%), Sugar (17.01%), Besan (13.87%), Pulse Gram
+      (13.80%), Gram Whole (12.64%), Pulse Masoor (12.03%), Beans (11.41%), Eggs (11.36%), Pulse Moong
+      (6.86%) and Gur (3.21%).
+
+      NON-FOOD:
+      Increased: Liquified Hydrocarbons (55.89%), Motor Vehicle Tax (38.68%), Postal Services (34.88%),
+      Footware (29.29%), Transport Services (28.72%), Motor Fuel (24.43%), Personal Effects (23.36%),
+      Communication Services (19.30%) and Newspapers (14.84%).
+      Decreased: Text Books (1.96%).
+
+
+                                                                                                   Page 8 of 17
+     III. Rural Consumer Price Index (RCPI)
+             The Rural Consumer Price Index for August 2026 is increased by 1.60% over July 2026 and
+     increased by 12.22% over corresponding month of the last year i.e. August 2025.
+ Table 3: Consumer Price Index              (Rural) by Group of Commodities and Services               (Base 2015-16)
+
+                                                 Group                                  % Change             Impact
+                                                 Weight            Indices              Aug 2026          (In % points)
+No                    Group                                                               Over           Aug 2026 Over
+                                                  (%)
+                                                          Aug 26   July 26   Aug 25   July 26 Aug 25 July 26 Aug 25
+      General                                    100.00   306.92   302.09    273.51    1.60    12.22      1.60   12.22
+1.    Food & Non-alcoholic Bev.                  40.87    316.99   309.84    276.77    2.31    14.53      0.97    6.01
+       Non-perishable Food Items                 35.08    319.77   314.05    281.68    1.82    13.52      0.66    4.89
+       Perishable Food Items                      5.79    300.17   284.37    247.06    5.56    21.50      0.30    1.12
+2.    Alcoholic Bev. & Tobacco                    1.28    385.37   384.77    375.17    0.16    2.72       0.00    0.05
+3.    Clothing & Footwear                         9.48    295.85   294.93    276.67    0.31    6.93       0.03    0.66
+4.    Housing, Water, Electricity, Gas & Fuels   18.49    256.46   253.73    223.98    1.08    14.50      0.17    2.20
+      Furnishing & Household Equip. &
+5.                                                4.10    317.17   315.19    294.70    0.63    7.62       0.03    0.34
+      Maintenance
+6.    Health                                      3.51    299.13   296.40    275.70    0.92    8.50       0.03    0.30
+7.    Transport                                   5.56    383.88   371.91    326.48    3.22    17.58      0.22    1.17
+8.    Communication                               1.99    142.71   142.71    129.31    0.00    10.36      0.00    0.10
+9.    Recreation & Culture                        1.38    296.94   300.18    297.17    -1.08   -0.08     -0.01    0.00
+10. Education                                     2.13    269.84   269.84    246.57    0.00    9.44       0.00    0.18
+11. Restaurants & Hotels                          6.19    318.93   317.01    301.25    0.61    5.87       0.04    0.40
+12. Miscellaneous                                 5.02    392.41   384.67    348.07    2.01    12.74      0.13    0.81
+         Main contributors to month-on-month and year-on-year percentage changes are given below and detail
+     is given in Annexure-B.
+     MONTH-ON-MONTH Top few commodities which varied from previous month i.e. July, 2026 are
+     given below:
+     FOOD
+     Increased: Onions (48.35%), Potatoes (10.57%), Eggs (10.38%), Tomatoes (8.86%), Wheat (7.71%),
+     Pulse Gram (6.89%), Fresh Vegetables (6.67%), Besan (4.59%), Wheat Flour (4.42%), Meat (2.33%),
+     Wheat Products (1.87%), Mustard oil (1.28%) and Chicken (1.25%).
+     Decreased: Fresh fruits (18.76%), Beans (4.51%), Pulse Moong (2.64%), Sugar (1.52%) and Fish (0.08%).
+
+     NON-FOOD
+     Increased: Water Supply (8.39%), Motor Fuels (5.76%), Liquified Hydrocarbons (5.14%), Personal Effects
+     (3.20%), Construction Input Items (2.00%), Medical Tests (1.86%), Electricity Charges (1.70%),
+     Appliances/Articles/Products for Personal Care (1.44%), Mechanical Services (1.14%) and Doctor Clinic
+     Fee (1.12%).
+     Decreased: Text Books (2.80%) and Furniture & Furnishing (0.08%).
+
+     Year-On-Year: Top few commodities which varied from corresponding month of previous year i.e.
+     August, 2025 are given below:
+     FOOD
+     Increased: Tomatoes (143.47%), Onions (117.57%), Wheat (84.41%), Wheat Flour (77.50%), Wheat
+     Products (23.52%), Meat (10.76%), Ice Cream (10.02%), Butter (9.99%), Fresh Vegetables (9.76%), Dry
+     Fruits (9.01%), Vegetable Ghee (8.65%), Sweetmeat (8.21%), Mustard Oil (7.82%) and Milk Fresh (7.61%).
+     Decreased: Potatoes (30.34%), Sugar (18.99%), Chicken (16.24%), Gram Whole (14.87%), Eggs
+     (14.00%), Pulse Gram (13.87%), Besan (13.58%), Pulse Masoor (10.75%), Gur (4.53%), Pulse Moong
+     (4.23%), Beans (4.16%), Pulse Mash (1.76%), Condiments & Spices (1.38%) and Honey (1.06%).
+
+     Non-Food
+     Increased: Liquified Hydrocarbons (47.06%), Motor Vehicle Tax (34.32%), Newspapers (29.16%), Motor
+     Fuels (25.76%), Personal Effects (21.10%), Construction Input Items (18.54%), Solid Fuel (16.73%), Doctor
+     Clinic Fee (14.84%), Plastic Products (13.44%), Transport Services (12.66%), Communication Services
+     (12.43%) and Electricity Charges (12.34%).
+     Decreased: Text Books (4.30%).
+
+
+
+
+                                                                                                        Page 9 of 17
+IV.       Sensitive Price Indicator (SPI)
+       Quintile-wise percentage changes YoY and MoM are given below in Table 4. The series from
+August 2025 to August 2026 is also graphed below in Figure 7.
+
+                     Table 4: Sensitive Price Indicator         (Base 2015-16)
+                                                                         % Change Aug 2026
+                                    Indices
+      Quintiles                                                                Over
+                    Aug 2026       July 2026         Aug 2025          July 2026       Aug 2025
+          1          348.70          345.72           318.57             0.86            9.46
+          2          349.68          347.16           318.16             0.73            9.91
+          3          371.01          367.80           341.34             0.87            8.69
+          4          358.24          354.54           329.26             1.04            8.80
+          5          358.29          354.32           328.73             1.12            8.99
+      Combined       359.84          356.43           329.29             0.96            9.28
+
+
+              Table 4.1: Weekly Percentage Change of SPI During August 2026
+
+                                       % Change over Previous week
+      Quintiles
+                      06-08-2026        13-08-2026          20-08-2026             27-08-2026
+      Quintile 1         0.43                 0.46              0.38                 -0.17
+
+      Combined           0.28                 0.15              0.49                  0.05
+
+
+
+
+                                                                                       Page 10 of 17
+     V.        Wholesale Price Index
+             The Wholesale Price Index for August 2026 increased by 1.98% over July 2026 and increased by
+     11.82% over the corresponding month of the last year i.e. August, 2025. YoY and MoM movements from
+     August, 2025 to August, 2026 are also graphed below in Figure 8.
+
+
+             Table 5: Wholesale Price Index by Group of Commodities                   (Base 2015-16)
+                                             Group                                  % Change            Impact
+                                             Weight            Indices              Aug 2026         (In % points)
+No                    Group                                                           Over          Aug 2026 Over
+                                              (%)     Aug 26   July 26   Aug 25   July 26 Aug 25 July 26    Aug 25
+     General                                 100.00   350.77   343.96    313.68    1.98   11.82      1.98    11.82
+
+1    Agriculture Forestry & Fishery          25.77    304.57   302.08    278.18    0.82    9.49      0.19     2.17
+2    Ores/Minerals, Elec., Gas & Water       12.01    358.89   357.79    352.31    0.31    1.87      0.04     0.25
+     Food, Beverages, Tobacco, Textiles &
+3                                            31.11    308.04   304.47    284.96    1.17    8.10      0.32     2.29
+     Leather Products
+     i. Food Products, Beverages & Tobacco   20.07    332.91   328.63    301.25    1.30   10.51      0.25     2.03
+     ii. Textiles & Apparels                 10.33    266.26   263.81    260.63    0.93    2.16      0.07     0.19
+     iii. Leather Products                    0.71    212.86   212.86    178.56    0.00   19.21      0.00     0.08
+4    Other Transportable Goods               22.40    434.07   412.30    342.32    5.28   26.80      1.42     6.55
+5    Metal Product, Machinery & Equipment     8.72    414.61   414.13    394.27    0.12    5.16      0.01     0.57
+
+            Main contributors to month-on-month and year-on-year percentage changes are given below and
+     detail is given in Annexure-C.
+     MONTH-ON-MONTH: Top few commodities which varied from previous month are given below:
+     Increased: Diesel Oil (14.08%), Kerosene Oil (13.27%), Vegetables (13.21%), Tobacco Products (9.71%),
+     Other Cereal Flour (7.52%), Wheat (7.23%), Chemicals (6.49%), Motor Spirit (6.41%), Eggs (5.93%) and
+     Sugar Confectionary (5.74%).
+     Decreased: Sorghum / Jowar (19.20%), Fresh Fruits (5.51%), Dry Fruits (3.63%), Poultry (3.42%), Sugar
+     Refined (1.09%), Millet / Bajra (0.77%), Dried Fruits & Nuts (0.70%), Beverages (0.60%), Auto Tyres
+     (0.56%), Oil Cakes (0.40%), Cotton Seeds (0.30%), Fibre Crops (0.29%), Natural Gas Liquefied (0.22%),
+     Stimulant & Spice Crops (0.16%), Paints & Varnishes (0.08%) and Spices (0.04%).
+
+     YEAR-ON-YEAR: Top few commodities which varied from previous year are given below:
+     Increased: Wheat (92.64%), Wheat Flour (74.10%), Kerosene Oil (62.84%), Footwears (51.86%),
+     Vegetables (48.84%), Diesel Oil (46.05%), Sorghum / Jowar (38.13%), Furnace Oil (33.33%), Mobil Oil
+     (27.59%), Motor Spirit (27.02%), Woven Fabrics (25.04%), Dried Fruits & Nuts (22.67%), Maize (20.83%),
+     Raw Animal Materials / Wool (19.36%) and Chemicals (18.87%).
+     Decreased: Edible Roots / Potatoes (36.63%), Stimulant & Spice Crops (26.13%), Sugar Refined
+     (19.65%), Poultry (18.58%), Other Cereal Flour (16.83%), Pulses (15.47%), Eggs (15.41%), Millet / Bajra
+     (14.24%), Dry Fruits (11.31%), Sugar Crops (3.52%), Timber (1.74%), Cotton Seeds (1.57%) and Synthetic
+     Carpets (1.44%).
+
+
+
+
+                                                                                                  Page 11 of 17
+Annexure A: CPI (Urban) Index Numbers by Commodity Groups & Commodities (2015-16=100)
+                                                            Index Numbers           % Change in Aug 2026 over
+        Item and Specification        Weight       Aug 26       Jul 26    Aug 25      Jul 2026         Aug 2025
+     General                          100.0000   296.24        293.58     268.26    +    0.91         +    10.43
+     Food and non-alcoholic            30.4215   311.32        307.98     274.74    +    1.08         +    13.31
+     Beverages
+01   Wheat                              0.6120   353.55        335.92     189.35    +    5.25         +    86.72
+02   Wheat flour                        3.0075   335.72        329.03     193.92    +    2.03         +    73.12
+03   Wheat products                     0.0936   320.21        314.96     262.39    +    1.67         +    22.04
+04   Besan                              0.0830   216.69        208.88     251.59    +    3.74         -    13.87
+05   Rice                               1.1804   339.52        339.35     321.76    +    0.05         +     5.52
+06   Bakery and confectionary           0.4770   297.24        298.31     269.45    -    0.36         +    10.31
+07   Nimco                              0.1224   318.24        313.51     300.77    +    1.51         +     5.81
+08   Meat                               2.0411   396.70        394.55     345.89    +    0.54         +    14.69
+09   Chicken                            1.3631   252.20        257.02     309.48    -    1.88         -    18.51
+10   Fish                               0.3855   223.66        224.85     210.99    -    0.53         +     6.01
+11   Milk fresh                         7.1070   288.21        287.56     265.95    +    0.23         +     8.37
+12   Milk products                      0.6407   292.28        292.01     268.22    +    0.09         +     8.97
+13   Milk powder                        0.3106   338.60        338.65     317.07    -    0.01         +     6.79
+14   Eggs                               0.5083   306.63        274.98     345.94    +   11.51         -    11.36
+15   Butter                             0.0932   501.84        505.09     460.75    -    0.64         +     8.92
+16   Mustard oil                        0.0120   320.06        318.98     308.24    +    0.34         +     3.83
+17   Cooking oil                        1.1016   348.28        347.80     324.73    +    0.14         +     7.25
+18   Vegetable ghee                     1.0324   370.25        367.89     343.22    +    0.64         +     7.88
+19   Dry fruits                         0.3299   326.14        326.12     298.48    +    0.01         +     9.27
+20   Fresh fruits                       1.4363   253.85        290.09     218.50    -   12.49         +    16.18
+21   Pulse masoor                       0.1624   176.19        174.47     200.28    +    0.99         -    12.03
+22   Pulse moong                        0.1697   222.05        227.68     238.41    -    2.47         -     6.86
+23   Pulse mash                         0.1152   193.86        193.75     187.97    +    0.06         +     3.13
+24   Pulse gram                         0.1660   213.83        204.10     248.07    +    4.77         -    13.80
+25   Gram whole                         0.0912   236.55        234.06     270.77    +    1.06         -    12.64
+26   Beans                              0.0408   324.68        340.13     366.50    -    4.54         -    11.41
+27   Potatoes                           0.4496   249.13        233.23     324.13    +    6.82         -    23.14
+28   Onions                             0.5928   360.50        247.14     160.74    +   45.87         +   124.28
+29   Tomatoes                           0.3459   560.89        564.65     245.86    -    0.67         +   128.13
+30   Fresh vegetables                   1.5306   296.82        281.35     254.16    +    5.50         +    16.78
+31   Sugar                              1.1130   237.45        239.30     286.12    -    0.77         -    17.01
+32   Gur                                0.0379   264.65        263.39     273.43    +    0.48         -     3.21
+33   Honey                              0.1017   222.74        222.74     222.69    +    0.00         +     0.02
+34   Sweetmeat                          0.3535   351.80        351.83     331.14    -    0.01         +     6.24
+35   Ice cream                          0.1044   223.83        223.83     199.68    +    0.00         +    12.09
+36   Condiments and Spices              1.3340   385.98        384.74     372.15    +    0.32         +     3.72
+37   Dessert preparation                0.0419   314.29        314.01     297.85    +    0.09         +     5.52
+38   Tea                                0.8427   286.89        283.38     273.67    +    1.24         +     4.83
+39   Beverages                          0.8906   272.62        271.94     261.06    +    0.25         +     4.43
+     Alcoholic Beverages, Tobacco       0.8540   435.49        435.24     420.23    +    0.06         +     3.63
+40   Cigarettes                         0.7167   423.27        423.15     411.55    +    0.03         +     2.85
+41   Pan prepared                       0.1373   499.28        498.34     465.58    +    0.19         +     7.24
+     Clothing and footwear              8.0096   283.87        283.31     255.32    +    0.20         +    11.18
+42   Cotton cloth                       2.2227   315.60        315.48     298.53    +    0.04         +     5.72
+43   Woollen cloth                      0.8361   267.76        267.09     243.55    +    0.25         +     9.94
+44   Readymade garments                 1.3196   233.98        233.52     222.92    +    0.20         +     4.96
+45   Woollen readymade garments         0.4307   273.87        273.87     256.71    +    0.00         +     6.68
+46   Tailoring                          1.0741   268.50        265.79     237.76    +    1.02         +    12.93
+47   Hosiery                            0.4070   249.07        248.73     239.41    +    0.14         +     4.03
+48   Dupatta                            0.1713   220.49        220.01     205.28    +    0.22         +     7.41
+49   Cleaning and laundering            0.0665   299.35        298.47     276.51    +    0.29         +     8.26
+50   Footware                           1.4816   320.02        320.14     247.53    -    0.04         +    29.29
+     Housing, water, Elec., Gas and    27.0332   273.36        272.48     256.33    +    0.32         +     6.64
+     Other Fuels
+51   House rent                        19.2558   183.56        183.56     172.97    +    0.00         +     6.12
+52   Construction input items           0.3765   285.89        283.69     268.48    +    0.78         +     6.48
+53   Construction wage rates            0.2025   248.82        248.58     227.64    +    0.10         +     9.30
+54   Water supply                       0.5269   260.00        249.63     230.44    +    4.15         +    12.83
+55   Garbage collection                 0.1064   275.69        275.69     265.81    +    0.00         +     3.72
+56   Electricity charges                4.5562   269.35        264.84     239.76    +    1.70         +    12.34
+57   Gas charges                        1.0807   1817.96       1817.96    1817.96   +    0.00         +     0.00
+
+                                                                                             Page 12 of 17
+Annexure A: CPI (Urban) Index Numbers by Commodity Groups & Commodities (2015-16=100)
+                                                          Index Numbers          % Change in Aug 2026 over
+        Item and Specification       Weight      Aug 26       Jul 26    Aug 25     Jul 2026         Aug 2025
+58   Liquefied Hydrocarbons           0.5064   460.46        466.58     295.37   -    1.31         +    55.89
+59   Solid Fuel                       0.4218   250.77        250.76     225.46   +    0.00         +    11.23
+     Furnishing and household         4.0937   287.75        286.60     269.71   +    0.40         +     6.69
+     equipments
+60   Furniture and furnishing         0.4750   276.47        275.44     262.63   +    0.37         +     5.27
+61   Carpets                          0.0308   159.60        159.49     154.14   +    0.07         +     3.54
+62   Household textiles               0.3420   216.87        216.82     210.31   +    0.02         +     3.12
+63   Household equipments             1.0032   292.78        291.57     273.66   +    0.41         +     6.99
+64   Plastic products                 0.0536   248.70        248.37     233.56   +    0.13         +     6.48
+65   Major tools & equipments         0.0084   287.60        286.42     251.27   +    0.41         +    14.46
+66   Washing soap/detergents/match    1.4112   348.44        346.34     322.82   +    0.61         +     7.94
+67   Household servant                0.7695   216.22        216.22     205.26   +    0.00         +     5.34
+     Health                           2.3098   299.75        297.03     278.71   +    0.92         +     7.55
+68   Drugs and medicines              1.0735   322.24        319.51     298.59   +    0.85         +     7.92
+69   Therapeutic Appliances and       0.0054   158.31        158.31     155.67   +    0.00         +     1.70
+     Equipments
+70   Doctor (MBBS) clinic fee         0.4044   379.47        376.28     351.91   +    0.85         +     7.83
+71   Dental services                  0.0156   242.89        242.33     230.24   +    0.23         +     5.49
+72   Medical tests                    0.2367   237.18        234.57     215.91   +    1.11         +     9.85
+73   Hospitals services               0.5742   230.23        227.72     218.35   +    1.10         +     5.44
+     Transport                        6.1368   380.97        367.98     312.80   +    3.53         +    21.79
+74   Motor vehicles                   0.8097   268.13        267.80     267.19   +    0.12         +     0.35
+75   Motor vehicle accessories        0.1941   274.30        274.95     265.92   -    0.24         +     3.15
+76   Motor fuel                       2.9088   448.20        424.38     360.20   +    5.61         +    24.43
+77   Mechanical services              0.4290   271.52        266.70     238.72   +    1.81         +    13.74
+78   Motor vehicle tax                0.0482   553.65        553.65     399.23   +    0.00         +    38.68
+79   Transport services               1.7470   355.31        350.59     276.04   +    1.35         +    28.72
+     Communication                    2.3536   159.90        159.86     138.68   +    0.03         +    15.30
+80   Postal services                  0.0190   298.88        298.48     221.59   +    0.13         +    34.88
+81   Communication apparatus          0.4524   196.17        195.96     189.85   +    0.11         +     3.33
+82   Communication Services           1.8822   149.78        149.78     125.55   +    0.00         +    19.30
+     Recreation and culture           1.7301   253.70        253.84     251.61   -    0.06         +     0.83
+83   Recreation and culture           0.6478   157.84        157.84     155.07   +    0.00         +     1.79
+84   Text books                       0.6655   300.64        301.40     306.66   -    0.25         -     1.96
+85   Newspapers                       0.0716   278.85        278.85     242.82   +    0.00         +    14.84
+86   stationery                       0.3452   337.87        337.12     328.45   +    0.22         +     2.87
+     Education                        4.8807   231.89        231.32     216.13   +    0.25         +     7.29
+87   Education                        4.8807   231.89        231.32     216.13   +    0.25         +     7.29
+     Restaurants and hotels           7.4050   302.29        300.67     284.54   +    0.54         +     6.24
+88   Readymade food                   5.5235   313.92        312.01     291.51   +    0.61         +     7.69
+89   Marriage Hall Charges            1.7514   273.56        272.74     270.21   +    0.30         +     1.24
+90   Accommodation Services           0.1301   195.04        195.04     181.32   +    0.00         +     7.57
+     Misc. goods and services         4.7720   361.27        354.91     323.39   +    1.79         +    11.71
+91   Personal Grooming Services       0.8001   284.45        282.43     272.28   +    0.72         +     4.47
+92   Electrical Appliances for Per    0.0465   199.18        199.14     190.81   +    0.02         +     4.39
+93   Appliances/Articles/Products     2.9807   305.41        301.14     284.81   +    1.42         +     7.23
+94   Personal Effects n.e.c.          0.9447   610.56        593.61     494.93   +    2.86         +    23.36
+
+
+
+
+                                                                                          Page 13 of 17
+Annexure B: CPI (Rural) Index Numbers by Commodity Groups & Commodities (2015-16=100)
+                                                          Index Numbers          % Change in Aug 2026 over
+        Item and Specification        Weight     Aug 26       Jul 26    Aug 25     Jul 2026         Aug 2025
+     General                          100.0000   306.92     302.09     273.51    +    1.60         +    12.22
+     Food and non-alcoholic            40.8668   316.99     309.84     276.77    +    2.31         +    14.53
+     Beverages
+01   Wheat                              3.4736   367.23     340.94     199.14    +    7.71         +    84.41
+02   Wheat Flour                        3.4297   356.36     341.28     200.77    +    4.42         +    77.50
+03   Wheat Products                     0.1068   324.37     318.42     262.60    +    1.87         +    23.52
+04   Besan                              0.0728   234.53     224.23     271.37    +    4.59         -    13.58
+05   Rice                               1.5501   430.67     429.90     419.78    +    0.18         +     2.59
+06   Bakery and Confectionary           0.3702   334.26     333.96     313.81    +    0.09         +     6.52
+07   Nimco                              0.0774   321.92     321.23     303.32    +    0.21         +     6.13
+08   Meat                               1.7146   409.56     400.23     369.76    +    2.33         +    10.76
+09   Chicken                            1.4641   270.81     267.47     323.31    +    1.25         -    16.24
+10   Fish                               0.2640   240.19     240.38     224.82    -    0.08         +     6.84
+11   Milk fresh                        10.3803   286.52     284.83     266.26    +    0.59         +     7.61
+12   Milk products                      0.9624   279.37     279.37     263.17    +    0.00         +     6.16
+13   Milk powder                        0.1062   309.07     308.72     289.96    +    0.11         +     6.59
+14   Eggs                               0.5665   283.88     257.19     330.10    +   10.38         -    14.00
+15   Butter                             0.3333   342.08     340.91     311.00    +    0.34         +     9.99
+16   Mustard oil                        0.0136   347.57     343.19     322.36    +    1.28         +     7.82
+17   Cooking oil                        0.6011   383.19     381.75     361.82    +    0.38         +     5.91
+18   Vegetable ghee                     2.3764   407.19     404.62     374.77    +    0.64         +     8.65
+19   Dry fruits                         0.2496   396.96     395.98     364.14    +    0.25         +     9.01
+20   Fresh fruits                       1.4505   251.77     309.90     237.41    -   18.76         +     6.05
+21   Pulse Masoor                       0.2076   201.40     199.81     225.67    +    0.80         -    10.75
+22   Pulse Moong                        0.2510   243.42     250.01     254.18    -    2.64         -     4.23
+23   Pulse Mash                         0.1465   197.14     196.74     200.68    +    0.20         -     1.76
+24   Pulse Gram                         0.2751   222.90     208.54     258.80    +    6.89         -    13.87
+25   Gram Whole                         0.1116   251.17     248.73     295.03    +    0.98         -    14.87
+26   Beans                              0.0896   383.80     401.94     400.44    -    4.51         -     4.16
+27   Potatoes                           0.7437   251.22     227.20     360.65    +   10.57         -    30.34
+28   Onions                             0.8965   332.73     224.28     152.93    +   48.35         +   117.57
+29   Tomatoes                           0.5069   554.30     509.20     227.67    +    8.86         +   143.47
+30   Fresh Vegetables                   2.0947   276.87     259.56     252.24    +    6.67         +     9.76
+31   Sugar                              2.0296   239.25     242.95     295.32    -    1.52         -    18.99
+32   Gur                                0.1522   265.28     262.82     277.87    +    0.94         -     4.53
+33   Honey                              0.0296   227.63     226.36     230.07    +    0.56         -     1.06
+34   Sweetmeat                          0.3967   318.47     318.47     294.30    +    0.00         +     8.21
+35   Ice Cream                          0.0568   219.77     219.77     199.76    +    0.00         +    10.02
+36   Condiments and Spices              1.4919   295.11     294.67     299.23    +    0.15         -     1.38
+37   Dessert Preparation                0.0133   308.08     307.46     288.87    +    0.20         +     6.65
+38   Tea                                1.2566   275.32     274.97     273.01    +    0.13         +     0.85
+39   Beverages                          0.5537   262.87     262.87     253.54    +    0.00         +     3.68
+     Alcoholic Beverages, Tobacco       1.2786   385.37     384.77     375.17    +    0.16         +     2.72
+40   Cigarettes                         1.2364   384.65     384.18     375.17    +    0.12         +     2.53
+41   Pan Prepared                       0.0422   406.47     402.00     375.27    +    1.11         +     8.31
+     Clothing and footwear              9.4826   295.85     294.93     276.67    +    0.31         +     6.93
+42   Cotton Cloth                       2.8381   321.20     320.60     304.32    +    0.19         +     5.55
+43   Woollen Cloth                      1.0959   291.60     288.70     264.16    +    1.00         +    10.39
+44   Readymade Garments                 1.1345   272.83     272.39     255.84    +    0.16         +     6.64
+45   Woollen Readymade Garments         0.5401   334.48     334.48     309.66    +    0.00         +     8.02
+46   Tailoring                          1.2999   283.66     282.53     260.89    +    0.40         +     8.73
+47   Hosiery                            0.4322   366.55     364.24     350.64    +    0.63         +     4.54
+48   Dupatta                            0.2078   285.36     285.23     254.08    +    0.05         +    12.31
+49   Cleaning and Laundering            0.0176   270.22     270.02     261.25    +    0.07         +     3.43
+50   Footware                           1.9165   257.16     256.74     242.54    +    0.16         +     6.03
+     Housing, water, Elec., Gas and    18.4853   256.46     253.73     223.98    +    1.08         +    14.50
+     Other Fuels
+51   House Rent                         8.6110   195.20     195.20     181.11    +    0.00         +     7.78
+52   Construction Input Items           0.6306   302.80     296.86     255.45    +    2.00         +    18.54
+53   Construction Wage Rates            0.2526   265.78     264.88     245.28    +    0.34         +     8.36
+54   Water Supply                       0.0645   365.56     337.27     325.72    +    8.39         +    12.23
+55   Garbage Collection                 0.0080   225.10     225.10     204.36    +    0.00         +    10.15
+56   Electricity Charges                3.4431   269.35     264.84     239.76    +    1.70         +    12.34
+57   Liquefied Hydrocarbons             0.9994   421.76     401.16     286.79    +    5.14         +    47.06
+58   Solid Fuel                         4.4761   318.94     317.01     273.24    +    0.61         +    16.73
+
+                                                                                             Page 14 of 17
+Annexure B: CPI (Rural) Index Numbers by Commodity Groups & Commodities (2015-16=100)
+                                                        Index Numbers          % Change in Aug 2026 over
+        Item and Specification       Weight    Aug 26       Jul 26    Aug 25     Jul 2026         Aug 2025
+     Furnishing and household         4.1031   317.17     315.19     294.70    +    0.63         +     7.62
+     equipments
+59   Furniture and Furnishing         0.5786   306.63     306.88     292.32    -    0.08         +     4.90
+60   Household Textiles               0.4382   265.14     264.01     242.11    +    0.43         +     9.51
+61   Household Equipments             1.2774   311.93     310.08     295.51    +    0.60         +     5.56
+62   Plastic Products                 0.0776   343.22     341.48     302.56    +    0.51         +    13.44
+63   Major Tools and Equipments       0.0324   258.68     257.50     247.13    +    0.46         +     4.67
+64   Washing Soaps, Detergents and    1.6989   338.05     334.95     309.02    +    0.93         +     9.39
+     Health                           3.5141   299.13     296.40     275.70    +    0.92         +     8.50
+65   Drugs and Medicines              1.5792   339.86     337.55     324.57    +    0.68         +     4.71
+66   Doctor Clinic Fee                0.5128   376.44     372.26     327.80    +    1.12         +    14.84
+67   Dental Services                  0.0181   274.10     274.10     253.02    +    0.00         +     8.33
+68   Medical Tests                    0.3967   259.28     254.55     234.32    +    1.86         +    10.65
+69   Hospitals Services               1.0073   212.08     210.14     189.28    +    0.92         +    12.05
+     Transport                        5.5580   383.88     371.91     326.48    +    3.22         +    17.58
+70   Motor Vehicles                   0.7305   194.99     194.99     194.73    +    0.00         +     0.13
+71   Motor Vehicles Accessories       0.1572   278.75     277.04     272.28    +    0.62         +     2.38
+72   Motor Fuels                      2.4932   455.33     430.53     362.05    +    5.76         +    25.76
+73   Mechanical Services              0.3645   240.18     237.47     232.83    +    1.14         +     3.16
+74   Motor Vehicle Tax                0.0174   459.43     459.43     342.03    +    0.00         +    34.32
+75   Transport Services               1.7952   399.16     397.24     354.30    +    0.48         +    12.66
+     Communication                    1.9940   142.71     142.71     129.31    +    0.00         +    10.36
+76   Postal Services                  0.0070   179.32     179.32     179.32    +    0.00         +     0.00
+77   Communication Apparatus          0.3362   170.46     170.46     165.35    +    0.00         +     3.09
+78   Communication Services           1.6508   136.90     136.90     121.76    +    0.00         +    12.43
+     Recreation and culture           1.3764   296.94     300.18     297.17    -    1.08         -     0.08
+79   Recreation and Culture           0.4763   260.43     260.43     256.83    +    0.00         +     1.40
+80   Text Books                       0.5047   307.09     315.92     320.88    -    2.80         -     4.30
+81   Newspapers                       0.0230   323.36     323.36     250.36    +    0.00         +    29.16
+82   Stationery                       0.3724   328.24     328.24     319.53    +    0.00         +     2.73
+     Education                        2.1342   269.84     269.84     246.57    +    0.00         +     9.44
+83   Education                        2.1342   269.84     269.84     246.57    +    0.00         +     9.44
+     Restaurants and hotels           6.1895   318.93     317.01     301.25    +    0.61         +     5.87
+84   Readymade Food                   3.8001   346.57     343.79     327.99    +    0.81         +     5.66
+85   Marriage Hall Charges            2.2525   284.78     284.20     267.55    +    0.20         +     6.44
+86   Accommodation Services           0.1369   113.48     113.48     113.40    +    0.00         +     0.07
+     Misc. goods and services         5.0174   392.41     384.67     348.07    +    2.01         +    12.74
+87   Personal Grooming Services       1.5363   352.54     349.08     316.85    +    0.99         +    11.26
+88   Appliances/Articles/Products     2.2746   280.53     276.55     267.29    +    1.44         +     4.95
+89   Personal Effects n.e.c.          1.2065   654.10     633.84     540.14    +    3.20         +    21.10
+
+
+
+
+                                                                                           Page 15 of 17
+Annexure C: Wholesale Price Indices by Major Groups & Commodities                (2015-16=100)
+                                                          Index Numbers             % Change in Aug 2026 over
+          Item and Specification       Weight      Aug 26     Jul 26    Aug 25        Jul 2026         Aug 2025
+      General                          100.0000   350.77    343.96     313.68        +    1.98        +   11.82
+      Agriculture Forestry & Fishery    25.7674   304.57    302.08     278.18        +    0.82        +    9.49
+001   Wheat                              0.6297   359.57    335.34     186.65        +    7.23        +   92.64
+002   Maize                              0.6764   324.56    307.72     268.60        +    5.47        +   20.83
+003   Rice                               2.4413   330.79    329.81     320.55        +    0.30        +    3.19
+004   Sorghum / Jowar                    0.0214   491.17    607.88     355.59        -   19.20        +   38.13
+005   Millet / Bajra                     0.0374   289.41    291.65     337.48        -    0.77        -   14.24
+006   Vegetables                         1.2441   461.84    407.95     310.30        +   13.21        +   48.84
+007   Fresh Fruits                       1.5144   297.51    314.85     268.85        -    5.51        +   10.66
+008   Dry Fruits                         0.2478   349.79    362.96     394.38        -    3.63        -   11.31
+009   Cotton Seeds                       1.1511   186.88    187.44     189.86        -    0.30        -    1.57
+010   Other Oil Seeds                    0.0722   295.94    288.75     282.61        +    2.49        +    4.72
+011   Edible Roots / Potatoes            0.2540   253.54    249.02     400.08        +    1.82        -   36.63
+012   Stimulant & Spice Crops            0.1634   307.84    308.33     416.76        -    0.16        -   26.13
+013   Pulses                             0.4901   223.73    222.82     264.68        +    0.41        -   15.47
+014   Sugar Crops                        1.0725   355.12    355.12     368.06        +    0.00        -    3.52
+015   Fibre Crops                        5.3169   351.23    352.24     310.05        -    0.29        +   13.28
+016   Unmanufactured Tobacco             0.0742   584.62    582.15     551.17        +    0.42        +    6.07
+017   Poultry                            0.5633   242.54    251.13     297.87        -    3.42        -   18.58
+018   Raw Milk from Bovine Animals       7.0279   279.53    279.46     254.46        +    0.03        +    9.85
+019   Eggs                               0.5034   293.87    277.43     347.40        +    5.93        -   15.41
+020   Raw Animal Materials / Wool        0.0351   307.13    307.13     257.31        +    0.00        +   19.36
+021   Hides, Skins & Fur Skins, Raw      0.4834    64.11     64.06      59.44        +    0.08        +    7.86
+022   Fuel Wood in Logs                  0.0179   246.57    246.57     215.00        +    0.00        +   14.68
+023   Fish Live Fresh or Chilled         1.7295   239.14    239.14     219.65        +    0.00        +    8.87
+      Ores/Minerals, Elec., Gas &       12.0069   358.89    357.79     352.31        +    0.31        +    1.87
+      Water
+024   Coal not Agglomerated              0.7508   227.51    227.51     219.17        +    0.00        +    3.81
+025   Natural Gas Liquefied              5.7065   455.48    456.47     443.56        -    0.22        +    2.69
+026   Salt & Pure Sodium Chloride        0.0584   475.55    474.45     422.36        +    0.23        +   12.59
+027   Electrical Energy                  5.4912   275.22    271.81     274.95        +    1.25        +    0.10
+      Food,Beverages,Tobacco,Textile    31.1122   308.04    304.47     284.96        +    1.17        +    8.10
+        Food Products, Beverages &      20.0718   332.91    328.63     301.25        +    1.30        +   10.51
+      Tobacco
+028   Meat of Animals                    3.4559   385.01    383.67     340.84        +    0.35        +   12.96
+029   Vegetables & Fruit Juice           0.0058   260.70    260.70     253.05        +    0.00        +    3.02
+030   Dried Fruits & Nuts                0.1733   483.61    487.00     394.23        -    0.70        +   22.67
+031   Fruit Juices                       0.3880   296.82    296.61     282.73        +    0.07        +    4.98
+032   Vegetable Oils Refined             1.9242   319.02    316.23     289.59        +    0.88        +   10.16
+033   Vegetable Ghee                     1.5632   386.28    384.16     363.79        +    0.55        +    6.18
+034   Oil Cakes                          0.9611   280.03    281.16     238.09        -    0.40        +   17.62
+035   Processed Liquid Milk              4.4437   339.47    339.46     331.48        +    0.00        +    2.41
+036   Milk & Cream in Solid Form         0.0316   325.18    325.18     303.46        +    0.00        +    7.16
+037   Ice Cream                          0.0047   211.52    211.49     200.56        +    0.01        +    5.46
+038   Dairy Products N.E.C               0.0117   351.20    349.02     334.90        +    0.62        +    4.87
+039   Wheat Flour                        2.3034   349.67    332.80     200.85        +    5.07        +   74.10
+040   Other Cereal Flour                 0.0604   223.85    208.20     269.14        +    7.52        -   16.83
+041   Sugar Refined                      1.7975   237.05    239.67     295.02        -    1.09        -   19.65
+042   Chocolate                          0.0139   159.86    155.20     144.31        +    3.00        +   10.78
+043   Sugar Confectionary                0.0738   367.52    347.58     315.42        +    5.74        +   16.52
+044   Coffee & Tea                       0.7303   275.78    275.68     269.45        +    0.04        +    2.35
+045   Spices                             0.1449   339.01    339.15     301.78        -    0.04        +   12.34
+046   Other Food Products                0.0336   375.16    364.27     356.94        +    2.99        +    5.10
+047   Mineral Water                      0.0207   223.07    223.07     215.51        +    0.00        +    3.51
+048   Beverages                          0.6303   267.60    269.22     260.52        -    0.60        +    2.72
+049   Tobacco Products                   1.2998   330.44    301.20     301.20        +    9.71        +    9.71
+        Textiles & Apparels             10.3289   266.26    263.81     260.63        +    0.93        +    2.16
+050   Cotton Yarn                        5.2491   239.61    239.61     239.61        +    0.00        +    0.00
+051   Nylon Yarn                         0.1719    95.24     95.24      95.24        +    0.00        +    0.00
+052   Blended Yarn                       0.1689   148.12    148.12     148.12        +    0.00        +    0.00
+053   Woven Fabrics                      0.0128   333.15    333.15     266.43        +    0.00        +   25.04
+054   Cotton Fabrics                     0.6343   400.26    378.84     376.61        +    5.65        +    6.28
+055   Other Fabrics                      1.1016   293.06    293.06     281.09        +    0.00        +    4.26
+056   Silk & Reyon Fabrics               0.7350   422.35    414.76     401.46        +    1.83        +    5.20
+057   Towels                             0.1235   209.23    209.23     205.30        +    0.00        +    1.91
+
+                                                                                              Page 16 of 17
+Annexure C: Wholesale Price Indices by Major Groups & Commodities              (2015-16=100)
+                                                        Index Numbers             % Change in Aug 2026 over
+          Item and Specification      Weight     Aug 26     Jul 26    Aug 25        Jul 2026         Aug 2025
+058   Blankets                         0.0029   168.88    168.88     158.72        +    0.00        +    6.40
+059   Bed Sheets                       0.0913   225.37    225.37     208.16        +    0.00        +    8.27
+060   Quilts                           0.0019   243.70    243.70     243.00        +    0.00        +    0.29
+061   Woolen Carpets                   0.0383   184.00    184.00     177.15        +    0.00        +    3.87
+062   Synthetic Carpets                0.0566   160.49    160.49     162.83        +    0.00        -    1.44
+063   Hosiery Products                 0.8832   218.73    217.84     213.93        +    0.41        +    2.24
+064   Readymade Garments               1.0576   286.44    281.38     279.50        +    1.80        +    2.48
+        Leather Products               0.7115   212.86    212.86     178.56        +    0.00        +   19.21
+065   Leather Without Hair             0.2973   175.98    175.98     174.84        +    0.00        +    0.65
+066   Other Leather N.E.C              0.2567   156.53    156.53     141.18        +    0.00        +   10.87
+067   Footwears                        0.1575   374.30    374.30     246.48        +    0.00        +   51.86
+      Other Transportable Goods       22.3979   434.07    412.30     342.32        +    5.28        +   26.80
+068   Timber                           0.0165   243.42    243.42     247.74        +    0.00        -    1.74
+069   Printing Paper                   0.4279   305.81    305.81     258.64        +    0.00        +   18.24
+070   Hard Board                       0.1579   261.62    261.62     261.62        +    0.00        +    0.00
+071   Motor Spirit                     1.6268   476.71    447.99     375.31        +    6.41        +   27.02
+072   Diesel Oil                       5.4849   516.93    453.14     353.93        +   14.08        +   46.05
+073   Kerosene Oil                     0.2151   580.80    512.77     356.68        +   13.27        +   62.84
+074   Furnace Oil                      3.2664   645.14    645.14     483.86        +    0.00        +   33.33
+075   Mobil Oil                        0.7114   321.21    315.47     251.76        +    1.82        +   27.59
+076   Chemicals                        1.7720   335.34    314.89     282.11        +    6.49        +   18.87
+077   Dyeing Material                  0.1539   335.16    335.16     335.16        +    0.00        +    0.00
+078   Fertilizers                      2.8657   318.11    314.89     275.33        +    1.02        +   15.54
+079   Pesticides                       0.2763   250.52    244.06     217.59        +    2.65        +   15.13
+080   Insecticides                     0.1276   197.82    197.82     197.82        +    0.00        +    0.00
+081   Paints & Varnishes               0.1916   282.33    282.55     278.00        -    0.08        +    1.56
+082   Medicines                        1.1428   438.43    430.54     387.05        +    1.83        +   13.27
+083   Soaps & Detergents               0.8168   261.31    259.01     241.72        +    0.89        +    8.10
+084   Auto Tyres                       0.2703   266.75    268.25     262.78        -    0.56        +    1.51
+085   Plastic Products                 0.4550   224.83    224.58     208.73        +    0.11        +    7.71
+086   Glass sheets                     0.2089   411.46    401.75     388.07        +    2.42        +    6.03
+087   Other Glass Articles             0.1635   242.73    242.73     228.06        +    0.00        +    6.43
+088   Ceramics & Sanitary Fixture      0.0244   250.32    250.32     229.65        +    0.00        +    9.00
+089   Bricks, Blocks & Tiles           0.1566   228.54    226.63     209.62        +    0.84        +    9.03
+090   Cement                           1.8145   298.27    291.51     282.26        +    2.32        +    5.67
+091   Bed Foam                         0.0006   334.66    334.66     329.14        +    0.00        +    1.68
+092   Matches                          0.0505   3382.02   3382.02    3348.99       +    0.00        +    0.99
+      Metal Product, Machinery &       8.7156   414.61    414.13     394.27        +    0.12        +    5.16
+      Equipments
+093   Steel Bar & Sheets               1.4615   333.12    331.20     316.14        +    0.58        +    5.37
+094   Pipe Fittings                    0.0780   511.20    511.20     506.89        +    0.00        +    0.85
+095   Steel Products                   0.3879   286.41    286.41     285.30        +    0.00        +    0.39
+096   Engines & Motors                 0.0046   242.26    242.26     216.19        +    0.00        +   12.06
+097   Vacuum Pumps                     0.0155   107.56    107.56     107.56        +    0.00        +    0.00
+098   Air Conditioners                 0.0049   310.77    310.77     310.77        +    0.00        +    0.00
+099   Cultivators                      0.0551   361.67    361.67     361.67        +    0.00        +    0.00
+100   Chuff Cutter                     0.1293   519.00    519.00     519.00        +    0.00        +    0.00
+101   Tractors                         0.0028   356.87    356.87     344.29        +    0.00        +    3.65
+102   Lathe Machines                   0.0525   555.59    553.66     535.99        +    0.35        +    3.66
+103   Concrete Mixture                 0.0107   462.05    462.05     445.73        +    0.00        +    3.66
+104   Fridge,WashM,SewM,Fans,Iron      1.1645   321.66    321.14     310.92        +    0.16        +    3.45
+105   Electric Wires                   0.0912   429.39    429.39     377.24        +    0.00        +   13.82
+106   Lighting Equipments              1.4431   757.41    757.41     757.41        +    0.00        +    0.00
+107   Radio & Television               0.1843   192.13    192.13     190.54        +    0.00        +    0.83
+108   Motor Vehicles                   0.0244   271.56    270.55     266.69        +    0.37        +    1.83
+109   Motorcycles                      0.2570   274.04    271.57     271.29        +    0.91        +    1.01
+110   Bicycles                         3.3483   367.38    367.38     327.97        +    0.00        +   12.02
+
+
+
+                                    ***********************
+
+
+
+
+                                                                                            Page 17 of 17
+

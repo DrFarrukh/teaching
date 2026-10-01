@@ -1,0 +1,2753 @@
+PAKISTAN FLOODS 2022
+Post-Disaster Needs Assessment
+
+
+
+
+  MAIN
+REPORT
+
+                          Ministry of Planning
+                          Development &
+                          Special Initiatives
+PAKISTAN FLOODS 2022
+Post-Disaster Needs Assessment
+
+
+
+MAIN
+REPORT
+    © October 2022. The Government of Pakistan, Asian Development Bank, European Union,
+    United Nations Development Programme, World Bank
+
+    The Pakistan Post-Disaster Needs Assessment is a product of the Government of
+    Pakistan prepared with the support of the Asian Development Bank, the European Union,
+    United Nations Agencies with technical facilitation by the United Nations Development
+    Programme, and the World Bank. The findings, interpretations, and conclusions expressed
+    in this work do not necessarily reflect the views of the partner organizations, their Board
+    of Executive Directors, or the governments they represent. The organizations do not
+    guarantee the accuracy of the data included in this work.
+
+    “The boundaries, colors, denominations, and other information shown on the map in this work
+    do not imply any judgment on the part of the Asian Development Bank, the European Union,
+    the United Nations Development Programme, or the World Bank concerning the legal status
+    of any territory or the endorsement or acceptance of such boundaries. Partner Agencies
+    have supported the government in application of the Post-Disaster Needs Assessment
+    methodology and analysis of data received from provincial and federal agencies, ministries
+    and departments.”
+
+    Rights and Permissions
+
+    The material in this work is subject to copyright. To encourage dissemination of this
+    information, this work may be reproduced, in whole or in part, for non-commercial
+    purposes as long as full attribution to this work is given.
+
+    Any queries should be addressed to the Planning Commission, Ministry of Planning
+    Development & Special Initiatives, P Block Pakistan Secretariat, Islamabad, Pakistan;
+    phone: +92-51-9203865; fax: +92-51-9201777
+
+    Cover photo: UNDP
+
+
+
+2   ﻿
+Disclaimer
+
+This report summarizes the findings of the Post-Disaster Needs Assessment that took place in Pakistan
+following the floods of 2022. The report is based on data collected between September and mid-October
+2022. Although all efforts have been made to improve the accuracy of the information that was collected
+and analyzed, the assessment was produced in a quick timeframe to ensure the relevance of the
+estimations. Given the ongoing nature of the disaster and the lack of access to inundated areas at the time
+of publication, remotely sourced data has been triangulated and validated where possible against ground-
+based information obtained from the Government of Pakistan, local agencies, and international partners.
+Based on these constraints, the authors of the report cannot guarantee the accuracy of the data included
+in this work. It provides an overall picture of the effects of the floods on the population, physical assets,
+infrastructure, and service delivery, but it is not a replacement of in-depth sector-specific assessments.
+More detailed sectoral analyses can be found in the Supplemental Report, which also includes a full list of
+contributors. The report uses the exchange rate US$1 = PKR 214.8.1 All monetary estimates are rounded
+off to nearest whole number and may not add up to the totals.
+
+
+
+
+1 The average exchange rate during the time of floods, based on the values issued by the State Bank of Pakistan as of the first working
+  day of each month, from June to September 2022.
+
+
+
+
+                                                                                                                                     ﻿    3
+    Foreword
+
+    The 2022 floods have shown Pakistan’s high vulnerability to climate change despite contributing less than
+    one percent of global greenhouse gas emissions. This disaster has demonstrated what this vulnerability
+    looks like for the people of the country. Since June this year, the federal and provincial authorities have
+    been working tirelessly to manage the massive relief efforts that are ongoing across the country, together
+    with local, national, and international partners.
+
+    One-third of the country has been under water, and 33 million people have been affected. Nearly 8 million
+    people are reportedly displaced. The scale of the disaster is unprecedented in Pakistan, exceeding the
+    damage of the 2010 floods. It will take a collective, international effort to recover from the impacts of this
+    calamity.
+
+    The Post-Disaster Needs Assessment that has been undertaken will help understand the scale of
+    resources required for recovery and reconstruction by calculating the damage, loss, and needs. However,
+    the recovery and reconstruction needs are likely to exceed Pakistan’s available resources and that
+    assistance from multilateral and bilateral partners and philanthropists will be needed if the country
+    is to rebuild itself in a sustainable and resilient manner.  This comes at a time when countries around
+    the world, including Pakistan’s friends and partners, are also facing the impacts of the global economic
+    challenges. We would therefore like to acknowledge those partners who are always ready to support
+    Pakistan’s recovery.  
+
+    Pakistan faces a cascading crisis. Firstly, in the wake of rising prices at the global level, Pakistan was
+    facing significant economic challenges even before the recent floods. In the face of very large fiscal and
+    current account deficits, the government took important steps earlier this year to stabilize the economy,
+    including implementing difficult energy tariff adjustments and passing a contractionary FY23 budget.
+    Secondly, the economic outlook has worsened with the floods, and market risk perceptions are once
+    again rising. Growth is expected to slow down, the trade deficit is expected to expand, and revenues are
+    expected to decline. Despite the difficulties, the Government is committed to doing its part to mobilize all
+    domestic resources possible and target them toward those most in need.
+
+
+
+
+4   Foreword
+                                                                                                   Photo credit: UNDP
+
+
+
+
+Thirdly, the floods have disproportionately hit the poorest households in poorest areas. Those areas of
+the country where human development outcomes were lowest even before the floods have been hardest
+hit. As the country recovers from this terrible disaster, there is an opportunity to do things differently and
+to create a better future, especially for areas of the country that had not benefited from the development
+of the last two decades. Enhancing Pakistan’s resilience to shocks and stresses amidst climate change,
+especially for the poorest, by addressing the underlying drivers of vulnerability and building back better,
+is essential for the country’s future.
+
+This PDNA—an effort led by the Government of Pakistan and supported by a core team comprising the
+Asian Development Bank, the European Union, and United Nations Agencies, with facilitation from the
+United Nations Development Programme and the World Bank—is a critical first step in the process of
+recovery and reconstruction. National and international experts across 17 sectors have collaborated
+closely with federal and provincial ministries, departments, and agencies to collect data from the 94
+calamity-hit districts. The report will support the prioritization and targeting of resources through
+multisector recovery planning, which is generally undertaken as part of developing the Disaster Recovery
+Framework. It is the first step on the journey to climate-resilient, inclusive, and people-centered recovery.   
+
+On behalf of the Government of Pakistan, I would like to thank all those who have supported Pakistan
+through the rescue and relief stage of the disaster and those who will continue to support the country
+through the recovery and reconstruction phase. With this collective resolve, I believe we can build a
+brighter future from the ruins of the disaster.
+
+
+
+
+Ahsan Iqbal
+Minister for Planning, Development and Special Initiatives
+
+
+
+
+                                                                                                      Foreword     5
+    Acronyms
+
+     ADB       Asian Development Bank
+     ATM       Automated Teller Machine
+     BMI       Body Mass Index
+     CPI       Consumer Price Index
+     CSO       Civil Society Organization
+     EU        European Union
+     FRP       Floods Response Plan
+     FY        Fiscal Year
+     GBV       Gender-based Violence
+     GDP       Gross Domestic Product
+     HCI       Human Capital Index
+     KP        Khyber Pakhtunkhwa
+     MFB       Microfinance Bank
+     MFI       Microfinance Institution
+     MoPDSI    Ministry of Planning Development and Special Initiatives
+     NDMA      National Disaster Management Agency
+     NFRCC     National Flood Response Coordination Centre
+     NGO       Non-governmental Organization
+     PDNA      Post-Disaster Needs Assessment
+     PMD       Pakistan Meteorological Department
+     SAR       Synthetic Aperture Radar
+     SPI       Sensitive Price Index
+     SSGC      Sui Southern Gas Company
+     UN        United Nations
+     WASH      Water, Sanitation, and Hygiene
+     WB        World Bank
+     WBG       World Bank Group
+
+
+
+
+6   Acronyms
+Acknowledgments
+
+This report has been prepared under the leadership of the Ministry of Planning, Development and
+Special Initiatives through its Flood Coordination Cell, supported by the Asian Development Bank,
+the European Union, the United Nations agencies with technical facilitation by the United Nations
+Development Programme, and the World Bank with financial and technical support from the Global
+Facility for Disaster Reduction and Recovery. It also benefited from the valuable inputs of bilateral and
+multilateral partners. This report has benefited from the guidance and inputs of many government
+agencies and departments including, at the federal level, the Planning Commission, the Economic Affairs
+Division, the National Disaster Management Agency, and the Space and Upper Atmosphere Research
+Commission. The report has also been guided and informed by provincial and district governments,
+including the Planning and Development Departments and Provincial Disaster Management Agencies.
+The team gratefully acknowledges the hard work of everyone who contributed to produce this
+document, which will guide the efforts of all those involved in responding to the 2022 Pakistan floods.
+A full list of contributors can be found in the Supplemental Report, which will be published separately
+and also includes detailed write-ups on each chapter. Photographs used in this publication were taken
+by development agencies and partners unless stated otherwise. The team would like to express their
+deepest thanks and appreciation to all the contributors.
+
+
+
+
+.
+
+
+
+
+                                                                                            Acknowledgments   7
+    Table of Contents
+    Foreword                                               4
+
+    Acronyms                                               6
+
+    Acknowledgments                                        7
+
+    Executive Summary                                     10
+     Context                                              11
+     Summary of Damage, Loss, and Needs                   14
+     Macroeconomic and Human Impact: A Cascading Crisis   17
+     Next Steps: Pakistan’s Resilient Recovery Strategy   19
+
+    Key Facts                                             22
+
+    1. Post-Disaster Needs Assessment                     24
+     Objectives, Approach, and Scope                      25
+     Methodology                                          26
+     Stakeholder Engagement                               27
+     Limitations and Assumptions                          29
+
+    2. Building Back Better for a Resilient Pakistan      30
+     Introduction                                         31
+     A Compounding Crisis                                 33
+     Government and International Response                33
+     Pakistan’s Vision for a Resilient Recovery           34
+
+    3. Macroeconomic Impact Assessment                    37
+     Pre-floods Economic Scenario                         38
+     Economic Impact of the Floods                        39
+     Risks and Priorities                                 41
+
+    4. Human Impact Assessment                            42
+
+
+
+
+8
+5. Summary of Sector Reports                              48
+Social                                                    50
+ Housing                                                  51
+ Education                                                51
+ Health                                                   52
+ Culture and Heritage                                     53
+Infrastructure                                            54
+ Transport and Communications                             55
+ Energy                                                   55
+ WASH, Municipal Services, and Community Infrastructure   57
+Productive Sectors                                        58
+ Agriculture, Food, Livestock, and Fisheries              59
+ Water Resources and Irrigation                           59
+ Commerce and Industries                                  60
+ Finance and Markets                                      61
+ Tourism                                                  62
+Cross-cutting                                             63
+ Social Protection, Livelihoods, and Jobs                 64
+ Governance                                               64
+ Social Sustainability, Inclusion, and Gender             65
+ Environment and Climate Change                           66
+ Disaster Risk Reduction and Resilience                   67
+
+Annex 1: List of Acknowledgments for the PDNA Stakeholder
+Engagement Meetings                                     68
+
+
+
+
+                                                               9
+     Executive
+     Summary
+
+
+
+
+                         Photo credit: UNDP
+
+
+
+10   Executive Summary
+Context
+
+
+Between June and August 2022, torrential rains and a combination
+of riverine, urban, and flash flooding led to an unprecedented
+disaster in Pakistan. According to the National Disaster Management
+Authority (NDMA), around 33 million people—that is, one in seven—
+have been affected by the floods, including nearly 8 million
+displaced. The floods have taken the lives of more than 1,700 people,
+one-third of which were children.2 Rain-induced floods, accelerated
+glacial melt, and resulting landslides devastated millions of homes
+and key infrastructure, submerging entire villages and destroying
+livelihoods. Preliminary estimates suggest that, as a direct
+consequence of the floods, the national poverty rate will increase
+by 3.7 to 4.0 percentage points, pushing between 8.4 and 9.1 million
+people into poverty. As of October 11, 94 districts were declared as
+“calamity hit,” accounting for more than half of all districts in the
+country. The majority were in the provinces of Balochistan, Sindh,
+and Khyber Pakhtunkhwa (KP). Out of the 25 poorest districts in the
+country, 19 were calamity-affected.
+
+
+
+
+2 NDMA. October 19, 2022. “NDMA Floods (2022): Sitrep Report No.128.”
+  https://cms.ndma.gov.pk/storage/app/public/situation-reports/October2022/
+  QECa7rSLzWINuxZFHrHV.pdf.
+
+
+
+
+                                                          Executive Summary   11
+     FIGURE 1. EXTENT OF FLOODING COMPARISON BETWEEN AUGUST 4 AND 28, 2022
+
+
+
+
+     Source: NASA Earth Observatory images by Joshua Stevens, using Landsat data from the US Geological Survey and VIIRS
+     data from NASA EOSDIS LANCE, GIBS/Worldview, and the Joint Polar Satellite System.3
+
+
+
+
+     Pakistan ranks among the top 10 countries worldwide most affected by climate change.4 The country has
+     observed changing weather patterns, including variations in precipitation and temperatures, increased
+     frequency and severity of tropical storms and coastal rains, glacial melt, glacial lake outburst flooding,
+     sea level rise, loss of biodiversity, desertification, and droughts.5 At the coastal belts of Balochistan and
+     Sindh, climate impacts are observed in increased frequency and severity of tropical storms, coastal rains,
+     and seawater intrusion. The plains of Punjab and Sindh experience extended and frequent riverine floods
+     and heatwaves, affecting economic and human development.6
+
+     In the summer of 2022, the country experienced its wettest August since 1961. Sindh and Balochistan
+     provinces were subject to unprecedented rainfall, surpassing average monthly totals by six and seven
+     times, respectively. Attribution research has shown that the five-day maximum rainfall, which is a
+     measure of heavy precipitation, of these two provinces was around 75 percent more intense than it would
+     have been had the climate not warmed by 1.2°C.7 The floods came on the heels of a severe heatwave—
+     previously a 1-in-1,000-year event— and drought emergency during which temperatures continuously
+     remained above 45°C, resulting in crop losses, power outages, and forest fires. 8
+
+
+     3 The images combine shortwave infrared, near infrared, and red light (bands 6-5-4) to better distinguish flood waters (deep blue)
+       beyond their natural channels. Original image sourced from: https://earthobservatory.nasa.gov/images/150279/devastating-floods-in-
+       pakistan.
+     4 Eckstein, David, Vera Künzel, and Laura Schäfer. 2021. “Global Climate Risk Index 2021.” Germanwatch Briefing Paper. https://www.
+       germanwatch.org/en/19777.
+     5 Government of Pakistan. 2021. “Updated Nationally Determined Contributions 2021.” https://unfccc.int/sites/default/files/NDC/2022-
+       06/Pakistan%20Updated%20NDC%202021.pdf.
+     6 Government of Pakistan. 2021. “Updated Nationally Determined Contributions 2021.” https://unfccc.int/sites/default/files/NDC/2022-
+       06/Pakistan%20Updated%20NDC%202021.pdf.
+     7 World Weather Attribution. 2022. “Climate Change Likely Increased Extreme Monsoon Rainfall, Flooding Highly Vulnerable
+       Communities in Pakistan.” https://www.worldweatherattribution.org/wp-content/uploads/Pakistan-floods-scientific-report.pdf .
+     8 Pakistan Meteorological Department. 2022. “Pakistan’s Monthly Climate Summary: August 2022.” Government of Pakistan. http://
+       www.pmd.gov.pk/cdpc/Pakistan_Monthly_Climate_Summary_August_2022.pdf.
+
+
+
+
+12   Executive Summary
+While the underlying drivers of the disaster impacts are not limited to climate change, the scale of the
+flooding is unprecedented. Following the 2010 floods, which affected 20 million people, Pakistan invested
+in disaster risk management. The country had taken critical steps to develop its long-term policies,
+including the National Disaster Management Plan and National Flood Protection Plan IV. However,
+challenges persisted, such as lack of operationalization and financing for the plans, and limited absorptive
+capacity to utilize risk assessments in infrastructure investments and land use planning. At the start of the
+2022 monsoon season, the NDMA undertook a comprehensive Monsoon Contingency Planning Exercise,
+which included major federal and provincial stakeholders, as well as the international community.
+However, Pakistan’s systems and institutions were not adequately equipped for the unprecedented scale
+of the climate-induced disaster. The 2022 flooding has further exposed underlying institutional and
+systemic challenges, including poor urban planning and water resource management, lack of systems
+for infrastructure maintenance, complex governance, structural inequalities, and limited disaster risk
+reduction capacity. Simultaneous multiple shocks, including natural hazards, COVID-19, rising inflation, an
+energy crisis, and fiscal challenges, continue to compound the impacts. Underlying political and economic
+instability are exacerbating the disaster impacts and undermining the effectiveness of recovery. A more
+resilient nation is critical to breaking the cycle of disaster-induced poverty.
+
+
+
+Humanitarian Response to Recovery and Reconstruction
+
+The scale and prolonged period of the ongoing disaster requires strategic coordination to effectively link
+and transition from humanitarian response to recovery. The humanitarian response has been led by the
+Government of Pakistan, which established a National Flood Response and Coordination Centre (NFRCC)
+to oversee the national response to the monsoon rains and floods. The NFRCC comprises representatives
+of federal stakeholders, provincial governments, and the Pakistan Armed Forces. National-level
+government assistance is organized through the NFRCC. The Armed Forces and civil administration have
+been providing search and rescue, logistics, and engineering support, while the NDMA is procuring relief
+supplies and coordinating bilateral in-kind donations for distribution through the Army, which has been
+mobilized under constitutional provisions.9
+
+Relief efforts have largely focused on the provision of shelter, safe drinking water, food items, and health
+interventions amidst supply chain disruptions. On August 19, the government launched a PKR 37.2 billion
+flood relief cash program for 1.5 million affected families. On August 30, the Government of Pakistan and
+the United Nations jointly launched the 2022 Pakistan Floods Response Plan (FRP), which highlighted
+the main humanitarian needs and outlined an action plan to respond to the immediate needs of the
+people. A Revised FRP was released on October 4, appealing for US$816 million to cover the most urgent
+needs of 9.5 million people. However, as of October 21, only 13.7 percent of the requested amount has
+been funded.10 The international community and local and international organizations have provided aid,
+but accessibility due to standing flood waters, flood effects, and complex topographies remain a major
+challenge. The Asian Development Bank (ADB), the European Union (EU), the United Nations (UN), and
+the World Bank (WB) have supported the Government of Pakistan to conduct this Post-Disaster Needs
+Assessment (PDNA) to provide an initial estimate of damage, loss, and recovery and reconstruction needs
+from the disaster.
+
+
+
+9 Government of Pakistan and United Nation’s Office for the Coordination of Humanitarian Affairs. 2022. “Revised 2022 Flood Response
+   Plan: Pakistan.” https://reliefweb.int/report/pakistan/revised-pakistan-2022-floods-response-plan-01-sep-2022-31-may-2023-issued-04-
+   oct-2022?_gl=1*zi5z3w*_ga*MjIxMzMyMjcyLjE2NjQ4NTg0Nzc.*_ga_E60ZNX2F68*MTY2NjE5NzE5Ny44LjAuMTY2NjE5NzE5Ny42MC4wLjA.
+10 Financial Tracking Service- UNOCHA, 2022. “Pakistan Floods Relief Plan.” https://fts.unocha.org/multiyear/2313/summary
+
+
+
+
+                                                                                                                   Executive Summary      13
+     Summary of Damage, Loss, and Needs11
+
+
+     The total damage is estimated at PKR 3.2 trillion (US$14.9 billion), total loss at PKR 3.3 trillion (US$15.2
+     billion), and total needs at PKR 3.5 trillion (US$16.3 billion). The sectors that suffered the most damage
+     are housing at PKR 1.2 trillion (US$5.6 billion); agriculture, food, livestock, and fisheries at PKR 800 billion
+     (US$3.7 billion); and transport and communications at PKR 701 billion (US$3.3 billion). The transport and
+     communications sector has the highest reconstruction and recovery needs at PKR 1.1 trillion (US$5.0
+     billion); followed by agriculture, food, livestock, and fisheries at PKR 854 billion (US$4.0 billion), and housing
+     at PKR 592 billion (US$2.8 billion). The provinces of Sindh and Balochistan account for approximately 50
+     percent and 15 percent of recovery and reconstruction needs, respectively.
+
+
+
+
+     TABLE 1. DAMAGE, LOSS, AND NEEDS BY REGION
+
+                                                 Damage                                Loss                              Needs
+
+      Region                          (Billion PKR)     (Million US$)    (Billion PKR)     (Million US$)     (Billion PKR)    (Million US$)
+
+      Balochistan                                349            1,625               541             2,516              491             2,286
+
+      Khyber Pakhtunkhwa                         201              935               141               658              168               780
+
+      Punjab                                     111               515              122               566              160               746
+
+      Sindh                                    1,948            9,068             2,444            11,376            1,688             7,860
+
+      Cross-Provincial12                         587            2,731                 14               67              975             4,540
+
+      Special Regions13                            7                32                11               49                10               48
+
+      Grand Total                             3,202            14,906             3,272           15,233             3,493            16,261
+
+     Note: All estimates in this report were calculated in PKR and converted to US$ prior to rounding (US$1 = 214.8 PKR on
+     average between June and September 2022). The costs are initial estimates and variances may exist due to limitations
+     such as data access due to ongoing flooding and lack of baseline information. Precise numbers before rounding are
+     provided in the sector assessment reports in the Supplemental Report, published separately.
+     While the needs estimate accounts for a build back better premium, it does not comprehensively include new and broader
+     investments needed to strengthen Pakistan’s adaptation to climate change and overall resilience to future climate shocks,
+     or reconstruction needs of affected private entities.
+
+
+
+
+     11 Damage is defined as direct costs of destroyed or damaged physical assets. It is valued in monetary terms with costs estimated
+        based on replacing or repairing physical assets and infrastructure, considering the replacement price prevailing before the crisis.
+        Loss is defined as changes in economic flows resulting from the disaster and valued in monetary terms. Together, damage and
+        loss constitute the effects of the crisis. Needs costing draws on the monetary value of damage and loss but is not equal to the
+        sum of those estimates. Recovery and reconstruction needs are calculated in terms of replacement costs according to current
+        prices and include a premium linked to building-back-better principles, and needs associated with the recovery of the sector. The
+        reconstruction and recovery needs include short (up to 12 months) and intermediate to long-term (up to five years) activities.
+     12 Cross-provincial includes assets that affect more than one province or are calculated at the national level (e.g. railways, roads,
+        telecommunications, etc.). The classification is in line with the public budget.
+     13 Special regions include districts outside of the four main provinces that have been affected by the floods and declared “calamity-hit.”
+
+
+
+
+14   Executive Summary
+TABLE 2. DAMAGE, LOSS, AND NEEDS BY SECTOR GROUP AND SECTOR
+
+                                    Damage                            Loss                           Needs
+
+Sectors                  (Billion PKR)   (Million US$)    (Billion PKR)   (Million US$)   (Billion PKR)   (Million US$)
+
+Social Sectors              1,345            6,261            193             896             832            3,872
+
+Housing                        1,200           5,586                137             636             592         2,757
+Health                              23           109                 7              34              40            188
+Education                         120            559                 47             219             197            918
+Culture and Heritage                 1                6              1                7              2                9
+Infrastructure Sectors            843           3,927                85             396          1,168           5,437
+
+Transport and
+                                 701           3,264                60              281         1,073           4,994
+Communications
+Energy                              19               88              1                3              25            117
+WASH, Municipal
+Services, and
+                                  123            575                 24             112              70           327
+Community
+Infrastructure
+Productive Sectors                996           4,635            2,853          13,281           1,022           4,760
+
+Agriculture, Food,
+Livestock, and                   800           3,725             1,986          9,244               854          3,976
+Fisheries
+Water Resources and
+                                 153              711                 -               -             168           782
+Irrigation
+Commerce and
+                                    40           186                758         3,527                 -               -
+Industries
+Finance and Markets                  1                3             90              417               -               -
+Tourism                              2               10             20               93             0.4               2
+Cross-Cutting Sectors               18               83             142             660             471          2,192
+
+Governance                          13               60              5               23              19              88
+Social Sustainability,
+                               0.004             0.02                 -               -              21              96
+Inclusion and Gender
+Social Protection,
+                                     -                -             130             607             361         1,683
+Livelihoods, and Jobs
+Environment and
+                                     4               18              6               30              35           164
+Climate Change
+Disaster Risk
+Reduction and                        1                5               -               -              35            161
+Resilience
+Grand Total                     3,202          14,906            3,272          15,233           3,493          16,261
+
+
+
+
+                                                                                                      Executive Summary   15
+                            4.77%
+                            $711M
+      Agriculture,
+      Food, Livestock,                                      Housing
+      and Fisheries                                         37.48%             FIGURE 2. DISTRIBUTION OF
+      24.99%                                                $5,586M
+                                                                               DAMAGE, LOSS, AND NEEDS
+      $3,725M
+                                                                               BY SECTOR
+                                    DAMAGE
+                                 $14,906M
+
+           3.85%                                                               SOCIAL SECTORS
+           $575M                                                                Housing
+                                                                                Health
+                  Transport and                     3.75%
+                  Communications                                                Education
+                                                    $559M
+                  21.9%                                                         Culture and Heritage
+                  $3,264M
+
+
+                                    3.99%
+                                                                               INFRASTRUCTURE SECTORS
+                         2.74%      $607M 4.17%
+                                          $636M                                 Transport and Communications
+                         $417M
+                                                                                Energy
+                                                                                WASH, Municipal Services, and
+                                                                                Community Infrastructure
+        Commerce
+        and
+        Industries
+        23.15%                       LOSS
+        $3,527M                  $15,233M                                      PRODUCTIVE SECTORS
+                                                                                Agriculture, Food, Livestock, and Fisheries
+                                                            Agriculture,        Water Resources and Irrigation
+                                                            Food, Livestock,    Commerce and Industries
+                                                            and Fisheries       Finance and Markets
+                                                            60.68%              Tourism
+                                                            $9,244M
+
+
+                                                                               CROSS-CUTTING SECTORS
+                         10.35%                   Housing                       Governance
+                         $1,683M                  16.96%                        Social Sustainability, Inclusion and Gender
+                                                  $2,757M                       Social Protection, Livelihoods, and Jobs
+             4.81%                                                              Environment and Climate Change
+             $782M                                                              Disaster Risk Reduction and Resilience
+                                                            5.65%
+                                     NEEDS                  $918M
+
+                                 $16,261M
+      Agriculture,
+      Food, Livestock,
+      and Fisheries                                    Transport and
+      24.45%                                           Communications
+      $3,976M                                          30.71%
+                           2.01%                       $4,994 M
+                           $327 M
+
+
+
+
+16   Executive Summary
+Macroeconomic and Human Impact:
+A Cascading Crisis
+
+
+The floods are expected to have a substantial negative impact on Pakistan’s economy. Overall damages
+are estimated at PKR 3.2 trillion (US$14.9 billion), equivalent to 4.8 percent of fiscal year (FY)22 gross
+domestic product (GDP).14 Among the economic sectors, the agriculture and industry sectors are estimated
+to each incur around one-quarter of the damages, and the services sector is bearing close to half of the
+total damages. Recovery and reconstruction needs are projected to be sizable at 1.6 times the budgeted
+national development expenditure for FY23.15
+
+Economic activity has been disrupted, livelihoods have been severely impacted, with poverty expected to
+increase significantly. The size and duration of shocks will vary across locations and households depending
+on the intensity of the flooding and the time it takes for the water to recede, their existing socioeconomic
+status, as well as the quality and speed of relief and reconstruction efforts. Even in the best-case scenario,
+reversing these negative shocks to household welfare will take considerable time, and some losses, such
+as losses to human capital and loss of land productivity, could set in motion more durable declines in
+welfare and will require specific attention. The government is providing immediate relief to the impacted
+communities and supporting the early recovery, while aiming to ensure macroeconomic stability and
+fiscal sustainability. Moving forward, as recovery and reconstruction spending rises, the loss in output
+could be mitigated. Yet, significant international support will be needed to complement Pakistan’s own
+commitment to increase domestic revenue mobilization and save scarce public resources, and to reduce
+the risk of exacerbating macroeconomic imbalances. Evidence from previous natural hazards in Pakistan
+suggests that economic impacts may persist for an extended period, with damage to the productive
+capacity of the economy reducing growth prospects over the medium term.
+
+Overall decline in GDP as a direct impact of the floods is projected to be around 2.2 percent of FY22 GDP.16
+Among the major sectors, agriculture sector value added is projected to decline the most at 0.9 percent
+of FY22 GDP, with floods causing the most losses to cotton, dates, sugarcane, and rice crops. Around
+1 million livestock are estimated to have perished. Furthermore, damage in the agricultural sector is
+expected to have spillover effects on the industry and services sectors. Flood-related cotton losses are
+expected to weigh on the domestic textile industry, as local cotton constitutes about half of the industry’s
+required cotton input. Textiles account for around one-quarter of total industry output and more than
+half of goods exports. Similarly, the local food processing and slaughtering industries will be negatively
+impacted by the expected reduction in food harvests and reduced supply of livestock. Industry sector
+value added is consequently expected to shrink by 0.7 percent of FY22 GDP. Similarly, lower agricultural
+and industrial activity are likely to weigh on wholesale and transportation services activities, which
+account for around half of the service sector output. In addition, transportation challenges arising from
+the loss of critical infrastructure, such as roads and bridges, are expected to disrupt supply and further
+dampen overall economic activity. Services sector value added is consequently projected to decline by
+0.6 percent of FY22 GDP.
+
+
+14 GDP at market prices at current prices for FY22 (PKR 66.9 trillion).
+15 According to the FY23 Federal Budget, the total national Public Sector Development Programme allocation is PKR 2,158 billion.
+16 Nominal GDP at market prices for FY22 (PKR 66.9 trillion).
+
+
+
+
+                                                                                                                 Executive Summary   17
+     The disaster will have profound impact on lives and livelihoods. Preliminary estimates of the PDNA suggest
+     that the national poverty rate will increase by 3.7 to 4.0 percentage points, pushing between 8.4 and 9.1
+     million people into poverty, as a direct consequence of the floods. Similarly, multidimensional poverty
+     will increase by 5.9 percentage points, meaning that an additional 1.9 million households will be pushed
+     into non-monetary poverty. Beyond the national average, poverty in Sindh would increase by between
+     8.9 and 9.7 percentage points, and in Balochistan by between 7.5 and 7.7 percentage points. Moreover,
+     the depth and severity of poverty will increase for households that were already poor prior to the floods.
+     The poverty gap has substantially increased, with the number of extremely poor people living more than
+     20 percent below the poverty line increasing from 18 to 25–26 million. The impact on household welfare
+     will come through at least four channels: (i) loss of household income and employment/livelihoods due
+     to destroyed harvest, killed livestock, or inactivity of businesses; (ii) loss of assets, including homes,
+     livestock, productive equipment, and household durables; (iii) rising food prices due to shortages of food
+     arising from lost food stocks and poor harvests; and (iv) loss of human capital, given the significant threat
+     of disease outbreaks and food shortages, and prolonged school closures, with attendant learning losses.
+
+     Even prior to the flooding, many of the calamity-hit districts showed higher monetary and non-monetary
+     deprivations, especially among households in rural areas. Nineteen of the 25 poorest districts in the
+     country were calamity-affected. Moreover, higher stunting rates in these districts undermined progress
+     toward better development outcomes.17 Households in calamity-hit districts were more impoverished
+     than the national average (31.2 percent compared to 21.9 percent), and poverty rates for many flood-
+     affected districts in Sindh and Balochistan were much higher. For instance, district-level poverty rates for
+     calamity-hit districts in Balochistan ranged from 26.3 percent in Kohlu to 75.8 percent in Khuzdar; and in
+     Sindh, from 15 percent in Hyderabad to 53.4 percent in Badin.
+
+     Reversing these negative shocks to household welfare will take considerable time, and losses to human
+     capital and land productivity can set in motion more durable declines in welfare. The impact of the floods
+     is likely to exacerbate already existing inequalities, revealing serious differences in safety, education,
+     decision-making, and employment. Vulnerable groups, such as women, children, people with disabilities,
+     and refugees, are likely to be disproportionally affected by the floods due to their limited access and
+     availability to social protection and coping mechanisms.
+
+
+
+
+     17 Based on survey-based estimates for the PDNA. Given restrictions in data access, the analysis only describes outcomes for 75
+        calamity-hit districts in Punjab, KP, Sindh, and Balochistan.
+
+
+
+
+18   Executive Summary
+Next Steps:
+Pakistan’s Resilient Recovery Strategy
+
+
+The catastrophic floods are a wake-up call for systemic changes to address the underlying vulnerabilities
+to natural hazards and their intersection with other shocks. At this critical point, swift action is necessary
+for a paradigm shift to build systemic resilience to natural hazards in development planning and asset
+management. This requires a participatory and inclusive approach, bringing together civil society,
+government, private sector, academia, think tanks, and the international community around a common
+vision. Stakeholder engagement will be necessary to inform the scope, design, institutional arrangements,
+and a monitoring and accountability framework for a comprehensive resilient recovery program. Such
+a program should prioritize the urgent needs of the affected population while ensuring that results are
+delivered in an efficient, equitable, and transparent manner. Building on global good practices of recovery
+and integrating the specific socioeconomic, cultural, and institutional context of Pakistan through a
+people-centric approach will be crucial.
+
+
+
+Disaster Recovery Framework
+
+The vision of Pakistan’s recovery framework is to achieve an inclusive and resilient recovery through
+a “Whole of Pakistan” approach, leading to sustainable development for the people and country. This
+vision rests on three key pillars and an underlying foundation. The strategic recovery objectives of
+the framework and guiding principles of the vision, articulated below, will be critical. The underlying
+foundation is comprised of three approaches—(i) build back better; (ii) people-centered socioeconomic
+recovery; and (iii) developing systemic resilience against natural hazards and climate change impacts—
+all of which must be applied across the board. Built on this foundation are three pillars: (i) restoration of
+jobs and livelihoods; (ii) recovery and reconstruction of critical assets, services, and infrastructure; and
+(iii) strengthening governance and stakeholder capacity for reconstruction, especially communities.
+
+
+
+Recovery and Reconstruction Objectives
+
+The strategic recovery pillars noted above will be supported by five strategic recovery objectives:
+
+• Enhancing governance and capacities of the state to restore lives and livelihoods of the affected
+  people, especially the most vulnerable.
+• Restoring livelihoods and economic opportunities.
+• Ensuring social inclusion and participation in all aspects of recovery and related development.
+• Restoring and improving basic services and physical infrastructure in a resilient and sustainable
+  manner.
+• Developing an enabling environment and facilitating private sector participation and financing.
+
+
+
+
+                                                                                              Executive Summary   19
+     Guiding Principles to Support the Vision
+
+     The following guiding principles will be critical to ensure recovery and reconstruction efforts take a
+     consistent approach:
+
+     • Participatory, inclusive, and green recovery for long-term resilience.
+     • Pro-poor, pro-vulnerable, and gender sensitive, targeting the most affected.
+     • Coordination of government tiers through centralized policy, planning, and coordination; and
+       decentralized implementation.
+     • Invest in nature-based solutions and ecosystem-based adaptation measures.
+     • Conflict-sensitive implementation.
+     • Prioritize institutional and regulatory reforms to ensure sustainability.
+     • Use of local materials, knowledge, skills, and labor.
+     • Avoid relocation as much as possible.
+     • Balance between public and private sector recovery.
+     • Emphasis of synergies between humanitarian effort and recovery.
+
+
+
+     Next Steps
+
+     Strategic prioritization of interventions across all sectors is the crucial next step toward finalizing
+     the recovery framework. The framework will provide guidance on how the PDNA recommendations18
+      will be operationalized by prioritizing the most affected sectors and interventions in the immediate
+     and short term (up to 12 months) and linking them with the medium to longer-term recovery and
+     reconstruction needs. Further work will involve prioritizing needs based on criteria such as urgency,
+     institutional capacity, and financing feasibility. Institutional arrangements, financing plans, and detailed
+     recovery action plans must be developed. The recovery and reconstruction should prioritize the urgent
+     needs of the affected population and ensure an efficient, equitable, coordinated, and transparent delivery
+     led by the government and supported by the international community. Although the focus will be on
+     the affected areas, the creation of the recovery framework presents an opportunity to systematically
+     embed resilience to natural hazards and climate change in Pakistan’s development planning—a turning
+     point on how the country continues its growth. Transformational action will be critically important to
+     achieve the vision of an inclusive and resilient recovery through a “Whole of Pakistan” approach, leading
+     to sustainable development for the people and country.
+
+
+
+
+     18 The recommendations can be found in the Supplemental Report, a companion report which will be published separately and includes
+        detailed sectoral analyses.
+
+
+
+
+20   Executive Summary
+Photo credit: UNDP
+
+
+
+
+    Executive Summary   21
+Key Facts                                                                                SCOPE
+
+                                                        GEOGRAPHIC SCOPE:
+
+                                                        The geographic coverage of the assessment is
+Led by the Government of Pakistan and supported
+                                                        limited to 94 calamity-hit districts as of October
+by the Asian Development Bank, the European Union,
+                                                        11 across the four provinces of Balochistan, KP,
+the United Nations, and the World Bank, the PDNA
+                                                        Punjab, and Sindh. The analysis also includes
+provides an initial estimate of damages, losses, and
+                                                        estimates for special regions and at a cross-
+needs resulting from the disaster.
+                                                        provincial level.19
+
+
+
+     OBJECTIVES
+                                                        SECTORAL SCOPE:
+The objectives of the PDNA are to:
+• assess the impact of the disaster on the              In addition to a macroeconomic and human impact
+   population, physical assets, and service delivery;   analysis, the assessment includes 17 sectors,
+• conduct a preliminary estimate of infrastructure      grouped across four thematic areas:
+   reconstruction and service delivery restoration      Social: Housing; Health; Education; Culture and
+   needs in the short, medium, and long term; and       Heritage.
+• contribute to a resilient recovery and
+   reconstruction strategy and a coordinated            Infrastructure: Transport and Communications;
+   national and international effort for building       Energy; Water, Sanitation, and Hygiene (WASH),
+   back better.                                         Municipal Services, and Community Infrastructure.
+                                                        Productive: Agriculture, Food, Livestock, and
+                                                        Fisheries; Water Resources and Irrigation;
+                                                        Commerce and Industries; Finance and Markets;
+                                                        and Tourism.
+     DATA SOURCES                                       Cross-cutting: Governance; Social Sustainability,
+     AND METHODOLOGY                                    Inclusion, and Gender; Social Protection,
+                                                        Livelihoods, and Jobs; Environment and Climate
+                                                        Change; Disaster Risk Reduction and Resilience.
+
+The analysis blended ground-based data and
+remotely collected data, relying on cutting-edge
+remote-sensing technology to reach inaccessible
+areas and corroborate information. Various sources      TEMPORAL SCOPE:
+were used to triangulate and improve the veracity
+of the data. Ground-based data was provided from        The PDNA analyses and recommendations
+provincial governments and ministries, and remote       only focus on the impact and the recovery and
+data was collected through high resolution satellite    reconstruction needs as a result of the flooding.
+imagery, synthetic aperture radar (SAR), publicly       Damage, loss, and needs calculations were
+available data, and international organizations.        therefore made relative to a pre-flood baseline.
+Data was analyzed using geospatial data layers          The data was collected from September to mid-
+and crowd-sourced and open-sourced mapping              October 2022.
+platforms. The government and international
+partners hosted Stakeholder Engagement Meetings
+to validate the data and ensure the humanitarian
+response is linked with the recovery process.
+The PDNA adapts from the Post-Disaster Needs            19 Special regions include districts outside of the four main
+Assessment methodology jointly developed by the            provinces that have been affected by the floods and
+                                                           declared “calamity-hit.” Cross-provincial includes assets
+EU, the World Bank Group (WBG), and the UN.                that affect more than one province or are calculated at the
+                                                           national level (e.g., railways, roads, telecommunications).
+
+
+
+22   Key Facts
+                                        Oct 12 - 15
+                                        Draft Sector
+                                          Reports
+
+             Oct 1                                  Oct 14                                           Oct 28
+       Stakeholder                                  Finalization of Preliminary                  Launch of
+Engagement Meeting                                  Assessment                             PDNA Main Report
+
+
+
+
+       Sep 14                                Oct 13
+       Mobilization of                       Data Analysis
+       Assessment Teams                      Completion
+
+
+               Sep 22 - Oct 12
+               Data Collection
+                                             Oct 12 and 19
+                                      Validation with Government                           MILESTONES
+
+
+
+
+                                                KEY FINDINGS
+
+                                                                                       RECOVERY AND
+  DAMAGE                                      LOSS                                     RECONSTRUCTION
+                                                                                       NEEDS
+
+
+
+  3.2          PKR
+               trillion
+  (US$ 14.9 billion)
+                                              3.3          PKR
+                                                           trillion
+                                              (US$ 15.2 billion)
+                                                                                       3.5          PKR
+                                                                                                    trillion
+                                                                                       (US$ 16.3 billion)
+  with housing; agriculture, food,            with agriculture, food,                  with transport and
+  livestock, and fisheries; and               livestock, and fisheries                 communication; agriculture,
+  transport and communication                 suffering the most losses,               food, livestock, and fisheries;
+  sectors most severely                       followed by commerce                     and housing sectors being the
+  affected.                                   and industries; and social               highest, respectively.
+                                              protection, livelihoods, and
+                                              jobs sectors.
+
+
+
+
+                                     • Extensive damage in agriculture, industry, and service sectors, estimated to be
+                                       equivalent to 4.8 percent of FY22 GDP.
+        IMPACT ON                    • Significant losses in GDP as a direct impact of the floods, projected to be around
+                                       2.2 percent in FY22, with agriculture accounting for the largest decline at 0.9
+        ECONOMY                        percent.
+                                     • Unprecedented recovery and reconstruction needs projected at 1.6 times the
+                                       budgeted national development expenditure for FY23.
+                                     • Widening effect on primary and overall fiscal deficits.
+                                     • Rising prices of food and essential items.
+                                     • Higher poverty rates, with national poverty rate estimated to increase by 3.7 to
+                                       4.0 percentage points, pushing between 8.4 and 9.1 million people into poverty.
+
+
+                                                                                                             Key Facts   23
+     1. Post-Disaster
+     Needs Assessment
+
+
+
+
+                                         Photo credit: UNDP
+
+
+
+24   1. Post-Disaster Needs Assessment
+Objectives, Approach,
+and Scope
+
+
+The Pakistan PDNA assesses the impact of the floods on the
+population, physical assets, and service delivery in 94 calamity-
+hit districts across Pakistan between June and October 2022. It
+provides a preliminary estimate of infrastructure reconstruction
+and service delivery restoration needs in the short, medium, and
+long term. Moreover, the PDNA will serve as the foundation for
+future analytical assessments and reports, including a resilient
+recovery and reconstruction strategy and a coordinated national
+and international effort for building back a more resilient Pakistan.
+
+The PDNA follows a globally established and recognized damage,
+loss, and needs assessment methodology jointly developed by
+the EU, the WBG, and the UN. This methodology has been applied
+globally in post-disaster and conflict contexts to inform recovery
+and reconstruction planning. In the case of Pakistan, the PDNA
+approach explicitly includes opportunities to build back better
+and smarter guided by principles of inclusion, resilience, and
+sustainability.
+
+The PDNA is structured as two reports: the (i) Main Report, including
+estimations on damage, loss, and needs, methodology overview,
+resilient recovery strategy, macroeconomic and human impacts,
+and a summary of sector assessments; and the (ii) Supplemental
+Report, including full sector assessment reports, detailed
+methodology, as well as a full list of contributors and credits.
+
+Geographic Scope: The geographic coverage of the assessment
+is limited to 94 calamity-hit districts across the four provinces
+of Balochistan, KP, Punjab, and Sindh. The analysis also includes
+estimates for special regions and at a cross-provincial level.
+
+
+
+
+                                        1. Post-Disaster Needs Assessment   25
+     Sectoral Scope: In addition to a macroeconomic and human impact analysis, the assessment includes 17
+     sectors, grouped across four thematic areas:
+
+     • Social: Housing; Health; Education; Culture and Heritage.
+     • Infrastructure: Transport and Communications; Energy; Water, Sanitation, and Hygiene (WASH),
+       Municipal Services, and Community Infrastructure.
+     • Productive: Agriculture, Food, Livestock, and Fisheries; Water Resources and Irrigation; Commerce
+       and Industries; Finance and Markets; and Tourism.
+     • Cross-cutting: Governance; Social Sustainability, Inclusion, and Gender; Social Protection, Livelihoods,
+       and Jobs; Environment and Climate Change; Disaster Risk Reduction and Resilience.
+
+     Temporal Scope: The PDNA analyses and recommendations only focus on the impact and the recovery
+     and reconstruction needs as a result of the flooding. Damage, loss, and needs calculations were therefore
+     made relative to a pre-flood baseline. The data was collected from September to mid-October 2022.
+
+
+
+
+     Methodology
+
+
+     The PDNA assesses (i) damage; (ii) loss; and (iii) the recovery and reconstruction needs. The quantitative
+     results and qualitative analysis of all three were utilized to assess the macroeconomic and human impact.
+
+     A core team comprising of individuals from the ADB, EU, UN, and WBG coordinated the assessment with
+     the Ministry of Planning Development and Special Initiatives (MoPDSI) at the federal level. The MoPDSI
+     facilitated the provision of primary damage data through relevant federal and provincial entities. Under
+     the PDNA methodology, all secondary data received from the MoPDSI was validated through several
+     measures including remote-sensing and analysis through SAR and visual imagery, triangulation across
+     affected districts and sectors, desk review, existing reports and consultations with the stakeholders, and
+     limited field damage inspection. Based on the above, analytical work was undertaken by sector teams for
+     a comparative pre- and post-disaster assessment of the infrastructure and services affected, which is
+     summarized in Section 5. The summaries provide the damage, loss, and needs for each sector covered in
+     this assessment. However, not every sector reported an estimate for each category due to the nature of
+     the sector, variations in impact, and data availability.
+
+     The PDNA uses the following key definitions, which are described in greater detail in the annex of the
+     Supplemental Report.
+
+     Damage is defined as direct costs of destroyed or damaged physical assets. It is valued in monetary terms
+     and costs are estimated based on replacing or repairing physical assets and infrastructure, considering
+     the replacement price prevailing before the crisis.
+
+     Based on the reported damage level, each asset was assigned a physical damage status based on
+     three classifications: no damage; partially damaged (less than 40 percent of the asset is damaged); or
+     completely destroyed (more than 40 percent of the asset is damaged, or the damage is structural). For the
+     damage estimation, the average was calculated based on the number of damaged facilities, their physical
+
+
+
+
+26   1. Post-Disaster Needs Assessment
+status (partially damaged or completely destroyed), and the estimated pre-crisis unit cost associated with
+each asset class.
+
+Loss is defined as changes in economic flows resulting from the disaster andit is valued in monetary
+terms. Together damage and loss constitute the “effects” of the crisis.
+
+Typical loss includes the decline in output in productive sectors and the lower revenues and higher
+operational costs in the provision of services (e.g., social or infrastructure sectors). They also include
+unexpected expenditures to meet immediate needs (e.g., the cost for additional doctors, teachers,
+vaccination campaigns, rubble removal, temporary shelters).
+
+Recovery and Reconstruction Needs costing draws on the monetary value of damage and loss, but they
+are not equal to the sum of those estimates. Recovery and reconstruction needs are calculated in terms
+of replacement costs according to current prices and include a premium linked to building-back-better
+principles (such as improved energy efficiency, modernization efforts, and sustainability standards) and
+needs associated with the recovery of the sector. Recovery needs take into account “softer” or non-
+infrastructure-related aspects, such as staffing, equipment, or materials required to bring assets and
+services back to the pre-crisis level. Needs also consider issues such as global inflation, surge pricing
+due to volume of construction materials, and higher insurance. The reconstruction and recovery needs
+include short (up to 12 months) and intermediate to long-term (up to five years) activities. While the needs
+estimate accounts for a build back better premium, it does not comprehensively include new and broader
+investments needed to strengthen Pakistan’s adaptation to climate change and overall resilience to future
+climate shocks, or reconstruction needs of affected private entities.
+
+
+
+
+Stakeholder Engagement
+
+
+A “Whole of Pakistan” approach was adopted for the PDNA, in which the team engaged with representatives
+and stakeholders from distinct spheres of Pakistani society. These engagements included a variety
+of individuals from national and local government authorities, UN agencies, local and international
+non-governmental organizations (NGOs), civil society organizations (CSOs), the private sector, youth
+organizations, academia, and donor agencies. This approach helped to inform the PDNA’s findings,
+analyses, and recommendations on the emerging needs and priorities of the affected population and the
+resilient recovery strategy presented in this report. Special attention was made to include stakeholders
+actively involved in the process of assessing damage, providing aid, and rehabilitating Pakistan. To
+stimulate discussion, smaller sector-specific breakout sessions were held after the plenary session to
+discuss technical details with stakeholders.
+
+The virtual Stakeholder Engagement Meetings, held on October 1 and organized by the Government of
+Pakistan and facilitated by core international partners, aimed to provide a platform for a participatory
+and inclusive process. The focus of these discussion extended beyond the humanitarian phase to include
+the linkages with the recovery phase. Stakeholders were asked to share their insights from the ground,
+including current relief activities, and priority recovery and reconstruction needs and suggestions for
+implementation of the identified sequenced priorities. Participants from CSOs across Pakistan provided
+
+
+
+
+                                                                               1. Post-Disaster Needs Assessment   27
+     feedback on the impact of the crisis, ongoing humanitarian and recovery activities, and future priority
+     recovery and reconstruction needs in the short, medium, and long term. Sector-specific conversations
+     were structured around three key questions:
+
+     • What humanitarian activities are currently ongoing in your sector that could be linked with future
+       activities to support longer-term recovery?
+     • What are the key priorities needed to promote recovery and restore services and livelihoods in your
+       sector in the short, medium, and long term?
+     • Suggestions for implementing the above considering the challenges as a result of the floods (capacity,
+       supply, and other constraints, etc.)?
+
+     The priority areas identified for recovery include supporting affected livelihoods; developing low-
+     cost solutions to quickly restore community-based and inclusive infrastructure, including shelter;
+     administering critical healthcare to flood-affected communities, especially to women; and employing
+     nature-based solutions where possible to improve future preparedness. Stakeholders highlighted the
+     need for community representation in relief, recovery, and rebuilding discussions, and for the data
+     collected and recovery plans formulated by CSOs to be consolidated by the government.
+
+     With respect to longer-term recovery, stakeholders from different sectors emphasized that ongoing
+     initiatives should be scaled up to support the recovery of vulnerable communities. This includes measures
+     such as low-cost, high-yield seeds in the agriculture sector; clean drinking water and sanitation; and
+     community-based, resilient infrastructure. Recovery should be carried out in a way that is inclusive of
+     marginalized groups, including women, persons with disabilities, and religious minorities.
+
+     Stakeholders agreed that there are significant challenges to recovery, of which financing was deemed the
+     foremost, given the scale and intensity of the damage. Some areas were also inundated for weeks after
+     the floods, hindering access to relief efforts and data collection. Stakeholders also highlighted the need
+     to tailor recovery and reconstruction strategies to different regions and contexts, utilizing indigenous
+     knowledge and integrating multi-hazard resilient repair and reconstruction to build back better. There
+     was also consensus surrounding promoting effective policies and enforcing regulations; building the
+     capacities of government and non-government bodies to adopt climate-smart interventions; and raising
+     community awareness about disasters and climate risks to bolster longer-term preparedness. Concerns
+     were also raised about areas with existing development deficits where infrastructure and services would
+     have to be established anew; a lack of mandatory contingency stocks; and the absence of baseline data
+     for several areas.
+
+
+
+
+     Limitations and Assumptions
+
+
+     Limitations
+
+     The below challenges were mitigated as much as possible through the design of the assessment
+     methodology and close cooperation between government authorities, international organizations, CSOs,
+     and private sector institutions.
+
+
+28   1. Post-Disaster Needs Assessment
+Data Availability: Some areas were still submerged during the assessment period, which limited the
+accuracy of data collection for certain sectors. The extent of the impact of the flooding was therefore not
+fully ascertained in those areas. While certain remote-sensing tools such as SAR were able to bypass
+this limitation, it was not utilized for every sector. However, the findings are not expected to increase
+significantly over time for most sectors.
+
+Lack of Baseline Information: The absence of baseline information at the district level was a challenge
+for certain sectors, making it difficult to systematically assess the effects of the disaster on sectors and
+services. The PDNA addresses this by collecting data from various sources, including population and
+census data, to formulate a baseline for each sector against which more recent data may be compared.
+
+Data Disaggregation: This report does not include gender disaggregated data or data disaggregated with
+respect to demographics due to unavailability of such data for this rapid assessment. It is nonetheless
+important to highlight that the disaster has created different challenges for recovery and access to
+services for women and girls.
+
+
+
+Assumptions
+
+Some specific assumptions are made for the purpose of this assessment:
+
+• Damage, loss, and needs are presented in PKR and US dollars. The exchange rate of US$1 = PKR 214.8
+  is used throughout the report.20
+• The PDNA is broad-brush in nature and not intended as a substitute for in-depth, sector-level
+  assessments which would be required for future recovery projects.
+• The PDNA assessment methodology is time-bound; however, damage, loss, and needs may be higher
+  than what is reported in the PDNA as certain areas are still inundated with water and the full extent
+  of the impact in those select areas is yet to be determined. However, the PDNA provides an estimate
+  on infrastructure and service delivery and the findings are not expected to increase significantly over
+  time.
+• The geographic and sectoral distribution were selected in coordination with the Government of
+  Pakistan and international partners based on areas and sectors that were most impacted. This does
+  not suggest that other areas or sectors were unaffected by the flooding.
+
+
+
+
+20 The average exchange rate of the State Bank of Pakistan of the first working day from June to September.
+
+
+
+
+                                                                                                1. Post-Disaster Needs Assessment   29
+     •
+
+
+
+
+     2. Building Back Better
+     for a Resilient Pakistan
+
+
+
+
+                                                 Photo credit: UNDP
+
+
+30   2. Building Back Better for a Resilient Pakistan
+Introduction
+
+
+The floods of 2022 have devastated people’s lives, assets, and
+livelihoods on an unprecedented scale. The disaster was triggered
+by the heaviest and most concentrated monsoon rains ever recorded
+in the country. Around 33 million people—one in seven—have been
+affected, including nearly 8 million displaced. An estimated 15
+million people remain directly exposed or close to flood areas. The
+floods have taken the lives of more than 1,700 people, one-third of
+which were children. As of October 11, 94 districts were declared
+as “calamity hit” by government authorities, which amounts to
+more than half of all districts in the country. The majority are in the
+provinces of Balochistan, Sindh, and KP.
+
+
+
+An Unprecedented Climate-induced Disaster
+
+Pakistan’s high vulnerability to climate change is a risk multiplier,
+compounding its human and economic development challenges.
+Pakistan ranks among the top 10 countries worldwide most
+affected by climate change.21 Extreme weather events have been
+increasing in frequency and intensity, impacting ecosystems,
+people, settlements, and infrastructure. The country is increasingly
+exposed and vulnerable to various natural hazards, particularly
+floods, tropical cyclones, droughts, landslides, and earthquakes.
+The ND-Gain Index has ranked Pakistan as the 39th most vulnerable
+country and the 27th least ready country in the world to address
+the impacts of climate change.22 The poor are the most vulnerable
+as they are the most reliant on agriculture, livestock, fisheries,
+forests, and groundwater, which are now heavily degraded. They
+are further most directly impacted by natural hazards and the slow
+onset of climate change.23
+
+
+
+
+21 Eckstein, David, Vera Künzel, and Laura Schäfer. 2021. “Global Climate Risk Index
+   2021.” Germanwatch Briefing Paper. https://www.germanwatch.org/en/19777.
+22 ND-GAIN Index (dataset). “Pakistan.” https://gain-new.crc.nd.edu/country/pakistan.
+23 Government of Pakistan. 2021. “Updated Nationally Determined Contributions
+   2021.”    https://unfccc.int/sites/default/files/NDC/2022-06/Pakistan%20Updated%20
+   NDC%202021.pdf.
+
+
+
+
+                                     2. Building Back Better for a Resilient Pakistan   31
+     In the summer of 2022, the country experienced its wettest August since 1961. Shortly after a record
+     heatwave and drought emergency, Sindh and Balochistan provinces were subject to unprecedented
+     rainfall, surpassing average monthly totals by six and seven times, respectively.24 Attribution research
+     has shown that the five-day maximum rainfall, which is a measure of heavy precipitation, of these two
+     provinces was around 75 percent more intense than it would have been had the climate not warmed by
+     1.2°C.25 Although further analysis is needed to understand the causes of the flood event, it is clear the
+     simultaneous riverine, urban, and flash flooding culminated in an unprecedented disaster, inundating
+     areas historically not prone to floods.
+
+
+
+
+     FIGURE 3. MAP OF FLOODING EXTENT AND INTENSITY
+
+
+
+
+     Source: Ipsos Risk Analytics/World Bank, September 2022.
+
+
+
+
+     24 Pakistan Meteorological Department. 2022. “Pakistan’s Monthly Climate Summary: August 2022.” Government of Pakistan. http://
+        www.pmd.gov.pk/cdpc/Pakistan_Monthly_Climate_Summary_August_2022.pdf.
+     25 World Weather Attribution. 2022. “Climate Change Likely Increased Extreme Monsoon Rainfall, Flooding Highly Vulnerable
+        Communities in Pakistan.” https://www.worldweatherattribution.org/wp-content/uploads/Pakistan-floods-scientific-report.pdf.
+
+
+
+
+32   2. Building Back Better for a Resilient Pakistan
+A Compounding Crisis
+
+
+The catastrophic flooding has triggered a cascade of crises and consequences are still unfolding.
+Crop and livestock loss, as well as displacement, have led to loss of livelihoods. Lost food stocks, poor
+harvests, and rising food prices will exacerbate food insecurity and nutrition outcomes. The prevalence
+of standing water, lack of safe drinking water, and limited access to sanitation and hygiene services
+are contributing to a rise in waterborne illnesses and further loss of lives. Prolonged school closures
+and lack of education access will have long-lasting impacts on learning outcomes. The extensive loss of
+livelihoods, assets, and human capital builds on existing disparities and will affect the most vulnerable
+and marginalized households, with disproportionate impacts on women and girls. The floods have
+also exacerbated long-standing structural weaknesses, posing risks to a sustained recovery. Ensuring
+macroeconomic stabilization while supporting relief and recovery is a complex challenge with worsening
+external conditions, including the rise of global commodity prices and interest rates.26 Political stability
+is critical for a coherent and timely response. As climate change accelerates the severity and frequency
+of disasters, institutional reforms and investments must go beyond business as usual and build systemic
+resilience. If transformational measures are not taken for a resilient recovery, the disaster will have
+multi-generational impacts through the reduction of developmental gains.
+
+
+
+
+Government and International Response
+
+
+The humanitarian response has been led by the Government of Pakistan, which established the NFRCC to
+oversee the national response to the monsoon rains and floods. The NFRCC comprises representatives of
+federal stakeholders, provincial governments, and the Pakistan Armed Forces. National-level government
+assistance is organized through the NFRCC. The Armed Forces and civil administration have been providing
+search and rescue and logistics and engineering support, while the National Disaster Management Agency
+is procuring relief supplies and coordinating bilateral in-kind donations for distribution through the Army,
+which has been mobilized under constitutional provisions.27
+
+The humanitarian situation continued to deteriorate in August as heavy rains continued to cause flooding
+and landslides. On August 5, the Ministry of Foreign Affairs officially requested humanitarian assistance
+from the UN and international community. On August 19, the government launched a PKR 37.2 billion flood
+relief cash program for 1.5 million affected families. On August 30, the Government of Pakistan and the
+UN jointly launched the 2022 Pakistan FRP, which highlighted the main humanitarian needs and outlined
+an action plan to respond to the immediate needs of the people. On October 4, a Revised Pakistan FRP was
+
+
+
+
+26 Details on the macroeconomic and human impact are detailed in Sections 3 and 4, respectively.
+27 Government of Pakistan and United Nation’s Office for the Coordination of Humanitarian Affairs. 2022. “Revised 2022 Flood Response
+   Plan: Pakistan.” https://reliefweb.int/report/pakistan/revised-pakistan-2022-floods-response-plan-01-sep-2022-31-may-2023-issued-04-
+   oct-2022?_gl=1*zi5z3w*_ga*MjIxMzMyMjcyLjE2NjQ4NTg0Nzc.*_ga_E60ZNX2F68*MTY2NjE5NzE5Ny44LjAuMTY2NjE5NzE5Ny42MC4wLjA.
+
+
+
+
+                                                                                      2. Building Back Better for a Resilient Pakistan    33
+     released, appealing for US$816 million to cover the most urgent needs of 9.5 million people. However, as
+     of October 21, only 13.7 percent of the requested amount has been funded.
+
+     Relief efforts have largely focused on the provision of shelter, safe drinking water, food items, and health
+     interventions amidst supply chain disruptions. The international community, as well as over 100 local and
+     international organizations, have provided aid, but accessibility due to standing flood waters, flood effects,
+     and complex topographies remain a major challenge. Although some areas have proceeded to an early
+     recovery phase, the scale and prolonged period of the ongoing disaster requires strategic coordination to
+     effectively link and transition from humanitarian response to recovery.
+
+
+
+
+     Pakistan’s Vision for a Resilient Recovery
+
+
+     The catastrophic floods are a wake-up call for systemic changes to address the underlying vulnerabilities
+     to natural hazards and their intersection with other shocks. At this critical point, swift action is necessary
+     for a paradigm shift to mainstream resilience to natural hazards in development planning and asset
+     management. This requires a participatory and inclusive approach, bringing together civil society,
+     government, private sector, academia, think tanks, and the international community around a common
+     vision. The diaspora will also be critical considering their role in remittances and long-term foreign
+     direct investments. Stakeholder engagement will therefore be necessary to inform the scope, design,
+     institutional arrangements, and a monitoring and accountability framework for a comprehensive resilient
+     recovery program. Such a program should prioritize the urgent needs of the affected population while
+     ensuring that results are delivered in an efficient, equitable, and transparent manner. Building on global
+     good practices of recovery and integrating the specific socioeconomic, cultural, and institutional context
+     of Pakistan through a people-centric approach will be crucial.
+
+
+
+     Disaster Recovery Framework
+
+     The vision rests on three key pillars and an underlying foundation. The strategic recovery objectives of
+     the framework and guiding principles of the vision, articulated below, will be critical.
+
+
+
+
+34   2. Building Back Better for a Resilient Pakistan
+FIGURE 4. RECOVERY AND RECONSTRUCTION VISION
+
+
+
+  VISION
+                 An inclusive and resilient recovery through a “Whole of Pakistan” approach, leading to
+                                  sustainable development for the people and country
+
+
+
+
+                                                    Recovery and                  Strengthening governance
+
+  PILLARS
+               Restoration of jobs and         reconstruction of critical          and stakeholder capacity
+                     livelihoods                 assets, services, and                for reconstruction,
+                                                    infrastructure                  especially communities
+
+
+
+
+  FOUNDATION
+                                                   Build Back Better
+                                      People-centered socioeconomic recovery
+                   Building systemic resilience against natural hazards and climate change impacts
+
+
+
+
+Recovery and Reconstruction Objectives
+
+The strategic recovery pillars will be supported by five strategic recovery objectives:
+
+• Enhancing governance and capacities of the state to restore lives and livelihoods of the affected
+  people, especially the most vulnerable.
+• Restoring livelihoods and economic opportunities.
+• Ensuring social inclusion and participation in all aspects of recovery and related development.
+• Restoring and improving basic services and physical infrastructure in a resilient and sustainable
+  manner.
+• Developing an enabling environment and facilitating private sector participation and financing.
+
+
+
+Guiding Principles to Support the Vision
+
+The following guiding principles will be critical to ensure recovery and reconstruction efforts take a
+consistent approach:
+
+• Participatory, inclusive, and green recovery for long-term resilience.
+• Pro-poor, pro-vulnerable, and gender sensitive, targeting the most affected.
+• Coordination of government tiers through centralized policy, planning, and coordination; and
+  decentralized implementation.
+• Invest in nature-based solutions and ecosystem-based adaptation measures.
+• Conflict-sensitive implementation.
+
+
+
+                                                                      2. Building Back Better for a Resilient Pakistan   35
+     •   Prioritize institutional and regulatory reforms to ensure sustainability.
+     •   Use of local materials, knowledge, skills, and labor.
+     •   Avoid relocation as much as possible.
+     •   Balance between public and private sector recovery.
+     •   Emphasis of synergies between humanitarian effort and recovery.
+
+
+
+     Next Steps
+
+     Enabling Policies and Institutional Arrangements: Two key steps are necessary in order to achieve the
+     vision and objectives:: (i) the notification of enabling recovery policies; and (ii) the finalization of appropriate
+     institutional and implementation arrangements. Sector-specific policies related to housing, agriculture,
+     and livelihoods are urgently needed as recovery is already fragmented. The appropriate institutional
+     and implementation arrangements should be based in good governance. The arrangements will need to
+     include special provisions for strategic oversight and decision-making; coordination, management, and
+     monitoring of operations; and transparency, accountability, and equity in resource allocation, especially for
+     priority recovery interventions. Institutional arrangements will also need to include citizen engagement
+     and ensure participation by civil society stakeholders.
+
+     The institutional and implementation arrangements are key to creating an enabling environment early in
+     the recovery process. Coordination of the different tiers of government, including between federal and
+     provincial governments, will be key. The institutional arrangement setup, financing, and implementation
+     arrangements will be undertaken through a combination of centralized coordination and planning, and
+     decentralized implementation. Central coordination is critical for setting standards, policies, and principles
+     to guide the recovery and ensure inclusiveness, transparency, and good governance. The institutional and
+     implementation arrangements are key to creating an enabling environment early in the recovery process.
+     Special arrangements to balance effective, consistent, and efficient processes in the recovery will be
+     important. This includes fiduciary requirements, such as fast-tracked time-based recovery plans and
+     corresponding investment approvals, and procurement processes.
+
+     Recovery Planning: The recovery framework should provide guidance on how the PDNA recommendations
+     will be operationalized by prioritizing the most affected sectors and interventions in the immediate and
+     short term (up to 12 months) and linking them with the medium to longer-term recovery and reconstruction
+     needs. Strategic prioritization of interventions across all sectors, along with stakeholder mapping and
+     resource mobilization planning, should be initiated. Prioritizing needs based on criteria, such as urgency,
+     institutional capacity, and financing feasibility, and developing financing plans and detailed recovery
+     action plans will also be necessary. The plan should prioritize the urgent needs of the affected population
+     and take an inclusive, participatory, and conflict-sensitive approach, ensuring an efficient, equitable,
+     coordinated, and transparent delivery that is led by the government and supported by the international
+     community. A coordinated transition from humanitarian response to recovery will be a complex yet critical
+     challenge. The recovery and reconstruction plan should be rooted in detailed analysis, including multi-
+     hazard risk assessments, which will be essential to understanding the underlying drivers of the flooding
+     and its long-term impacts. Embedding systemic resilience beyond reconstruction through investments
+     in physical, social, financial, and human capital will provide an opportunity for Pakistan to transform its
+     development trajectory.
+
+
+
+
+36   2. Building Back Better for a Resilient Pakistan
+3. Macroeconomic
+Impact Assessment
+
+
+
+
+                          Photo credit: UNDP
+
+
+             3. Macroeconomic Impact Assessment   37
+     The devastating floods of 2022 are expected to have a substantial negative impact on Pakistan’s economy.
+     Economic activity has been severely disrupted, and livelihoods have been impacted; poverty is expected
+     to increase significantly. The government will need to provide immediate relief to impacted communities
+     and support recovery, while simultaneously ensuring macroeconomic stability and fiscal sustainability.
+     This will present difficult policy tradeoffs in the context of challenging global economic conditions, high
+     government debt and debt service payments, and already-large domestic and external financing needs.
+     Evidence from previous natural disasters in Pakistan suggests that economic impacts may persist for
+     an extended period, with damages to the productive capacity of the economy reducing growth prospects
+     over the medium term.
+
+
+
+
+     Pre-floods Economic Scenario
+
+
+     Prior to the floods, Pakistan’s economy was facing difficult economic conditions and undergoing adjustment
+     measures to regain macroeconomic stability. Supported by accommodative macroeconomic policies,
+     the economy expanded by 6.0 percent in FY22. Strong domestic demand, coupled with low productivity
+     growth, high world commodity prices, and the global economic slowdown, contributed to severe external
+     imbalances. The current account deficit consequently reached 4.6 percent of GDP in FY22—the largest
+     in four years. The fiscal deficit (excluding grants) was also large at 7.9 percent of GDP in FY22. The large
+     current account and fiscal deficits, together with political and policy uncertainty, contributed to a loss of
+     investor confidence, leading to pressures on the exchange rate, foreign reserves, and domestic prices over
+     late FY22. To stabilize the economy and complement the ongoing monetary tightening, the government
+     began implementing a range of policies to constrain aggregate demand, including a contractionary budget
+     and increases in domestically administered energy prices. The federal government had targeted a fiscal
+     deficit of 4.9 percent of GDP and a primary surplus of 0.2 percent of GDP for FY23, down from the 7.9
+     percent fiscal deficit and 3.1 percent primary deficit in FY22. Real GDP growth was therefore expected to
+     slow significantly in FY23 prior to the floods, to around 3.5 percent.28 As a result of stabilization measures,
+     total public debt was expected to decline gradually from current high levels, while foreign exchange
+     reserves were expected to slowly accumulate.
+
+
+
+
+     TABLE 3. KEY MACROECONOMIC INDICATORS FY18–22 (YEAR-ON-YEAR, %)
+
+                                                                                FY18        FY19        FY20        FY21        FY22
+
+      GDP Growth (at factor cost)                                                  6.1         3.1       -0.9         5.7         6.0
+
+      Agriculture                                                                  3.9         0.9        3.9         3.5         4.4
+
+      Industry                                                                     9.2        0.2        -5.7         7.8         7.2
+
+      Services                                                                    6.0         5.0         -1.2        6.0         6.2
+
+
+
+
+     28 International Monetary Fund. September 1, 2022. “Pakistan: Seventh and Eighth Reviews under the Extended Arrangement under
+        the Extended Fund Facility, Requests for Waivers of Nonobservance of Performance Criteria, and for Extension, Augmentation, and
+        Rephasing of Access.” Press Release, Staff Report, Staff Statement, and Statement by the Executive Director for Pakistan.
+
+
+
+
+38   3. Macroeconomic Impact Assessment
+                                                                            FY18         FY19         FY20       FY21        FY22
+
+ Real GDP Growth (at market price)                                             6.2         2.5          -1.3       6.5         6.2
+
+ Private consumption                                                           7.2         5.6         -2.8        9.3        10.0
+
+ Government consumption                                                        5.5        -1.6          8.5        1.8        -3.4
+
+ Investment                                                                    9.9        -9.7         -6.1        4.7         2.9
+
+ Gross fixed capital formation                                               10.3        -11.1         -6.7        4.5         2.5
+
+ Public                                                                      18.5       -33.0         -12.9       11.9        12.7
+
+ Private                                                                       7.1        -1.7         -4.9        2.5        -0.5
+
+ Exports of goods and non-factor services                                    10.0         13.2          1.5        6.5         8.4
+
+ Imports of goods and non-factor services                                     15.7         7.6         -5.1       14.5        15.6
+
+ Consumer Price Index (CPI) Inflation                                          4.7         6.8         10.7        8.9        12.2
+
+ Current Account Balance (% of GDP)                                           -5.4        -4.2          -1.5      -0.8        -4.6
+
+ Fiscal Balance (% of GDP), excluding grants                                  -5.8        -7.9          -7.1      -6.1         -7.9
+
+ Public Debt, including govt. guaranteed debt (% of GDP)                      67.1       78.0          81.1       75.6        78.0
+
+Source: Pakistan Bureau of Statistics, State Bank of Pakistan
+
+
+
+
+Economic Impact of the Floods
+
+
+The floods are expected to have a substantial adverse impact on output, which will vary substantially
+by region and sector. The aggregate economic impact of the floods will, however, depend on the policy
+response. Substantial expenditures on relief, recovery, and rehabilitation could mitigate the loss in output
+at the potential cost of worsening fiscal and external imbalances.
+
+Overall damages are estimated at PKR 3.2 trillion (US$14.9 billion), equivalent to 4.8 percent of FY22 GDP.29
+The agriculture sector and industry sector each incurred one-quarter of the total damages, while the
+services sector accounted for nearly half of the total damages.
+
+Among the major economic sectors, agriculture sector value added is projected to decline the most, at 0.9
+percent of FY22 GDP, with floods causing the most losses to cotton, date, sugarcane, and rice crops. Around
+1 million livestock are also estimated to have perished.30 Furthermore, damages in the agricultural sector
+are expected to have spillover effects on the industry and services sectors. Flood-related cotton losses are
+expected to weigh on the domestic textile industry, as local cotton constitutes about half of the industry’s
+required cotton input. Textiles account for around one-quarter of total industry output and more than
+half of goods exports. Similarly, the local food processing and slaughtering industries will be negatively
+impacted by the expected reduction in food harvests and reduced supply of livestock. As a result, industry
+sector value added is expected to shrink by 0.7 percent of FY22 GDP. Similarly, lower agricultural and
+
+29 GDP at market prices at current prices for FY22 (PKR 66.9 trillion; US$31.1 billion).
+30 NDMA. October 19, 2022. “NDMA Floods (2022): Sitrep Report No.128.” https://cms.ndma.gov.pk/storage/app/public/situation-reports/
+   October2022/QECa7rSLzWINuxZFHrHV.pdf.
+
+
+
+
+                                                                                                 3. Macroeconomic Impact Assessment    39
+     industrial activity is likely to adversely impact wholesale and transportation services activities, which
+     account for around half of service sector output. In addition, transportation challenges arising from the
+     loss of critical infrastructure (e.g., roads and bridges) are expected to disrupt supply and further dampen
+     overall economic activity. Value added in the service sector is consequently projected to decline by 0.6
+     percent of FY22 GDP. Overall GDP decline as a direct impact of the floods is estimated to be around 2.2
+     percent of FY22 GDP.
+     The direct adverse impact of the floods on economic growth is expected to be partially mitigated by
+     fiscal measures undertaken by the government. A flood relief cash transfer scheme is underway, through
+     which 1.1 million targeted households are being provided with PKR 25,000 to meet emergency needs. In
+     addition, a temporary elimination of customs duties on essential items for flood-associated relief work
+     has been introduced. Additional budget allocations are expected to be required to meet relief and recovery
+     needs during FY23. Meanwhile, fiscal revenues are expected to be dampened by contracting tax bases,
+     suspension of some food import duties, and slower activity overall. In light of the greater expenditure
+     needs and lower revenue collections, the floods are expected to have a widening effect on the primary
+     and overall fiscal deficits.
+
+
+     The floods will also exacerbate existing external pressures. Around 50 percent of the required cotton input
+     for the local textile industry is sourced domestically. With reduced supplies of domestic cotton, cotton
+     imports are expected to increase to mitigate the shortage. Imports of food products, wheat, pulses,
+     construction machinery, and medicines are also expected to increase based on increased needs and
+     domestic shortages. Meanwhile, reduced exports of textiles, rice, fruits and vegetables, leather products,
+     cement, and sugar are expected to further widen the trade deficit. Based on the 2010 floods experience,
+     workers’ remittances are likely to increase and continue to play an essential role in financing household
+     consumption and the trade gap. Recent data on remittances recorded an inflow of US$2.7 billion during
+     August 2022, posting an increase of 1.6 percent year-on-year, up from a contraction of 7.7 percent for July
+     2022.
+     Inflationary pressures are expected to continue being elevated on account of rising food prices and the
+     weaker exchange rate. With the hike in government administered energy prices, headline CPI inflation
+     had soared to 27.3 percent and 23.2 percent in August and September 2022, respectively. Inflation could
+     increase further as food prices rise in response to crop damage, loss of livestock, and the disruption of
+     transport infrastructure critical for supplying agriculture output to markets. In the CPI basket of goods,
+     essential food commodities such as wheat, rice, chicken, meat, eggs, milk, and fresh vegetables make up
+     18.4 percent of the total urban CPI and 26.9 percent of the rural CPI. Increase in the prices of these items
+     due to their direct link to the domestic production of crops, poultry, and other livestock will ultimately
+     increase CPI. Price increases as measured by the Sensitive Price Index (SPI), which measures price
+     changes of selected essential items on a weekly basis, had been consistently rising through August,
+     reaching a peak of 45.5 percent for the week ending September 1. Within the SPI basket of goods, food
+     items that have recorded rapid increases in prices are tomatoes, onions, potatoes, eggs, and chicken.
+
+
+
+
+     Risks and Priorities
+
+
+     The floods are expected to have a substantial negative impact on Pakistan’s economy. Prior to the floods,
+     the economy was already facing a difficult adjustment to regain macroeconomic and fiscal stability.
+     Implementation of government plans for the necessary fiscal consolidation is likely to become more
+
+
+
+40   3. Macroeconomic Impact Assessment
+challenging given extensive relief and recovery spending needs and slower growth of tax bases due to
+weaker economic activity. While targeted relief measures are needed to cushion the human and economic
+impacts of flooding, delays in fiscal consolidation will heighten risks to macroeconomic and fiscal stability
+in the context of the high inflation and fiscal and current account deficits. Similarly, monetary policy
+should necessarily be maintained at the current tight stance given the overheating economy, extremely
+high inflation rates, and exchange rate depreciation pressures.
+
+The full economic impact of the floods remains unknown as the situation is still evolving. Large areas
+remain inundated, hindering on-the-ground damage assessments. Estimates of flood impacts could
+therefore worsen as more information becomes available from previously inaccessible areas, or through
+further crop and livestock losses due to shortages of animal feed, disease, or impacts on the next
+planting season. Economic challenges would intensify with worsening flood impacts and with delayed or
+inadequate response efforts.
+
+Largely due to high persistent fiscal deficits, the financial sector has a large exposure to government
+securities, intertwining its health with the fiscal resilience of the government. Per regulations, bank
+holdings of government papers need to be “marked-to-market” or revalued daily in response to changes
+in interest rates in the secondary markets. As interest rates have been increasing, banks are exposed
+to interest rate risks on their government securities and have started to incur sizable losses on their
+government-investment portfolios. Flood-related losses have also exposed the microfinance sector to
+significant downside risks both in terms of profitability and stability in the immediate to medium term. In
+addition, unanticipated fiscal financing needs are expected to be largely met from domestic borrowing,
+possibility contributing to further crowding-out of private sector financing, increasing debt servicing
+costs, and strengthening the sovereign-financial nexus and associated risks.
+
+To manage short-term risks, the government needs to strike a delicate balance between progressing
+on the required fiscal consolidation and meeting targeted relief and recovery needs. In the context of
+high domestic and external financing needs, ongoing political uncertainties, and upcoming elections,
+maintaining market confidence will be critical. Clearly articulating and effectively implementing an
+economic recovery could help manage market perceptions. It will be critical to maintain a tight monetary
+policy stance; pursue fiscal consolidation to the extent possible, including through the tight targeting and
+prioritization of any new expenditures; and proceed with planned structural reforms, including in the
+energy sector.
+
+Given Pakistan’s limited fiscal resources, significant international support and private investment will
+be essential for a comprehensive and resilient recovery. The Pakistani authorities are committed to
+accelerate reforms to generate additional domestic fiscal resources and improve efficiency and targeting
+of public spending. Beyond the immediate needs of floods reconstruction, these reforms, while protecting
+the most vulnerable, will be important to generate fiscal space to invest more broadly into more climate-
+resilient infrastructure and adaptation to climate change, as well as to build buffers to face future shocks,
+while addressing macroeconomic imbalances. This commitment of the Government will also be key to
+mobilize further international support as well as to unlock private sector sources of financing—both of
+which will be absolutely critical to face the current climate change-induced shock.
+
+
+
+
+                                                                              3. Macroeconomic Impact Assessment   41
+     4. Human Impact
+     Assessment
+
+
+
+
+                                  Photo credit: UNDP
+
+
+
+42   4. Human Impact Assessment
+The size and duration of shocks will vary across locations and
+households. This is dependent on the intensity of the flooding
+and the time it takes for the water to recede, the pre-floods
+socioeconomic status of the household, and the quality of relief and
+reconstruction efforts. Even in the best-case scenario, reversing
+these negative shocks to household welfare will take considerable
+time; and some losses, such as losses to human capital and loss
+of land productivity, could set in motion more durable declines in
+welfare and will require specific attention.
+
+Prior to the floods, many of the calamity-hit districts already
+suffered from higher monetary and non-monetary poverty,
+especially among households in rural areas. Moreover, higher
+stunting rates in these districts undermined progress toward better
+development outcomes.31 In 2018–19, 21.9 percent of the population
+(around 50 million people) lived below the national poverty line.
+Beyond the national average, rural poverty was more than twice as
+high as urban poverty (28.2 percent compared to 10.9 percent), and
+four out of five poor households lived in rural areas.32 Households
+in calamity-hit districts were more impoverished than the national
+average (31.4 percent compared to 21.9 percent), and poverty rates
+for many flood-affected districts in Sindh and Balochistan were
+much higher. For instance, district-level poverty rates for calamity-
+hit districts in Balochistan ranged from 26.3 percent in Kohlu to
+75.8 percent in Khuzdar; and for Sindh, from 15.0 percent in
+Hyderabad to 53.4 percent in Badin. Out of the 25 poorest districts
+in the country, 19 were calamity-affected.
+
+Non-monetary measures of poverty suggest that during the pre-
+flood period, households in calamity-hit districts also experienced
+worse living standards and gaps in access to utilities. These
+households were likelier to live in katcha or katcha/pucca homes
+(made entirely or partially of mud and unbaked bricks), which
+heightened their vulnerability to disasters such as flooding.
+Furthermore, 15.7 percent of people in calamity-hit districts lacked
+access to electricity, compared to 9.3 percent nationally. Households
+were also more likely to lack access to basic sanitation facilities and
+clean water. In calamity-hit districts, 11 percent did not have access
+to clean water, almost twice the national average of 6.5 percent.
+
+
+
+31 This section is largely based on survey-based estimates; given restrictions in
+   access the data, the analysis only describes outcomes for 75 calamity-hit districts
+   in Punjab, KP, Sindh, and Balochistan.
+32 Beyond spatial differences in poverty rates, female-headed households are on
+   average poorer than those headed by men.
+
+
+
+
+                                                         4. Human Impact Assessment      43
+     Beyond monetary and non-monetary poverty, areas affected by the floods showed some of the highest
+     stunting rates in the country. Stunting is worse in rural areas and among poor households that lack
+     adequate water and sanitation facilities. Sindh and Balochistan stand out at the province level.33 Similarly,
+     vast differences can be seen among districts, where district-level stunting rates of over 50 percent are
+     commonplace. In addition, estimates suggest that on average, 20 percent of the households in flood-
+     affected areas were moderately or severely food insecure,34 which is above the national average of 16
+     percent.35 Among provinces, the highest proportion of people food insecure are in Sindh with 22.3 percent
+     (3.9 million people) and Balochistan with 22.7 percent (1.6 million people).
+
+     Higher poverty rates in calamity-hit districts reflect lower productivity and more limited resilience
+     arising from deficits to their human capital endowment, and constraints in access to opportunities in
+     labor markets. Before the 2022 floods, these overlapping deprivations made households and individuals
+     more vulnerable to natural hazards and, ex-post, exposed them to further risks to either fall deeper or
+     remain behind permanently. For instance, the Human Capital Index (HCI) for Pakistan suggests that a
+     child born today will be 41 percent as productive when they grow up as they could be if they enjoyed
+     complete education and full health. This is lower than the average for the South Asia region and lower
+     middle-income countries. Due to lower school attendance rates in Balochistan and KP, Due to lower
+     school attendance rates and worse health outcomes in Balochistan and KP, the HCI is likely to be lower
+     in calamity-hit districts than the rest of the country.36 In addition, prior to the floods, less than half of the
+     population had adequate health care coverage. At the national level, the percentage of women availing
+     postnatal care was only 33 percent and child mortality was high.37 Nationwide, close to 22 million children
+     aged five to 16 years were out of school during 2019/20.
+
+     Employment in the calamity-hit districts was mainly concentrated in rural areas at 16.3 million people,
+     representing nearly 75 percent of all employment in these districts. The latest figures from the Labour
+     Force Survey 2020–21 suggest that 43 percent of the employed population (around 9.4 million people)
+     worked in the agriculture sector in the affected districts, which is above the national average of 38.5
+     percent. In terms of employment status, many of the employed population in these districts were in
+     vulnerable forms of employment, including own-account workers in the agriculture and non-agriculture
+     sectors (3.6 million and 2.3 million people, respectively), contributing family workers in agriculture (4.1
+     million), and casual paid employees (3.5 million people), with only 4.7 million people employed in somewhat
+     secure forms of employment. In addition, in the flood-affected areas, 80 percent of those employed are
+     men, thus revealing significant gender disparities.38
+
+     The 2022 floods are expected to have a profound impact on lives and livelihoods. The assessment focuses
+     on the direct impact of the floods and accounts for changes in household welfare arising from damage
+     and loss, and disruption to basic services, in the aftermath of the floods. The impact on household welfare
+     will come through at least four channels: (i) loss of household income and employment/livelihoods due
+
+
+     33 Figures are estimated from the provincial Multiple Indicator Cluster Surveys: Balochistan 2010; Punjab 2011, 2014, 2017; Sindh 2014;
+        KP 2016, 2019.
+     34 Estimates based on Food Insecurity Experience Scale.
+     35 Government of Pakistan. 2021. “Pakistan Social and Living Standard Measurement Survey Report 2019–2020.” Pakistan Bureau of
+        Statistics.
+     36 Girls have less access to health and education services than boys do, potentially decreasing their earning potential and increasing
+        their vulnerability to poverty as adults. ADB. 2010. “Sindh Growth and Rural Revitalization Program.” https://www.adb.org/sites/
+        default/files/linked-documents/41545-02-pak-sprss.pdf.
+     37 According to the Pakistan Demographic Health Report, under-five mortality rate was 74 deaths per 1,000 live births, infant mortality
+        rate was 62, and the neonatal mortality rate was 42.
+     38 Women make up 68 percent of the agriculture labor force. See: Government of Pakistan. 2022. Labour Force Survey 2020–21.”
+        Pakistan Bureau of Statistics. https://www.pbs.gov.pk/sites/default/files/labour_force/publications/lfs2020_21/LFS_2020-21_Report.
+        pdf. For more details on the impact of the floods on employment, livelihoods, and incomes, please refer to the Social Protection,
+        Livelihoods, and Jobs subsection in Section 5.
+
+
+
+
+44   4. Human Impact Assessment
+to destroyed harvest, killed livestock, or inactivity of businesses; (ii) loss of assets, including homes,
+livestock, productive equipment, and household durables; (iii) rising food prices due to shortages of food
+arising from lost food stocks and poor harvests; and (iv) loss of human capital, given the significant threat
+of disease outbreaks and food shortages, and prolonged school closures, with attendant learning losses.
+
+Preliminary estimates suggest that the national poverty rate will increase by 3.7 to 4.0 percentage
+points, pushing between 8.4 and 9.1 million people into poverty, as a direct consequence of the floods.
+Similarly, multidimensional poverty will increase by 5.9 percentage points, meaning that an additional 1.9
+million households will be pushed into non-monetary poverty. Estimates focus on the short-term impact.
+Depending on location and design of relief and reconstruction, the impact may vary. Beyond the national
+average, poverty in Sindh would increase by between 8.9 and 9.7 percentage points, and in Balochistan
+by between 7.5 and 7.7 percentage points. Moreover, the depth and severity of poverty will increase for
+households that were already poor prior to the floods. The poverty gap has substantially increased, with
+the number of extremely poor people living more than 20 percent below the poverty line increasing from
+18 to 25–26 million.
+
+Beyond the increase of monetary poverty, estimates indicate an increase in multidimensional poverty
+from 37.8 percent to 43.7 percent, meaning that an additional 1.9 million households will be pushed into
+non-monetary poverty. This entails significant increased deprivations around access to adequate health,
+sanitation, quality maternal health care, electricity, and loss of assets. Multidimensional poverty will
+increase by 13 percentage points in KP, followed by 10.9 in Balochistan, and 10.2 in Sindh.
+
+Vulnerable groups such as women, children, people with disabilities, and refugees are likely to be
+disproportionally affected by the floods given their dire circumstances and limited access to social
+protection and coping mechanisms. The impact of the floods is likely to exacerbate already existing
+gender inequalities, revealing serious differences in safety, education, decision-making, and employment.
+More than 800,000 Afghan refugees currently live in calamity-hit districts in Pakistan. These refugees
+are likely to be poorer than community members, have fewer assets (including land), and live in camps
+with poor basic services, and depend on humanitarian assistance. Furthermore, 3.8 million people with
+disabilities live in the calamity-hit districts. People with disabilities are often marginalized, economically
+disempowered, and face discrimination in education, employment, housing and transport, and other
+social services.39
+
+Beyond the increase of monetary poverty, the 2022 floods will have a detrimental impact on human
+development outcomes, potentially deepening existing inequities across households and individuals. The
+floods will trigger substantial losses to human capital (education and health) with increased incidence of
+stunting and learning losses, which will have a long-lasting impact on productivity and resilience unless
+addressed during the rehabilitation phase. An additional 1.2 million households with children between
+six and 11 years of age will be prevented from attending school, with girls’ education disproportionately
+deprioritized at the household level. This will significantly disrupt, and in some cases effectively halt, their
+formal education. In addition to learning loss, school closures have impacted children’s mental health,
+reduced their access to a regular source of nutrition, and increased their risk of abuse. This situation
+further increases young girls’ vulnerabilities and chances of unintended pregnancy and early and forced
+marriages.
+
+In addition, recent gains in infant and maternal health may be reversed, undermining efforts to reduce
+poverty. There will be an increase in the proportion of households deprived of access to health facilities
+
+39 For more details on vulnerable groups, please refer to the Social Sustainability, Inclusion, and Gender subsection in Section 5.
+
+
+
+
+                                                                                                           4. Human Impact Assessment   45
+     (such as clinics and basic health units) from 31.4 percent to 34.9 percent, representing an additional
+     1.2 million households. As a result, an additional 5.5 million households with children under five will
+     not be fully immunized, leaving children at risk of deadly and preventable diseases. An additional 2.8
+     million households with newborns will be deprived from ante-natal check-ups and post-natal care.
+     Furthermore, 1.5 million households will be deprived of clean water and sanitation, placing more pressure
+     on overstretched healthcare services, thus perpetuating a vicious cycle of disease and poverty. Women
+     will be disproportionately impacted given their role as water and solid waste managers at the household
+     level and as caregivers.40 The floods will likely aggravate the burden on women’s duties and increase their
+     vulnerability in terms of both health and personal safety.
+
+     Preliminary estimates suggest an additional 7.6 million people face food insecurity at the national level,
+     increasing from 7 million to 14.6 million people, as a result of loss of production and price increases. The
+     highest number of food insecure people are in Sindh (8.2 million), followed by Balochistan (2.4 million), KP
+     (2.3 million), and Punjab (1.7 million). Expected delays in the sowing of rabi41 crops, particularly wheat, are
+     likely to further reduce food availability and drive price increases in the coming months, making access
+     to food more difficult, particularly for low-income groups in hard-hit areas.
+
+     Food shortages and widespread disease, associated with increased deprivations of access to safe
+     drinking water and sanitation, will likely have a significant impact on stunting rates in the long term.
+     Regression analysis on stunting suggests that lacking an improved source of drinking water can increase
+     the likelihood of stunting by 9 percent. Lack of adequate sanitation also increases the possibility of
+     stunting by 4 percent. Children from the poorest households (lowest 20 percent wealth status) face the
+     brunt of poor nutritional status, with a 43 percent likelihood of being stunted. A mother’s body mass index
+     (BMI) is crucial to a child’s nutritional status. Children of mothers with a low BMI are 40 percent more
+     likely to be stunted.
+
+     Women in particular have suffered notable losses to their livelihoods, particularly associated with
+     agriculture and livestock, with attendant negative impacts on their economic empowerment and well-
+     being. The floods have increased women’s vulnerability to gender-based violence (GBV) due to aggravated
+     household tensions, harassment, and abuse related to displacement and lack of secure infrastructure.
+     Rates of early and forced marriages often increase in the wake of crises and economic security. The
+     United Nations Population Fund estimates that 640,000 adolescent girls during the current crisis are
+     vulnerable and at increased risk of coercions, GBV, and child marriage. Moreover, some other groups of
+     the population might experience disproportional losses, including refugees and displaced persons from
+     Afghanistan, since they are inadequately covered in national household surveys.42
+
+     In response to the floods, many individuals and households will experience a deterioration of their living
+     standards and circumstances. Interventions should provide immediate relief to those most in need, and
+     the recovery must address the vulnerabilities of those most affected to strengthen the inclusive character
+     of the recovery.
+
+     In the immediate aftermath of the floods, social assistance and emergency cash transfers will play an
+     essential role in compensating households for damage and loss of livelihoods, assets, and rising prices,
+
+
+     40 Women already spend 10 times the hours as men in unpaid care work. See: United Nations Development Programme. March 12,
+        2021. “Womenomics: Women Empowering the Economy.” Special Edition Report, Development Advocate Pakistan. https://www.undp.
+        org/pakistan/publications/womenomics-women-powering-economy-pakistan.
+     41 Rabi crops are agricultural crops that are sown in winter and harvested in spring.
+     42 For more details on the impact of the floods on vulnerable groups, please refer to the Social Sustainability, Inclusion, and Gender
+        subsection in Section 5.
+
+
+
+
+46   4. Human Impact Assessment
+especially for food. Cash transfers can also help prevent households from engaging in negative coping
+strategies, including child labor.
+
+The provision of emergency health services, with a particular focus on children and women, needs to
+address a looming health crisis. The increased risks arising from waterborne diseases such as cholera,
+malaria, and dengue, and the collapse of safe sanitation and limited access to nutrition could have long-
+lasting implications for inclusive growth (including a rise of stunting rates). Particular attention should
+be given to pregnant women, lactating mothers, newborns, children under five, immunocompromised
+persons, and patients with chronic diseases, including people with disabilities and the elderly, whose pre-
+existing conditions are further aggravated (or whose drug adherence was compromised) by the lack of
+access to drugs and health services as a result of the floods.
+
+Finally, programs and policies to support recovery need to reach the worst affected geographic areas
+and all types of households. Livelihood assistance could support future income generation. Grants,
+especially to smallholder farmers, could secure their survival, while also contributing to future food
+supply. International evidence suggests that labor-intensive construction works, such as cash-for-work
+schemes in infrastructure rehabilitation, will be important to support livelihood restoration and income-
+generating opportunities. Such schemes should include technical facilitation and skills development on
+climate adaptation and resilience building.
+
+
+
+
+                                                                      Photo credit: PRIDE - SIA Pakistan
+
+
+
+
+                                                                                     4. Human Impact Assessment   47
+     5. Summary of
+     Sector Reports
+
+
+
+
+48   5. Summary of Sector Reports
+Photo credit: UNDP
+
+
+
+5. Summary of Sector Reports   49
+              Social
+
+
+
+
+                       Photo credit: UNDP
+
+
+
+50   Social
+Housing
+
+
+Damage: PKR 1,200 billion (US$5,586 million)
+Loss: PKR 137 billion (US$636 million)
+
+The 2022 flooding caused widespread destruction of housing and human settlements. In the 94 calamity-
+hit districts, approximately 780,000 houses were destroyed and more than 1.27 million houses were
+partially damaged. Rural houses were particularly impacted, and the extent of damage incurred to katcha
+houses has been higher than that to pucca houses. Among provinces, the housing stock in Sindh has been
+the worst affected, accounting for 83 percent of the total housing damages. The damage to houses not
+only caused significant loss of household assets, but a severe disruption to family life. Housing losses
+caused large-scale displacement with associated risks, including to health.
+
+Recovery and Reconstruction Needs: PKR 592 billion (US$2,757 million)
+
+Reconstruction should be an opportunity to build not just safer homes, but resilient communities, villages,
+and cities. The needs estimate is largely premised on the subsidy required to support a core housing unit of
+one room, which includes a kitchen and toilet rebuilt to an appropriate and affordable hazard-and climate-
+resilient standard. Any additions to the core unit may be added by the owners. Housing reconstruction
+should have a longer-term horizon and be supported by better planning and development regulations,
+coordinated service delivery, and stronger capacity of communities and government institutions to
+manage disaster and climate risks. The priority interventions in the immediate to short term should
+be to develop housing and settlement recovery policies and institutional arrangements to coordinate
+stakeholders and service delivery, and to plan and manage implementation. Communities require prompt
+technical guidance and support where flood water has already receded, and over a sustained period
+where reconstruction is protracted.
+
+
+
+
+Education
+
+
+Damage: PKR 120 billion (US$559 million)
+Loss: PKR 47 billion (US$219 million)
+
+The 2022 floods caused unprecedented cumulative damage and loss to the public education sector. In
+the assessed districts, the entire span of education services, from pre-primary to lifelong learning, has
+suffered. The floods have impacted approximately 17,205 public schools (primary to higher secondary),
+colleges, special education centers/schools/institutions, technical and vocational education and training
+centers, and universities. At least 6,225 education institutions were assessed as fully damaged and
+10,980 as partially damaged. This has affected some 94,478 teachers and 2.6 million enrolled students
+
+
+
+
+                                                                                                      Social   51
+     (of which over 1 million are estimated to be female students). School education (pre-primary to higher
+     secondary) suffered the most, with a 97 percent share of all damaged education institutions affecting an
+     estimated 2.4 million students. Within school education, the damage to primary schools is highest with
+     an 80 percent share of all damaged institutions, affecting 1.1 million students.
+
+     Recovery and Reconstruction Needs: PKR 197 billion (US$918 million)
+
+     The roadmap for recovery includes an immediate focus on the resumption of learning through alternative
+     or temporary learning spaces to mitigate risks to children and adolescents’ education, protection, and
+     well-being. This is particularly important as the reconstruction and repair of accessible, safe, secure, and
+     inclusive education institutions will continue into the medium to long term. Ensuring quality education
+     should be prioritized throughout all recovery phases, including the need to assess learning losses, plan
+     for learning recovery, establish systems to track students’ access and learning, and continuous education
+     and support for teachers to adapt to new conditions. Recovery strategies should also emphasize the
+     need to strengthen disaster preparedness and response at all levels through disaster risk management
+     training and emergency response planning in the medium term and incorporating disaster resilience in
+     education sector planning and implementation in the long term.
+
+
+
+
+     Health
+
+
+     Damage: PKR 23 billion (US$109 million)
+     Loss: PKR 7 billion (US$34 million)
+
+     The 2022 floods affected close to half of the country, damaging 13 percent of the health facilities, which
+     in turn interrupted health service delivery from the community level (primary healthcare including
+     Rural Health Centers and Basic Health Units) through the secondary level (District Headquarters,
+     Tehsil Headquarters, and Civil Hospitals). More than one-fifth of affected facilities were fully damaged.
+     Malnutrition, which was already dangerously high, has substantively increased. Around 650,000 pregnant
+     women are facing challenges in getting access to maternal services, while nearly 4 million children lack
+     access to health services. Pakistan is experiencing substantive increases of communicable diseases such
+     as acute diarrhea, cholera, malaria, and dengue. Disruption in health service delivery will increase health
+     inequities for the poor and disadvantaged due to hindered access to services such as immunizations,
+     routine medical care including medication for chronic disease, maternal and child health services, as well
+     as risk of higher out-of-pocket health expenditures.
+
+     Recovery and Reconstruction Needs: PKR 40 billion (US$188 million)
+
+     This analysis, which was limited to the public health system only, accounts for the: (i) reconstruction of
+     health infrastructure with improved resilient capacities for PKR 27.1 billion (US$126 million); (ii) immediate
+     additional needs for resumption of health services, including an urgent response to outbreaks of vaccine-
+     preventable and communicable diseases, which will be the top priority followed by earliest resumption
+     of essential healthcare to affected populations for a total of PKR 5.8 billion (US$27 million); and (iii) use of
+     prefabricated facilities and the use of mobile clinics to reach the most vulnerable communities for a total
+
+
+52   Social
+of PKR 7.2 billion (US$34 million). Immediate action is required to restore essential service delivery and
+critical public health functions, particularly disease outbreak surveillance in affected districts, to minimize
+the impact of the disaster on health of population. For the medium and long term, there is need to build
+resilient health systems and infrastructure to enhance the readiness to respond to crises (infectious disease
+outbreaks, natural hazards), while also maintaining core functions of health systems.
+
+
+
+
+Culture and Heritage
+
+
+Damage: PKR 1.3 billion (US$6.1 million)
+Loss: PKR 1.4 billion (US$6.7 million)
+
+The 2022 floods severely impacted the culture sector across Pakistan. Early estimates indicate at least
+149 sites, including two World Heritage Sites in Sindh, have suffered partial but considerable damage
+across the assessed areas. In addition, numerous Buddhist stupas, Hindu temples, and tombs of pre-
+and post-Islamic dynasties have suffered extensive damages. Religious sites in active use, including
+mosques, shrines, and dargahs, have also been extensively damaged. While movable heritage and cultural
+repositories have remained largely unscathed, the affected sites are in danger of further deterioration
+as stagnant floodwater in some areas is affecting foundational stability and structural integrity. Many of
+the impacted sites are historically and culturally significant, and deterioration and damage to the sites
+will negatively affect visitor numbers and revenue from ticket sales, and indirect earnings for the food,
+hospitality, and tourism sectors. Built heritage is almost always accompanied by intangible cultural
+heritage in the communities that live around the site, forming not only the foundation of social systems,
+but also supporting livelihoods. Damaged heritage sites, loss of income, displacement, and possible
+migration to urban centers will continue to result in heavy, often irreparable losses to the tangible and
+intangible cultural heritage of Pakistan.
+
+Recovery and Reconstruction Needs: PKR 1.8 billion (US$8.5 million)
+
+Immediate to short-term measures include detailed damage assessment and funds mobilization. Urgent
+stabilization measures must then be carried out at the most fragile sites, with the support of appropriate
+equipment, material, and trained expertise. Medium-term measures must focus on the capacity building
+of heritage management staff to better equip them to implement urgent stabilization measures and
+emergency preparedness response for the current and future natural disasters. Long-term measures
+include the inclusion of indigenous knowledge into mainstream practices, such as water management
+systems and sustainable building practices, to establish more climate-resilient societies and to safeguard
+intangible cultural heritage. Improved flood protection mechanisms for heritage sites in vulnerable areas
+must be established. Policy actions required in the long term include stricter enforcement of construction,
+conservation, and protection regulations for heritage sites. Early warning systems, protective measures, and
+evacuation plans for vulnerable sites and movable heritage during known high-risk periods (e.g., monsoon)
+must be established. Regular training of staff to build capacity in global best practices as well as indigenous
+knowledge for protective measures against climate-induced calamities are also necessary. There is a dire
+need to collect data, build provincial and national inventories for cultural heritage, and include contributions
+of the culture and creative industries to national GDP.
+
+
+
+                                                                                                          Social   53
+                Infrastructure
+
+
+
+
+                                 Photo credit: UNDP
+
+
+
+54   Infrastructure
+Transport and Communications
+
+
+Damage: PKR 701 billion (US$3,264 million)
+Loss: PKR 60 billion (US$281 million)
+
+The main impact in this sector has been on roads, railways, bridges, and telecommunications
+infrastructure. Initial estimates suggest that approximately 8,330 kilometers of roads (about 3.2 percent
+of total in-service roads) and 3,127 kilometers of railway track (around 40 percent of total in-service
+railways) have been damaged to various extents due to the floods. The railway sector has been the most
+impacted, given its large pre-flood maintenance backlog. Telecommunications infrastructure damage
+includes damage to fiber optic transmission lines, feeder cables, and in some cases transmission towers.
+Sindh has sustained the highest damages, followed by Balochistan and KP.
+
+Recovery and Reconstruction Needs: PKR 1,073 billion (US$4,994 million)
+
+The needs estimates factors in post-flood escalation and costs for building back better and smarter to
+ensure muti-hazard disaster resilience of investments. Most roads and railways have been temporarily
+restored in the damaged sections so that traffic can resume. Temporary steel bridges were launched
+on an emergency basis and diversions were created to restore access and connectivity for sections
+that were washed away. However, some road and rail sections in central Sindh remain inundated and
+operations suspended. For the short term, priority ought to be given to restoring critical transport
+links (railways, roads, bridges) where operations are suspended, to restoring basic connectivity, and to
+replacing temporary works with permanent repairs where damages are minor. For the medium to long
+term, investments should be prioritized to reconstruct and rehabilitate the core national and provincial
+transport corridors carrying the highest volumes (road and rail), and road sections in the production hubs
+of the affected area (livelihood restoration). The resources should then progressively shift toward complete
+rehabilitation of secondary corridors and rural roads. The vulnerability and risk assessment data should
+also be used by the Pakistan Telecommunication Authority to ensure that the damaged infrastructure of
+telecommunication companies is restored to climate and disaster resilience standards as a functioning
+telecommunication system is critical for the efficacy of early warning systems and emergency response.
+
+
+
+
+Energy
+
+
+Damage: PKR 19 billion (US$88 million)
+Loss: PKR 0.5 billion (US$2.5 million)
+
+For the petroleum sector, the total reported damages are PKR 2 billion (US$9.3 million). Damage in
+the petroleum sector is primarily reported from the impairment of the transmission and distribution
+
+
+
+
+                                                                                              Infrastructure   55
+     pipeline network of Sui Southern Gas Company (SSGC) in Sindh and Balochistan provinces. In the power
+     sector, most of the direct damage is to the distribution network and the hydroelectric power generation
+     stations. Due to distribution network outages, most of the affected population in Sindh, Balochistan,
+     southern Punjab, and KP suffered from electricity blackouts. Damage was also observed in several
+     micro- and mini-hydroelectric power generation facilities; although this will have minimal impact on
+     national generation capacity, it will nonetheless adversely affect many remote communities that are
+     serviced solely by these facilities. In the petroleum sector, major damage has been reported to buildings
+     infrastructure in Balochistan and Sindh. The distribution pipelines of SSGC have been partially damaged,
+     up to 14.5 kilometers in Balochistan and 2.8 kilometers in Sindh. In addition, two gas distribution pipelines
+     to Quetta—the provincial capital of Balochistan have also been damaged. The refineries and oil and gas
+     exploration companies have not reported any damages or losses due to the floods as these are covered
+     under the insurance policy subject to a certain percent of deductibles.
+
+     Recovery and Reconstruction Needs: PKR 25 billion (US$117 million)
+
+     The power sector utilities have already restored electricity wherever possible. However, the restoration
+     cost has still been included in the needs for the power sector as the partial restoration carried out by the
+     public sector power companies does not take into consideration the disaster vulnerability and related
+     resilience requirement of restored infrastructure. It is imperative that the distribution network design is
+     reviewed to make it more resilient to natural hazards such as floods and other disasters. The rehabilitation
+     of micro- and mini-hydroelectric power plants mostly managed by communities has higher needs to
+     ensure climate and disaster resilient designs and reconstruction, as they lack any options to access
+     alternate sources of electricity in cases of disruption, which directly impacts livelihoods and access to
+     education and facilities. Key recommendations include: (i) fast-track infrastructure restoration by allocating
+     resources by utilizing existing stores and spares, and mobilizing existing civil works contractors of power
+     utilities; (ii) immediately undertake vulnerability and risk assessment of damaged infrastructure both in
+     the public sector and community infrastructure and advise revised design parameters to be used during
+     complete restoration process; (iii) fast-track procurement for replenishment of stores and spares, and
+     complete resilient restoration; and (iv) establish and implement standard operating procedures during
+     emergencies and natural catastrophes. Recommended policy actions for the energy sector include:
+     (i) establishing policy for unrecovered receivables from customers in the affected areas and subsidy/
+     financing for reconstruction of damaged community infrastructure; and (ii) policy for compensation to
+     public sector companies for providing subsidized electricity or gas facilities during the emergency phases.
+
+
+
+
+56   Infrastructure
+WASH, Municipal Services,
+and Community Infrastructure
+
+
+Damage: PKR 123 billion (US$575 million)
+Loss: PKR 24 billion (US$112 million)
+
+There has been damage to more than 7,060 schemes, including 4,344 water supply schemes and
+2,716 sanitation (including drainage, pavement, and solid waste) schemes in the public sector, of which
+almost 84 percent are managed by the Public Health Engineering Department. A total of 1,346 water
+and sanitation schemes have been fully destroyed, while 5,714 are partially damaged, requiring major
+repair and rehabilitation. The estimated damage for public sector schemes has been assessed at PKR
+40 billion (US$186 million). With negligible data available on community or private infrastructure and
+water and sanitation services that serve two-thirds of the affected population, the damage based on
+secondary data is estimated at PKR 83 billion (US$386 million). Estimated losses include forgone income
+of the utilities, additional cost incurred by about 1.5 million households on accessing water for three
+months, and additional health burden due to poor sanitation, all as the result of the floods. Complete
+indirect health impacts due to lack of access to water and sanitation cannot be fully assessed; however,
+increasing incidents of malaria, diarrhea, typhoid, and gastrointestinal diseases have been reported from
+the affected areas. The human impact is disproportionately borne by vulnerable groups, including women,
+the elderly, pregnant and lactating mothers, and children.
+
+Recovery and Reconstruction Needs: PKR 70 billion (US$327 million)
+
+The multi-hazard resilient reconstruction of damaged or destroyed public infrastructure in the WASH
+sector is estimated to cost PKR 58 billion (US$270 million). In addition, PKR 12 billion (US$56 million)
+is the estimated cost of re-establishing water and sanitation services for the private and community
+schemes, which is based on subsidies of 5 percent of the total needs of the housing sector, excluding 30
+percent damaged or destroyed houses that are served by the public sector utilities. The recovery and
+reconstruction process needs to be an inclusive and people-centric process, which supports community-
+led smart solutions to WASH challenges to ensure that rehabilitated water supply and sanitation
+infrastructure is resilient and can be managed and operated sustainably. In the short term, focus would
+remain on rehabilitation, cleaning and disinfection, repair of WASH facilities with minor damage, setting
+up other temporary arrangements to ensure immediate availability of water and sanitation across the
+affected area, and a targeted outreach for the vulnerable people. The reconstruction estimates include an
+allowance to resize and relocate a critical subcomponent of the water and sanitation facilities to ensure
+these are located and designed to sustain future disasters. In the medium term, the focus should be to find
+more locally tailored innovative solutions, building back better and smarter, increasing system calibration
+to improve monitoring and management, and increasing the role of local communities and the private
+sector in sustainable operations of these facilities. Appropriate oversight, regulations, and facilitations
+system will have to be put in place in the medium to long term to create appropriate incentives and
+institutional structures to sustainably operate the WASH services and improve the interface between
+service providers and their clients. The policy and regulatory improvement in the long term would need
+to focus on water quality, level of services, and appropriate tariff structure to increase efficiency of
+operations and prudence in the use of water.
+
+
+                                                                                              Infrastructure   57
+                 Productive Sectors
+
+
+
+
+                               Photo credit: UNDP
+
+
+
+58   Productive Sectors
+Agriculture, Food, Livestock, and Fisheries
+
+
+Damage: PKR 800 billion (US$3,725 million)
+Loss: PKR 1,986 billion (US$9,244 million)
+
+Crops contributed to 82 percent of the total damage and losses in the sector, followed by livestock with 17
+percent and fisheries/aquaculture with the remaining 1 percent. Around 4,410 million acres of agricultural
+land has been damaged, and 0.8 million livestock are estimated to have perished. Sindh and Balochistan
+are the most affected provinces, contributing 72 percent and 21 percent respectively to the total value of
+damage and losses registered in the sector, followed by KP, Punjab, and special regions. The destruction
+of crops, livestock, and aquaculture infrastructure and assets has resulted in the temporary deterioration
+of livelihoods, employment and agriculture related income, as well as potential decline of exports of
+important crops such as cotton and sugar cane.
+
+Recovery and Reconstruction Needs: PKR 854 billion (US$3,976 million)
+
+Reconstruction needs include restoration of assets at the individual/community level, as well as support
+to the public and private sector (poultry/dairy industry), which were also affected by the floods. Short-
+term activities should address immediate needs by ensuring preparedness for the incoming rabi season
+through land clearance and land preparation, and the distribution of agricultural inputs (seeds and
+fertilizers) to small and medium farmers. Scale-up in the provision of livestock feed, fodder, veterinary
+drugs, and restocking of small animals (poultry), especially targeting women and the most vulnerable
+households, is necessary. Rehabilitation of fishponds, irrigation schemes (including clearing and
+repairing watercourses), channels, and on-farm structures should be also implemented in the short
+term, together with the restoration of destroyed animal shelters, veterinary hospital, and clinics. In the
+medium to long term, various capacity-building exercises should be conducted with small and medium
+farmers and livestock keepers on risk mitigation practices, such as support to ecofriendly and climate-
+smart agriculture and livestock rearing. Awareness creation and development of standardized weather/
+holistic hazards index-based crop and livestock insurance systems targeting small holders should be
+also promoted.
+
+
+
+
+Water Resources and Irrigation
+
+
+Damage: PKR 153 billion (US$711 million)
+
+Public assets represent 98.5 percent of the total damage, while private assets account for 1.5 percent.
+Flood protection infrastructures and irrigation channels incurred the most damage at 36 percent and
+32 percent, respectively; followed by drainage systems at 14 percent; dams, headworks, and weirs at 9
+percent; and other supporting infrastructures at 8 percent. Overall, the irrigation water supply systems
+
+
+                                                                                           Productive Sectors   59
+     (canals and dams) jointly suffered 41 percent of the total damage, which, if unaddressed, will adversely
+     affect crop production in the coming production seasons. Contingent upon the recovery of the irrigation
+     and drainage systems, especially in Sindh, low wheat production can be anticipated this year, which
+     could lead to food shortages and high food commodity prices. Poor drainage in Sindh will further reduce
+     crop production. In arid areas covering most of Balochistan, damage to irrigation and water storage
+     infrastructures is causing disruption of irrigation services. Losses to crops due to flooding and inadequate
+     irrigation supplies, siltation, and waterlogging are covered by the agriculture sector.
+
+     Recovery and Reconstruction Needs: PKR 168 billion (US$782 million)
+
+     The short-term recovery strategy will require the immediate restoration of irrigation supplies and repairing
+     critical damage to canals, drains, and flood protection embankment before the next main rainy season in June
+     2023. This comprises 15 percent of the total need. The intermediate-term recovery comprises 30 percent
+     of the overall assessed needs and includes strengthening of canals, drainage ways, dams and appurtenant
+     structures, construction of new structures and strengthening of flood protection embankment through
+     structural and non-structural measures. The long-term recovery comprises the remaining 55 percent of
+     the overall assessed needs and includes the complete operation of drains and drainage systems, canal
+     systems, enhanced safety and stability of flood protection embankments, hydraulic structures, and flood
+     channels. While investment in infrastructure reconstruction and rehabilitation will play a prominent role in
+     the recovery, building long-term resilience will require considering the whole spectrum of infrastructural
+     solutions and paying due attention to more effective nature-based solutions, taking advantage of landscape
+     features and ecosystems. A more holistic approach, well grounded into spatial planning at the level of the
+     adequate hydrological unit (watershed, catchment, or basin) and supported by adequate institutions and
+     policies, will be needed. Increased focus on strategic measures to improve longer-term resilience, including
+     enhanced enforcement of flood zoning arrangements, decision-making mechanisms relying on flood
+     forecasting, and early warning systems, should be part of a medium to long-term recovery strategy. For this
+     purpose, some key studies are recommended to: (i) identify and prioritize no-regret urgent interventions
+     to be implemented in the short and medium term; and (ii) develop strategic master plans for resilience
+     building in sensitive areas. A post-flood rapid scoping study needs to be conducted to specify the contours
+     of such studies.
+
+
+
+     Commerce and Industries
+
+
+     Damage: PKR 40 billion (US$186 million)
+     Loss: PKR 758 billion (US$3,527 million)
+
+     The impact was assessed using data received from Punjab and KP provinces, in addition to leveraging
+     the Census of Manufacturing and Industries and Small and Households Manufacturing Industries data in
+     conjunction with assumptions for the provinces of Balochistan and Sindh. The assessed damages and
+     losses are not proportionate to the relatively large contribution of the industries and commerce sector
+     in the economy, given that the floods largely spared the industrial heartland of the country, in addition to
+     key urban centers.
+
+
+
+60   Productive Sectors
+There is a case for supporting the industries and commerce sector through market-oriented and fiscally
+neutral measures. Industries along with transport and storage, together with retail and wholesale trade,
+account for a sizable 47 percent of GDP and close to 46 percent of employees of ages 10 and above as of
+FY21, alluding to the importance of these subsectors for the economy and country at large. While direct
+support may not be feasible given the constrained fiscal and overarching macro position of the country,
+the sectors and firms within these sectors may be supported through market-oriented and fiscally
+neutral measures staggered over the short to medium term. The need for these measures pre-dates
+the floods, but their importance has only grown with the cascading economic impact of the floods. The
+three most important measures to facilitate recovery in the short to medium term include: (i) increased
+access to finance to restart operations, replenish working capital, and rehabilitate/replace capital where
+it was damaged/destroyed; (ii) continued implementation of business regulatory reforms throughout
+the recovery period, such as accelerating/streamlining processing of regulatory licenses, permits, and
+certificates; and (iii) design and implementation of a new economic census.
+
+
+
+
+Finance and Markets
+
+
+Damage: PKR 0.6 billion (US$2.9 million)
+Loss: PKR 90 billion (US$417 million)
+
+The impact of the floods on the financial sector has been assessed primarily through damage to the
+physical infrastructure and projected loan losses of the banking and microfinance sectors (the latter
+includes microfinance banks [MFBs] and microfinance institutions [MFIs]). The reported impact to the
+physical infrastructure of the financial sector includes damages to 268 branches and an estimated 35
+automated teller machines (ATMs) operated by commercial banks. Additionally, 81 microfinance branches
+and 2 ATMs have also been estimated as damaged. The physical infrastructure damages are estimated to
+be PKR 600 million (US$2.8 million), of which PKR 510 million (US$2.4 million) is in the commercial banking
+sector and PKR 90 million (US$0.4 million) in the microfinance sector. The flood-induced incremental non-
+performing loans of the banking and microfinance sector are estimated at PKR 84.2 billion (US$392.0
+million), based on data provided by the sector regulators. Of these, the commercial bank losses are
+estimated at PKR 26 billion (US$121 million), MFB losses at PKR 33.9 billion (US$157.8 million), and MFI
+losses at PKR 24.3 billion (US$113.1 million). A further PKR 5.44 billion (US$25.3 million) is estimated as
+additional insurance sector claims that are not re-insured abroad, and PKR 190 million (US$0.9 million)
+as insurance infrastructure losses.
+
+The financial sector recovery needs will emanate from its ability and inclination to enhance lending
+to the private sector. The rising risks to the commercial banking sector will hamper access to finance
+and limit credit to the private sector. Severe shocks to financial systems can lead to risk aversion from
+banks, especially in scenarios where the capital base has been weakened. This would lead to even more
+hesitancy in lending to a private sector that is already crowded out by lending to the public sector. The
+microfinance sector will become especially important to expand financial inclusion. The impact of the
+floods may constrain the liquidity of the microfinance sector in maintaining and growing its loan portfolio.
+Broad recommendations to support the financial sector include: (i) credit guarantee facilities; (ii) targeted
+regulatory forbearance that is time-bound; (iii) enhancing targeted refinancing lines for the housing,
+
+
+
+                                                                                            Productive Sectors   61
+     agriculture, and small and-medium-sized enterprise sectors; and (iv) supporting the microfinance sector
+     through lines of credit and disaster risk insurance.
+
+
+
+
+     Tourism
+
+
+     Damage: PKR 2 billion (US$10 million)
+     Loss: PKR 20 billion (US$93 million)
+
+     The 2022 floods caused widespread devastation to the travel and tourism industry by damaging the
+     connectivity infrastructure (roads and bridges) and partially or completely destroying the private sector
+     enterprises and markets in the tourism value chains across Pakistan. This led to an immediate decline
+     in the tourist footfall during peak tourism season. Tourism enterprises such as hotels, restaurants, and
+     tour operators incurred physical damages and revenue losses. The supply chains were disrupted, and a
+     complete closure of tourist sites have occurred in the affected districts. Almost 4,170 direct jobs in the
+     private sector have been adversely impacted by the floods. These include permanent losses of seasonal
+     jobs and partial losses in long-term jobs43 within the tourism industry. The damages are more profound
+     in KP, while sites in Sindh, Punjab, Balochistan, and other areas have reported losses. In KP, 12 percent
+     of hotels have been completely destroyed and 6 percent have been partially damaged; and 57 percent of
+     restaurants have been destroyed and 14 percent have been partially damaged. Total combined damage and
+     losses reported in KP are PKR 2 billion (US$9.7 million) and PKR 11.2 billion (US$52.1 million), respectively.
+     In Punjab, losses to the private sector amount to PKR 2.2 billion (US$10.2 million). Public sector damages
+     for Sindh stand at PKR 20 million (US$0.1 million) and losses amount to PKR 10 million (US$0.05 million),
+     whereas losses to the private sector stand at PKR 1.8 billion (US$8.2 million). The private sector losses for
+     Balochistan’s tourism sector were reported to be PKR 440 million (US$2 million). Some geographic areas
+     reported no infrastructural damage but continue to suffer losses due to the reduced occupancy in hotels
+     and substantial downfall in the private sector activity.
+
+     Recovery and Reconstruction Needs: PKR 0.4 billion (US$1.6 million)
+
+     The immediate focus for sector recovery should be to provide financial support (through microfinance
+     products, matching grants, microinsurance) to existing small businesses that are able to operate but
+     face a liquidity crunch, which is aggravated due to a decrease in tourism activity in the affected areas.
+     The tourist footfall has improved during October44 but is still below the optimal levels typically recorded
+     during this season. Public sector recovery efforts for the tourism sector should focus on enterprises
+     that provide employment and livelihoods to the local communities. Equally important is to strengthen the
+     communication infrastructure through the 24/7 helplines and social media handles for tourists traveling
+     to these areas. Medium to long-term activities need to focus on resilience of the sector, strengthening of
+     the enforcement of building codes and anti-encroachment acts, and spatial planning of tourism zones.
+
+
+
+
+     43 Long-term jobs include contractual jobs spanning one year or longer. Jobs losses factor in a workforce that is self-employed or hired
+        by transport, travel, and tourism industry, including tour operators, car/jeep rentals, hotels, restaurants, and travel agents.
+     44 Tourist footfall in KP province during October 1–19, 2022, was 114,086, which is far below the destinations’ capacity.
+
+
+
+
+62   Productive Sectors
+Cross-cutting
+
+
+
+
+                Photo credit: UNDP
+
+
+
+                       Cross-cutting   63
+     Social Protection, Livelihoods,
+     and Jobs
+
+
+     Loss: PKR 130 billion (US$607 million)
+
+     The floods have caused destruction to lives and livelihoods in all provinces. Preliminary estimates suggest
+     that, without decisive relief and recovery efforts to help the poor, the national poverty rate may increase
+     by 3.7 to 4.0 percentage points, pushing between 8.4 to 9.1 million people into poverty. This is likely to
+     make them prone to adopting negative coping strategies, such as non-fulfillment of health and nutritional
+     needs, taking children out of school, engaging in child labor, and selling productive assets—all of which
+     can make households spiral into poverty with intergenerational impacts. The sector assessment looks at
+     aspects of protection and promotion with two main areas of impacts: livelihoods
+
+      and human capital. The sector losses are confined to income losses of the population exposed to the
+     floods. A total of 4.3 million workers across all provinces have been affected, with varied income losses
+     due to severity and duration of the impact.
+
+     Recovery and Reconstruction Needs: PKR 361 billion (US$1,683 million)
+
+     The sector strategies include emergency employment services, skills development initiatives, and
+     employment intensive investments for livelihoods and jobs-related reconstruction and rehabilitation
+     activities. On the social assistance side, multipurpose humanitarian support; conditional cash transfers
+     linked to education, health, and nutrition; and workfare programs are the focus of attention.
+
+
+
+
+     Governance
+
+
+     Damage: PKR 13 billion (US$60 million)
+     Loss: PKR 5 billion (US$23 million)
+
+     The 2022 floods have wreaked havoc on both the state apparatus and societal formations. While the floods
+     have affected much of the country, the level of destruction in Sindh and Balochistan is of unprecedented
+     scale and intensity. The losses and damage suffered by the public service of the Criminal Justice System
+     is cause for immediate concern, given their centrality in the provision of justice services to vulnerable
+     citizens residing in these relatively underdeveloped regions. Data collected from government counterparts
+     tells us that Sindh has been hit the hardest with 1,395 buildings damaged, followed by Balochistan (796),
+     KP (135), Punjab (59), and other areas (11).
+
+
+
+
+64   Cross-cutting
+Recovery and Reconstruction Needs: PKR 19 billion (US$88 million)
+
+Local governments already constrained for resources and capacities are in a potentially grave situation,
+with the resulting impact of losses further deteriorating service delivery and, in turn, citizen–state trust.
+Moreover, as disasters do not affect the population equally, it is even more important for governance
+structures and mechanisms to be gender and inclusion responsive. Corruption in emergency procurement
+reduces the resources available for life-saving operations, lowers the quality of products and services
+provided, and diverts aid from those who need it most. It also negatively influences public support for
+emergency relief and medium-term rehabilitation activities. It is therefore essential that both immediate
+and medium-term actions are taken by the federal and provincial governments and development
+partners along with local agents (public and private) to address key issues. The recovery strategy also
+emphasizes the need of better coordination, effective aid management, and building a comprehensive
+monitoring and implementation framework with clearly defined results to help governments and donors
+monitor activities at both micro and macro levels. A centralized response may be more viable, given
+the National Command and Operation Center experience under COVID-19. Key policy recommendations
+include: (i) strengthen the institutional framework and coordination for disaster management, eliminating
+institutional overlaps by clearly delineating the roles and responsibilities of all levels of government in
+the National Flood Response; (ii) prioritize the restoration of services and infrastructure for rule of law
+and governance institutions; (iii) develop a framework for climate sensitive planning and budgeting at
+national and provincial levels; (iv) support the provincial and federal governments in speeding up the re-
+prioritization of public investments; (v) build local capacities and systems for improved public financial
+management, procurement, and accountability systems; (vi) strategic engagement of community-based
+organizations and CSOs with Provincial and District Disaster Management Authorities for post-disaster
+monitoring and coordination; and (vii) strategic risk communications during the emergency response,
+recovery, and relief phase.
+
+
+
+
+Social Sustainability,
+Inclusion, and Gender
+
+
+Damage: PKR 4.4 million (US$0.02 million)
+
+The 2022 floods have severely impacted livelihoods for socially excluded and marginalized groups. These
+disproportionately vulnerable populations, primarily comprised of women, include landless farmers, on-
+and off-farm agricultural and livestock/dairy workers, and home-based workers connected to agriculture
+or other sectors, mostly manufacturing. Women and girls are facing manifold increases in both unpaid
+domestic and care work, and the analysis further noted that they also face increased threats of violence.
+This is accompanied by limited access to health, education, and social protection, and the depletion of
+personal assets to support basic household needs. Other social groups facing discrimination and lack of
+access to relief include minorities (ethnic, religious, caste), transgender persons, older people, people with
+disabilities, people living with HIV/AIDS, young people, children and infants, and refugees and temporarily
+displaced populations. Their access to relief is severely limited and not effectively factored into relief
+planning and delivery. Further, a breakdown of social relations was noted, closely linked to displacement.
+
+
+
+                                                                                                 Cross-cutting   65
+     This has severely impacted cohesion within communities. Rising tensions have been exacerbated by
+     insufficient, irregular, uncoordinated, and inequitable aid, and relief distribution. Violence and conflict
+     are a frequent occurrence, including over aid. There are widespread concerns over elite capture and aid
+     mismanagement.
+
+     Recovery and Reconstruction Needs: PKR 21 billion (US$96 million)
+
+     Recommended short-term relief and recovery strategies include: (i) provide immediate relief to
+     underserved communities with gender balanced humanitarian response teams (minimum 40 percent
+     women), and strengthened coordination with gender machineries and stakeholders; (ii) support sex,
+     age, and disability disaggregated data collection, and ongoing needs’ assessments to identify critical
+     gaps; (iii) strengthen communications and outreach, with clear information about aid distribution and
+     advocacy, and monitoring and evaluation, that prioritizes the meaningful participation of excluded and
+     special needs groups; (iv) rollout psychosocial support services and programs for affected communities.
+     Medium and long-term recommendations include: (i) expand protection services against GBV and abuse
+     by establishing and/or strengthening crisis centers and other relevant structures, building institutional
+     capacity to address GBV and the specific needs of children, persons with disabilities, and the elderly;
+     (ii) conduct behavioral change interventions for GBV prevention; (iii) raise awareness of government
+     service providers on the social impacts of disasters on vulnerable and marginalized communities and
+     the risks and impacts of maladaptation; (iv) establish and/or strengthen community-led platforms to
+     expedite recovery efforts by vulnerable groups and communities to fast-track recovery; (v) train local
+     authorities on inclusive post-disaster assessments, gender-responsive early warning, evacuation and
+     resettlement, and related communication strategies as part of further disaster preparedness efforts; and
+     (vi) provide gender-responsive budgeting for all plans and budgets, specifying stakeholders, indicators,
+     and benchmarks for achieving gender equality aims.
+
+
+
+
+     Environment and Climate Change
+
+
+     Damage: PKR 4 billion (US$18 million)
+     Loss: PKR 6 billion (US$30 million)
+
+     The estimation includes damage and loss in forestry, protected areas, and from landslides. Forestry
+     accounts for approximately 60 percent of total environmental damages and almost 99 percent of losses.
+     Sindh sustained the highest damage in the forest sector, amounting to PKR 1.8 billion (US$8.4 million),
+     representing 77 percent of total forest damages. Damage from landslides and soil erosion in residential
+     areas represent 29 percent of total environmental damages. Protected areas, wildlife, and infrastructure
+     in national parks account for around 11 percent of overall damages. Chemical spills and contaminated
+     sites were reported, but no environmental surveys have been conducted to characterize and quantify
+     damages. These quantitative estimates are expected to be substantially underestimated due to the
+     paucity of environmental data and inherent challenges in estimating ecosystem services. The full extent
+     of damage to forests, biodiversity, land, and pollution clean-up is yet to be fully accounted and requires
+     more detailed investigations.
+
+
+
+
+66   Cross-cutting
+Recovery and Reconstruction Needs: PKR 35 billion (US$164 million)
+
+Ecosystem-based adaptation and nature-based solutions are key approaches in addressing floods and
+droughts that are exacerbated by climate change in Pakistan. Such approaches need to be urgently
+accelerated to help build resilience at the community and national levels. The recovery and reconstruction
+needs estimate includes those stemming from flood damages, enhancing natural capital in the most
+impacted and high-risk sites, and strengthening governance capacities to provide environmental
+oversight of the reconstruction. Sector-specific and environment-related needs, including rebuilding
+climate-resilient infrastructure, are assumed to have been separately captured in the relevant sectoral
+assessments as they are not easily apportioned out and to avoid double counting. Beyond the immediate
+needs identified in this assessment, an expanded environmental recovery strategy is required to achieve
+an appreciable level of resilience to climate change induced disasters and check the pace of environmental
+degradation and pollution. Such a strategy should be aligned with the government’s stated environmental
+strategies and policy objectives for ecological restoration such as the “Living Indus Initiative.” This broader
+environmental resilience strategy has an estimated cost of at least PKR 389 billion (US$1.8 billion). Its
+three main components are: (i) ecosystem-based restoration and adaptation in vulnerable landscapes
+and watersheds (PKR 172 billion; US$800 million); (ii) pollution reduction and waste management (PKR
+140 billion; US$652 million); and (iii) strengthening environmental governance (PKR 78 billion; US$363
+million).
+
+
+
+
+Disaster Risk Reduction and Resilience
+
+
+Damage: PKR 1.0 billion (US$4.7 million)
+
+This amount only accounts for damage to buildings and equipment of manned weather observatories of the
+Pakistan Meteorological Department (PMD) and flood level gauges of the Water and Power Development
+Authority and the Hydrology Irrigation Division, KP. Compared to the baseline total, 48 percent of the
+PMD’s observatories were damaged. Damage to weather monitoring stations and devices is likely to
+impair weather forecasting and flood warning capacity of the relevant government offices, which could
+result in further damage and loss due to poor forecasts. No losses were calculated, as no disruptions
+were reported for the disaster response services of the sector.
+
+Recovery and Reconstruction Needs: PKR 35 billion (US$161 million)
+
+The estimate comprises reconstruction and expansion of the flood risk monitoring and early warning
+systems and strengthened institutional and community capacity for disaster planning and response over
+the next five years. It excludes the costs of flood risk reduction infrastructure (embankments, levees,
+drainage) included within the Water and Irrigation Sector section. The recovery strategy approach centers
+around enhancing government (particularly district-level government) and community capacity to plan
+and respond to disasters. The immediate renewal and upgrading of the National Disaster Management
+Plan (2012–2022) and National Flood Protection Plan – IV will inform key details for recovery for the sector.
+The recovery needs include strengthening hazard mapping, monitoring, and early warning systems;
+mainstreaming disaster risk reduction, disaster risk management, and climate resilience in planning
+systems and processes; and upgrading evacuation shelters and warehousing.
+
+
+                                                                                                  Cross-cutting   67
+     Annex 1:
+     List of Acknowledgments for the PDNA
+     Stakeholder Engagement Meetings
+
+     Public Entities and Government Affiliated Organizations: Pakistan Red Crescent Society (PRCS); Sui
+     Northern Gas Pipelines (SNGPL).
+
+     Rural Support Programs: Aga Khan Rural Support Programme (AKRSP); Balochistan Rural Support
+     Programme; Gilgit Baltistan Rural Support Programme (GBRSP); Rural Support Programmes Network;
+     Sarhad Rural Support Programme (SRSP); Thardeep Rural Development Programme (TRDP).
+
+     Local NGOs/CSOs/Associations/Youth Groups: Akhuwat Islamic Microfinance; Alternative Law Collective;
+     Area Development Organization (ADO); Association for Integrated Development (AID) Balochistan; Doaba
+     Foundation; Gender and Empowerment Organization; Hashoo Foundation; HOPE’87 Pakistan; HUJRA
+     Village Support Organization; Khari Shareef Welfare Society (KSWS); MEHER Balochistan; Pakistan
+     Fisherfolk Forum (PFF); Publishing Extension Network (PEN); Rupani Foundation; Saibaan Development
+     Organization; Social Action Bureau for Assistance in Welfare & Organizational Networking (SABAWON);
+     Veer Development Organization (VDO); Water, Environment and Sanitation Society (WESS); Women Welfare
+     Organization; Youth Organization Balochistan.
+
+     Think Tanks/Research/Academia: The Agriculture University, Peshawar; Balochistan University
+     of Information Technology, Engineering and Management Sciences (BUITEMS); Centre for Disaster
+     Preparedness and Management, University of Peshawar; Commission on Science and Technology for
+     Sustainable Development in the South (COMSATS) University; Global Change Impact Studies Centre
+     (GCISC); Lahore University of Management Sciences (LUMS); Mehran University of Engineering and
+     Technology; Sustainable Development Policy Institute (SDPI); Independent Journalists.
+
+     International Non-governmental Organizations: International Union for Conservation of Nature (IUCN);
+     Islamic Relief; Muslim Aid UK; Muslim Hands; World Wildlife Fund (WWF).
+
+     UN/International Organizations: Food and Agriculture Organization (FAO); International Federation of Red
+     Cross and Red Crescent Societies (IFRC); International Labour Organization (ILO); International Organization
+     for Migration (IOM); Italian Agency for Development Cooperation (AICS); Japan International Cooperation
+     Agency (JICA); United Nations Environment Programme (UNEP); United Nations Educational, Scientific
+     and Cultural Organization (UNESCO); United Nations Children’s Fund (UNICEF); United Nations Industrial
+     Development Organization (UNIDO); United Nations Office for Project Services (UNOPS); United Nations
+     Entity for Gender Equality and the Empowerment of Women (UN Women); World Health Organization (WHO),
+     World Food Programme (WFP), United Nations Human Settlement Program (UNHABITAT), International
+     Labour Organization (ILO), United Nations Population Fund (UNFPA), United Nations High Commission for
+     Refugees, (UNHCR), United Nations Program on HIV/SIDA (UNAIDS).
+
+
+
+
+68   Annex 1: List of Acknowledgments for the PDNA Stakeholder Engagement Meetings
+﻿   69
+Ministry of Planning
+Development &
+Special Initiatives
+

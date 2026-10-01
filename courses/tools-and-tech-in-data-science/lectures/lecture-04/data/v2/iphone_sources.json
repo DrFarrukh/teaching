@@ -1,0 +1,141 @@
+{
+  "methodology": "SBP USD READY mark-to-market weighted closing interbank rate on each US availability date. All four dates are business days; no annual averages or substituted years. Nominal base-tier US list price before tax, trade-in or carrier discounts.",
+  "comparability": "Entry-level Pro Max range, not constant storage or quality. Storage: 64GB, 128GB, 256GB, 256GB. No quality-adjusted inflation interpretation.",
+  "source_access_limit": "Direct SBP PDF/EasyData downloads returned HTTP 403. Preserved indexed/extracted SBP evidence is used. 2026 is the dated USD READY row in the EasyData table; the live SBP home-page widget is not used because its date can change.",
+  "models": [
+    {
+      "year": 2019,
+      "model": "iPhone 11 Pro Max",
+      "storage_gb": 64,
+      "availability_date": "2019-09-20",
+      "fx_date": "2019-09-20",
+      "apple_url": "https://www.apple.com/newsroom/2019/09/iphone-11-pro-and-iphone-11-pro-max-the-most-powerful-and-advanced-smartphones/",
+      "apple_file": "data/v2/raw/iphone_apple_2019_20261001.html",
+      "fx_url": "https://www.sbp.org.pk/Ecodata/rates/m2m/2019/Sep/20-Sep-19.pdf",
+      "fx_file": "data/v2/raw/iphone_sbp_2019_web_capture_20261001.json",
+      "price_pattern": "starting at \\$999 and \\$([\\d,]+)",
+      "storage_evidence": "64GB",
+      "availability_evidence": "availability beginning Friday, September 20",
+      "fx_date_evidence": "20-Sep-19"
+    },
+    {
+      "year": 2021,
+      "model": "iPhone 13 Pro Max",
+      "storage_gb": 128,
+      "availability_date": "2021-09-24",
+      "fx_date": "2021-09-24",
+      "apple_url": "https://www.apple.com/newsroom/2021/09/apple-unveils-iphone-13-pro-and-iphone-13-pro-max-more-pro-than-ever-before/",
+      "apple_file": "data/v2/raw/iphone_apple_2021_20261001.html",
+      "fx_url": "https://www.sbp.org.pk/ecodata/rates/m2m/2021/Sep/24-Sep-21.pdf",
+      "fx_file": "data/v2/raw/iphone_sbp_2021_web_capture_20261001.json",
+      "price_pattern": "iPhone 13 Pro Max for .*?or \\$([\\d,]+)",
+      "storage_evidence": "128GB",
+      "availability_evidence": "availability beginning Friday, September 24",
+      "fx_date_evidence": "24-Sep-21"
+    },
+    {
+      "year": 2023,
+      "model": "iPhone 15 Pro Max",
+      "storage_gb": 256,
+      "availability_date": "2023-09-22",
+      "fx_date": "2023-09-22",
+      "apple_url": "https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/",
+      "apple_file": "data/v2/raw/iphone_apple_2023_20261001.html",
+      "fx_url": "https://www.sbp.org.pk/ecodata/rates/m2m/2023/Sep/22-Sep-23.pdf",
+      "fx_file": "data/v2/raw/iphone_sbp_2023_web_capture_20261001.json",
+      "price_pattern": "iPhone 15 Pro Max starts at \\$([\\d,]+)",
+      "storage_evidence": "256GB",
+      "availability_evidence": "availability beginning Friday, September 22",
+      "fx_date_evidence": "22-Sep-23"
+    },
+    {
+      "year": 2026,
+      "model": "iPhone 18 Pro Max",
+      "storage_gb": 256,
+      "availability_date": "2026-09-18",
+      "fx_date": "2026-09-18",
+      "apple_url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "apple_file": "data/v2/raw/iphone_apple_2026_20261001.html",
+      "fx_url": "https://easydata.sbp.org.pk/apex/f?cs=194BF87824E1CB1AA9CC210C19760B944&p=10%3A211%3A15242308076104%3A%3ANO%3ARP%3AP211_DATASET_TYPE_CODE%2CP211_PAGE_ID%3ATS_GP_ES_M2M_D%2C1",
+      "fx_file": "data/v2/raw/iphone_sbp_2026_easydata_capture_20261001.json",
+      "price_pattern": "iPhone 18 Pro Max starts at \\$([\\d,]+)",
+      "storage_evidence": "256GB",
+      "availability_evidence": "availability beginning Friday, September 18",
+      "fx_date_evidence": "18-Sep-26"
+    }
+  ],
+  "files": [
+    {
+      "file": "data/v2/raw/iphone_apple_2019_20261001.html",
+      "source_url": "https://www.apple.com/newsroom/2019/09/iphone-11-pro-and-iphone-11-pro-max-the-most-powerful-and-advanced-smartphones/",
+      "retrieved_date_utc": "2026-10-01",
+      "retrieved_by": "requests",
+      "capture_kind": "HTTP response body, original HTML",
+      "bytes": 213576,
+      "sha256": "ebdd06cc1c75b8394460334fd7368b1a09f313709e745b3203ad43379257c3d5"
+    },
+    {
+      "file": "data/v2/raw/iphone_sbp_2019_web_capture_20261001.json",
+      "source_url": "https://www.sbp.org.pk/Ecodata/rates/m2m/2019/Sep/20-Sep-19.pdf",
+      "retrieved_date_utc": "2026-10-01",
+      "retrieved_by": "web.run",
+      "capture_kind": "Unmodified web tool response captured as JSON; indexed/extracted primary-source text, not original HTTP/PDF bytes",
+      "bytes": 4272,
+      "sha256": "10b2092486283dc65e4a09e7fed702742fd873f827c0d0f908da592f3c1f6d47"
+    },
+    {
+      "file": "data/v2/raw/iphone_apple_2021_20261001.html",
+      "source_url": "https://www.apple.com/newsroom/2021/09/apple-unveils-iphone-13-pro-and-iphone-13-pro-max-more-pro-than-ever-before/",
+      "retrieved_date_utc": "2026-10-01",
+      "retrieved_by": "requests",
+      "capture_kind": "HTTP response body, original HTML",
+      "bytes": 337943,
+      "sha256": "04af676c31c701fea380fe101a20e64c2573e93cfdddc8808640b6bb1898a07e"
+    },
+    {
+      "file": "data/v2/raw/iphone_sbp_2021_web_capture_20261001.json",
+      "source_url": "https://www.sbp.org.pk/ecodata/rates/m2m/2021/Sep/24-Sep-21.pdf",
+      "retrieved_date_utc": "2026-10-01",
+      "retrieved_by": "web.run",
+      "capture_kind": "Unmodified web tool response captured as JSON; indexed/extracted primary-source text, not original HTTP/PDF bytes",
+      "bytes": 5005,
+      "sha256": "bfb78779be032d16ab64f517e83b249b7879880ec9eabdfee3ea2b26037f007f"
+    },
+    {
+      "file": "data/v2/raw/iphone_apple_2023_20261001.html",
+      "source_url": "https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/",
+      "retrieved_date_utc": "2026-10-01",
+      "retrieved_by": "requests",
+      "capture_kind": "HTTP response body, original HTML",
+      "bytes": 322458,
+      "sha256": "b7b48a8d1a12c36f6b2b49d0309f5132ba9c279b8c940f12ee2d39ad8abb8914"
+    },
+    {
+      "file": "data/v2/raw/iphone_sbp_2023_web_capture_20261001.json",
+      "source_url": "https://www.sbp.org.pk/ecodata/rates/m2m/2023/Sep/22-Sep-23.pdf",
+      "retrieved_date_utc": "2026-10-01",
+      "retrieved_by": "web.run",
+      "capture_kind": "Unmodified web tool response captured as JSON; indexed/extracted primary-source text, not original HTTP/PDF bytes",
+      "bytes": 4633,
+      "sha256": "118bfdc2e92cc9bfd109cc149e77e81b8843adc95ff5307f0d889955c11360fe"
+    },
+    {
+      "file": "data/v2/raw/iphone_apple_2026_20261001.html",
+      "source_url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "retrieved_date_utc": "2026-10-01",
+      "retrieved_by": "requests",
+      "capture_kind": "HTTP response body, original HTML",
+      "bytes": 298944,
+      "sha256": "95166dbfbaf0ac50d2775e6f7aa0d8f310d72a08900aa6c887c25e78a749c98d"
+    },
+    {
+      "file": "data/v2/raw/iphone_sbp_2026_easydata_capture_20261001.json",
+      "source_url": "https://easydata.sbp.org.pk/apex/f?cs=194BF87824E1CB1AA9CC210C19760B944&p=10%3A211%3A15242308076104%3A%3ANO%3ARP%3AP211_DATASET_TYPE_CODE%2CP211_PAGE_ID%3ATS_GP_ES_M2M_D%2C1",
+      "retrieved_date_utc": "2026-10-01",
+      "retrieved_by": "web.run",
+      "capture_kind": "Unmodified web tool response captured as JSON; indexed/extracted primary-source text, not original HTTP/PDF bytes",
+      "bytes": 14885,
+      "sha256": "f74c2577be9287b526a74eb065b318d4233900fa2f345f964344bb17b9b0d4ec"
+    }
+  ]
+}

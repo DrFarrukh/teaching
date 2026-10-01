@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+pypdf
+pdfplumber
+pymupdf
+pytesseract
+pillow
+meteostat

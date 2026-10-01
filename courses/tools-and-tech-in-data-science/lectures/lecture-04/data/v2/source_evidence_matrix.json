@@ -1,0 +1,149 @@
+[
+  {
+    "claim_id": "I1",
+    "claim": "Rupee depreciation raised the imported iPhone floor",
+    "what_would_support": "A larger USD\u00d7PKR/USD product at actual availability dates",
+    "what_would_weaken": "Comparable source dates show no increase",
+    "source_type_needed": "Apple HTML + SBP exchange rate",
+    "measurement_period": "2019, 2021, 2023, 2026 availability dates",
+    "news_ids": [
+      "N01"
+    ],
+    "data_quality_limitations": "Entry tiers change storage; pre-tax benchmark is not observed Pakistan retail",
+    "finding": "Pending notebook analysis",
+    "confidence_category": "Pending"
+  },
+  {
+    "claim_id": "I2",
+    "claim": "An imported iPhone should track the exchange rate alone",
+    "what_would_support": "Constant USD product price and tax/margin regime",
+    "what_would_weaken": "USD price/configuration or domestic additions change",
+    "source_type_needed": "Apple launch price + SBP rate + official taxes",
+    "measurement_period": "same four launch periods",
+    "news_ids": [],
+    "data_quality_limitations": "No constant-quality adjustment or verified current Pakistan tax schedule",
+    "finding": "Pending notebook analysis",
+    "confidence_category": "Pending"
+  },
+  {
+    "claim_id": "A1",
+    "claim": "Apples rose exactly from Rs100/kg to Rs300/kg",
+    "what_would_support": "Same variety, market, unit and season over time",
+    "what_would_weaken": "Matched apple-specific observations disagree",
+    "source_type_needed": "Apple-specific retail/wholesale price panel",
+    "measurement_period": "opening observation has unspecified dates",
+    "news_ids": [],
+    "data_quality_limitations": "PBS fresh-fruit basket is not apples",
+    "finding": "Pending notebook analysis",
+    "confidence_category": "Pending"
+  },
+  {
+    "claim_id": "A2",
+    "claim": "Local produce is insulated from oil / FX",
+    "what_would_support": "Input costs and local price data show no exposure",
+    "what_would_weaken": "Documented energy / transport / supply movements",
+    "source_type_needed": "PBS CPI/WPI + cost and supply evidence",
+    "measurement_period": "Jul 2022\u2013Sep 2026",
+    "news_ids": [],
+    "data_quality_limitations": "No apple cost accounts; wholesale and retail baskets differ",
+    "finding": "Pending notebook analysis",
+    "confidence_category": "Pending"
+  },
+  {
+    "claim_id": "P1",
+    "claim": "Policy explains the whole inflation rise during PTI period",
+    "what_would_support": "Identified counterfactual isolates policy from simultaneous shocks",
+    "what_would_weaken": "FX, world prices, COVID and other shocks coincide",
+    "source_type_needed": "Contemporary news + official policy + WB/PBS/SBP",
+    "measurement_period": "2018\u20132022; 2023 is after PTI period",
+    "news_ids": [
+      "N01",
+      "N02"
+    ],
+    "data_quality_limitations": "Calendar annual values straddle government changes; observational data cannot allocate causal shares",
+    "finding": "Pending notebook analysis",
+    "confidence_category": "Pending"
+  },
+  {
+    "claim_id": "M1",
+    "claim": "IMF-linked programme policies contributed through specific channels",
+    "what_would_support": "Programme clauses + implementation documents + outcomes",
+    "what_would_weaken": "Claimed condition absent or not implemented",
+    "source_type_needed": "News + IMF staff report/MEFP + official notifications + CPI",
+    "measurement_period": "2019 EFF; 2022 review; May 2026 report",
+    "news_ids": [
+      "N03",
+      "N04",
+      "N07",
+      "N08"
+    ],
+    "data_quality_limitations": "Documented commitments differ from implementation and causal estimates",
+    "finding": "Pending notebook analysis",
+    "confidence_category": "Pending"
+  },
+  {
+    "claim_id": "F1",
+    "claim": "Government fuel/subsidy decisions changed administered prices",
+    "what_would_support": "Dated official old/new prices and effective date",
+    "what_would_weaken": "No official change or a different effective date",
+    "source_type_needed": "News + PID notification + IMF review",
+    "measurement_period": "28 Feb announcement / 1 Mar 2022 effect; June reversal",
+    "news_ids": [
+      "N05",
+      "N06",
+      "N07",
+      "N08"
+    ],
+    "data_quality_limitations": "Direct fuel-price arithmetic does not measure contribution to all CPI",
+    "finding": "Pending notebook analysis",
+    "confidence_category": "Pending"
+  },
+  {
+    "claim_id": "S1",
+    "claim": "COVID and supply disruptions contributed",
+    "what_would_support": "Dated disruption evidence plus prices and supply measures",
+    "what_would_weaken": "Changes predate disruption or no exposure",
+    "source_type_needed": "SBP COVID policy source + commodity data + attributed news",
+    "measurement_period": "2020\u20132021",
+    "news_ids": [
+      "N01"
+    ],
+    "data_quality_limitations": "COVID timing and official response documented; apple-specific effect not identified",
+    "finding": "Pending notebook analysis",
+    "confidence_category": "Pending"
+  },
+  {
+    "claim_id": "S2",
+    "claim": "Floods disrupted domestic food supply",
+    "what_would_support": "Damage assessment + contemporaneous logistics reporting",
+    "what_would_weaken": "Matched unaffected supply/price series",
+    "source_type_needed": "News + joint official PDNA PDF",
+    "measurement_period": "Jun\u2013Oct 2022 assessment",
+    "news_ids": [
+      "N09",
+      "N10"
+    ],
+    "data_quality_limitations": "Assessed aggregate damage is not an apple-price causal coefficient",
+    "finding": "Pending notebook analysis",
+    "confidence_category": "Pending"
+  },
+  {
+    "claim_id": "W1",
+    "claim": "2026 conflict passed through oil\u2192fuel\u2192transport\u2192food",
+    "what_would_support": "Dated reports + same oil benchmark + policy evidence + CPI timing",
+    "what_would_weaken": "No sequential movement or alternative shocks dominate",
+    "source_type_needed": "AP/Axios/Reuters + FRED/EIA + IMF/PBS",
+    "measurement_period": "Feb\u2013Sep 2026; feed through Aug, PDF Sep",
+    "news_ids": [
+      "N11",
+      "N12",
+      "N13",
+      "N14",
+      "N15",
+      "N16"
+    ],
+    "data_quality_limitations": "Event windows descriptive; no counterfactual; separate months and YoY base effects",
+    "finding": "Pending notebook analysis",
+    "confidence_category": "Pending"
+  }
+]

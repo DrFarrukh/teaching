@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Islamabad air quality | CS-808</title>
+<meta name="description" content="Explore a reproducible, provisional PM2.5-based AQI analysis of the Islamabad working series, 2020 to February 2023.">
+<style>
+:root{color-scheme:light;--ink:#142e43;--muted:#516477;--line:#d6e0e8;--accent:#176b87;--paper:#f2f6fa}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 Arial,sans-serif}
+header{background:#102f46;color:white;padding:25px max(24px,calc((100vw - 1320px)/2));border-bottom:5px solid #36b8c7}
+header p{margin:0;color:#b7dbe4;font-size:14px;letter-spacing:.07em}h1{font-size:clamp(26px,3vw,38px);line-height:1.2;margin:8px 0}
+header .sub{letter-spacing:0;font-size:16px;color:#e1eef3}main{max-width:1370px;margin:auto;padding:24px}
+.facts{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:18px}.fact{background:white;border:1px solid var(--line);border-top:3px solid var(--accent);padding:15px 18px}
+.fact span{display:block;color:var(--muted);font-size:14px}.fact strong{font-size:27px;line-height:1.5}.fact small{display:block;font-size:13px;color:var(--muted)}
+.note{background:#e7f1f6;border-left:4px solid var(--accent);padding:12px 16px;margin:0 0 20px}.chart{background:white;border:1px solid var(--line);padding:12px;min-width:0}
+.chart-intro{margin:8px 16px 0;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}.chart-intro p{margin:0;color:var(--muted);font-size:14px}
+h2{font-size:21px;margin:0 0 8px}.below{margin-top:20px;display:grid;grid-template-columns:minmax(0,1.5fr) minmax(260px,1fr);gap:20px}.panel{background:white;border:1px solid var(--line);padding:22px;min-width:0}.panel p{margin:10px 0}
+.scroll{overflow:auto}table{border-collapse:collapse;width:100%;font-size:14px}th,td{padding:9px 12px;border-bottom:1px solid var(--line);text-align:right}th{background:#edf4f8;white-space:normal}th:first-child{text-align:left}a{color:#125775;text-underline-offset:3px}a:focus-visible{outline:3px solid #df911b;outline-offset:3px}.downloads{display:flex;gap:12px;flex-wrap:wrap;margin-top:20px}.button{display:inline-block;background:var(--ink);color:white;padding:10px 15px;text-decoration:none;border-radius:3px}
+footer{font-size:14px;color:var(--muted);padding:24px 0}.small{font-size:14px;color:var(--muted)}details{margin-top:18px}summary{cursor:pointer;font-weight:bold}
+@media(max-width:850px){.facts{grid-template-columns:repeat(2,1fr)}.below{grid-template-columns:1fr}main{padding:12px}.chart{padding:0}.chart-intro{padding-top:16px}.fact strong{font-size:23px}}
+@media(max-width:450px){header{padding:20px 16px}.facts{gap:8px}.fact{padding:12px}.fact strong{font-size:21px}.panel{padding:16px}}
+</style>
+<script src="plotly.min.js"></script>
+</head>
+<body>
+<header><p>CS-808 · TOOLS &amp; TECHNIQUES FOR DATA SCIENCE</p><h1>Islamabad air quality</h1><div class="sub">From daily PM2.5 measurements to a reproducible index</div></header>
+<main>
+<section class="facts" aria-label="Dataset coverage across all years">
+<div class="fact"><span>Available observations · all years</span><strong>1,154 days</strong><small>2020-01-01 to 2023-02-28</small></div>
+<div class="fact"><span>Missing date within that span</span><strong>1 day</strong><small>October 31, 2020</small></div>
+<div class="fact"><span>2023 coverage</span><strong>Jan–Feb only</strong><small>59 of 365 calendar days</small></div>
+<div class="fact"><span>Fixed conversion scheme</span><strong>US EPA 2024</strong><small>Applied retrospectively to every year</small></div>
+</section>
+<p class="note"><strong>Provisional PM2.5-based AQI.</strong> This teaching analysis assumes the reported daily concentrations represent 24-hour PM2.5. It is not official historical Pakistan AQI, a multipollutant AQI, or a live air-quality service.</p>
+<section class="chart" aria-label="Interactive AQI dashboard">
+<div class="chart-intro"><h2>Explore a year</h2><p>Choose a year in the chart. Hover for values; drag to zoom; double-click to reset.</p></div>
+{{CHART}}
+<p class="small" style="padding:0 16px">2020 spans the year but has one missing day. Grey gaps are not zeros. “Sensitive” means “Unhealthy for sensitive groups.” Daily categories follow the fixed rule; monthly means are descriptive summaries.</p>
+</section>
+<section class="below">
+<div class="panel"><h2>Coverage belongs beside the result</h2><p class="small">These are summaries of observed daily indices. Do not rank partial 2023 against full-year periods without a matched-window comparison.</p><div class="scroll">{{ANNUAL_TABLE}}</div>
+<div class="downloads"><a class="button" href="daily_aqi.csv" download>Download daily data</a><a class="button" href="run_manifest.json" download>Download run manifest</a></div></div>
+<div class="panel"><h2>How this was calculated</h2>
+<p>Each concentration is truncated to one decimal, mapped through the specified breakpoint interval, and rounded to an integer using half-up rounding.</p>
+<p>Seven-day means require seven observed daily values. Category counts use observed valid days. The notebook also compares January 1–February 28 across all four years.</p>
+<details><summary>Sources and limits</summary><p>The local course files are AQI-Data-20-22.csv and AQI-Data-23.csv. Forty wholly blank records in the latter were removed with an audit record. Original PDF transcription and monitoring representativeness have not been independently established.</p><p><a href="https://document.airnow.gov/technical-assistance-document-for-the-reporting-of-daily-air-quailty.pdf">EPA technical guidance, May 2026</a> · fixed 2024 PM2.5 breakpoints.</p><p>The implementation supports the tabulated range through index 500. Invalid and unsupported values are flagged, not clipped. All observations in this teaching data are within range.</p></details></div>
+</section>
+<footer>CS-808 Lecture 2 · Generated from the lecture notebook · Static snapshot; no live feed. Changes to data or rules require rebuilding the export.</footer>
+</main>
+<script>
+// Presentation-only adaptation: the same Python-computed traces stack on small screens.
+window.addEventListener('load', function () {
+  const chart = document.getElementById('aqi-dashboard');
+  let narrowBefore;
+  function fitChart() {
+    const narrow = chart.clientWidth < 650;
+    if (narrow === narrowBefore) return;
+    narrowBefore = narrow;
+    Plotly.relayout(chart, {
+      height: narrow ? 1180 : 830,
+      'title.font.size': narrow ? 17 : 22,
+      'xaxis.domain': [0, 1],
+      'yaxis.domain': narrow ? [0.67, 1] : [0.508, 1],
+      'xaxis2.domain': narrow ? [0, 1] : [0, 0.45],
+      'yaxis2.domain': narrow ? [0.35, 0.54] : [0, 0.328],
+      'xaxis3.domain': narrow ? [0, 1] : [0.55, 1],
+      'yaxis3.domain': narrow ? [0.02, 0.21] : [0, 0.328],
+      'xaxis3.tickangle': narrow ? -30 : 0,
+      'annotations[0].x': 0.5, 'annotations[0].y': 1,
+      'annotations[1].x': narrow ? 0.5 : 0.225,
+      'annotations[1].y': narrow ? 0.54 : 0.328,
+      'annotations[2].x': narrow ? 0.5 : 0.775,
+      'annotations[2].y': narrow ? 0.21 : 0.328,
+      'legend.y': narrow ? -0.12 : -0.15,
+      'updatemenus[0].y': narrow ? 1.055 : 1.16,
+      'updatemenus[0].x': 1
+    });
+  }
+  fitChart();
+  window.addEventListener('resize', fitChart);
+});
+</script>
+</body></html>

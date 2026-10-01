@@ -1,0 +1,24 @@
+QUALITY REPORT: books_catalogue.csv
+============================================================
+rows: 24   columns: 17
+
+[uniqueness]   duplicate UPCs:                    0
+[uniqueness]   duplicate titles:                  0
+[completeness] books with no description:         0
+[completeness] missing values (other columns):    0
+[consistency]  excl. tax + tax != incl. tax:      0
+[consistency]  price_gbp != price incl. tax:      0
+[validity]     price <= 0 or > 100:               0
+[validity]     rating outside 1-5:                0
+[validity]     in stock but stock_count == 0:     0
+[validity]     distinct product types:            ['Books']
+[validity]     distinct tax values:               [0.0]  <- every book taxed 0?
+[validity]     books with 0 reviews:              24 of 24  <- is the field used?
+[range]        price: min 10.69  median 40.72  max 57.31
+
+books per category:
+   Travel                8
+   Mystery               8
+   Poetry                8
+
+LIMITS: a practice shop with invented data. Prices are in GBP; nothing here is real stock or sales.

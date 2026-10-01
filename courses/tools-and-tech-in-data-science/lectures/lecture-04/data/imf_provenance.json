@@ -1,0 +1,10 @@
+{
+  "file": "data/raw/imf_cr26101_20261001T101351Z.pdf",
+  "source_url": "https://www.imf.org/-/media/files/publications/cr/2026/english/1pakea2026001.pdf",
+  "retrieved_utc": "20261001T101351Z",
+  "http_status": 200,
+  "bytes": 2253009,
+  "sha256": "b2d6a88ad386fd169a4683e920b5d596f5985df271732b2ccfe2dcf5b3458cce",
+  "pages": 131,
+  "note": "IMF Country Report 26/101. Third review, EFF; second review, RSF. Board date 8 May 2026."
+}

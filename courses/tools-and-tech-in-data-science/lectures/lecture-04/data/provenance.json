@@ -1,0 +1,60 @@
+[
+  {
+    "file": "data/raw/fred_brent_daily_usd_20261001T100927Z.csv",
+    "source_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DCOILBRENTEU",
+    "query_params": {
+      "id": "DCOILBRENTEU"
+    },
+    "retrieved_utc": "20261001T100927Z",
+    "http_status": 200,
+    "bytes": 169913,
+    "sha256": "68b1b12a3e217ed57b60f53cea699e3fad740f714bbaa6d23afb96c8dac94c1e",
+    "note": "FRED series DCOILBRENTEU (U.S. EIA data): Europe Brent spot price FOB, USD per barrel. Missing days (holidays) are left blank by the source."
+  },
+  {
+    "file": "data/raw/worldbank_pk_inflation_annual_20261001T100931Z.json",
+    "source_url": "https://api.worldbank.org/v2/country/PK/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100",
+    "query_params": {
+      "format": "json",
+      "per_page": 100
+    },
+    "retrieved_utc": "20261001T100931Z",
+    "http_status": 200,
+    "bytes": 15137,
+    "sha256": "16ccc5416550be49a491412d4e9626bc21309a9b1039b7642e42a97b074d6caa",
+    "note": "World Bank FP.CPI.TOTL.ZG: inflation, consumer prices (annual %), Pakistan, calendar years"
+  },
+  {
+    "file": "data/raw/worldbank_pk_pkr_per_usd_annual_20261001T100935Z.json",
+    "source_url": "https://api.worldbank.org/v2/country/PK/indicator/PA.NUS.FCRF?format=json&per_page=100",
+    "query_params": {
+      "format": "json",
+      "per_page": 100
+    },
+    "retrieved_utc": "20261001T100935Z",
+    "http_status": 200,
+    "bytes": 15772,
+    "sha256": "5c20fa915e94f920ea98238e0d46c8de56e59a616c530950edf4c4be88a89e5a",
+    "note": "World Bank PA.NUS.FCRF: official exchange rate (PKR per USD, period average), Pakistan"
+  },
+  {
+    "file": "data/raw/imf_datamapper_pak_inflation_20261001T100940Z.json",
+    "source_url": "https://www.imf.org/external/datamapper/api/v1/PCPIPCH/PAK",
+    "query_params": {},
+    "retrieved_utc": "20261001T100940Z",
+    "http_status": 200,
+    "bytes": 120999,
+    "sha256": "7941a765c2beacd72df496d78b2cf296c38c20dbfa0a3030f8c442aac984fd2d",
+    "note": "IMF DataMapper: inflation, average consumer prices (annual % change), Pakistan. Years after the last actual year are IMF PROJECTIONS, not observations."
+  },
+  {
+    "file": "data/raw/books_toscrape_pages1-3_20261001T100944Z.json",
+    "source_url": "https://books.toscrape.com/catalogue/page-{}.html",
+    "query_params": {},
+    "retrieved_utc": "20261001T100944Z",
+    "http_status": 200,
+    "bytes": 9181,
+    "sha256": "28671934552fe7acd0eaf06dc4ff1c9993c4ff0dddf118ec89e0d331b82a4a6a",
+    "note": "3 pages parsed with BeautifulSoup; practice site."
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "id": "imf_2019",
+    "publisher": "IMF",
+    "title": "EFF approval / policy objectives",
+    "publication_date": "2019-07-03",
+    "measurement_period": "39-month programme; policy commitments",
+    "url": "https://www.imf.org/en/news/articles/2019/07/03/pr19264-pakistan-imf-executive-board-approves-39-month-eff-arrangement",
+    "local_file": "data/v2/raw/imf_2019_web_capture_20261001.json",
+    "representation": "web tool extracted official page; not original HTTP HTML",
+    "role": "primary policy/event; not causal estimate"
+  },
+  {
+    "id": "imf_2022_sla",
+    "publisher": "IMF",
+    "title": "Staff-level agreement / programme priorities",
+    "publication_date": "2022-07-13",
+    "measurement_period": "FY22/FY23; preliminary staff findings, subject to Board",
+    "url": "https://www.imf.org/en/news/articles/2022/07/13/pr22255-pakistan-staff-level-agreement-on-7th-and-8th-eff-review",
+    "local_file": "data/v2/raw/imf_2022_sla_web_capture_20261001.json",
+    "representation": "web tool extracted official page; not original HTTP HTML",
+    "role": "primary policy/event; not causal estimate"
+  },
+  {
+    "id": "imf_2022_report",
+    "publisher": "IMF",
+    "title": "Country Report 22/288, staff report + authorities MEFP",
+    "publication_date": "2022-09-01",
+    "measurement_period": "Board 29 Aug; FY22 outcomes / FY23 commitments",
+    "url": "https://www.imf.org/-/media/Files/Publications/CR/2022/English/1PAKEA2022002.ashx",
+    "local_file": "data/v2/raw/imf_2022_report_20261001.pdf",
+    "representation": "original HTTP response body",
+    "role": "primary policy/event; not causal estimate"
+  },
+  {
+    "id": "imf_2022_report",
+    "publisher": "IMF",
+    "title": "Country Report 22/288, staff report + authorities MEFP",
+    "publication_date": "2022-09-01",
+    "measurement_period": "Board 29 Aug; FY22 outcomes / FY23 commitments",
+    "url": "see per-record URLs / parent raw PDF",
+    "local_file": "data/v2/imf_2022_report_text.txt",
+    "representation": "derived PDF extraction",
+    "role": "primary policy/event; not causal estimate"
+  },
+  {
+    "id": "pid_fuel_20220228",
+    "publisher": "Pakistan PID",
+    "title": "PR255 petroleum prices",
+    "publication_date": "2022-02-28",
+    "measurement_period": "Old effective 16 Feb; new effective 1 Mar 2022",
+    "url": "https://pid.gov.pk/site/press_detail/19305",
+    "local_file": "data/v2/raw/pid_fuel_20220228_20261001.html",
+    "representation": "original HTTP response body",
+    "role": "primary policy/event; not causal estimate"
+  },
+  {
+    "id": "pid_fuel_20220228",
+    "publisher": "Pakistan PID",
+    "title": "PR255 petroleum prices",
+    "publication_date": "2022-02-28",
+    "measurement_period": "Old effective 16 Feb; new effective 1 Mar 2022",
+    "url": "https://pid.gov.pk/site/press_detail/19305",
+    "local_file": "data/v2/raw/pid_fuel_20220228_web_capture_20261001.json",
+    "representation": "web tool extracted official page; not original HTTP HTML",
+    "role": "primary policy/event; not causal estimate"
+  },
+  {
+    "id": "flood_pdna_2022",
+    "publisher": "Pakistan government / ADB / EU / UN / World Bank",
+    "title": "Joint Post-Disaster Needs Assessment",
+    "publication_date": "2022-10-28",
+    "measurement_period": "Flood impact June\u2013October 2022; preliminary damage/loss/needs",
+    "url": "https://thedocs.worldbank.org/en/doc/4a0114eb7d1cecbbbf2f65c5ce0789db-0310012022/original/Pakistan-Floods-2022-PDNA-Main-Report.pdf",
+    "local_file": "data/v2/raw/flood_pdna_2022_20261001.pdf",
+    "representation": "original HTTP response body",
+    "role": "primary policy/event; not causal estimate"
+  },
+  {
+    "id": "flood_pdna_2022",
+    "publisher": "Pakistan government / ADB / EU / UN / World Bank",
+    "title": "Joint Post-Disaster Needs Assessment",
+    "publication_date": "2022-10-28",
+    "measurement_period": "Flood impact June\u2013October 2022; preliminary damage/loss/needs",
+    "url": "see per-record URLs / parent raw PDF",
+    "local_file": "data/v2/flood_pdna_2022_text.txt",
+    "representation": "derived PDF extraction",
+    "role": "primary policy/event; not causal estimate"
+  },
+  {
+    "id": "imf_2023",
+    "publisher": "IMF",
+    "title": "SBA approval",
+    "publication_date": "2023-07-12",
+    "measurement_period": "Nine-month programme",
+    "url": "https://www.imf.org/en/news/articles/2023/07/12/pr23261-pakistan-imf-exec-board-approves-us3bil-sba",
+    "local_file": "data/v2/raw/imf_2023_web_capture_20261001.json",
+    "representation": "web tool extracted official page; not original HTTP HTML",
+    "role": "primary policy/event; not causal estimate"
+  },
+  {
+    "id": "imf_2024",
+    "publisher": "IMF",
+    "title": "EFF approval",
+    "publication_date": "2024-09-27",
+    "measurement_period": "Board 25 Sep; 37-month programme",
+    "url": "https://www.imf.org/en/news/articles/2024/09/27/pr-24343-pakistan-imf-concludes-2024-aiv-consultation-pakistan-approves-37-mo-extended-arr",
+    "local_file": "data/v2/raw/imf_2024_web_capture_20261001.json",
+    "representation": "web tool extracted official page; not original HTTP HTML",
+    "role": "primary policy/event; not causal estimate"
+  },
+  {
+    "id": "national_assembly_20220410",
+    "publisher": "National Assembly",
+    "title": "Proceedings: no-confidence vote",
+    "publication_date": "2022-04-10",
+    "measurement_period": "Event date; not economic effect",
+    "url": "https://na.gov.pk/uploads/documents/625d409dd2d91_338.pdf",
+    "local_file": "data/v2/raw/national_assembly_20220410_20261001.pdf",
+    "representation": "original HTTP response body",
+    "role": "primary policy/event; not causal estimate"
+  },
+  {
+    "id": "sbp_covid",
+    "publisher": "SBP",
+    "title": "COVID monetary-policy measures",
+    "publication_date": "2020-09-21",
+    "measurement_period": "March\u2013June 2020 policy response; date is latest meeting cited",
+    "url": "https://www.sbp.org.pk/our-operations/covid-19-measures-by-sbp/",
+    "local_file": "data/v2/raw/sbp_covid_indexed_capture_20261001.json",
+    "representation": "web tool indexed official page; direct access unavailable",
+    "role": "primary policy/event; not causal estimate"
+  },
+  {
+    "id": "na_pm_period",
+    "publisher": "National Assembly",
+    "title": "Prime-minister terms",
+    "publication_date": "not dated / retrieved 2026-10-01",
+    "measurement_period": "18 Aug 2018\u201310 Apr 2022 term",
+    "url": "https://na.gov.pk/en/priminister_list.php",
+    "local_file": "data/v2/raw/na_pm_period_web_capture_20261001.json",
+    "representation": "web tool extracted official page; not original HTTP",
+    "role": "primary policy/event; not causal estimate"
+  },
+  {
+    "id": "fred_brent_daily_usd_20261001T100927Z",
+    "publisher": "World Bank / IMF DataMapper / FRED-EIA",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DCOILBRENTEU",
+    "local_file": "data/raw/fred_brent_daily_usd_20261001T100927Z.csv",
+    "retrieved_utc": "20261001T100927Z",
+    "role": "official statistical / market series",
+    "measurement_period": "FRED series DCOILBRENTEU (U.S. EIA data): Europe Brent spot price FOB, USD per barrel. Missing days (holidays) are left blank by the source.",
+    "representation": "saved original HTTP response; see original provenance"
+  },
+  {
+    "id": "worldbank_pk_inflation_annual_20261001T100931Z",
+    "publisher": "World Bank / IMF DataMapper / FRED-EIA",
+    "url": "https://api.worldbank.org/v2/country/PK/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100",
+    "local_file": "data/raw/worldbank_pk_inflation_annual_20261001T100931Z.json",
+    "retrieved_utc": "20261001T100931Z",
+    "role": "official statistical / market series",
+    "measurement_period": "World Bank FP.CPI.TOTL.ZG: inflation, consumer prices (annual %), Pakistan, calendar years",
+    "representation": "saved original HTTP response; see original provenance"
+  },
+  {
+    "id": "worldbank_pk_pkr_per_usd_annual_20261001T100935Z",
+    "publisher": "World Bank / IMF DataMapper / FRED-EIA",
+    "url": "https://api.worldbank.org/v2/country/PK/indicator/PA.NUS.FCRF?format=json&per_page=100",
+    "local_file": "data/raw/worldbank_pk_pkr_per_usd_annual_20261001T100935Z.json",
+    "retrieved_utc": "20261001T100935Z",
+    "role": "official statistical / market series",
+    "measurement_period": "World Bank PA.NUS.FCRF: official exchange rate (PKR per USD, period average), Pakistan",
+    "representation": "saved original HTTP response; see original provenance"
+  },
+  {
+    "id": "imf_datamapper_pak_inflation_20261001T100940Z",
+    "publisher": "World Bank / IMF DataMapper / FRED-EIA",
+    "url": "https://www.imf.org/external/datamapper/api/v1/PCPIPCH/PAK",
+    "local_file": "data/raw/imf_datamapper_pak_inflation_20261001T100940Z.json",
+    "retrieved_utc": "20261001T100940Z",
+    "role": "official statistical / market series",
+    "measurement_period": "IMF DataMapper: inflation, average consumer prices (annual % change), Pakistan. Years after the last actual year are IMF PROJECTIONS, not observations.",
+    "representation": "saved original HTTP response; see original provenance"
+  },
+  {
+    "id": "pbs_cpi_sdmx_20261001T100949Z",
+    "publisher": "PBS",
+    "url": "https://www.pbs.gov.pk/cpi/",
+    "local_file": "data/raw/pbs_cpi_sdmx_20261001T100949Z.xml",
+    "retrieved_utc": "20261001T100949Z",
+    "role": "monthly index feed or review",
+    "measurement_period": "SDMX-ML structure-specific data: monthly CPI (base 2015-16 = 100), general and 12 divisions, weights included",
+    "representation": "saved original HTTP response; see original provenance"
+  },
+  {
+    "id": "pbs_monthly_review_august_2026_20261001T100957Z",
+    "publisher": "PBS",
+    "url": "https://www.pbs.gov.pk/wp-content/uploads/2020/07/Monthly-Review-August-2026.pdf",
+    "local_file": "data/raw/pbs_monthly_review_august_2026_20261001T100957Z.pdf",
+    "retrieved_utc": "20261001T100957Z",
+    "role": "monthly index feed or review",
+    "measurement_period": "PBS Monthly Review on Price Indices (PDF)",
+    "representation": "saved original HTTP response; see original provenance"
+  },
+  {
+    "id": "pbs_monthly_review_september_2026_20261001T101009Z",
+    "publisher": "PBS",
+    "url": "https://www.pbs.gov.pk/wp-content/uploads/2020/07/Monthly-Review-September2026.pdf",
+    "local_file": "data/raw/pbs_monthly_review_september_2026_20261001T101009Z.pdf",
+    "retrieved_utc": "20261001T101009Z",
+    "role": "monthly index feed or review",
+    "measurement_period": "PBS Monthly Review on Price Indices (PDF)",
+    "representation": "saved original HTTP response; see original provenance"
+  },
+  {
+    "id": "imf_cr26101_20261001T101351Z",
+    "publisher": "IMF",
+    "url": "https://www.imf.org/-/media/files/publications/cr/2026/english/1pakea2026001.pdf",
+    "local_file": "data/raw/imf_cr26101_20261001T101351Z.pdf",
+    "retrieved_utc": "20261001T101351Z",
+    "role": "May report, Board 8 May 2026; staff assessment/projection",
+    "measurement_period": "IMF Country Report 26/101. Third review, EFF; second review, RSF. Board date 8 May 2026.",
+    "representation": "saved original HTTP response; see original provenance"
+  },
+  {
+    "id": "apple_2019",
+    "publisher": "Apple",
+    "url": "https://www.apple.com/newsroom/2019/09/iphone-11-pro-and-iphone-11-pro-max-the-most-powerful-and-advanced-smartphones/",
+    "local_file": "data/v2/raw/iphone_apple_2019_20261001.html",
+    "measurement_period": "US availability 2019-09-20",
+    "role": "primary product price / storage",
+    "representation": "original HTTP HTML"
+  },
+  {
+    "id": "sbp_2019",
+    "publisher": "SBP",
+    "url": "https://www.sbp.org.pk/Ecodata/rates/m2m/2019/Sep/20-Sep-19.pdf",
+    "local_file": "data/v2/raw/iphone_sbp_2019_web_capture_20261001.json",
+    "measurement_period": "2019-09-20",
+    "role": "USD READY weighted closing M2M",
+    "representation": "official indexed / extracted capture; direct download refused"
+  },
+  {
+    "id": "apple_2021",
+    "publisher": "Apple",
+    "url": "https://www.apple.com/newsroom/2021/09/apple-unveils-iphone-13-pro-and-iphone-13-pro-max-more-pro-than-ever-before/",
+    "local_file": "data/v2/raw/iphone_apple_2021_20261001.html",
+    "measurement_period": "US availability 2021-09-24",
+    "role": "primary product price / storage",
+    "representation": "original HTTP HTML"
+  },
+  {
+    "id": "sbp_2021",
+    "publisher": "SBP",
+    "url": "https://www.sbp.org.pk/ecodata/rates/m2m/2021/Sep/24-Sep-21.pdf",
+    "local_file": "data/v2/raw/iphone_sbp_2021_web_capture_20261001.json",
+    "measurement_period": "2021-09-24",
+    "role": "USD READY weighted closing M2M",
+    "representation": "official indexed / extracted capture; direct download refused"
+  },
+  {
+    "id": "apple_2023",
+    "publisher": "Apple",
+    "url": "https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/",
+    "local_file": "data/v2/raw/iphone_apple_2023_20261001.html",
+    "measurement_period": "US availability 2023-09-22",
+    "role": "primary product price / storage",
+    "representation": "original HTTP HTML"
+  },
+  {
+    "id": "sbp_2023",
+    "publisher": "SBP",
+    "url": "https://www.sbp.org.pk/ecodata/rates/m2m/2023/Sep/22-Sep-23.pdf",
+    "local_file": "data/v2/raw/iphone_sbp_2023_web_capture_20261001.json",
+    "measurement_period": "2023-09-22",
+    "role": "USD READY weighted closing M2M",
+    "representation": "official indexed / extracted capture; direct download refused"
+  },
+  {
+    "id": "apple_2026",
+    "publisher": "Apple",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+    "local_file": "data/v2/raw/iphone_apple_2026_20261001.html",
+    "measurement_period": "US availability 2026-09-18",
+    "role": "primary product price / storage",
+    "representation": "original HTTP HTML"
+  },
+  {
+    "id": "sbp_2026",
+    "publisher": "SBP",
+    "url": "https://easydata.sbp.org.pk/apex/f?cs=194BF87824E1CB1AA9CC210C19760B944&p=10%3A211%3A15242308076104%3A%3ANO%3ARP%3AP211_DATASET_TYPE_CODE%2CP211_PAGE_ID%3ATS_GP_ES_M2M_D%2C1",
+    "local_file": "data/v2/raw/iphone_sbp_2026_easydata_capture_20261001.json",
+    "measurement_period": "2026-09-18",
+    "role": "USD READY weighted closing M2M",
+    "representation": "official indexed / extracted capture; direct download refused"
+  }
+]

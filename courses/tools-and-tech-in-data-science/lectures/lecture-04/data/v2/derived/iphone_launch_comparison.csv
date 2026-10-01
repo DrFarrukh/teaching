@@ -1,0 +1,5 @@
+year,model,storage_gb,availability_date,fx_date,apple_url,fx_url,usd,pkr_per_usd,pkr_floor
+2019,iPhone 11 Pro Max,64,2019-09-20,2019-09-20,https://www.apple.com/newsroom/2019/09/iphone-11-pro-and-iphone-11-pro-max-the-most-powerful-and-advanced-smartphones/,https://www.sbp.org.pk/Ecodata/rates/m2m/2019/Sep/20-Sep-19.pdf,1099,156.0798,171531.7002
+2021,iPhone 13 Pro Max,128,2021-09-24,2021-09-24,https://www.apple.com/newsroom/2021/09/apple-unveils-iphone-13-pro-and-iphone-13-pro-max-more-pro-than-ever-before/,https://www.sbp.org.pk/ecodata/rates/m2m/2021/Sep/24-Sep-21.pdf,1099,169.081,185820.019
+2023,iPhone 15 Pro Max,256,2023-09-22,2023-09-22,https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/,https://www.sbp.org.pk/ecodata/rates/m2m/2023/Sep/22-Sep-23.pdf,1199,291.7629,349823.7171
+2026,iPhone 18 Pro Max,256,2026-09-18,2026-09-18,https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/,https://easydata.sbp.org.pk/apex/f?cs=194BF87824E1CB1AA9CC210C19760B944&p=10%3A211%3A15242308076104%3A%3ANO%3ARP%3AP211_DATASET_TYPE_CODE%2CP211_PAGE_ID%3ATS_GP_ES_M2M_D%2C1,1299,277.2522,360150.6078
