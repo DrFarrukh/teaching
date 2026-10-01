@@ -1,7 +1,10 @@
 # Data Analysis and Visualization
 
-A practical course on asking measurable questions, analyzing data, and communicating evidence.
+Lecture slides, notebooks and data. Each notebook is saved with its outputs; the first code cell sets it up in Google Colab.
 
-## Lectures
-
-- [Lecture 1: Data and evidence](lectures/lecture-01/README.md)
+| Lecture | Slides | Notebook | Run the notebook |
+|---|---|---|---|
+| 1 · Data, evidence and market-share claims | [PowerPoint](lectures/lecture-01/slides.pptx) | [Jupyter notebook](lectures/lecture-01/notebook.ipynb) | [Google Colab](https://colab.research.google.com/github/DrFarrukh/teaching/blob/main/courses/data-analysis-and-visualization/lectures/lecture-01/notebook.ipynb) |
+| 2 · Python, pandas and a real Excel workbook | [PowerPoint](lectures/lecture-02/slides.pptx) | [Jupyter notebook](lectures/lecture-02/notebook.ipynb) | [Google Colab](https://colab.research.google.com/github/DrFarrukh/teaching/blob/main/courses/data-analysis-and-visualization/lectures/lecture-02/notebook.ipynb) |
+| 3 · From totals to a defensible visual argument | [PowerPoint](lectures/lecture-03/slides.pptx) | [Jupyter notebook](lectures/lecture-03/notebook.ipynb) | [Google Colab](https://colab.research.google.com/github/DrFarrukh/teaching/blob/main/courses/data-analysis-and-visualization/lectures/lecture-03/notebook.ipynb) |
+| 4 · What does an average hide? | [PowerPoint](lectures/lecture-04/slides.pptx) | [Jupyter notebook](lectures/lecture-04/notebook.ipynb) | [Google Colab](https://colab.research.google.com/github/DrFarrukh/teaching/blob/main/courses/data-analysis-and-visualization/lectures/lecture-04/notebook.ipynb) |

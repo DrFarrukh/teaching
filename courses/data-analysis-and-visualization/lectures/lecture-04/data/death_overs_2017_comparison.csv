@@ -1,0 +1,82 @@
+match_id,match_date,innings,batting_team,bowling_team,over_number,total_runs,dot_balls,fours,sixes,dismissals,venue,batting_team_won,anonymous_group
+1075986,2017-02-09,1,Peshawar Zalmi,Islamabad United,16,2,4,0,0,1,Dubai International Cricket Stadium,False,Group A
+1075986,2017-02-09,1,Peshawar Zalmi,Islamabad United,17,11,3,0,1,1,Dubai International Cricket Stadium,False,Group A
+1075986,2017-02-09,1,Peshawar Zalmi,Islamabad United,18,6,2,0,0,2,Dubai International Cricket Stadium,False,Group A
+1075986,2017-02-09,1,Peshawar Zalmi,Islamabad United,19,2,4,0,0,1,Dubai International Cricket Stadium,False,Group A
+1075986,2017-02-09,1,Peshawar Zalmi,Islamabad United,20,20,1,2,1,1,Dubai International Cricket Stadium,False,Group A
+1075988,2017-02-10,2,Peshawar Zalmi,Karachi Kings,16,19,1,2,1,0,Dubai International Cricket Stadium,True,Group A
+1075988,2017-02-10,2,Peshawar Zalmi,Karachi Kings,17,5,4,1,0,0,Dubai International Cricket Stadium,True,Group A
+1075988,2017-02-10,2,Peshawar Zalmi,Karachi Kings,18,7,3,1,0,0,Dubai International Cricket Stadium,True,Group A
+1075991,2017-02-12,2,Peshawar Zalmi,Lahore Qalandars,16,2,4,0,0,0,Dubai International Cricket Stadium,True,Group A
+1075991,2017-02-12,2,Peshawar Zalmi,Lahore Qalandars,17,5,3,0,0,0,Dubai International Cricket Stadium,True,Group A
+1075994,2017-02-17,1,Peshawar Zalmi,Quetta Gladiators,16,4,2,0,0,0,Sharjah Cricket Stadium,,Group A
+1075997,2017-02-18,1,Peshawar Zalmi,Islamabad United,16,20,0,1,2,0,Sharjah Cricket Stadium,False,Group A
+1075997,2017-02-18,1,Peshawar Zalmi,Islamabad United,17,3,3,0,0,1,Sharjah Cricket Stadium,False,Group A
+1075997,2017-02-18,1,Peshawar Zalmi,Islamabad United,18,21,0,3,1,0,Sharjah Cricket Stadium,False,Group A
+1075997,2017-02-18,1,Peshawar Zalmi,Islamabad United,19,2,4,0,0,0,Sharjah Cricket Stadium,False,Group A
+1075997,2017-02-18,1,Peshawar Zalmi,Islamabad United,20,2,4,0,0,2,Sharjah Cricket Stadium,False,Group A
+1075998,2017-02-19,2,Peshawar Zalmi,Karachi Kings,16,8,3,0,1,0,Sharjah Cricket Stadium,False,Group A
+1075998,2017-02-19,2,Peshawar Zalmi,Karachi Kings,17,13,1,1,1,0,Sharjah Cricket Stadium,False,Group A
+1075998,2017-02-19,2,Peshawar Zalmi,Karachi Kings,18,15,1,0,2,1,Sharjah Cricket Stadium,False,Group A
+1075998,2017-02-19,2,Peshawar Zalmi,Karachi Kings,19,17,2,2,1,1,Sharjah Cricket Stadium,False,Group A
+1076001,2017-02-24,1,Peshawar Zalmi,Lahore Qalandars,16,13,1,1,1,0,Dubai International Cricket Stadium,True,Group A
+1076001,2017-02-24,1,Peshawar Zalmi,Lahore Qalandars,17,5,2,0,0,1,Dubai International Cricket Stadium,True,Group A
+1076001,2017-02-24,1,Peshawar Zalmi,Lahore Qalandars,18,11,0,1,0,0,Dubai International Cricket Stadium,True,Group A
+1076001,2017-02-24,1,Peshawar Zalmi,Lahore Qalandars,19,5,3,0,0,1,Dubai International Cricket Stadium,True,Group A
+1076001,2017-02-24,1,Peshawar Zalmi,Lahore Qalandars,20,16,1,1,1,1,Dubai International Cricket Stadium,True,Group A
+1076004,2017-02-25,2,Peshawar Zalmi,Quetta Gladiators,16,2,4,0,0,1,Dubai International Cricket Stadium,True,Group A
+1076004,2017-02-25,2,Peshawar Zalmi,Quetta Gladiators,17,9,2,0,1,0,Dubai International Cricket Stadium,True,Group A
+1076004,2017-02-25,2,Peshawar Zalmi,Quetta Gladiators,18,13,2,1,1,0,Dubai International Cricket Stadium,True,Group A
+1076004,2017-02-25,2,Peshawar Zalmi,Quetta Gladiators,19,11,3,2,0,1,Dubai International Cricket Stadium,True,Group A
+1076006,2017-02-28,2,Peshawar Zalmi,Quetta Gladiators,16,10,3,0,1,1,Sharjah Cricket Stadium,False,Group A
+1076006,2017-02-28,2,Peshawar Zalmi,Quetta Gladiators,17,14,1,1,1,1,Sharjah Cricket Stadium,False,Group A
+1076006,2017-02-28,2,Peshawar Zalmi,Quetta Gladiators,18,5,1,0,0,0,Sharjah Cricket Stadium,False,Group A
+1076006,2017-02-28,2,Peshawar Zalmi,Quetta Gladiators,19,8,3,0,1,1,Sharjah Cricket Stadium,False,Group A
+1076006,2017-02-28,2,Peshawar Zalmi,Quetta Gladiators,20,5,4,1,0,3,Sharjah Cricket Stadium,False,Group A
+1076008,2017-03-03,1,Peshawar Zalmi,Karachi Kings,16,19,0,1,2,0,Dubai International Cricket Stadium,True,Group A
+1076008,2017-03-03,1,Peshawar Zalmi,Karachi Kings,17,15,0,1,1,0,Dubai International Cricket Stadium,True,Group A
+1076008,2017-03-03,1,Peshawar Zalmi,Karachi Kings,18,8,1,1,0,0,Dubai International Cricket Stadium,True,Group A
+1076008,2017-03-03,1,Peshawar Zalmi,Karachi Kings,19,5,2,0,0,0,Dubai International Cricket Stadium,True,Group A
+1076008,2017-03-03,1,Peshawar Zalmi,Karachi Kings,20,8,1,1,0,2,Dubai International Cricket Stadium,True,Group A
+1076009,2017-03-05,1,Peshawar Zalmi,Quetta Gladiators,16,6,2,0,0,0,Gaddafi Stadium,True,Group A
+1076009,2017-03-05,1,Peshawar Zalmi,Quetta Gladiators,17,2,4,0,0,2,Gaddafi Stadium,True,Group A
+1076009,2017-03-05,1,Peshawar Zalmi,Quetta Gladiators,18,3,3,0,0,0,Gaddafi Stadium,True,Group A
+1076009,2017-03-05,1,Peshawar Zalmi,Quetta Gladiators,19,18,0,2,1,0,Gaddafi Stadium,True,Group A
+1076009,2017-03-05,1,Peshawar Zalmi,Quetta Gladiators,20,15,1,0,2,0,Gaddafi Stadium,True,Group A
+1075987,2017-02-10,1,Quetta Gladiators,Lahore Qalandars,16,12,0,2,0,0,Dubai International Cricket Stadium,True,Group B
+1075987,2017-02-10,1,Quetta Gladiators,Lahore Qalandars,17,13,1,1,1,0,Dubai International Cricket Stadium,True,Group B
+1075987,2017-02-10,1,Quetta Gladiators,Lahore Qalandars,18,11,1,0,1,0,Dubai International Cricket Stadium,True,Group B
+1075987,2017-02-10,1,Quetta Gladiators,Lahore Qalandars,19,4,2,0,0,1,Dubai International Cricket Stadium,True,Group B
+1075987,2017-02-10,1,Quetta Gladiators,Lahore Qalandars,20,7,2,0,0,2,Dubai International Cricket Stadium,True,Group B
+1075990,2017-02-11,2,Quetta Gladiators,Karachi Kings,16,11,0,1,0,0,Dubai International Cricket Stadium,True,Group B
+1075990,2017-02-11,2,Quetta Gladiators,Karachi Kings,17,13,0,0,1,0,Dubai International Cricket Stadium,True,Group B
+1075990,2017-02-11,2,Quetta Gladiators,Karachi Kings,18,8,2,1,0,0,Dubai International Cricket Stadium,True,Group B
+1075990,2017-02-11,2,Quetta Gladiators,Karachi Kings,19,6,1,0,0,0,Dubai International Cricket Stadium,True,Group B
+1075992,2017-02-15,1,Quetta Gladiators,Islamabad United,16,9,2,0,1,1,Sharjah Cricket Stadium,False,Group B
+1075992,2017-02-15,1,Quetta Gladiators,Islamabad United,17,7,2,1,0,0,Sharjah Cricket Stadium,False,Group B
+1075992,2017-02-15,1,Quetta Gladiators,Islamabad United,18,11,1,0,1,0,Sharjah Cricket Stadium,False,Group B
+1075992,2017-02-15,1,Quetta Gladiators,Islamabad United,19,11,0,1,0,0,Sharjah Cricket Stadium,False,Group B
+1075992,2017-02-15,1,Quetta Gladiators,Islamabad United,20,8,2,1,0,1,Sharjah Cricket Stadium,False,Group B
+1075996,2017-02-18,2,Quetta Gladiators,Lahore Qalandars,16,15,0,1,1,0,Sharjah Cricket Stadium,True,Group B
+1075996,2017-02-18,2,Quetta Gladiators,Lahore Qalandars,17,21,0,0,3,0,Sharjah Cricket Stadium,True,Group B
+1075996,2017-02-18,2,Quetta Gladiators,Lahore Qalandars,18,26,0,0,4,0,Sharjah Cricket Stadium,True,Group B
+1076000,2017-02-23,2,Quetta Gladiators,Karachi Kings,16,6,0,0,0,0,Dubai International Cricket Stadium,True,Group B
+1076000,2017-02-23,2,Quetta Gladiators,Karachi Kings,17,5,4,0,0,0,Dubai International Cricket Stadium,True,Group B
+1076000,2017-02-23,2,Quetta Gladiators,Karachi Kings,18,6,3,1,0,1,Dubai International Cricket Stadium,True,Group B
+1076000,2017-02-23,2,Quetta Gladiators,Karachi Kings,19,11,0,1,0,0,Dubai International Cricket Stadium,True,Group B
+1076002,2017-02-24,2,Quetta Gladiators,Islamabad United,16,10,0,1,0,0,Dubai International Cricket Stadium,False,Group B
+1076002,2017-02-24,2,Quetta Gladiators,Islamabad United,17,8,1,0,0,1,Dubai International Cricket Stadium,False,Group B
+1076002,2017-02-24,2,Quetta Gladiators,Islamabad United,18,10,2,1,0,1,Dubai International Cricket Stadium,False,Group B
+1076002,2017-02-24,2,Quetta Gladiators,Islamabad United,19,2,4,0,0,1,Dubai International Cricket Stadium,False,Group B
+1076002,2017-02-24,2,Quetta Gladiators,Islamabad United,20,3,3,0,0,1,Dubai International Cricket Stadium,False,Group B
+1076004,2017-02-25,1,Quetta Gladiators,Peshawar Zalmi,16,14,1,1,1,1,Dubai International Cricket Stadium,False,Group B
+1076004,2017-02-25,1,Quetta Gladiators,Peshawar Zalmi,17,5,3,0,0,0,Dubai International Cricket Stadium,False,Group B
+1076004,2017-02-25,1,Quetta Gladiators,Peshawar Zalmi,18,4,3,0,0,2,Dubai International Cricket Stadium,False,Group B
+1076004,2017-02-25,1,Quetta Gladiators,Peshawar Zalmi,19,3,3,0,0,2,Dubai International Cricket Stadium,False,Group B
+1076004,2017-02-25,1,Quetta Gladiators,Peshawar Zalmi,20,4,2,0,0,2,Dubai International Cricket Stadium,False,Group B
+1076006,2017-02-28,1,Quetta Gladiators,Peshawar Zalmi,16,7,0,0,0,0,Sharjah Cricket Stadium,True,Group B
+1076006,2017-02-28,1,Quetta Gladiators,Peshawar Zalmi,17,10,1,1,0,1,Sharjah Cricket Stadium,True,Group B
+1076006,2017-02-28,1,Quetta Gladiators,Peshawar Zalmi,18,6,1,0,0,0,Sharjah Cricket Stadium,True,Group B
+1076006,2017-02-28,1,Quetta Gladiators,Peshawar Zalmi,19,12,1,2,0,2,Sharjah Cricket Stadium,True,Group B
+1076006,2017-02-28,1,Quetta Gladiators,Peshawar Zalmi,20,12,1,2,0,1,Sharjah Cricket Stadium,True,Group B
+1076009,2017-03-05,2,Quetta Gladiators,Peshawar Zalmi,16,5,3,0,0,1,Gaddafi Stadium,False,Group B

@@ -1,6 +1,6 @@
-# Tools and Techniques for Data Science (CS-808)
+# Tools and Techniques for Data Science
 
-Student-facing lecture materials. Each lecture has a PowerPoint deck and a Jupyter notebook saved with its outputs, plus the data the notebook needs.
+Lecture slides, notebooks and data. Each notebook is saved with its outputs; the first code cell sets it up in Google Colab.
 
 | Lecture | Slides | Notebook | Run the notebook |
 |---|---|---|---|
@@ -11,6 +11,4 @@ Student-facing lecture materials. Each lecture has a PowerPoint deck and a Jupyt
 
 ## Assignments
 
-- [Assignment 1: Acquire a dataset and audit whether it can be trusted](assignments/assignment-01/README.md) (with an optional starter kit)
-
-In Colab, run the notebook's first code cell: it fetches that lecture's data and installs its packages.
+- [Assignment 1: Acquire a dataset and audit whether it can be trusted](assignments/assignment-01/README.md)
