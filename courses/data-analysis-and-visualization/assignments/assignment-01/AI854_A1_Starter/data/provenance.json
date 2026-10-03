@@ -1,0 +1,19 @@
+{
+  "source": "Cricsheet PSL archive, via the course Lecture 4 preparation pipeline",
+  "upstream_url": "https://cricsheet.org/downloads/",
+  "prepared_source": "courses/data-analysis-and-visualization/lectures/lecture-04/data/psl_overs.csv",
+  "prepared_source_sha256": "031b886125af03e40344b7de6ed623d5d509560ea4a94c582aaca569d448041e",
+  "subset_rule": {
+    "season_year": 2019,
+    "phase": "Powerplay",
+    "batting_team": [
+      "Islamabad United",
+      "Lahore Qalandars"
+    ],
+    "complete_over": "all values retained"
+  },
+  "snapshot_sha256": "7169aa4fc586549f67e210e0bf8bfd653e96ae5ec8b6698a201b10056a4dd683",
+  "rows": 132,
+  "created_date": "2026-10-03",
+  "limitations": "Prepared archive coverage; incomplete or missing overs require an eligibility audit; observational records do not identify causal team effects."
+}

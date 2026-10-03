@@ -1,0 +1,133 @@
+match_id,match_date,season_source,season_year,innings,batting_team,bowling_team,over_number,phase,total_runs,batter_runs,extras,dismissals,dot_balls,fours,sixes,deliveries_recorded,legal_balls,complete_over,venue,match_winner,batting_team_won
+1168820,2019-02-14,2018/19,2019,1,Lahore Qalandars,Islamabad United,1,Powerplay,9,9,0,0,2,1,0,6,6,True,Dubai International Cricket Stadium,Islamabad United,False
+1168820,2019-02-14,2018/19,2019,1,Lahore Qalandars,Islamabad United,2,Powerplay,9,4,5,0,4,0,0,7,7,False,Dubai International Cricket Stadium,Islamabad United,False
+1168820,2019-02-14,2018/19,2019,1,Lahore Qalandars,Islamabad United,3,Powerplay,6,6,0,0,3,1,0,6,6,True,Dubai International Cricket Stadium,Islamabad United,False
+1168820,2019-02-14,2018/19,2019,1,Lahore Qalandars,Islamabad United,4,Powerplay,15,15,0,0,2,2,1,6,6,True,Dubai International Cricket Stadium,Islamabad United,False
+1168820,2019-02-14,2018/19,2019,1,Lahore Qalandars,Islamabad United,5,Powerplay,6,6,0,0,3,1,0,6,6,True,Dubai International Cricket Stadium,Islamabad United,False
+1168820,2019-02-14,2018/19,2019,1,Lahore Qalandars,Islamabad United,6,Powerplay,12,10,2,0,1,0,1,7,6,True,Dubai International Cricket Stadium,Islamabad United,False
+1168820,2019-02-14,2018/19,2019,2,Islamabad United,Lahore Qalandars,1,Powerplay,14,14,0,0,1,1,1,6,6,True,Dubai International Cricket Stadium,Islamabad United,True
+1168820,2019-02-14,2018/19,2019,2,Islamabad United,Lahore Qalandars,2,Powerplay,3,1,2,0,4,0,0,7,6,True,Dubai International Cricket Stadium,Islamabad United,True
+1168820,2019-02-14,2018/19,2019,2,Islamabad United,Lahore Qalandars,3,Powerplay,11,11,0,0,1,2,0,6,6,True,Dubai International Cricket Stadium,Islamabad United,True
+1168820,2019-02-14,2018/19,2019,2,Islamabad United,Lahore Qalandars,4,Powerplay,13,12,1,0,2,3,0,6,6,True,Dubai International Cricket Stadium,Islamabad United,True
+1168820,2019-02-14,2018/19,2019,2,Islamabad United,Lahore Qalandars,5,Powerplay,4,4,0,0,2,0,0,6,6,True,Dubai International Cricket Stadium,Islamabad United,True
+1168820,2019-02-14,2018/19,2019,2,Islamabad United,Lahore Qalandars,6,Powerplay,4,4,0,3,5,1,0,6,6,True,Dubai International Cricket Stadium,Islamabad United,True
+1168823,2019-02-16,2018/19,2019,1,Islamabad United,Multan Sultans,1,Powerplay,4,4,0,0,3,0,0,6,6,True,Dubai International Cricket Stadium,Multan Sultans,False
+1168823,2019-02-16,2018/19,2019,1,Islamabad United,Multan Sultans,2,Powerplay,14,14,0,0,2,0,2,6,6,True,Dubai International Cricket Stadium,Multan Sultans,False
+1168823,2019-02-16,2018/19,2019,1,Islamabad United,Multan Sultans,3,Powerplay,2,2,0,0,4,0,0,6,6,True,Dubai International Cricket Stadium,Multan Sultans,False
+1168823,2019-02-16,2018/19,2019,1,Islamabad United,Multan Sultans,4,Powerplay,5,4,1,1,4,0,0,7,6,True,Dubai International Cricket Stadium,Multan Sultans,False
+1168823,2019-02-16,2018/19,2019,1,Islamabad United,Multan Sultans,5,Powerplay,1,1,0,1,5,0,0,6,6,True,Dubai International Cricket Stadium,Multan Sultans,False
+1168823,2019-02-16,2018/19,2019,1,Islamabad United,Multan Sultans,6,Powerplay,3,3,0,0,3,0,0,6,6,True,Dubai International Cricket Stadium,Multan Sultans,False
+1168824,2019-02-16,2018/19,2019,1,Lahore Qalandars,Karachi Kings,1,Powerplay,7,7,0,0,2,1,0,6,6,True,Dubai International Cricket Stadium,Lahore Qalandars,True
+1168824,2019-02-16,2018/19,2019,1,Lahore Qalandars,Karachi Kings,2,Powerplay,7,7,0,0,0,0,0,6,6,True,Dubai International Cricket Stadium,Lahore Qalandars,True
+1168824,2019-02-16,2018/19,2019,1,Lahore Qalandars,Karachi Kings,3,Powerplay,12,12,0,0,0,2,0,6,6,True,Dubai International Cricket Stadium,Lahore Qalandars,True
+1168824,2019-02-16,2018/19,2019,1,Lahore Qalandars,Karachi Kings,4,Powerplay,5,4,1,0,1,0,0,6,6,True,Dubai International Cricket Stadium,Lahore Qalandars,True
+1168824,2019-02-16,2018/19,2019,1,Lahore Qalandars,Karachi Kings,5,Powerplay,6,6,0,0,3,1,0,6,6,True,Dubai International Cricket Stadium,Lahore Qalandars,True
+1168824,2019-02-16,2018/19,2019,1,Lahore Qalandars,Karachi Kings,6,Powerplay,13,12,1,0,2,1,1,7,6,True,Dubai International Cricket Stadium,Lahore Qalandars,True
+1168825,2019-02-17,2018/19,2019,1,Islamabad United,Quetta Gladiators,1,Powerplay,0,0,0,2,6,0,0,6,6,True,Dubai International Cricket Stadium,Quetta Gladiators,False
+1168825,2019-02-17,2018/19,2019,1,Islamabad United,Quetta Gladiators,2,Powerplay,6,5,1,0,3,1,0,6,6,True,Dubai International Cricket Stadium,Quetta Gladiators,False
+1168825,2019-02-17,2018/19,2019,1,Islamabad United,Quetta Gladiators,3,Powerplay,2,2,0,0,4,0,0,6,6,True,Dubai International Cricket Stadium,Quetta Gladiators,False
+1168825,2019-02-17,2018/19,2019,1,Islamabad United,Quetta Gladiators,4,Powerplay,1,1,0,1,5,0,0,6,6,True,Dubai International Cricket Stadium,Quetta Gladiators,False
+1168825,2019-02-17,2018/19,2019,1,Islamabad United,Quetta Gladiators,5,Powerplay,15,15,0,0,1,1,1,6,6,True,Dubai International Cricket Stadium,Quetta Gladiators,False
+1168825,2019-02-17,2018/19,2019,1,Islamabad United,Quetta Gladiators,6,Powerplay,14,13,1,0,1,3,0,6,6,True,Dubai International Cricket Stadium,Quetta Gladiators,False
+1168826,2019-02-17,2018/19,2019,1,Lahore Qalandars,Peshawar Zalmi,1,Powerplay,6,5,1,0,3,1,0,6,6,True,Dubai International Cricket Stadium,Peshawar Zalmi,False
+1168826,2019-02-17,2018/19,2019,1,Lahore Qalandars,Peshawar Zalmi,2,Powerplay,7,6,1,0,2,1,0,6,6,True,Dubai International Cricket Stadium,Peshawar Zalmi,False
+1168826,2019-02-17,2018/19,2019,1,Lahore Qalandars,Peshawar Zalmi,3,Powerplay,1,1,0,2,5,0,0,6,6,True,Dubai International Cricket Stadium,Peshawar Zalmi,False
+1168826,2019-02-17,2018/19,2019,1,Lahore Qalandars,Peshawar Zalmi,4,Powerplay,8,8,0,0,4,2,0,6,6,True,Dubai International Cricket Stadium,Peshawar Zalmi,False
+1168826,2019-02-17,2018/19,2019,1,Lahore Qalandars,Peshawar Zalmi,5,Powerplay,11,11,0,0,1,2,0,6,6,True,Dubai International Cricket Stadium,Peshawar Zalmi,False
+1168826,2019-02-17,2018/19,2019,1,Lahore Qalandars,Peshawar Zalmi,6,Powerplay,6,6,0,2,3,1,0,6,6,True,Dubai International Cricket Stadium,Peshawar Zalmi,False
+1168829,2019-02-22,2018/19,2019,2,Lahore Qalandars,Multan Sultans,1,Powerplay,12,8,4,0,1,1,0,6,6,True,Sharjah Cricket Stadium,Lahore Qalandars,True
+1168829,2019-02-22,2018/19,2019,2,Lahore Qalandars,Multan Sultans,2,Powerplay,8,8,0,0,2,1,0,6,6,True,Sharjah Cricket Stadium,Lahore Qalandars,True
+1168829,2019-02-22,2018/19,2019,2,Lahore Qalandars,Multan Sultans,3,Powerplay,8,3,5,0,3,0,0,7,6,True,Sharjah Cricket Stadium,Lahore Qalandars,True
+1168829,2019-02-22,2018/19,2019,2,Lahore Qalandars,Multan Sultans,4,Powerplay,7,7,0,1,2,1,0,6,6,True,Sharjah Cricket Stadium,Lahore Qalandars,True
+1168829,2019-02-22,2018/19,2019,2,Lahore Qalandars,Multan Sultans,5,Powerplay,6,6,0,0,3,1,0,6,6,True,Sharjah Cricket Stadium,Lahore Qalandars,True
+1168829,2019-02-22,2018/19,2019,2,Lahore Qalandars,Multan Sultans,6,Powerplay,10,9,1,0,2,2,0,6,6,True,Sharjah Cricket Stadium,Lahore Qalandars,True
+1168830,2019-02-22,2018/19,2019,1,Islamabad United,Peshawar Zalmi,1,Powerplay,6,6,0,0,3,1,0,6,6,True,Sharjah Cricket Stadium,Islamabad United,True
+1168830,2019-02-22,2018/19,2019,1,Islamabad United,Peshawar Zalmi,2,Powerplay,3,3,0,0,4,0,0,6,6,True,Sharjah Cricket Stadium,Islamabad United,True
+1168830,2019-02-22,2018/19,2019,1,Islamabad United,Peshawar Zalmi,3,Powerplay,9,8,1,0,2,0,1,6,6,True,Sharjah Cricket Stadium,Islamabad United,True
+1168830,2019-02-22,2018/19,2019,1,Islamabad United,Peshawar Zalmi,4,Powerplay,12,11,1,0,0,0,1,6,6,True,Sharjah Cricket Stadium,Islamabad United,True
+1168830,2019-02-22,2018/19,2019,1,Islamabad United,Peshawar Zalmi,5,Powerplay,3,2,1,1,3,0,0,6,6,True,Sharjah Cricket Stadium,Islamabad United,True
+1168830,2019-02-22,2018/19,2019,1,Islamabad United,Peshawar Zalmi,6,Powerplay,7,7,0,0,3,1,0,6,6,True,Sharjah Cricket Stadium,Islamabad United,True
+1168831,2019-02-23,2018/19,2019,1,Lahore Qalandars,Quetta Gladiators,1,Powerplay,3,3,0,0,3,0,0,6,6,True,Sharjah Cricket Stadium,Quetta Gladiators,False
+1168831,2019-02-23,2018/19,2019,1,Lahore Qalandars,Quetta Gladiators,2,Powerplay,12,12,0,1,2,1,1,6,6,True,Sharjah Cricket Stadium,Quetta Gladiators,False
+1168831,2019-02-23,2018/19,2019,1,Lahore Qalandars,Quetta Gladiators,3,Powerplay,9,9,0,0,3,0,1,6,6,True,Sharjah Cricket Stadium,Quetta Gladiators,False
+1168831,2019-02-23,2018/19,2019,1,Lahore Qalandars,Quetta Gladiators,4,Powerplay,5,4,1,0,3,0,0,7,6,True,Sharjah Cricket Stadium,Quetta Gladiators,False
+1168831,2019-02-23,2018/19,2019,1,Lahore Qalandars,Quetta Gladiators,5,Powerplay,11,9,2,0,1,0,1,6,6,True,Sharjah Cricket Stadium,Quetta Gladiators,False
+1168831,2019-02-23,2018/19,2019,1,Lahore Qalandars,Quetta Gladiators,6,Powerplay,8,6,2,2,2,1,0,7,6,True,Sharjah Cricket Stadium,Quetta Gladiators,False
+1168832,2019-02-23,2018/19,2019,2,Islamabad United,Karachi Kings,1,Powerplay,9,9,0,1,3,2,0,6,6,True,Sharjah Cricket Stadium,Islamabad United,True
+1168832,2019-02-23,2018/19,2019,2,Islamabad United,Karachi Kings,2,Powerplay,13,8,5,0,1,1,0,7,6,True,Sharjah Cricket Stadium,Islamabad United,True
+1168832,2019-02-23,2018/19,2019,2,Islamabad United,Karachi Kings,3,Powerplay,13,13,0,0,2,3,0,6,6,True,Sharjah Cricket Stadium,Islamabad United,True
+1168832,2019-02-23,2018/19,2019,2,Islamabad United,Karachi Kings,4,Powerplay,14,14,0,0,2,0,2,6,6,True,Sharjah Cricket Stadium,Islamabad United,True
+1168832,2019-02-23,2018/19,2019,2,Islamabad United,Karachi Kings,5,Powerplay,7,7,0,0,2,1,0,6,6,True,Sharjah Cricket Stadium,Islamabad United,True
+1168832,2019-02-23,2018/19,2019,2,Islamabad United,Karachi Kings,6,Powerplay,5,5,0,0,2,0,0,6,6,True,Sharjah Cricket Stadium,Islamabad United,True
+1168835,2019-02-26,2018/19,2019,1,Islamabad United,Multan Sultans,1,Powerplay,5,4,1,1,4,1,0,6,6,True,Dubai International Cricket Stadium,Multan Sultans,False
+1168835,2019-02-26,2018/19,2019,1,Islamabad United,Multan Sultans,2,Powerplay,9,9,0,0,3,2,0,6,6,True,Dubai International Cricket Stadium,Multan Sultans,False
+1168835,2019-02-26,2018/19,2019,1,Islamabad United,Multan Sultans,3,Powerplay,9,9,0,0,2,0,1,6,6,True,Dubai International Cricket Stadium,Multan Sultans,False
+1168835,2019-02-26,2018/19,2019,1,Islamabad United,Multan Sultans,4,Powerplay,11,10,1,1,2,2,0,7,6,True,Dubai International Cricket Stadium,Multan Sultans,False
+1168835,2019-02-26,2018/19,2019,1,Islamabad United,Multan Sultans,5,Powerplay,8,8,0,1,4,2,0,6,6,True,Dubai International Cricket Stadium,Multan Sultans,False
+1168835,2019-02-26,2018/19,2019,1,Islamabad United,Multan Sultans,6,Powerplay,3,3,0,0,4,0,0,6,6,True,Dubai International Cricket Stadium,Multan Sultans,False
+1168836,2019-02-27,2018/19,2019,2,Lahore Qalandars,Quetta Gladiators,1,Powerplay,3,3,0,0,3,0,0,6,6,True,Dubai International Cricket Stadium,Lahore Qalandars,True
+1168836,2019-02-27,2018/19,2019,2,Lahore Qalandars,Quetta Gladiators,2,Powerplay,7,5,2,1,4,1,0,8,6,True,Dubai International Cricket Stadium,Lahore Qalandars,True
+1168836,2019-02-27,2018/19,2019,2,Lahore Qalandars,Quetta Gladiators,3,Powerplay,9,9,0,0,3,2,0,6,6,True,Dubai International Cricket Stadium,Lahore Qalandars,True
+1168836,2019-02-27,2018/19,2019,2,Lahore Qalandars,Quetta Gladiators,4,Powerplay,8,8,0,0,1,1,0,6,6,True,Dubai International Cricket Stadium,Lahore Qalandars,True
+1168836,2019-02-27,2018/19,2019,2,Lahore Qalandars,Quetta Gladiators,5,Powerplay,7,7,0,1,4,0,1,6,6,True,Dubai International Cricket Stadium,Lahore Qalandars,True
+1168836,2019-02-27,2018/19,2019,2,Lahore Qalandars,Quetta Gladiators,6,Powerplay,1,1,0,0,5,0,0,6,6,True,Dubai International Cricket Stadium,Lahore Qalandars,True
+1168837,2019-02-27,2018/19,2019,2,Islamabad United,Karachi Kings,1,Powerplay,6,6,0,1,3,1,0,6,6,True,Dubai International Cricket Stadium,Islamabad United,True
+1168837,2019-02-27,2018/19,2019,2,Islamabad United,Karachi Kings,2,Powerplay,5,5,0,0,4,1,0,6,6,True,Dubai International Cricket Stadium,Islamabad United,True
+1168837,2019-02-27,2018/19,2019,2,Islamabad United,Karachi Kings,3,Powerplay,3,3,0,0,3,0,0,6,6,True,Dubai International Cricket Stadium,Islamabad United,True
+1168837,2019-02-27,2018/19,2019,2,Islamabad United,Karachi Kings,4,Powerplay,9,9,0,0,3,2,0,6,6,True,Dubai International Cricket Stadium,Islamabad United,True
+1168837,2019-02-27,2018/19,2019,2,Islamabad United,Karachi Kings,5,Powerplay,16,15,1,0,1,2,1,6,6,True,Dubai International Cricket Stadium,Islamabad United,True
+1168837,2019-02-27,2018/19,2019,2,Islamabad United,Karachi Kings,6,Powerplay,5,3,2,0,2,0,0,7,6,True,Dubai International Cricket Stadium,Islamabad United,True
+1168839,2019-02-28,2018/19,2019,1,Lahore Qalandars,Karachi Kings,1,Powerplay,10,10,0,1,2,2,0,6,6,True,Dubai International Cricket Stadium,Karachi Kings,False
+1168839,2019-02-28,2018/19,2019,1,Lahore Qalandars,Karachi Kings,2,Powerplay,6,6,0,0,3,1,0,6,6,True,Dubai International Cricket Stadium,Karachi Kings,False
+1168839,2019-02-28,2018/19,2019,1,Lahore Qalandars,Karachi Kings,3,Powerplay,6,6,0,0,3,1,0,6,6,True,Dubai International Cricket Stadium,Karachi Kings,False
+1168839,2019-02-28,2018/19,2019,1,Lahore Qalandars,Karachi Kings,4,Powerplay,9,8,1,0,1,1,0,6,6,True,Dubai International Cricket Stadium,Karachi Kings,False
+1168839,2019-02-28,2018/19,2019,1,Lahore Qalandars,Karachi Kings,5,Powerplay,2,2,0,0,4,0,0,6,6,True,Dubai International Cricket Stadium,Karachi Kings,False
+1168839,2019-02-28,2018/19,2019,1,Lahore Qalandars,Karachi Kings,6,Powerplay,9,9,0,0,3,2,0,6,6,True,Dubai International Cricket Stadium,Karachi Kings,False
+1168840,2019-03-01,2018/19,2019,1,Islamabad United,Peshawar Zalmi,1,Powerplay,9,9,0,0,3,2,0,6,6,True,Dubai International Cricket Stadium,Peshawar Zalmi,False
+1168840,2019-03-01,2018/19,2019,1,Islamabad United,Peshawar Zalmi,2,Powerplay,8,8,0,1,2,1,0,6,6,True,Dubai International Cricket Stadium,Peshawar Zalmi,False
+1168840,2019-03-01,2018/19,2019,1,Islamabad United,Peshawar Zalmi,3,Powerplay,9,8,1,0,3,2,0,6,6,True,Dubai International Cricket Stadium,Peshawar Zalmi,False
+1168840,2019-03-01,2018/19,2019,1,Islamabad United,Peshawar Zalmi,4,Powerplay,2,2,0,0,4,0,0,6,6,True,Dubai International Cricket Stadium,Peshawar Zalmi,False
+1168840,2019-03-01,2018/19,2019,1,Islamabad United,Peshawar Zalmi,5,Powerplay,10,10,0,0,2,2,0,6,6,True,Dubai International Cricket Stadium,Peshawar Zalmi,False
+1168840,2019-03-01,2018/19,2019,1,Islamabad United,Peshawar Zalmi,6,Powerplay,6,6,0,0,3,1,0,6,6,True,Dubai International Cricket Stadium,Peshawar Zalmi,False
+1168844,2019-03-05,2018/19,2019,1,Lahore Qalandars,Peshawar Zalmi,1,Powerplay,8,8,0,0,2,1,0,6,6,True,Sheikh Zayed Stadium,Peshawar Zalmi,False
+1168844,2019-03-05,2018/19,2019,1,Lahore Qalandars,Peshawar Zalmi,2,Powerplay,5,5,0,1,4,1,0,6,6,True,Sheikh Zayed Stadium,Peshawar Zalmi,False
+1168844,2019-03-05,2018/19,2019,1,Lahore Qalandars,Peshawar Zalmi,3,Powerplay,5,5,0,1,4,1,0,6,6,True,Sheikh Zayed Stadium,Peshawar Zalmi,False
+1168844,2019-03-05,2018/19,2019,1,Lahore Qalandars,Peshawar Zalmi,4,Powerplay,2,2,0,0,5,0,0,6,6,True,Sheikh Zayed Stadium,Peshawar Zalmi,False
+1168844,2019-03-05,2018/19,2019,1,Lahore Qalandars,Peshawar Zalmi,5,Powerplay,2,2,0,0,4,0,0,6,6,True,Sheikh Zayed Stadium,Peshawar Zalmi,False
+1168844,2019-03-05,2018/19,2019,1,Lahore Qalandars,Peshawar Zalmi,6,Powerplay,13,13,0,0,1,1,1,6,6,True,Sheikh Zayed Stadium,Peshawar Zalmi,False
+1168845,2019-03-05,2018/19,2019,2,Islamabad United,Quetta Gladiators,1,Powerplay,9,8,1,0,4,2,0,7,6,True,Sheikh Zayed Stadium,Quetta Gladiators,False
+1168845,2019-03-05,2018/19,2019,2,Islamabad United,Quetta Gladiators,2,Powerplay,2,2,0,0,4,0,0,6,6,True,Sheikh Zayed Stadium,Quetta Gladiators,False
+1168845,2019-03-05,2018/19,2019,2,Islamabad United,Quetta Gladiators,3,Powerplay,3,3,0,0,3,0,0,6,6,True,Sheikh Zayed Stadium,Quetta Gladiators,False
+1168845,2019-03-05,2018/19,2019,2,Islamabad United,Quetta Gladiators,4,Powerplay,7,7,0,0,2,1,0,6,6,True,Sheikh Zayed Stadium,Quetta Gladiators,False
+1168845,2019-03-05,2018/19,2019,2,Islamabad United,Quetta Gladiators,5,Powerplay,8,8,0,0,3,0,1,6,6,True,Sheikh Zayed Stadium,Quetta Gladiators,False
+1168845,2019-03-05,2018/19,2019,2,Islamabad United,Quetta Gladiators,6,Powerplay,11,9,2,0,1,2,0,6,6,True,Sheikh Zayed Stadium,Quetta Gladiators,False
+1168847,2019-03-09,2018/19,2019,1,Islamabad United,Lahore Qalandars,1,Powerplay,13,13,0,1,2,3,0,6,6,True,National Stadium,Islamabad United,True
+1168847,2019-03-09,2018/19,2019,1,Islamabad United,Lahore Qalandars,2,Powerplay,19,19,0,0,1,3,1,6,6,True,National Stadium,Islamabad United,True
+1168847,2019-03-09,2018/19,2019,1,Islamabad United,Lahore Qalandars,3,Powerplay,5,1,4,1,4,0,0,6,6,True,National Stadium,Islamabad United,True
+1168847,2019-03-09,2018/19,2019,1,Islamabad United,Lahore Qalandars,4,Powerplay,18,18,0,0,2,1,2,6,6,True,National Stadium,Islamabad United,True
+1168847,2019-03-09,2018/19,2019,1,Islamabad United,Lahore Qalandars,5,Powerplay,8,7,1,0,3,0,1,6,6,True,National Stadium,Islamabad United,True
+1168847,2019-03-09,2018/19,2019,1,Islamabad United,Lahore Qalandars,6,Powerplay,7,7,0,0,2,1,0,6,6,True,National Stadium,Islamabad United,True
+1168847,2019-03-09,2018/19,2019,2,Lahore Qalandars,Islamabad United,1,Powerplay,9,9,0,0,3,2,0,6,6,True,National Stadium,Islamabad United,False
+1168847,2019-03-09,2018/19,2019,2,Lahore Qalandars,Islamabad United,2,Powerplay,26,26,0,0,1,2,3,6,6,True,National Stadium,Islamabad United,False
+1168847,2019-03-09,2018/19,2019,2,Lahore Qalandars,Islamabad United,3,Powerplay,7,7,0,0,2,1,0,6,6,True,National Stadium,Islamabad United,False
+1168847,2019-03-09,2018/19,2019,2,Lahore Qalandars,Islamabad United,4,Powerplay,9,9,0,0,2,0,1,6,6,True,National Stadium,Islamabad United,False
+1168847,2019-03-09,2018/19,2019,2,Lahore Qalandars,Islamabad United,5,Powerplay,5,5,0,1,4,1,0,6,6,True,National Stadium,Islamabad United,False
+1168847,2019-03-09,2018/19,2019,2,Lahore Qalandars,Islamabad United,6,Powerplay,8,7,1,0,3,1,0,7,6,True,National Stadium,Islamabad United,False
+1168849,2019-03-11,2018/19,2019,1,Lahore Qalandars,Multan Sultans,1,Powerplay,9,9,0,0,3,2,0,6,6,True,National Stadium,Multan Sultans,False
+1168849,2019-03-11,2018/19,2019,1,Lahore Qalandars,Multan Sultans,2,Powerplay,7,7,0,0,3,1,0,6,6,True,National Stadium,Multan Sultans,False
+1168849,2019-03-11,2018/19,2019,1,Lahore Qalandars,Multan Sultans,3,Powerplay,5,5,0,0,4,1,0,6,6,True,National Stadium,Multan Sultans,False
+1168849,2019-03-11,2018/19,2019,1,Lahore Qalandars,Multan Sultans,4,Powerplay,5,5,0,0,4,1,0,6,6,True,National Stadium,Multan Sultans,False
+1168849,2019-03-11,2018/19,2019,1,Lahore Qalandars,Multan Sultans,5,Powerplay,1,1,0,1,5,0,0,6,6,True,National Stadium,Multan Sultans,False
+1168849,2019-03-11,2018/19,2019,1,Lahore Qalandars,Multan Sultans,6,Powerplay,11,10,1,0,1,2,0,6,6,True,National Stadium,Multan Sultans,False
+1168850,2019-03-14,2018/19,2019,2,Islamabad United,Karachi Kings,1,Powerplay,7,7,0,0,4,0,1,6,6,True,National Stadium,Islamabad United,True
+1168850,2019-03-14,2018/19,2019,2,Islamabad United,Karachi Kings,2,Powerplay,5,4,1,0,2,0,0,7,6,True,National Stadium,Islamabad United,True
+1168850,2019-03-14,2018/19,2019,2,Islamabad United,Karachi Kings,3,Powerplay,7,7,0,1,3,1,0,6,6,True,National Stadium,Islamabad United,True
+1168850,2019-03-14,2018/19,2019,2,Islamabad United,Karachi Kings,4,Powerplay,9,9,0,0,3,2,0,6,6,True,National Stadium,Islamabad United,True
+1168850,2019-03-14,2018/19,2019,2,Islamabad United,Karachi Kings,5,Powerplay,5,2,3,0,4,0,0,7,6,True,National Stadium,Islamabad United,True
+1168850,2019-03-14,2018/19,2019,2,Islamabad United,Karachi Kings,6,Powerplay,15,15,0,0,2,2,1,6,6,True,National Stadium,Islamabad United,True
+1168852,2019-03-15,2018/19,2019,2,Islamabad United,Peshawar Zalmi,1,Powerplay,7,7,0,0,2,1,0,6,6,True,National Stadium,Peshawar Zalmi,False
+1168852,2019-03-15,2018/19,2019,2,Islamabad United,Peshawar Zalmi,2,Powerplay,16,16,0,0,1,2,1,6,6,True,National Stadium,Peshawar Zalmi,False
+1168852,2019-03-15,2018/19,2019,2,Islamabad United,Peshawar Zalmi,3,Powerplay,3,3,0,1,3,0,0,6,6,True,National Stadium,Peshawar Zalmi,False
+1168852,2019-03-15,2018/19,2019,2,Islamabad United,Peshawar Zalmi,4,Powerplay,1,1,0,1,5,0,0,6,6,True,National Stadium,Peshawar Zalmi,False
+1168852,2019-03-15,2018/19,2019,2,Islamabad United,Peshawar Zalmi,5,Powerplay,8,7,1,0,3,1,0,7,6,True,National Stadium,Peshawar Zalmi,False
+1168852,2019-03-15,2018/19,2019,2,Islamabad United,Peshawar Zalmi,6,Powerplay,6,6,0,0,0,0,0,6,6,True,National Stadium,Peshawar Zalmi,False
