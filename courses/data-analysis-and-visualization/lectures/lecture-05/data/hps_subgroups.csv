@@ -1,0 +1,23 @@
+study,partition,group,order,arm,n,events,outcome,source_table,source_url
+HPS,LDL-C (mmol/L),<3.0,0,Simvastatin,3389,598,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,LDL-C (mmol/L),<3.0,0,Placebo,3404,756,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,LDL-C (mmol/L),3.0 to <3.5,1,Simvastatin,2549,484,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,LDL-C (mmol/L),3.0 to <3.5,1,Placebo,2514,646,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,LDL-C (mmol/L),>=3.5,2,Simvastatin,4331,951,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,LDL-C (mmol/L),>=3.5,2,Placebo,4349,1183,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,HDL-C (mmol/L),<0.9,0,Simvastatin,3617,818,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,HDL-C (mmol/L),<0.9,0,Placebo,3559,1064,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,HDL-C (mmol/L),0.9 to <1.1,1,Simvastatin,2795,560,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,HDL-C (mmol/L),0.9 to <1.1,1,Placebo,2871,720,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,HDL-C (mmol/L),>=1.1,2,Simvastatin,3857,655,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,HDL-C (mmol/L),>=1.1,2,Placebo,3837,801,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,Age (years),<65,0,Simvastatin,4903,831,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,Age (years),<65,0,Placebo,4936,1091,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,Age (years),65 to <70,1,Simvastatin,2447,512,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,Age (years),65 to <70,1,Placebo,2444,665,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,Age (years),>=70,2,Simvastatin,2919,690,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,Age (years),>=70,2,Placebo,2887,829,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,Sex,Male,0,Simvastatin,7727,1666,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,Sex,Male,0,Placebo,7727,2135,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,Sex,Female,1,Simvastatin,2542,367,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3
+HPS,Sex,Female,1,Placebo,2540,450,Major vascular event,"Figure 8, printed page 16",https://doi.org/10.1016/S0140-6736(02)09327-3

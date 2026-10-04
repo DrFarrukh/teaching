@@ -1,0 +1,11 @@
+study,model,quintile,midvalue_energy_pct,exposure_band_pct,hr,ci_low,ci_high,reference,outcome,source_table,source_url
+NHANES linked mortality,Demographic adjustment,Q1,7.4,0 to <9.6,1.0,,,True,Cardiovascular mortality,Table 2,https://doi.org/10.1001/jamainternmed.2013.13563
+NHANES linked mortality,Demographic adjustment,Q2,11.4,9.6 to <13.1,1.09,1.05,1.13,False,Cardiovascular mortality,Table 2,https://doi.org/10.1001/jamainternmed.2013.13563
+NHANES linked mortality,Demographic adjustment,Q3,14.8,13.1 to <16.7,1.23,1.12,1.34,False,Cardiovascular mortality,Table 2,https://doi.org/10.1001/jamainternmed.2013.13563
+NHANES linked mortality,Demographic adjustment,Q4,18.7,16.7 to <21.3,1.49,1.24,1.78,False,Cardiovascular mortality,Table 2,https://doi.org/10.1001/jamainternmed.2013.13563
+NHANES linked mortality,Demographic adjustment,Q5,25.2,>=21.3,2.43,1.63,3.62,False,Cardiovascular mortality,Table 2,https://doi.org/10.1001/jamainternmed.2013.13563
+NHANES linked mortality,Full reported adjustment,Q1,7.4,0 to <9.6,1.0,,,True,Cardiovascular mortality,Table 2,https://doi.org/10.1001/jamainternmed.2013.13563
+NHANES linked mortality,Full reported adjustment,Q2,11.4,9.6 to <13.1,1.07,1.02,1.12,False,Cardiovascular mortality,Table 2,https://doi.org/10.1001/jamainternmed.2013.13563
+NHANES linked mortality,Full reported adjustment,Q3,14.8,13.1 to <16.7,1.18,1.06,1.31,False,Cardiovascular mortality,Table 2,https://doi.org/10.1001/jamainternmed.2013.13563
+NHANES linked mortality,Full reported adjustment,Q4,18.7,16.7 to <21.3,1.38,1.11,1.7,False,Cardiovascular mortality,Table 2,https://doi.org/10.1001/jamainternmed.2013.13563
+NHANES linked mortality,Full reported adjustment,Q5,25.2,>=21.3,2.03,1.26,3.27,False,Cardiovascular mortality,Table 2,https://doi.org/10.1001/jamainternmed.2013.13563

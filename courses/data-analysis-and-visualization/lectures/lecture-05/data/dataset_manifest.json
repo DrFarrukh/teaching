@@ -1,0 +1,32 @@
+[
+  {
+    "file": "aim_high_lipids.csv",
+    "rows": 24,
+    "sha256": "0c541c26fae755e4402c4e5e04a283de665021f52e687347c5c369738fa3e9d6"
+  },
+  {
+    "file": "aim_high_reported_changes.csv",
+    "rows": 2,
+    "sha256": "c90083a262a1a820a734e6ba9ffa08997ed2e3d9b5948df6f9b2522778ed2dc6"
+  },
+  {
+    "file": "hps_subgroups.csv",
+    "rows": 22,
+    "sha256": "4a17e8f9f19c9d2e4c5bedcd5c0eb9828f648cd500df87ac9739053fe5ac9c23"
+  },
+  {
+    "file": "reported_effects.csv",
+    "rows": 2,
+    "sha256": "c9f70879897d83e5d63bf6963d00088c0ee110d88c6ed31bb972784b35551486"
+  },
+  {
+    "file": "sugar_estimates.csv",
+    "rows": 10,
+    "sha256": "a5867ecc9971fc1305b17c9be53b3277de8637ae246bba531e3c799f67443047"
+  },
+  {
+    "file": "trial_events.csv",
+    "rows": 18,
+    "sha256": "45b927de9c711749550841fbb27242b15c9d6dd19ee087ec031ebe7d7708a965"
+  }
+]
