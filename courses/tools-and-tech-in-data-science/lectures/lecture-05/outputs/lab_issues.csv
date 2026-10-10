@@ -1,0 +1,9 @@
+source_row,issue,action,reason
+3,confirmed_copy,remove,Exercise source note confirms an accidental repeat
+6,source_missing,retain_missing,Documented missing token
+7,invalid_negative,retain_missing,Synthetic exercise requires nonnegative values
+8,unresolved_key,quarantine,All repeated-key candidates require source reconciliation
+9,source_missing,retain_missing,Documented missing token
+10,parse_failure,retain_missing,Unparseable value; raw token retained
+11,invalid_date,quarantine,No valid period key can be constructed
+12,unresolved_key,quarantine,All repeated-key candidates require source reconciliation

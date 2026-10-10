@@ -1,0 +1,17 @@
+# Slide sources
+
+- Slide 3: [Source 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC5099084/)
+- Slide 5: [Source 1](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1819573) · [Source 2](https://pubmed.ncbi.nlm.nih.gov/22085343/) · [Source 3](https://vascularsociety.org.uk/_userfiles/pages/files/landmark%20trials/heart-protection-study.pdf)
+- Slide 6: [Source 1](https://vascularsociety.org.uk/_userfiles/pages/files/landmark%20trials/heart-protection-study.pdf)
+- Slide 10: [Source 1](https://vascularsociety.org.uk/_userfiles/pages/files/landmark%20trials/heart-protection-study.pdf)
+- Slide 15: [Source 1](https://academic.oup.com/eurheartj/article/38/32/2459/3745109) · [Source 2](https://vascularsociety.org.uk/_userfiles/pages/files/landmark%20trials/heart-protection-study.pdf)
+- Slide 16: [Source 1](https://pubmed.ncbi.nlm.nih.gov/22085343/)
+- Slide 17: [Source 1](https://pubmed.ncbi.nlm.nih.gov/22085343/)
+- Slide 20: [Source 1](https://pubmed.ncbi.nlm.nih.gov/22085343/)
+- Slide 23: [Source 1](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1819573)
+- Slide 25: [Source 1](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1819573)
+- Slide 26: [Source 1](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1819573)
+- Slide 27: [Source 1](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1819573)
+- Slide 28: [Source 1](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1819573)
+- Slide 33: [Source 1](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1819573) · [Source 2](https://pubmed.ncbi.nlm.nih.gov/22085343/) · [Source 3](https://vascularsociety.org.uk/_userfiles/pages/files/landmark%20trials/heart-protection-study.pdf)
+- Slide 36: [Source 1](https://academic.oup.com/eurheartj/article/38/32/2459/3745109) · [Source 2](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1819573) · [Source 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC5099084/) · [Source 4](https://pubmed.ncbi.nlm.nih.gov/22085343/) · [Source 5](https://vascularsociety.org.uk/_userfiles/pages/files/landmark%20trials/heart-protection-study.pdf)

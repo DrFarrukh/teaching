@@ -1,0 +1,55 @@
+[
+  {
+    "dataset": "worldbank_pk_inflation_annual",
+    "url": "https://api.worldbank.org/v2/country/PK/indicator/FP.CPI.TOTL.ZG",
+    "params": {
+      "format": "json",
+      "per_page": 100
+    },
+    "origin": "PRESERVED SNAPSHOT retrieved 20261001T100931Z (HTTP 200)",
+    "raw_file": "data/raw/worldbank_pk_inflation_annual_20261001T100931Z.json",
+    "source_last_updated": "2026-07-13",
+    "sha256_of_raw_bytes": "16ccc5416550be49a491412d4e9626bc21309a9b1039b7642e42a97b074d6caa",
+    "grain": "one row per calendar year",
+    "unit": "annual CPI inflation, %",
+    "limitations": "calendar-year average; national CPI; source may revise"
+  },
+  {
+    "dataset": "worldbank_pk_pkr_per_usd_annual",
+    "url": "https://api.worldbank.org/v2/country/PK/indicator/PA.NUS.FCRF",
+    "params": {
+      "format": "json",
+      "per_page": 100
+    },
+    "origin": "PRESERVED SNAPSHOT retrieved 20261001T100935Z (HTTP 200)",
+    "raw_file": "data/raw/worldbank_pk_pkr_per_usd_annual_20261001T100935Z.json",
+    "source_last_updated": "2026-07-13",
+    "sha256_of_raw_bytes": "5c20fa915e94f920ea98238e0d46c8de56e59a616c530950edf4c4be88a89e5a",
+    "grain": "one row per calendar year",
+    "unit": "PKR per USD, period average",
+    "limitations": "official rate; an annual average hides within-year swings"
+  },
+  {
+    "dataset": "fred_brent_daily_usd",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv",
+    "params": {
+      "id": "DCOILBRENTEU"
+    },
+    "origin": "PRESERVED SNAPSHOT retrieved 20261001T100927Z (HTTP 200)",
+    "sha256_of_raw_bytes": "68b1b12a3e217ed57b60f53cea699e3fad740f714bbaa6d23afb96c8dac94c1e",
+    "raw_file": "data/raw/fred_brent_daily_usd_20261001T100927Z.csv",
+    "grain": "one row per reported observation date; this capture omits weekends",
+    "unit": "USD per barrel",
+    "limitations": "spot benchmark, not Pakistan retail fuel; absent dates and blank prices are not zero"
+  },
+  {
+    "dataset": "pbs_cpi_monthly",
+    "url": "https://www.pbs.gov.pk/cpi/",
+    "origin": "PRESERVED SNAPSHOT retrieved 20261001T100949Z (HTTP 200)",
+    "sha256_of_raw_bytes": "eaa5321f96fcade33467e512158f5dc5591dc96a3f1f9337a627fabd254760ec",
+    "raw_file": "data/raw/pbs_cpi_sdmx_20261001T100949Z.xml",
+    "grain": "one row per (indicator, month)",
+    "unit": "CPI index, 2015-16 = 100",
+    "limitations": "national CPI by division; a division basket is not the price of one item"
+  }
+]

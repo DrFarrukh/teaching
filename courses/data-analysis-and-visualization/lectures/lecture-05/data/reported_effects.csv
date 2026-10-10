@@ -1,3 +1,0 @@
-study,estimand,estimate,ci_low,ci_high,outcome,source_url
-HPS,Logrank event-rate ratio,0.76,0.72,0.81,Major vascular event,https://doi.org/10.1016/S0140-6736(02)09327-3
-AIM-HIGH,Adjusted hazard ratio,1.02,0.87,1.21,Primary cardiovascular outcome,https://doi.org/10.1056/NEJMoa1107579

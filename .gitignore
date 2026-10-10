@@ -40,3 +40,6 @@ temp/
 !courses/tools-and-tech-in-data-science/**/*.pdf
 !courses/data-analysis-and-visualization/**/*.pptx
 !courses/artificial-neural-networks/**/*.pptx
+
+# Student Lecture 5 study copies and worksheets
+!courses/*/lectures/lecture-05/*.pdf

@@ -1,19 +1,5 @@
-study,arm,n,events,outcome,followup,source_table,source_url
-HPS,Simvastatin,10269,2033,Major vascular event,Scheduled 5-year treatment period,Abstract and outcome figures,https://doi.org/10.1016/S0140-6736(02)09327-3
-HPS,Placebo,10267,2585,Major vascular event,Scheduled 5-year treatment period,Abstract and outcome figures,https://doi.org/10.1016/S0140-6736(02)09327-3
-HPS,Simvastatin,10269,898,Major coronary event,Scheduled 5-year treatment period,Abstract and outcome figures,https://doi.org/10.1016/S0140-6736(02)09327-3
-HPS,Placebo,10267,1212,Major coronary event,Scheduled 5-year treatment period,Abstract and outcome figures,https://doi.org/10.1016/S0140-6736(02)09327-3
-HPS,Simvastatin,10269,444,Stroke,Scheduled 5-year treatment period,Abstract and outcome figures,https://doi.org/10.1016/S0140-6736(02)09327-3
-HPS,Placebo,10267,585,Stroke,Scheduled 5-year treatment period,Abstract and outcome figures,https://doi.org/10.1016/S0140-6736(02)09327-3
-HPS,Simvastatin,10269,939,Revascularization,Scheduled 5-year treatment period,Abstract and outcome figures,https://doi.org/10.1016/S0140-6736(02)09327-3
-HPS,Placebo,10267,1205,Revascularization,Scheduled 5-year treatment period,Abstract and outcome figures,https://doi.org/10.1016/S0140-6736(02)09327-3
-HPS,Simvastatin,10269,1328,All-cause death,Scheduled 5-year treatment period,Abstract and outcome figures,https://doi.org/10.1016/S0140-6736(02)09327-3
-HPS,Placebo,10267,1507,All-cause death,Scheduled 5-year treatment period,Abstract and outcome figures,https://doi.org/10.1016/S0140-6736(02)09327-3
-AIM-HIGH,Niacin + statin,1718,282,Primary cardiovascular outcome,Mean 3 years,Table 4; secondary rows use tertiary endpoints,https://doi.org/10.1056/NEJMoa1107579
-AIM-HIGH,Placebo + statin,1696,274,Primary cardiovascular outcome,Mean 3 years,Table 4; secondary rows use tertiary endpoints,https://doi.org/10.1056/NEJMoa1107579
-AIM-HIGH,Niacin + statin,1718,96,All-cause death,Mean 3 years,Table 4; secondary rows use tertiary endpoints,https://doi.org/10.1056/NEJMoa1107579
-AIM-HIGH,Placebo + statin,1696,82,All-cause death,Mean 3 years,Table 4; secondary rows use tertiary endpoints,https://doi.org/10.1056/NEJMoa1107579
-AIM-HIGH,Niacin + statin,1718,104,Nonfatal myocardial infarction,Mean 3 years,Table 4; secondary rows use tertiary endpoints,https://doi.org/10.1056/NEJMoa1107579
-AIM-HIGH,Placebo + statin,1696,93,Nonfatal myocardial infarction,Mean 3 years,Table 4; secondary rows use tertiary endpoints,https://doi.org/10.1056/NEJMoa1107579
-AIM-HIGH,Niacin + statin,1718,29,Ischemic stroke,Mean 3 years,Table 4; secondary rows use tertiary endpoints,https://doi.org/10.1056/NEJMoa1107579
-AIM-HIGH,Placebo + statin,1696,18,Ischemic stroke,Mean 3 years,Table 4; secondary rows use tertiary endpoints,https://doi.org/10.1056/NEJMoa1107579
+study,arm,role,n,patients_with_event,outcome,follow_up,source,source_location
+HPS,Simvastatin,treatment,10269,2033,First major vascular event,Approximately 5 years,https://vascularsociety.org.uk/_userfiles/pages/files/landmark%20trials/heart-protection-study.pdf,Figure 3 and Figure 5
+HPS,Placebo,control,10267,2585,First major vascular event,Approximately 5 years,https://vascularsociety.org.uk/_userfiles/pages/files/landmark%20trials/heart-protection-study.pdf,Figure 3 and Figure 5
+AIM-HIGH,Niacin plus statin,treatment,1718,282,First primary composite cardiovascular outcome,Mean 3 years,https://pubmed.ncbi.nlm.nih.gov/22085343/,Original report abstract
+AIM-HIGH,Placebo plus statin,control,1696,274,First primary composite cardiovascular outcome,Mean 3 years,https://pubmed.ncbi.nlm.nih.gov/22085343/,Original report abstract

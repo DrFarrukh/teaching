@@ -1,0 +1,12 @@
+source_row,category_text,date_text,value_text,category,date,value,value_reason
+1, food ,01/01/2024,100,FOOD,2024-01-01,100.0,observed
+2,food,01/02/2024,110,FOOD,2024-02-01,110.0,observed
+4,FOOD,01/03/2024,121,FOOD,2024-03-01,121.0,observed
+9,HOUSING,01/02/2024,not reported,HOUSING,2024-02-01,,source_missing
+10,HOUSING,01/03/2024,1O20,HOUSING,2024-03-01,,parse_failure
+13,MISC,01/01/2024,0,MISC,2024-01-01,0.0,observed
+14,MISC,01/02/2024,5,MISC,2024-02-01,5.0,observed
+15,MISC,01/03/2024,10,MISC,2024-03-01,10.0,observed
+5,transport,01/01/2024,200,TRANSPORT,2024-01-01,200.0,observed
+6,TRANSPORT,01/02/2024,,TRANSPORT,2024-02-01,,source_missing
+7,TRANSPORT,01/03/2024,-5,TRANSPORT,2024-03-01,,invalid_negative

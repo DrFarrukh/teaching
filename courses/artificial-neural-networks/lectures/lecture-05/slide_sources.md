@@ -1,0 +1,16 @@
+# Slide sources
+
+- Slide 10: [Source 1](https://d2l.ai/chapter_multilayer-perceptrons/mlp.html)
+- Slide 11: [Source 1](https://d2l.ai/chapter_multilayer-perceptrons/mlp.html)
+- Slide 12: [Source 1](https://d2l.ai/chapter_multilayer-perceptrons/mlp.html)
+- Slide 13: [Source 1](https://d2l.ai/chapter_multilayer-perceptrons/mlp.html)
+- Slide 14: [Source 1](https://d2l.ai/chapter_multilayer-perceptrons/mlp.html)
+- Slide 15: [Source 1](https://d2l.ai/chapter_multilayer-perceptrons/mlp.html)
+- Slide 16: [Source 1](https://d2l.ai/chapter_multilayer-perceptrons/mlp.html)
+- Slide 24: [Source 1](https://docs.pytorch.org/docs/stable/generated/torch.nn.Linear.html)
+- Slide 26: [Source 1](https://d2l.ai/chapter_multilayer-perceptrons/mlp-implementation.html)
+- Slide 27: [Source 1](https://d2l.ai/chapter_multilayer-perceptrons/mlp-implementation.html)
+- Slide 28: [Source 1](https://docs.pytorch.org/docs/stable/generated/torch.nn.Linear.html)
+- Slide 38: [Source 1](https://d2l.ai/chapter_multilayer-perceptrons/mlp.html)
+- Slide 39: [Source 1](https://docs.pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html)
+- Slide 40: [Source 1](https://d2l.ai/chapter_multilayer-perceptrons/mlp-implementation.html)

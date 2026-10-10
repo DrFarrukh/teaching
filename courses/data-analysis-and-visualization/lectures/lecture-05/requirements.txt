@@ -1,6 +1,8 @@
-numpy
-pandas
-matplotlib
-scipy
-nbformat
-nbclient
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+nbformat>=5.9
+ipython>=8.0
+matplotlib-inline>=0.1
+jupyterlab>=4.0
+reportlab>=4.0
