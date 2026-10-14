@@ -1,0 +1,22 @@
+{
+  "notebook_sha256": "6f48b373496d49b38c00d6d24d5d3ff7c8a19bc685ac1412247982f46fb71fdd",
+  "history_source": "executed notebook stdout",
+  "notes": "Test accuracy was reported every epoch in the historical lab. No new training in V4.",
+  "subset_configuration_matches": [],
+  "printed_report_airplane": [
+    [
+      "0.92",
+      "0.97",
+      "0.95",
+      "300"
+    ]
+  ],
+  "training_images": 6000,
+  "test_images": 900,
+  "head_example_image_sha256": "596aa1e7cb875eb79f437e310381d26b338a81c2da23439704a73c4651e8c4bb",
+  "head_example": {
+    "cat": 99.7,
+    "dog": 0.2,
+    "airplane": 0.1
+  }
+}

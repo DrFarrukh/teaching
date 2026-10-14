@@ -1,0 +1,17 @@
+[
+  {
+    "weights": "MobileNet_V3_Small_Weights.IMAGENET1K_V1",
+    "file": "mobilenet_v3_small-047dcff4.pth",
+    "sha256": "047dcff4addef86ea5bc2eff13c9614dc11f47ab1160d0a71a25e7db994f4e1f"
+  },
+  {
+    "weights": "SSDLite320_MobileNet_V3_Large_Weights.COCO_V1",
+    "file": "ssdlite320_mobilenet_v3_large_coco-a79551df.pth",
+    "sha256": "a79551df90c79834bcd3bb3845ef9d966b5449a3a9b2833ae8404778ca5d65d2"
+  },
+  {
+    "weights": "LRASPP_MobileNet_V3_Large_Weights.COCO_WITH_VOC_LABELS_V1",
+    "file": "lraspp_mobilenet_v3_large-d234d4ea.pth",
+    "sha256": "d234d4eae9d55d5f76de18b77cf0dc62c66fe5c5482758209d00f950c92bb280"
+  }
+]

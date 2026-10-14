@@ -1,0 +1,580 @@
+{
+  "source_v2_sha256": "ff9530752a9ec0f5e68e613ad7e03e920fafff3019400951bd3c2f11393f1f28",
+  "device": "cuda",
+  "torch": "2.14.0+cu130",
+  "models": {
+    "small": {
+      "weights": "MobileNet_V3_Small_Weights.IMAGENET1K_V1",
+      "file": "mobilenet_v3_small-047dcff4.pth",
+      "sha256": "047dcff4addef86ea5bc2eff13c9614dc11f47ab1160d0a71a25e7db994f4e1f",
+      "parameters": 2542856
+    },
+    "ssdlite": {
+      "weights": "SSDLite320_MobileNet_V3_Large_Weights.COCO_V1",
+      "file": "ssdlite320_mobilenet_v3_large_coco-a79551df.pth",
+      "sha256": "a79551df90c79834bcd3bb3845ef9d966b5449a3a9b2833ae8404778ca5d65d2",
+      "parameters": 3440060
+    },
+    "lraspp": {
+      "weights": "LRASPP_MobileNet_V3_Large_Weights.COCO_WITH_VOC_LABELS_V1",
+      "file": "lraspp_mobilenet_v3_large-d234d4ea.pth",
+      "sha256": "d234d4eae9d55d5f76de18b77cf0dc62c66fe5c5482758209d00f950c92bb280",
+      "parameters": 3221538
+    },
+    "large": {
+      "weights": "MobileNet_V3_Large_Weights.IMAGENET1K_V2",
+      "file": "mobilenet_v3_large-5c1a4163.pth",
+      "sha256": "5c1a416349c4cf298f2a6a5e2600ed0ee55e604713578f5e74e6bc8bcaef7997",
+      "parameters": 5483032
+    },
+    "faster": {
+      "weights": "FasterRCNN_MobileNet_V3_Large_320_FPN_Weights.COCO_V1",
+      "file": "fasterrcnn_mobilenet_v3_large_320_fpn-907ea3f9.pth",
+      "sha256": "907ea3f91ff92242bc1baea8049276a3e76bca48ce7560bd268cc029f37977b5",
+      "parameters": 19410754
+    },
+    "deeplab": {
+      "weights": "DeepLabV3_MobileNet_V3_Large_Weights.COCO_WITH_VOC_LABELS_V1",
+      "file": "deeplabv3_mobilenet_v3_large-fc3c493d.pth",
+      "sha256": "fc3c493d68e89cc31ef488c803d5d7dd2f3190fb570598faa49fef69be8e5e70",
+      "parameters": 11029328
+    }
+  },
+  "inference": {
+    "small": {
+      "cat": {
+        "top5": [
+          {
+            "label": "tiger cat",
+            "p": 0.4798738658428192
+          },
+          {
+            "label": "Egyptian cat",
+            "p": 0.273768812417984
+          },
+          {
+            "label": "tabby",
+            "p": 0.2452910840511322
+          },
+          {
+            "label": "lynx",
+            "p": 0.0008893661433830857
+          },
+          {
+            "label": "ping-pong ball",
+            "p": 6.0965750890318304e-05
+          }
+        ],
+        "cat": 0.9989416003227234,
+        "dog": 1.9824086816555564e-09,
+        "other": 0.0010583976982161403
+      }
+    },
+    "ssdlite": {
+      "mix": [
+        {
+          "label": "cat",
+          "score": 0.9668206572532654,
+          "box": [
+            95.54663848876953,
+            139.44090270996094,
+            378.2961730957031,
+            331.23699951171875
+          ]
+        },
+        {
+          "label": "cat",
+          "score": 0.8058061599731445,
+          "box": [
+            28.040599822998047,
+            83.98015594482422,
+            324.5013122558594,
+            326.95843505859375
+          ]
+        }
+      ],
+      "dog": [
+        {
+          "label": "dog",
+          "score": 0.934109091758728,
+          "box": [
+            327.8243408203125,
+            0.8911986351013184,
+            930.2662353515625,
+            838.9356689453125
+          ]
+        }
+      ]
+    },
+    "lraspp": {
+      "mix": {
+        "coverage": [
+          {
+            "label": "dog",
+            "pct": 57.54174174174174
+          },
+          {
+            "label": "sofa",
+            "pct": 32.415015015015015
+          },
+          {
+            "label": "__background__",
+            "pct": 9.371771771771773
+          },
+          {
+            "label": "cat",
+            "pct": 0.4102102102102102
+          },
+          {
+            "label": "person",
+            "pct": 0.26126126126126126
+          }
+        ]
+      },
+      "cat": {
+        "coverage": [
+          {
+            "label": "cat",
+            "pct": 83.47592213114754
+          },
+          {
+            "label": "__background__",
+            "pct": 16.52407786885246
+          }
+        ]
+      }
+    },
+    "large": {
+      "cat": {
+        "top5": [
+          {
+            "label": "Egyptian cat",
+            "p": 0.4653172791004181
+          },
+          {
+            "label": "tiger cat",
+            "p": 0.2239731103181839
+          },
+          {
+            "label": "tabby",
+            "p": 0.16771556437015533
+          },
+          {
+            "label": "lynx",
+            "p": 0.007297577802091837
+          },
+          {
+            "label": "plastic bag",
+            "p": 0.0018663969822227955
+          }
+        ],
+        "cat": 0.8590152859687805,
+        "dog": 0.014049525372684002,
+        "other": 0.1269351840019226
+      },
+      "mix": {
+        "top5": [
+          {
+            "label": "soft-coated wheaten terrier",
+            "p": 0.2988134026527405
+          },
+          {
+            "label": "Dandie Dinmont",
+            "p": 0.12034305185079575
+          },
+          {
+            "label": "cocker spaniel",
+            "p": 0.08525335788726807
+          },
+          {
+            "label": "briard",
+            "p": 0.047031089663505554
+          },
+          {
+            "label": "Afghan hound",
+            "p": 0.0359659343957901
+          }
+        ],
+        "cat": 0.020038608461618423,
+        "dog": 0.8082041144371033,
+        "other": 0.1717572808265686
+      },
+      "fluffy": {
+        "top5": [
+          {
+            "label": "Samoyed",
+            "p": 0.5758420825004578
+          },
+          {
+            "label": "Arctic fox",
+            "p": 0.04143228754401207
+          },
+          {
+            "label": "Pomeranian",
+            "p": 0.0397530198097229
+          },
+          {
+            "label": "white wolf",
+            "p": 0.009308756329119205
+          },
+          {
+            "label": "keeshond",
+            "p": 0.008864892646670341
+          }
+        ],
+        "cat": 0.0035597130190581083,
+        "dog": 0.6967374682426453,
+        "other": 0.29970282316207886
+      }
+    },
+    "faster": {
+      "mix": [
+        {
+          "label": "cat",
+          "score": 0.9243718385696411,
+          "box": [
+            111.86022186279297,
+            132.01515197753906,
+            391.9619140625,
+            331.13946533203125
+          ]
+        },
+        {
+          "label": "dog",
+          "score": 0.8514021039009094,
+          "box": [
+            19.827810287475586,
+            4.313490390777588,
+            473.54876708984375,
+            305.4700012207031
+          ]
+        }
+      ],
+      "fluffy": [
+        {
+          "label": "cat",
+          "score": 0.9566794037818909,
+          "box": [
+            169.9888458251953,
+            54.524070739746094,
+            1440.9503173828125,
+            1179.7061767578125
+          ]
+        }
+      ],
+      "dog": [
+        {
+          "label": "dog",
+          "score": 0.9991169571876526,
+          "box": [
+            301.0486755371094,
+            10.062664985656738,
+            948.3043212890625,
+            843.0795288085938
+          ]
+        }
+      ],
+      "bus": [
+        {
+          "label": "person",
+          "score": 0.998986542224884,
+          "box": [
+            46.88933563232422,
+            398.7312316894531,
+            223.09495544433594,
+            898.1527099609375
+          ]
+        },
+        {
+          "label": "bus",
+          "score": 0.9950266480445862,
+          "box": [
+            22.120590209960938,
+            221.2379150390625,
+            807.2951049804688,
+            731.6900634765625
+          ]
+        },
+        {
+          "label": "person",
+          "score": 0.9729669690132141,
+          "box": [
+            210.24110412597656,
+            402.91656494140625,
+            348.0503845214844,
+            854.3135375976562
+          ]
+        },
+        {
+          "label": "person",
+          "score": 0.6511184573173523,
+          "box": [
+            0.0,
+            586.7484741210938,
+            63.58969497680664,
+            865.0101928710938
+          ]
+        }
+      ]
+    },
+    "deeplab": {
+      "mix": {
+        "coverage": [
+          {
+            "label": "dog",
+            "pct": 59.65825825825826
+          },
+          {
+            "label": "__background__",
+            "pct": 19.44984984984985
+          },
+          {
+            "label": "sofa",
+            "pct": 19.125525525525525
+          },
+          {
+            "label": "person",
+            "pct": 1.7663663663663665
+          }
+        ]
+      },
+      "dog": {
+        "coverage": [
+          {
+            "label": "__background__",
+            "pct": 42.89647980093677
+          },
+          {
+            "label": "chair",
+            "pct": 29.171637148711945
+          },
+          {
+            "label": "dog",
+            "pct": 27.931883050351285
+          }
+        ]
+      },
+      "couch": {
+        "coverage": [
+          {
+            "label": "sofa",
+            "pct": 67.86458333333333
+          },
+          {
+            "label": "cat",
+            "pct": 32.135416666666664
+          }
+        ]
+      },
+      "bus": {
+        "coverage": [
+          {
+            "label": "__background__",
+            "pct": 55.618084133516234
+          },
+          {
+            "label": "bus",
+            "pct": 32.520461819844535
+          },
+          {
+            "label": "person",
+            "pct": 11.861454046639231
+          }
+        ]
+      }
+    }
+  },
+  "features": {
+    "weights": "ResNet18_Weights.IMAGENET1K_V1",
+    "file": "resnet18-f37072fd.pth",
+    "sha256": "f37072fd47e89c5e827621c5baffa7500819f7896bbacec160b1a16c560e07ec",
+    "parameters": 11689512,
+    "selected_channels": {
+      "relu": [
+        22,
+        19,
+        60,
+        25
+      ],
+      "maxpool": [
+        22,
+        25,
+        14,
+        20
+      ],
+      "layer1": [
+        49,
+        11,
+        38,
+        63
+      ],
+      "layer4": [
+        499,
+        68,
+        377,
+        461
+      ]
+    },
+    "tensor_shapes": {
+      "bn1": [
+        1,
+        64,
+        112,
+        112
+      ],
+      "relu": [
+        1,
+        64,
+        112,
+        112
+      ],
+      "maxpool": [
+        1,
+        64,
+        56,
+        56
+      ],
+      "layer1": [
+        1,
+        64,
+        56,
+        56
+      ],
+      "layer4": [
+        1,
+        512,
+        7,
+        7
+      ],
+      "avgpool": [
+        1,
+        512,
+        1,
+        1
+      ]
+    },
+    "normalization": "Each displayed channel independently min-max scaled",
+    "selection": "four channels with greatest spatial variance in each layer",
+    "head_reconstruction_max_abs_error": 9.5367431640625e-07,
+    "classification": {
+      "top5": [
+        {
+          "label": "Egyptian cat",
+          "p": 0.4228566288948059
+        },
+        {
+          "label": "tiger cat",
+          "p": 0.37005525827407837
+        },
+        {
+          "label": "tabby",
+          "p": 0.2016511857509613
+        },
+        {
+          "label": "lynx",
+          "p": 0.005147913936525583
+        },
+        {
+          "label": "Persian cat",
+          "p": 0.0001551565801491961
+        }
+      ],
+      "cat": 0.9947191476821899,
+      "dog": 2.9347736685281234e-08,
+      "other": 0.005280822981148958
+    }
+  },
+  "lab_history": {
+    "scratch": [
+      [
+        1,
+        0.814,
+        58.3,
+        64.1
+      ],
+      [
+        2,
+        0.65,
+        68.0,
+        68.1
+      ],
+      [
+        3,
+        0.613,
+        71.2,
+        68.1
+      ],
+      [
+        4,
+        0.561,
+        73.6,
+        68.9
+      ],
+      [
+        5,
+        0.535,
+        75.4,
+        71.8
+      ]
+    ],
+    "ft": [
+      [
+        1,
+        0.553,
+        77.3,
+        83.8
+      ],
+      [
+        2,
+        0.35,
+        86.0,
+        84.7
+      ],
+      [
+        3,
+        0.334,
+        86.2,
+        84.9
+      ]
+    ]
+  },
+  "lab_provenance": {
+    "notebook_sha256": "6f48b373496d49b38c00d6d24d5d3ff7c8a19bc685ac1412247982f46fb71fdd",
+    "history_source": "executed notebook stdout",
+    "notes": "Test accuracy was reported every epoch in the historical lab. No new training in V4.",
+    "subset_configuration_matches": [],
+    "printed_report_airplane": [
+      [
+        "0.92",
+        "0.97",
+        "0.95",
+        "300"
+      ]
+    ],
+    "training_images": 6000,
+    "test_images": 900,
+    "head_example_image_sha256": "596aa1e7cb875eb79f437e310381d26b338a81c2da23439704a73c4651e8c4bb",
+    "head_example": {
+      "cat": 99.7,
+      "dog": 0.2,
+      "airplane": 0.1
+    }
+  },
+  "iou": {
+    "illustrative_box_A": [
+      -7.8794097900390625,
+      201.2379150390625,
+      842.2951049804688,
+      761.6900634765625
+    ],
+    "illustrative_box_B": [
+      82.12059020996094,
+      261.2379150390625,
+      767.2951049804688,
+      661.6900634765625
+    ],
+    "value": 0.5758444803909579
+  },
+  "training_performed": false,
+  "downloads_permitted_here": false
+}

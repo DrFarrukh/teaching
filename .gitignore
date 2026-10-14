@@ -41,5 +41,8 @@ temp/
 !courses/data-analysis-and-visualization/**/*.pptx
 !courses/artificial-neural-networks/**/*.pptx
 
+# Published Computer Vision workshop deck
+!Workshop/AI_Workshop_Session1_v4.pptx
+
 # Student Lecture 5 study copies and worksheets
 !courses/*/lectures/lecture-05/*.pdf

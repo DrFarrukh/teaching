@@ -1,0 +1,410 @@
+[
+  {
+    "v4_slide": 1,
+    "v2_slide": 2,
+    "source_key": "2",
+    "title": "What do you see?"
+  },
+  {
+    "v4_slide": 2,
+    "v2_slide": 3,
+    "source_key": "3",
+    "title": "Cat \u00b7 Fur \u00b7 Eyes \u00b7 Whiskers\u2026 | 2 / 68"
+  },
+  {
+    "v4_slide": 3,
+    "v2_slide": 4,
+    "source_key": "4",
+    "title": "A photograph is a grid of pixels"
+  },
+  {
+    "v4_slide": 4,
+    "v2_slide": 5,
+    "source_key": "5",
+    "title": "A small patch of the image"
+  },
+  {
+    "v4_slide": 5,
+    "v2_slide": null,
+    "source_key": "5b",
+    "title": "Each pixel has a brightness value"
+  },
+  {
+    "v4_slide": 6,
+    "v2_slide": null,
+    "source_key": "5c",
+    "title": "The image is a matrix of numbers"
+  },
+  {
+    "v4_slide": 7,
+    "v2_slide": 7,
+    "source_key": "7",
+    "title": "0 is black. 255 is white."
+  },
+  {
+    "v4_slide": 8,
+    "v2_slide": 8,
+    "source_key": "8",
+    "title": " | 01 / IMAGE AS DATA | What changes when resolution changes? | Same photograph. Fewer samples. Less detail. |  | 16 pixels wide |"
+  },
+  {
+    "v4_slide": 9,
+    "v2_slide": 9,
+    "source_key": "9",
+    "title": " | 01 / IMAGE AS DATA | Colour = three channels, not one. | Red, green and blue intensities form one RGB image. |  | Red channel |"
+  },
+  {
+    "v4_slide": 10,
+    "v2_slide": 12,
+    "source_key": "12",
+    "title": " | 01 / IMAGE AS DATA | Models require consistent inputs. | Resize, scale numerical values and form batches. |  | 01 | READ IMAGE "
+  },
+  {
+    "v4_slide": 11,
+    "v2_slide": 13,
+    "source_key": "13",
+    "title": " | 01 / IMAGE AS DATA | All three are numbers to the model. | Full colour, grayscale and edge maps \u2014 same scene, different arrays."
+  },
+  {
+    "v4_slide": 12,
+    "v2_slide": 14,
+    "source_key": "14",
+    "title": " |  | 02 / CLASSICAL COMPUTER VISION | Before deep learning, we processed images. | Filters \u00b7 thresholds \u00b7 contours \u00b7 templates | "
+  },
+  {
+    "v4_slide": 13,
+    "v2_slide": 15,
+    "source_key": "15",
+    "title": " | 02 / CLASSICAL VISION | Brightness and contrast change pixels. | Useful preprocessing \u2260 object understanding. |  | Lower bright"
+  },
+  {
+    "v4_slide": 14,
+    "v2_slide": 16,
+    "source_key": "16",
+    "title": " | 02 / CLASSICAL VISION | Smoothing can remove noise. | A filter combines neighboring pixel values. |  |  | NOISY / HIGH DETAIL |"
+  },
+  {
+    "v4_slide": 15,
+    "v2_slide": 17,
+    "source_key": "17",
+    "title": " | 02 / CLASSICAL VISION | Edges mark rapid changes. | A classical edge detector is not a cat detector. |  |  | ORIGINAL RGB IMAGE"
+  },
+  {
+    "v4_slide": 16,
+    "v2_slide": 18,
+    "source_key": "18",
+    "title": " | 02 / CLASSICAL VISION | Thresholding makes a pixel decision. | A numerical rule converts grayscale into a binary mask. |  |  | "
+  },
+  {
+    "v4_slide": 17,
+    "v2_slide": 19,
+    "source_key": "19",
+    "title": "Contours describe boundaries"
+  },
+  {
+    "v4_slide": 18,
+    "v2_slide": 20,
+    "source_key": "20",
+    "title": " | 02 / CLASSICAL VISION | Colour thresholds isolate regions. | A simple rule can find orange regions\u2014until lighting changes. |  |"
+  },
+  {
+    "v4_slide": 19,
+    "v2_slide": null,
+    "source_key": "20b",
+    "title": "A colour rule applied to a photograph"
+  },
+  {
+    "v4_slide": 20,
+    "v2_slide": 21,
+    "source_key": "21",
+    "title": " | 02 / CLASSICAL VISION | Template matching searches for a pattern. | A reference patch is compared across candidate image locati"
+  },
+  {
+    "v4_slide": 21,
+    "v2_slide": null,
+    "source_key": "21b",
+    "title": "Can simple shapes find the eyes?"
+  },
+  {
+    "v4_slide": 22,
+    "v2_slide": 22,
+    "source_key": "22",
+    "title": " | 02 / CLASSICAL VISION | The classic computer vision pipeline | Engineered features + designed decision rules. |  | 01 | CAPTURE"
+  },
+  {
+    "v4_slide": 23,
+    "v2_slide": 23,
+    "source_key": "23",
+    "title": "The same scene can look different"
+  },
+  {
+    "v4_slide": 24,
+    "v2_slide": 24,
+    "source_key": "24",
+    "title": " | 02 / CLASSICAL VISION | Instead of handcrafting every rule... | What if the system learns useful visual features from examples?"
+  },
+  {
+    "v4_slide": 25,
+    "v2_slide": 25,
+    "source_key": "25",
+    "title": " |  | 03 / CORE COMPUTER VISION TASKS | One image. Three different questions. | Classification \u00b7 Object detection \u00b7 Segmentation |"
+  },
+  {
+    "v4_slide": 26,
+    "v2_slide": 26,
+    "source_key": "26",
+    "title": "Classification: what is in this image? | Cat | 26 / 68"
+  },
+  {
+    "v4_slide": 27,
+    "v2_slide": 27,
+    "source_key": "27",
+    "title": "A classifier produces class scores"
+  },
+  {
+    "v4_slide": 28,
+    "v2_slide": 28,
+    "source_key": "28",
+    "title": "Single-label versus multi-label"
+  },
+  {
+    "v4_slide": 29,
+    "v2_slide": 29,
+    "source_key": "29",
+    "title": "Detection: what objects\u2014and where?"
+  },
+  {
+    "v4_slide": 30,
+    "v2_slide": 30,
+    "source_key": "30",
+    "title": "One detection, three components"
+  },
+  {
+    "v4_slide": 31,
+    "v2_slide": 31,
+    "source_key": "31",
+    "title": "03 / DETECTION | Teal: box A \u00b7 Orange: box B \u00b7 Shading: overlap | IoU = overlap area / union area = 0.58 | Two illustrative boxes;"
+  },
+  {
+    "v4_slide": 32,
+    "v2_slide": 32,
+    "source_key": "32",
+    "title": "03 / SEGMENTATION | Input | Predicted class mask | Segmentation: which pixels belong to each class? | 32 / 68"
+  },
+  {
+    "v4_slide": 33,
+    "v2_slide": 33,
+    "source_key": "33",
+    "title": " | 03 / SEGMENTATION | Semantic segmentation labels each pixel. | All pixels of one class receive the same category label. |  |  |"
+  },
+  {
+    "v4_slide": 34,
+    "v2_slide": 34,
+    "source_key": "34",
+    "title": "Semantic classes versus separate instances"
+  },
+  {
+    "v4_slide": 35,
+    "v2_slide": 35,
+    "source_key": "35",
+    "title": "One photograph. Three outputs."
+  },
+  {
+    "v4_slide": 36,
+    "v2_slide": 36,
+    "source_key": "36",
+    "title": "The task determines the annotation"
+  },
+  {
+    "v4_slide": 37,
+    "v2_slide": 38,
+    "source_key": "38",
+    "title": "From field photograph to segmentation"
+  },
+  {
+    "v4_slide": 38,
+    "v2_slide": 39,
+    "source_key": "39",
+    "title": " | 03 / CHOOSING THE TASK | Match the task to the output you need. | Each scenario asks for a different kind of answer. |  |  | ? "
+  },
+  {
+    "v4_slide": 39,
+    "v2_slide": 40,
+    "source_key": "40",
+    "title": " |  | 04 / DEEP VISUAL LEARNING | How does a neural network learn to see? | From handcrafted filters to learned representations | "
+  },
+  {
+    "v4_slide": 40,
+    "v2_slide": 41,
+    "source_key": "41",
+    "title": " | 04 / FEATURE LEARNING | Classical ML versus deep learning | The defining difference: who designs the features? |  |  | TRADITIO"
+  },
+  {
+    "v4_slide": 41,
+    "v2_slide": 42,
+    "source_key": "42",
+    "title": "A kernel moves across a pixel grid"
+  },
+  {
+    "v4_slide": 42,
+    "v2_slide": 43,
+    "source_key": "43",
+    "title": "The same window moves across the photograph"
+  },
+  {
+    "v4_slide": 43,
+    "v2_slide": 46,
+    "source_key": "46",
+    "title": "ReLU and max pooling transform responses"
+  },
+  {
+    "v4_slide": 44,
+    "v2_slide": 44,
+    "source_key": "44",
+    "title": "Feature maps from a pretrained CNN"
+  },
+  {
+    "v4_slide": 45,
+    "v2_slide": 45,
+    "source_key": "45",
+    "title": "From feature maps to a cat prediction"
+  },
+  {
+    "v4_slide": 46,
+    "v2_slide": 48,
+    "source_key": "48",
+    "title": "Feature maps are responses\u2014not named parts"
+  },
+  {
+    "v4_slide": 47,
+    "v2_slide": 49,
+    "source_key": "49",
+    "title": " | 04 / CNN BASICS | A CNN has two conceptual stages. | Feature extractor + task-specific output head. |  | 01 | INPUT IMAGE |  | "
+  },
+  {
+    "v4_slide": 48,
+    "v2_slide": 50,
+    "source_key": "50",
+    "title": " | 04 / TRAINING | Training is a repeated correction loop. | The model adjusts parameters to reduce prediction error. |  | 01 | EX"
+  },
+  {
+    "v4_slide": 49,
+    "v2_slide": 51,
+    "source_key": "51",
+    "title": "Learning curves help inspect progress"
+  },
+  {
+    "v4_slide": 50,
+    "v2_slide": 52,
+    "source_key": "52",
+    "title": "Separate training, validation and test"
+  },
+  {
+    "v4_slide": 51,
+    "v2_slide": 53,
+    "source_key": "53",
+    "title": " | 04 / UNIFIED VIEW | Same backbone concept; different output heads. | Classification, detection and segmentation require differe"
+  },
+  {
+    "v4_slide": 52,
+    "v2_slide": 54,
+    "source_key": "54",
+    "title": " |  | 05 / FROM CONCEPTS TO IMPLEMENTATION | Three compact model examples. | Representative architectures\u2014not claims of 2026 state"
+  },
+  {
+    "v4_slide": 53,
+    "v2_slide": 55,
+    "source_key": "55",
+    "title": "MobileNetV3-Small"
+  },
+  {
+    "v4_slide": 54,
+    "v2_slide": 56,
+    "source_key": "56",
+    "title": "SSDLite320 + MobileNetV3-Large"
+  },
+  {
+    "v4_slide": 55,
+    "v2_slide": 57,
+    "source_key": "57",
+    "title": "LR-ASPP + MobileNetV3-Large"
+  },
+  {
+    "v4_slide": 56,
+    "v2_slide": 58,
+    "source_key": "58",
+    "title": " | 05 / TRANSFER LEARNING | Reuse visual knowledge. Adapt the final head. | Pretraining can reduce the data and optimization neede"
+  },
+  {
+    "v4_slide": 57,
+    "v2_slide": 59,
+    "source_key": "59",
+    "title": "06 / LAB AND MODEL OUTPUTS | Train a model. Inspect its outputs. | Recorded lab training, then pretrained models on our photograph"
+  },
+  {
+    "v4_slide": 58,
+    "v2_slide": 60,
+    "source_key": "60",
+    "title": "Train a small CNN from scratch"
+  },
+  {
+    "v4_slide": 59,
+    "v2_slide": 61,
+    "source_key": "61",
+    "title": "Transfer learning performed better here"
+  },
+  {
+    "v4_slide": 60,
+    "v2_slide": 62,
+    "source_key": "62",
+    "title": "Where the classifier still errs"
+  },
+  {
+    "v4_slide": 61,
+    "v2_slide": 63,
+    "source_key": "63",
+    "title": "One top prediction for the whole image"
+  },
+  {
+    "v4_slide": 62,
+    "v2_slide": 64,
+    "source_key": "64",
+    "title": "Confidence is not correctness"
+  },
+  {
+    "v4_slide": 63,
+    "v2_slide": 65,
+    "source_key": "65",
+    "title": "Pixel labels can also be wrong"
+  },
+  {
+    "v4_slide": 64,
+    "v2_slide": 66,
+    "source_key": "66",
+    "title": "One photograph, three different answers"
+  },
+  {
+    "v4_slide": 65,
+    "v2_slide": 67,
+    "source_key": "67",
+    "title": " | 07 / HANDOFF | Now you will build a working classifier. | The lab engineer leads the coding and model training. |  | 01 | OPEN "
+  },
+  {
+    "v4_slide": 66,
+    "v2_slide": 68,
+    "source_key": "68",
+    "title": "Prediction, learning curve, error analysis"
+  },
+  {
+    "v4_slide": 67,
+    "v2_slide": null,
+    "source_key": "takeaways",
+    "title": "Choose the output your problem needs"
+  },
+  {
+    "v4_slide": 68,
+    "v2_slide": 69,
+    "source_key": "69",
+    "title": "References and image sources"
+  }
+]

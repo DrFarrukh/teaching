@@ -1,0 +1,79 @@
+{
+  "source": "assets/cat_chelsea.png",
+  "search_image_size": [
+    640,
+    427
+  ],
+  "method": "cv2.TM_CCOEFF_NORMED on Canny edges",
+  "template_canvas": [
+    76,
+    76
+  ],
+  "edge_preprocessing": {
+    "Gaussian_kernel": [
+      3,
+      3
+    ],
+    "sigma": 0.7,
+    "Canny_thresholds": [
+      60,
+      140
+    ]
+  },
+  "search_scope": "entire edge image, one fixed scale, no eye-region restriction",
+  "templates": {
+    "square": {
+      "score": 0.29008498787879944,
+      "top_left_xy": [
+        68,
+        241
+      ],
+      "canvas_wh": [
+        76,
+        76
+      ],
+      "best_box_xyxy": [
+        68,
+        241,
+        144,
+        317
+      ]
+    },
+    "circle": {
+      "score": 0.17740203440189362,
+      "top_left_xy": [
+        423,
+        147
+      ],
+      "canvas_wh": [
+        76,
+        76
+      ],
+      "best_box_xyxy": [
+        423,
+        147,
+        499,
+        223
+      ]
+    },
+    "oval": {
+      "score": 0.18661876022815704,
+      "top_left_xy": [
+        457,
+        334
+      ],
+      "canvas_wh": [
+        76,
+        76
+      ],
+      "best_box_xyxy": [
+        457,
+        334,
+        533,
+        410
+      ]
+    }
+  },
+  "interpretation": "Correlation is shape similarity, not probability that a region is an eye.",
+  "animation": "Illustrated candidate positions sample the search; the complete response map is computed by matchTemplate."
+}

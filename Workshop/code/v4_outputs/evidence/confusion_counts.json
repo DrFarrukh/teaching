@@ -1,0 +1,24 @@
+{
+  "source": "evidence/confusion_matrix_ft.png",
+  "source_sha256": "59e28c92ebc2a4818ace900d51529c2113b4bbb18050122d1c0cb5eed87215a1",
+  "counts": [
+    [
+      291,
+      8,
+      1
+    ],
+    [
+      17,
+      231,
+      52
+    ],
+    [
+      7,
+      51,
+      242
+    ]
+  ],
+  "transcription": "Visually checked against preserved source PNG",
+  "accuracy": 0.8488888888888889,
+  "cat_dog_error_share": 0.7573529411764706
+}

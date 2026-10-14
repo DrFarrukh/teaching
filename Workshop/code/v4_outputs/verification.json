@@ -1,0 +1,564 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "check": "V2 unchanged",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Slide count/map",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Requested removals",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Separate pixel-grid slides",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Features follow pooling",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Additional photograph examples",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No promotional REAL/Actual wording",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No placeholder text",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 6",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 8",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 9",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 12",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 13",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 18",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 19",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 20",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 26",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 27",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 28",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 29",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 31",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 32",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 33",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 34",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 35",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 36",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 37",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 38",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 39",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 40",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 41",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 42",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 43",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 44",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 45",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 46",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 47",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 48",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 49",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 50",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 51",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 52",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 53",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 54",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 55",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 56",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 57",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 58",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 59",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 60",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 61",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 62",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 63",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 64",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 65",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 66",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 67",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Page number 68",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Shapes within slide bounds",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "All internal relationships resolve",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Four animated GIFs embedded",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "convolution.gif bytes preserved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "convolution.gif animation frames",
+      "passed": true,
+      "detail": "18"
+    },
+    {
+      "check": "convolution.gif loops",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "moving_window.gif bytes preserved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "moving_window.gif animation frames",
+      "passed": true,
+      "detail": "18"
+    },
+    {
+      "check": "moving_window.gif loops",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "relu_pooling.gif bytes preserved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "relu_pooling.gif animation frames",
+      "passed": true,
+      "detail": "6"
+    },
+    {
+      "check": "relu_pooling.gif loops",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "shape_matching.gif bytes preserved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "shape_matching.gif animation frames",
+      "passed": true,
+      "detail": "26"
+    },
+    {
+      "check": "shape_matching.gif loops",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Native editable charts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Pixel matrix matches source crop",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Pixel matrix matches evidence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Pixelated cat generated from source",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Convolution arithmetic",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "square complete matching response",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "square best match is algorithm-selected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "circle complete matching response",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "circle best match is algorithm-selected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "oval complete matching response",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "oval best match is algorithm-selected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Pooling input is captured model activation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Pooling matches model maxpool",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "ReLU activation captured correctly",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Pooled features reconstruct classification logits",
+      "passed": true,
+      "detail": "max error 9.53674316e-07"
+    },
+    {
+      "check": "Top-one feature-flow class is a cat category",
+      "passed": true,
+      "detail": "285"
+    },
+    {
+      "check": "Confusion support is 300 per class",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Confusion accuracy agrees with recorded history",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Recorded head example parsed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Recorded prediction uses its source photograph",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Training not performed",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "v4_sha256": "36449d46834dc5d3d2db1d1a844d6fd3afb9895f45f23466a4f2847c485a06eb",
+  "slide_count": 68,
+  "presentation_playback": "GIF data verified; playback in PowerPoint/Impress slideshow mode not exercised",
+  "visual_review": "Rendered contact sheets inspected by Sol; selected slides inspected at full size."
+}
